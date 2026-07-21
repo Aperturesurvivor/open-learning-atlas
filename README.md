@@ -18,9 +18,10 @@ The project is in public-alpha construction. Current validated artifacts
 include:
 
 - one connected mathematics release containing 13 regions, 85 territories,
-  and detailed pressure-test corridors across number, proof, graphs, and statistics;
+  1,210 records, and 2,937 typed relationships;
 - modular canonical authoring data and a deterministic release compiler;
 - a typed graph schema and semantic validator;
+- a tested, responsive atlas viewer generated from the canonical release;
 - a ratified v0.1 map constitution;
 - an explicit v1 completion contract.
 
@@ -30,10 +31,10 @@ educational claims have been independently accepted.
 
 ## For People
 
-Start with the [plain-language mathematics atlas](map/domains/mathematics-topology.md)
-and the [map constitution](methodology/map-constitution.md). The planned mobile
-viewer will be generated from the same canonical records; it will never become
-a separate source of truth.
+Start with the [plain-language mathematics atlas](map/domains/mathematics-topology.md),
+the [map constitution](methodology/map-constitution.md), or the responsive viewer
+in [`viewer/`](viewer/). The viewer is generated from the same canonical records;
+it is never a separate source of truth.
 
 ## For AI Agents and Software
 
@@ -92,6 +93,7 @@ uvx --from check-jsonschema check-jsonschema \
 - [`research/`](research/) — open evidence and methodology questions.
 - [`product/`](product/) — publication roadmap and downstream-user context.
 - [`tools/`](tools/) — validation and release tooling.
+- [`viewer/`](viewer/) — mobile-first human access built from the pinned release.
 
 ## Contributing and Licensing
 

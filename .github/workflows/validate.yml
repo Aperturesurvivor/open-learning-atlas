@@ -29,3 +29,25 @@ jobs:
           check-jsonschema
           --schemafile map/schema/open-learning-atlas.schema.json
           map/domains/*.json map/examples/*.json map/releases/*.json
+  viewer:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: viewer
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: "26"
+          cache: npm
+          cache-dependency-path: viewer/package-lock.json
+      - name: Install viewer dependencies
+        run: npm ci
+      - name: Test viewer logic
+        run: npm test
+      - name: Build viewer from canonical data
+        run: npm run build
+      - name: Verify synchronized data
+        run: npm run check-data
+      - name: Audit production dependencies
+        run: npm audit --omit=dev --audit-level=moderate
