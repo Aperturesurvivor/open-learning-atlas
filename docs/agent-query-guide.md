@@ -10,6 +10,11 @@ Do not silently read a moving branch when reproducibility matters. Use a tagged 
 releases/mathematics/0.1.0-alpha/
 ```
 
+Stable tagged downloads are published at the
+[Mathematics 0.1.0-alpha GitHub release](https://github.com/Aperturesurvivor/open-learning-atlas/releases/tag/mathematics-v0.1.0-alpha).
+For raw-file access pinned to that tag, replace `main` with
+`mathematics-v0.1.0-alpha` in GitHub URLs.
+
 Verify it from inside that directory:
 
 ```sh

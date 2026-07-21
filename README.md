@@ -5,6 +5,8 @@
 [Explore the mathematics atlas](https://aperturesurvivor.github.io/open-learning-atlas/)
 on desktop or phone.
 
+[Download the checksummed Mathematics 0.1.0-alpha package](https://github.com/Aperturesurvivor/open-learning-atlas/releases/tag/mathematics-v0.1.0-alpha).
+
 Open Learning Atlas is public semantic infrastructure for describing what can
 be known or done, how those things relate, and which relationship claims are
 accepted, proposed, conditional, or contested. Mathematics is the first
