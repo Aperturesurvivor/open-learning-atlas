@@ -1,0 +1,87 @@
+[
+  {
+    "id": "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+    "revision": 1,
+    "title": "MIT OpenCourseWare Mathematics for Computer Science and Theory of Computation",
+    "source_type": "curriculum",
+    "citation": "MIT OpenCourseWare. 6.1200J Mathematics for Computer Science and 18.404J Theory of Computation.",
+    "url": "https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/",
+    "accessed_at": "2026-07-21",
+    "coverage_for": [
+      "ola:n:b3ab04de-2580-470b-ad28-a34046e57525",
+      "ola:n:b079694e-93de-442b-9b17-5e9828267aba",
+      "ola:n:57301c82-bc6a-45c4-8d3d-701bd69b1e74",
+      "ola:n:2b86a211-1be1-490c-a35c-4c7a749ff3d5",
+      "ola:n:51cb46fd-37cc-4fc4-9148-33fb10aa4588",
+      "ola:n:e842fff4-2b60-4328-9386-8c6f7a5bda24",
+      "ola:n:1ddffc3d-bbbe-4d3a-9e56-3231255a907f",
+      "ola:n:194a3600-e568-42b6-a4c4-e635a6775cef"
+    ],
+    "coverage_scope": "Logic, sets, relations, proofs, discrete structures, algorithms, computability, complexity, reductions, and probability for computer science.",
+    "coverage_gaps": [
+      "Set-theoretic foundations, model theory, category and type theory, and information theory require additional specialist sources."
+    ],
+    "notes": "Coverage audit only; no source prose, figures, code, or exercises were imported."
+  },
+  {
+    "id": "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+    "revision": 1,
+    "title": "MIT OpenCourseWare Numerical Analysis and Methods",
+    "source_type": "curriculum",
+    "citation": "MIT OpenCourseWare. 18.330 Introduction to Numerical Analysis and 18.335J Introduction to Numerical Methods.",
+    "url": "https://ocw.mit.edu/courses/18-330-introduction-to-numerical-analysis-spring-2004/",
+    "accessed_at": "2026-07-21",
+    "coverage_for": [
+      "ola:n:f5e4494a-1177-411e-8103-26220b2ee736",
+      "ola:n:b3c80783-dd26-458e-aab0-f26daf282f0f",
+      "ola:n:e5adb154-f003-4dcf-85d2-459188862c9b"
+    ],
+    "coverage_scope": "Root finding, interpolation, approximation, integration, differential equations, numerical linear algebra, stability, accuracy, and finite-precision computation.",
+    "coverage_gaps": [
+      "Exact symbolic computation and formal verification require additional specialist coverage."
+    ],
+    "notes": "Coverage audit only; no source prose, figures, code, or exercises were imported."
+  },
+  {
+    "id": "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+    "revision": 1,
+    "title": "NEOS Guide to Optimization",
+    "source_type": "other",
+    "citation": "NEOS Guide. Guide to Optimization. Optimization Technology Center, Argonne National Laboratory and Northwestern University.",
+    "url": "https://neos-guide.org/guide/",
+    "accessed_at": "2026-07-21",
+    "coverage_for": [
+      "ola:n:8471c304-6761-4f51-b8ad-e8a308617edc",
+      "ola:n:7a1e2e34-46fb-4a29-9585-70cb4d929be5",
+      "ola:n:bfe67791-86a5-4700-9c7c-99f54ce9e474",
+      "ola:n:22a97e52-0a7e-4700-ae5d-7494ac4fed2b",
+      "ola:n:35f2c3ac-3cb8-43a1-8257-816e76102c48"
+    ],
+    "coverage_scope": "Optimization modeling, variables, objectives, constraints, continuous, discrete, nonlinear, and solver-oriented algorithm classes.",
+    "coverage_gaps": [
+      "Control, inverse problems, simulation, queueing, and decision science require additional specialist sources; solver categories are not dependencies."
+    ],
+    "notes": "Coverage audit only; no source prose, figures, code, or exercises were imported."
+  },
+  {
+    "id": "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+    "revision": 1,
+    "title": "MIT OpenCourseWare applied mathematics interfaces",
+    "source_type": "curriculum",
+    "citation": "MIT OpenCourseWare. Differential Equations, Materials Mathematics, Game Theory, and Mathematics with Applications in Finance course materials.",
+    "url": "https://ocw.mit.edu/courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/",
+    "accessed_at": "2026-07-21",
+    "coverage_for": [
+      "ola:n:7d804ff3-0faf-4ca6-8fa2-f0f0c5cec3da",
+      "ola:n:73008d58-e92d-43b9-9c5c-47d7115a72b0",
+      "ola:n:b8882f8f-c6b6-46ba-a7f5-b93c326d7ca6",
+      "ola:n:fa1944ef-f4a0-489d-85fb-8e2f673c3342",
+      "ola:n:2e58af24-2dcf-476c-94d4-7b6bb35a3ae1"
+    ],
+    "coverage_scope": "Mathematical structures and methods used across mechanics, physics, biological dynamics, economics, finance, strategic interaction, materials, and scientific modeling.",
+    "coverage_gaps": [
+      "No single course covers all five application territories; domain-specific scientific and empirical review remains necessary."
+    ],
+    "notes": "Coverage audit only; no source prose, figures, code, or exercises were imported."
+  }
+]

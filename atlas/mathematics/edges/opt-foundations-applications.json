@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "ola:e:47ea3686-f8fd-4e06-b600-684280136afb",
+    "revision": 1,
+    "subject": "ola:n:8471c304-6761-4f51-b8ad-e8a308617edc",
+    "relation": "composed_of",
+    "object": "ola:n:c5385357-2670-4748-81b7-058c7cc835f3",
+    "rationale": "Continuous objective and feasible set is material terrain within continuous-convex-optimization; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:00fcdb89-8b0e-4a19-bf59-ea30b1f3959e",
+    "revision": 1,
+    "subject": "ola:n:8471c304-6761-4f51-b8ad-e8a308617edc",
+    "relation": "composed_of",
+    "object": "ola:n:b8d97aa1-15eb-4999-b87e-ea787016bfab",
+    "rationale": "Convexity, duality, and optimality is material terrain within continuous-convex-optimization; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:1d9f089b-d412-49fd-a5bf-6e902bcb56d3",
+    "revision": 1,
+    "subject": "ola:n:8471c304-6761-4f51-b8ad-e8a308617edc",
+    "relation": "composed_of",
+    "object": "ola:n:d4d47266-e26f-4b5a-a78e-a2c348bf23ec",
+    "rationale": "Gradient, KKT, and strong duality conditions is material terrain within continuous-convex-optimization; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:1021ef3f-2bd3-4de7-a257-ec5d5ef037e7",
+    "revision": 1,
+    "subject": "ola:n:8471c304-6761-4f51-b8ad-e8a308617edc",
+    "relation": "composed_of",
+    "object": "ola:n:2d471814-0226-42d6-ad9b-ca85d72fc9a1",
+    "rationale": "Contour, feasible-region, and dual-gap representation is material terrain within continuous-convex-optimization; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:199ff895-c72f-4ce6-a0fb-50b8b5442dba",
+    "revision": 1,
+    "subject": "ola:n:8471c304-6761-4f51-b8ad-e8a308617edc",
+    "relation": "composed_of",
+    "object": "ola:n:f37572d6-cfbf-42e6-b134-1e0eebc85060",
+    "rationale": "Formulate and solve continuous optimization is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:536565fb-c9ee-49ad-a7b5-e491136d0ea2",
+    "revision": 1,
+    "subject": "ola:n:f37572d6-cfbf-42e6-b134-1e0eebc85060",
+    "relation": "composed_of",
+    "object": "ola:n:8e760e66-ed0c-4f3c-ad58-8cc974950c7e",
+    "rationale": "Formulate a continuous optimization problem is a bounded performance within Formulate and solve continuous optimization.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c3c3855b-be37-457b-8ab8-4248f17bed27",
+    "revision": 1,
+    "subject": "ola:n:8e760e66-ed0c-4f3c-ad58-8cc974950c7e",
+    "relation": "uses_concept",
+    "object": "ola:n:c5385357-2670-4748-81b7-058c7cc835f3",
+    "rationale": "Demonstrating Formulate a continuous optimization problem materially invokes Continuous objective and feasible set at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f3851eb3-1e24-479b-b5f8-b066d7663c17",
+    "revision": 1,
+    "subject": "ola:n:8e760e66-ed0c-4f3c-ad58-8cc974950c7e",
+    "relation": "uses_knowledge",
+    "object": "ola:n:d4d47266-e26f-4b5a-a78e-a2c348bf23ec",
+    "rationale": "Demonstrating Formulate a continuous optimization problem materially invokes Gradient, KKT, and strong duality conditions at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a4b411a6-f457-4c49-a6de-894f7c7e03d3",
+    "revision": 1,
+    "subject": "ola:n:8e760e66-ed0c-4f3c-ad58-8cc974950c7e",
+    "relation": "uses_representation",
+    "object": "ola:n:2d471814-0226-42d6-ad9b-ca85d72fc9a1",
+    "rationale": "Demonstrating Formulate a continuous optimization problem materially invokes Contour, feasible-region, and dual-gap representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a63f1ab3-be65-4015-8d29-3f8681d89a0d",
+    "revision": 1,
+    "subject": "ola:n:f37572d6-cfbf-42e6-b134-1e0eebc85060",
+    "relation": "composed_of",
+    "object": "ola:n:71456901-0bf7-4a77-b522-72972a64270a",
+    "rationale": "Solve an unconstrained smooth optimization problem is a bounded performance within Formulate and solve continuous optimization.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:436d194d-1786-48f0-8c0c-2a488cb9b14b",
+    "revision": 1,
+    "subject": "ola:n:71456901-0bf7-4a77-b522-72972a64270a",
+    "relation": "uses_concept",
+    "object": "ola:n:c5385357-2670-4748-81b7-058c7cc835f3",
+    "rationale": "Demonstrating Solve an unconstrained smooth optimization problem materially invokes Continuous objective and feasible set at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:55528976-7318-4ce1-9310-642134c891f7",
+    "revision": 1,
+    "subject": "ola:n:71456901-0bf7-4a77-b522-72972a64270a",
+    "relation": "uses_knowledge",
+    "object": "ola:n:d4d47266-e26f-4b5a-a78e-a2c348bf23ec",
+    "rationale": "Demonstrating Solve an unconstrained smooth optimization problem materially invokes Gradient, KKT, and strong duality conditions at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c9b6893a-4d4c-4811-b264-ca39368880c3",
+    "revision": 1,
+    "subject": "ola:n:71456901-0bf7-4a77-b522-72972a64270a",
+    "relation": "uses_representation",
+    "object": "ola:n:2d471814-0226-42d6-ad9b-ca85d72fc9a1",
+    "rationale": "Demonstrating Solve an unconstrained smooth optimization problem materially invokes Contour, feasible-region, and dual-gap representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:eaa10e8c-f920-4e41-a856-29a0eaf0e24e",
+    "revision": 1,
+    "subject": "ola:n:f37572d6-cfbf-42e6-b134-1e0eebc85060",
+    "relation": "composed_of",
+    "object": "ola:n:e8fe3554-4caa-4d61-91cb-4810a2837dbe",
+    "rationale": "Solve a convex constrained problem is a bounded performance within Formulate and solve continuous optimization.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f6713c96-28c3-4a13-a740-aa3676a57304",
+    "revision": 1,
+    "subject": "ola:n:e8fe3554-4caa-4d61-91cb-4810a2837dbe",
+    "relation": "uses_concept",
+    "object": "ola:n:c5385357-2670-4748-81b7-058c7cc835f3",
+    "rationale": "Demonstrating Solve a convex constrained problem materially invokes Continuous objective and feasible set at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:9dcaa53f-1c1e-4b7c-9ef9-d17277e28b4f",
+    "revision": 1,
+    "subject": "ola:n:e8fe3554-4caa-4d61-91cb-4810a2837dbe",
+    "relation": "uses_knowledge",
+    "object": "ola:n:d4d47266-e26f-4b5a-a78e-a2c348bf23ec",
+    "rationale": "Demonstrating Solve a convex constrained problem materially invokes Gradient, KKT, and strong duality conditions at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:52cb168d-a118-456d-8695-92a4279981a0",
+    "revision": 1,
+    "subject": "ola:n:e8fe3554-4caa-4d61-91cb-4810a2837dbe",
+    "relation": "uses_representation",
+    "object": "ola:n:2d471814-0226-42d6-ad9b-ca85d72fc9a1",
+    "rationale": "Demonstrating Solve a convex constrained problem materially invokes Contour, feasible-region, and dual-gap representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f80ea1cd-8bb2-4779-8cfa-23359a428e09",
+    "revision": 1,
+    "subject": "ola:n:8471c304-6761-4f51-b8ad-e8a308617edc",
+    "relation": "composed_of",
+    "object": "ola:n:07c77ab4-0d9a-45d8-91c0-5138f6364a0d",
+    "rationale": "Analyze and audit continuous optimization is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2ac329ea-9259-4791-a50e-7f4102ddab25",
+    "revision": 1,
+    "subject": "ola:n:07c77ab4-0d9a-45d8-91c0-5138f6364a0d",
+    "relation": "composed_of",
+    "object": "ola:n:968ce08f-ae33-4c68-bd7f-8d43f260f042",
+    "rationale": "Derive and interpret an optimization dual is a bounded performance within Analyze and audit continuous optimization.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d5138342-0fdc-4811-8311-68de5fdafd01",
+    "revision": 1,
+    "subject": "ola:n:968ce08f-ae33-4c68-bd7f-8d43f260f042",
+    "relation": "uses_concept",
+    "object": "ola:n:b8d97aa1-15eb-4999-b87e-ea787016bfab",
+    "rationale": "Demonstrating Derive and interpret an optimization dual materially invokes Convexity, duality, and optimality at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:06e12ea0-91fa-4ac8-b202-9374a97e833d",
+    "revision": 1,
+    "subject": "ola:n:968ce08f-ae33-4c68-bd7f-8d43f260f042",
+    "relation": "uses_knowledge",
+    "object": "ola:n:d4d47266-e26f-4b5a-a78e-a2c348bf23ec",
+    "rationale": "Demonstrating Derive and interpret an optimization dual materially invokes Gradient, KKT, and strong duality conditions at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2ac5bfe9-99fa-4b8f-b07b-dbb735abeffb",
+    "revision": 1,
+    "subject": "ola:n:968ce08f-ae33-4c68-bd7f-8d43f260f042",
+    "relation": "uses_representation",
+    "object": "ola:n:2d471814-0226-42d6-ad9b-ca85d72fc9a1",
+    "rationale": "Demonstrating Derive and interpret an optimization dual materially invokes Contour, feasible-region, and dual-gap representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:71a8b1b7-ae14-48ce-bdba-806a09ac9e85",
+    "revision": 1,
+    "subject": "ola:n:07c77ab4-0d9a-45d8-91c0-5138f6364a0d",
+    "relation": "composed_of",
+    "object": "ola:n:95307728-e3f1-4bf9-9a5b-389caf9cb241",
+    "rationale": "Analyze optimization sensitivity is a bounded performance within Analyze and audit continuous optimization.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a17e76c2-a83a-45d8-ad41-9bd7e6e1cdd5",
+    "revision": 1,
+    "subject": "ola:n:95307728-e3f1-4bf9-9a5b-389caf9cb241",
+    "relation": "uses_concept",
+    "object": "ola:n:b8d97aa1-15eb-4999-b87e-ea787016bfab",
+    "rationale": "Demonstrating Analyze optimization sensitivity materially invokes Convexity, duality, and optimality at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:62ebfd7a-f5a2-486f-a865-a79611d2b5d0",
+    "revision": 1,
+    "subject": "ola:n:95307728-e3f1-4bf9-9a5b-389caf9cb241",
+    "relation": "uses_knowledge",
+    "object": "ola:n:d4d47266-e26f-4b5a-a78e-a2c348bf23ec",
+    "rationale": "Demonstrating Analyze optimization sensitivity materially invokes Gradient, KKT, and strong duality conditions at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:5efaa32b-0019-4260-9f21-2bc81755e5b0",
+    "revision": 1,
+    "subject": "ola:n:95307728-e3f1-4bf9-9a5b-389caf9cb241",
+    "relation": "uses_representation",
+    "object": "ola:n:2d471814-0226-42d6-ad9b-ca85d72fc9a1",
+    "rationale": "Demonstrating Analyze optimization sensitivity materially invokes Contour, feasible-region, and dual-gap representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:95297757-cab3-41c9-b0e7-8327bc1ca192",
+    "revision": 1,
+    "subject": "ola:n:07c77ab4-0d9a-45d8-91c0-5138f6364a0d",
+    "relation": "composed_of",
+    "object": "ola:n:6f4a8711-1507-45c4-bb20-fbac7d679584",
+    "rationale": "Audit a continuous optimization result is a bounded performance within Analyze and audit continuous optimization.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:fdf15112-43c8-47c9-b628-8a73f9a578e1",
+    "revision": 1,
+    "subject": "ola:n:6f4a8711-1507-45c4-bb20-fbac7d679584",
+    "relation": "uses_concept",
+    "object": "ola:n:b8d97aa1-15eb-4999-b87e-ea787016bfab",
+    "rationale": "Demonstrating Audit a continuous optimization result materially invokes Convexity, duality, and optimality at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:21aeb347-3d37-4bb1-9032-5db2e370437b",
+    "revision": 1,
+    "subject": "ola:n:6f4a8711-1507-45c4-bb20-fbac7d679584",
+    "relation": "uses_knowledge",
+    "object": "ola:n:d4d47266-e26f-4b5a-a78e-a2c348bf23ec",
+    "rationale": "Demonstrating Audit a continuous optimization result materially invokes Gradient, KKT, and strong duality conditions at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:0f6b32ed-e0c2-4493-9801-8e0efa9318b2",
+    "revision": 1,
+    "subject": "ola:n:6f4a8711-1507-45c4-bb20-fbac7d679584",
+    "relation": "uses_representation",
+    "object": "ola:n:2d471814-0226-42d6-ad9b-ca85d72fc9a1",
+    "rationale": "Demonstrating Audit a continuous optimization result materially invokes Contour, feasible-region, and dual-gap representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:94a55128-1bf4-4a97-aaa9-d70c97ce7adf",
+    "revision": 1,
+    "subject": "ola:n:7a1e2e34-46fb-4a29-9585-70cb4d929be5",
+    "relation": "composed_of",
+    "object": "ola:n:b0527f1d-c069-4fbf-a1c9-93da65103da0",
+    "rationale": "Combinatorial decision and feasible set is material terrain within discrete-optimization; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:02034c2c-3a43-4e5c-b929-c8172557b882",
+    "revision": 1,
+    "subject": "ola:n:7a1e2e34-46fb-4a29-9585-70cb4d929be5",
+    "relation": "composed_of",
+    "object": "ola:n:7543d2d5-5c06-48b2-a0c6-6e92ae4f25e1",
+    "rationale": "Relaxation, integrality, and branch-and-bound is material terrain within discrete-optimization; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2477effe-a881-4770-84d0-873f4ff0e472",
+    "revision": 1,
+    "subject": "ola:n:7a1e2e34-46fb-4a29-9585-70cb4d929be5",
+    "relation": "composed_of",
+    "object": "ola:n:cde1dbea-03bd-4bf8-8311-4058a7318fbf",
+    "rationale": "Optimality bounds and combinatorial complexity is material terrain within discrete-optimization; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a6082405-40bb-4a96-93f1-0b5a6fea9608",
+    "revision": 1,
+    "subject": "ola:n:7a1e2e34-46fb-4a29-9585-70cb4d929be5",
+    "relation": "composed_of",
+    "object": "ola:n:8340e073-36c5-4431-bce3-26f55cb0bdef",
+    "rationale": "Integer model, search tree, and network representation is material terrain within discrete-optimization; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:73f43df4-ebd2-4415-a829-79ca3658a22c",
+    "revision": 1,
+    "subject": "ola:n:7a1e2e34-46fb-4a29-9585-70cb4d929be5",
+    "relation": "composed_of",
+    "object": "ola:n:1b681f1d-bc93-47d2-8e6d-c40cd82b8dda",
+    "rationale": "Formulate and solve discrete optimization is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:20fc98fd-eea2-4fb1-b739-987bf9574d15",
+    "revision": 1,
+    "subject": "ola:n:1b681f1d-bc93-47d2-8e6d-c40cd82b8dda",
+    "relation": "composed_of",
+    "object": "ola:n:9aa332d3-9320-48bf-9861-af35eefce103",
+    "rationale": "Formulate an integer or combinatorial model is a bounded performance within Formulate and solve discrete optimization.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c4cfc863-33c1-40b6-b7e7-ecd0743884f4",
+    "revision": 1,
+    "subject": "ola:n:9aa332d3-9320-48bf-9861-af35eefce103",
+    "relation": "uses_concept",
+    "object": "ola:n:b0527f1d-c069-4fbf-a1c9-93da65103da0",
+    "rationale": "Demonstrating Formulate an integer or combinatorial model materially invokes Combinatorial decision and feasible set at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:bc356840-ed41-4e0d-8cf3-9e65a738c53d",
+    "revision": 1,
+    "subject": "ola:n:9aa332d3-9320-48bf-9861-af35eefce103",
+    "relation": "uses_knowledge",
+    "object": "ola:n:cde1dbea-03bd-4bf8-8311-4058a7318fbf",
+    "rationale": "Demonstrating Formulate an integer or combinatorial model materially invokes Optimality bounds and combinatorial complexity at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:9a0787d3-cbcf-41a5-b62a-4f75b96f15ed",
+    "revision": 1,
+    "subject": "ola:n:9aa332d3-9320-48bf-9861-af35eefce103",
+    "relation": "uses_representation",
+    "object": "ola:n:8340e073-36c5-4431-bce3-26f55cb0bdef",
+    "rationale": "Demonstrating Formulate an integer or combinatorial model materially invokes Integer model, search tree, and network representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:9c5c5fcd-cf3a-4285-b666-1778eea04a69",
+    "revision": 1,
+    "subject": "ola:n:1b681f1d-bc93-47d2-8e6d-c40cd82b8dda",
+    "relation": "composed_of",
+    "object": "ola:n:8f5f008c-212a-4462-bef8-704120d43032",
+    "rationale": "Solve a discrete optimization problem exactly is a bounded performance within Formulate and solve discrete optimization.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:86ab5946-55a3-48cc-a968-9c03c60ade2d",
+    "revision": 1,
+    "subject": "ola:n:8f5f008c-212a-4462-bef8-704120d43032",
+    "relation": "uses_concept",
+    "object": "ola:n:b0527f1d-c069-4fbf-a1c9-93da65103da0",
+    "rationale": "Demonstrating Solve a discrete optimization problem exactly materially invokes Combinatorial decision and feasible set at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b6117de3-3d8d-4ef0-9ce9-c403331a11e2",
+    "revision": 1,
+    "subject": "ola:n:8f5f008c-212a-4462-bef8-704120d43032",
+    "relation": "uses_knowledge",
+    "object": "ola:n:cde1dbea-03bd-4bf8-8311-4058a7318fbf",
+    "rationale": "Demonstrating Solve a discrete optimization problem exactly materially invokes Optimality bounds and combinatorial complexity at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:30835206-1840-4403-963f-cfc7bc91591c",
+    "revision": 1,
+    "subject": "ola:n:8f5f008c-212a-4462-bef8-704120d43032",
+    "relation": "uses_representation",
+    "object": "ola:n:8340e073-36c5-4431-bce3-26f55cb0bdef",
+    "rationale": "Demonstrating Solve a discrete optimization problem exactly materially invokes Integer model, search tree, and network representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:77656d89-727e-460d-aa18-55521405269f",
+    "revision": 1,
+    "subject": "ola:n:1b681f1d-bc93-47d2-8e6d-c40cd82b8dda",
+    "relation": "composed_of",
+    "object": "ola:n:b3b77e9d-8db9-4448-aadb-cb93eead89d0",
+    "rationale": "Construct an approximation or heuristic solution is a bounded performance within Formulate and solve discrete optimization.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2408ed02-196f-48d1-9577-fb40a8ade086",
+    "revision": 1,
+    "subject": "ola:n:b3b77e9d-8db9-4448-aadb-cb93eead89d0",
+    "relation": "uses_concept",
+    "object": "ola:n:b0527f1d-c069-4fbf-a1c9-93da65103da0",
+    "rationale": "Demonstrating Construct an approximation or heuristic solution materially invokes Combinatorial decision and feasible set at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4a310a37-c326-4665-a573-886296eeb478",
+    "revision": 1,
+    "subject": "ola:n:b3b77e9d-8db9-4448-aadb-cb93eead89d0",
+    "relation": "uses_knowledge",
+    "object": "ola:n:cde1dbea-03bd-4bf8-8311-4058a7318fbf",
+    "rationale": "Demonstrating Construct an approximation or heuristic solution materially invokes Optimality bounds and combinatorial complexity at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f25ea1b7-1daf-4360-a6d9-57862f7a3a3c",
+    "revision": 1,
+    "subject": "ola:n:b3b77e9d-8db9-4448-aadb-cb93eead89d0",
+    "relation": "uses_representation",
+    "object": "ola:n:8340e073-36c5-4431-bce3-26f55cb0bdef",
+    "rationale": "Demonstrating Construct an approximation or heuristic solution materially invokes Integer model, search tree, and network representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a0e5f363-9280-4724-a730-b5ed7efc4033",
+    "revision": 1,
+    "subject": "ola:n:7a1e2e34-46fb-4a29-9585-70cb4d929be5",
+    "relation": "composed_of",
+    "object": "ola:n:a21a70c5-eb00-4345-8eda-2766af1d31e2",
+    "rationale": "Analyze and audit discrete optimization is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c7b63e45-7a67-49a2-814e-49cd257e1407",
+    "revision": 1,
+    "subject": "ola:n:a21a70c5-eb00-4345-8eda-2766af1d31e2",
+    "relation": "composed_of",
+    "object": "ola:n:d264b3cb-d863-4b5c-9909-9806af7d6042",
+    "rationale": "Derive a relaxation bound is a bounded performance within Analyze and audit discrete optimization.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c743a7d7-68e6-4b04-afa5-d0143417db1d",
+    "revision": 1,
+    "subject": "ola:n:d264b3cb-d863-4b5c-9909-9806af7d6042",
+    "relation": "uses_concept",
+    "object": "ola:n:7543d2d5-5c06-48b2-a0c6-6e92ae4f25e1",
+    "rationale": "Demonstrating Derive a relaxation bound materially invokes Relaxation, integrality, and branch-and-bound at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:841f48e7-d756-4166-9c8c-f185531bc572",
+    "revision": 1,
+    "subject": "ola:n:d264b3cb-d863-4b5c-9909-9806af7d6042",
+    "relation": "uses_knowledge",
+    "object": "ola:n:cde1dbea-03bd-4bf8-8311-4058a7318fbf",
+    "rationale": "Demonstrating Derive a relaxation bound materially invokes Optimality bounds and combinatorial complexity at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:afc2367e-0aa3-4aa8-bc98-0e2a63402eee",
+    "revision": 1,
+    "subject": "ola:n:d264b3cb-d863-4b5c-9909-9806af7d6042",
+    "relation": "uses_representation",
+    "object": "ola:n:8340e073-36c5-4431-bce3-26f55cb0bdef",
+    "rationale": "Demonstrating Derive a relaxation bound materially invokes Integer model, search tree, and network representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d1b24198-834a-4076-ad55-591ddb8b8326",
+    "revision": 1,
+    "subject": "ola:n:a21a70c5-eb00-4345-8eda-2766af1d31e2",
+    "relation": "composed_of",
+    "object": "ola:n:23560ad8-c56b-4b78-9923-351c8a2e257f",
+    "rationale": "Analyze a discrete optimality gap is a bounded performance within Analyze and audit discrete optimization.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:53d9c8a2-9f57-4fdf-9b9e-7679235a4638",
+    "revision": 1,
+    "subject": "ola:n:23560ad8-c56b-4b78-9923-351c8a2e257f",
+    "relation": "uses_concept",
+    "object": "ola:n:7543d2d5-5c06-48b2-a0c6-6e92ae4f25e1",
+    "rationale": "Demonstrating Analyze a discrete optimality gap materially invokes Relaxation, integrality, and branch-and-bound at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e0534898-bba3-4b61-b3c1-73c454368675",
+    "revision": 1,
+    "subject": "ola:n:23560ad8-c56b-4b78-9923-351c8a2e257f",
+    "relation": "uses_knowledge",
+    "object": "ola:n:cde1dbea-03bd-4bf8-8311-4058a7318fbf",
+    "rationale": "Demonstrating Analyze a discrete optimality gap materially invokes Optimality bounds and combinatorial complexity at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:72fe2391-cb21-46ec-a069-0b7bc7dedeb9",
+    "revision": 1,
+    "subject": "ola:n:23560ad8-c56b-4b78-9923-351c8a2e257f",
+    "relation": "uses_representation",
+    "object": "ola:n:8340e073-36c5-4431-bce3-26f55cb0bdef",
+    "rationale": "Demonstrating Analyze a discrete optimality gap materially invokes Integer model, search tree, and network representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:5369b219-b2b1-4569-a07b-8db82e4f7b0c",
+    "revision": 1,
+    "subject": "ola:n:a21a70c5-eb00-4345-8eda-2766af1d31e2",
+    "relation": "composed_of",
+    "object": "ola:n:35d1a355-d165-4152-a046-20e6b020b0cd",
+    "rationale": "Audit a discrete optimization result is a bounded performance within Analyze and audit discrete optimization.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:fa59d3bd-4d20-44f6-afca-3b21e6fd004b",
+    "revision": 1,
+    "subject": "ola:n:35d1a355-d165-4152-a046-20e6b020b0cd",
+    "relation": "uses_concept",
+    "object": "ola:n:7543d2d5-5c06-48b2-a0c6-6e92ae4f25e1",
+    "rationale": "Demonstrating Audit a discrete optimization result materially invokes Relaxation, integrality, and branch-and-bound at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d1599585-26ca-4dfb-9657-85ccd5aca532",
+    "revision": 1,
+    "subject": "ola:n:35d1a355-d165-4152-a046-20e6b020b0cd",
+    "relation": "uses_knowledge",
+    "object": "ola:n:cde1dbea-03bd-4bf8-8311-4058a7318fbf",
+    "rationale": "Demonstrating Audit a discrete optimization result materially invokes Optimality bounds and combinatorial complexity at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:cae941e4-24cb-4c23-ab5f-4b6da0cb424b",
+    "revision": 1,
+    "subject": "ola:n:35d1a355-d165-4152-a046-20e6b020b0cd",
+    "relation": "uses_representation",
+    "object": "ola:n:8340e073-36c5-4431-bce3-26f55cb0bdef",
+    "rationale": "Demonstrating Audit a discrete optimization result materially invokes Integer model, search tree, and network representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d9cfec9b-6a2e-463e-b642-0751a065d3ef",
+    "revision": 1,
+    "subject": "ola:n:bfe67791-86a5-4700-9c7c-99f54ce9e474",
+    "relation": "composed_of",
+    "object": "ola:n:daa5fad3-dd48-494f-88a2-32b46715e6d9",
+    "rationale": "Computational simulation model is material terrain within simulation-computational-modeling; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:3f0d843e-f089-41ec-83a0-ed0b8173ba13",
+    "revision": 1,
+    "subject": "ola:n:bfe67791-86a5-4700-9c7c-99f54ce9e474",
+    "relation": "composed_of",
+    "object": "ola:n:a1cd08d2-8c4f-406a-9a47-da20fd711581",
+    "rationale": "Simulation experiment and replication is material terrain within simulation-computational-modeling; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:bcdda862-3422-418a-b998-2d203ccb85c3",
+    "revision": 1,
+    "subject": "ola:n:bfe67791-86a5-4700-9c7c-99f54ce9e474",
+    "relation": "composed_of",
+    "object": "ola:n:6e8fc5bc-162b-44db-bd82-910d73f3a0df",
+    "rationale": "Simulation verification, validation, and reproducibility is material terrain within simulation-computational-modeling; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:595d94ce-a313-42b2-ab84-4782698292b7",
+    "revision": 1,
+    "subject": "ola:n:bfe67791-86a5-4700-9c7c-99f54ce9e474",
+    "relation": "composed_of",
+    "object": "ola:n:b1bf773a-634f-4dbd-af09-20632ba4efaf",
+    "rationale": "Simulation flow, state trajectory, and output distribution is material terrain within simulation-computational-modeling; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:5ebb4cc5-8079-48d9-9221-311ee7e00836",
+    "revision": 1,
+    "subject": "ola:n:bfe67791-86a5-4700-9c7c-99f54ce9e474",
+    "relation": "composed_of",
+    "object": "ola:n:ec6f5124-2f54-48c6-b4c9-6c5b03fea762",
+    "rationale": "Build and run simulations is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4e442d7c-94ff-4745-8ede-ea92081b2348",
+    "revision": 1,
+    "subject": "ola:n:ec6f5124-2f54-48c6-b4c9-6c5b03fea762",
+    "relation": "composed_of",
+    "object": "ola:n:8d0c394b-3c82-451c-8e97-98b0c0c2b69d",
+    "rationale": "Specify a computational simulation is a bounded performance within Build and run simulations.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:1efe2289-a1a2-4886-9091-e5479d034059",
+    "revision": 1,
+    "subject": "ola:n:8d0c394b-3c82-451c-8e97-98b0c0c2b69d",
+    "relation": "uses_concept",
+    "object": "ola:n:daa5fad3-dd48-494f-88a2-32b46715e6d9",
+    "rationale": "Demonstrating Specify a computational simulation materially invokes Computational simulation model at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:93fbe585-c87e-49ba-b108-06a3819de14d",
+    "revision": 1,
+    "subject": "ola:n:8d0c394b-3c82-451c-8e97-98b0c0c2b69d",
+    "relation": "uses_knowledge",
+    "object": "ola:n:6e8fc5bc-162b-44db-bd82-910d73f3a0df",
+    "rationale": "Demonstrating Specify a computational simulation materially invokes Simulation verification, validation, and reproducibility at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8eb33ec7-6c32-4e44-9d67-66bb3312e5e6",
+    "revision": 1,
+    "subject": "ola:n:8d0c394b-3c82-451c-8e97-98b0c0c2b69d",
+    "relation": "uses_representation",
+    "object": "ola:n:b1bf773a-634f-4dbd-af09-20632ba4efaf",
+    "rationale": "Demonstrating Specify a computational simulation materially invokes Simulation flow, state trajectory, and output distribution at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:98fb20ad-4ef1-4079-9500-1ae807d3a71a",
+    "revision": 1,
+    "subject": "ola:n:ec6f5124-2f54-48c6-b4c9-6c5b03fea762",
+    "relation": "composed_of",
+    "object": "ola:n:80dfd687-2a97-4bc9-a380-2b2afbdcc09c",
+    "rationale": "Execute a reproducible simulation is a bounded performance within Build and run simulations.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b6175444-e821-4749-b794-f810a0fb222a",
+    "revision": 1,
+    "subject": "ola:n:80dfd687-2a97-4bc9-a380-2b2afbdcc09c",
+    "relation": "uses_concept",
+    "object": "ola:n:daa5fad3-dd48-494f-88a2-32b46715e6d9",
+    "rationale": "Demonstrating Execute a reproducible simulation materially invokes Computational simulation model at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:6dde82c5-dc73-4ce2-9cfe-510dc8a68b33",
+    "revision": 1,
+    "subject": "ola:n:80dfd687-2a97-4bc9-a380-2b2afbdcc09c",
+    "relation": "uses_knowledge",
+    "object": "ola:n:6e8fc5bc-162b-44db-bd82-910d73f3a0df",
+    "rationale": "Demonstrating Execute a reproducible simulation materially invokes Simulation verification, validation, and reproducibility at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:29f554d1-adb6-40f1-ba32-c6ad0fb0617a",
+    "revision": 1,
+    "subject": "ola:n:80dfd687-2a97-4bc9-a380-2b2afbdcc09c",
+    "relation": "uses_representation",
+    "object": "ola:n:b1bf773a-634f-4dbd-af09-20632ba4efaf",
+    "rationale": "Demonstrating Execute a reproducible simulation materially invokes Simulation flow, state trajectory, and output distribution at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b674084f-1108-4d8b-b787-b850ebfb1109",
+    "revision": 1,
+    "subject": "ola:n:ec6f5124-2f54-48c6-b4c9-6c5b03fea762",
+    "relation": "composed_of",
+    "object": "ola:n:daa0cac2-91e1-4acf-92fd-7dbecf8aa7b1",
+    "rationale": "Design a simulation experiment is a bounded performance within Build and run simulations.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4b137b68-9514-4339-ba30-93c49dc28684",
+    "revision": 1,
+    "subject": "ola:n:daa0cac2-91e1-4acf-92fd-7dbecf8aa7b1",
+    "relation": "uses_concept",
+    "object": "ola:n:daa5fad3-dd48-494f-88a2-32b46715e6d9",
+    "rationale": "Demonstrating Design a simulation experiment materially invokes Computational simulation model at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ecbdf304-bda4-4a62-8aa4-283e8a6c2f7f",
+    "revision": 1,
+    "subject": "ola:n:daa0cac2-91e1-4acf-92fd-7dbecf8aa7b1",
+    "relation": "uses_knowledge",
+    "object": "ola:n:6e8fc5bc-162b-44db-bd82-910d73f3a0df",
+    "rationale": "Demonstrating Design a simulation experiment materially invokes Simulation verification, validation, and reproducibility at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:5cf3bcdd-9719-410e-b862-4b3cb6a17078",
+    "revision": 1,
+    "subject": "ola:n:daa0cac2-91e1-4acf-92fd-7dbecf8aa7b1",
+    "relation": "uses_representation",
+    "object": "ola:n:b1bf773a-634f-4dbd-af09-20632ba4efaf",
+    "rationale": "Demonstrating Design a simulation experiment materially invokes Simulation flow, state trajectory, and output distribution at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:08d09a7b-e5d1-48bc-9c3e-875924d21a49",
+    "revision": 1,
+    "subject": "ola:n:bfe67791-86a5-4700-9c7c-99f54ce9e474",
+    "relation": "composed_of",
+    "object": "ola:n:196bf7dd-8b8a-46f7-8087-ff46640acd44",
+    "rationale": "Validate and analyze simulations is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:1a1a9e4b-2c5a-4433-93fc-87bbf86e5cec",
+    "revision": 1,
+    "subject": "ola:n:196bf7dd-8b8a-46f7-8087-ff46640acd44",
+    "relation": "composed_of",
+    "object": "ola:n:5406be7c-aaa6-4b12-9f29-86450c43479c",
+    "rationale": "Quantify Monte Carlo uncertainty is a bounded performance within Validate and analyze simulations.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4623039f-292f-4b78-b942-81c003649094",
+    "revision": 1,
+    "subject": "ola:n:5406be7c-aaa6-4b12-9f29-86450c43479c",
+    "relation": "uses_concept",
+    "object": "ola:n:a1cd08d2-8c4f-406a-9a47-da20fd711581",
+    "rationale": "Demonstrating Quantify Monte Carlo uncertainty materially invokes Simulation experiment and replication at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:0651ef6b-bb0e-4a26-bbcc-cb63469b44c7",
+    "revision": 1,
+    "subject": "ola:n:5406be7c-aaa6-4b12-9f29-86450c43479c",
+    "relation": "uses_knowledge",
+    "object": "ola:n:6e8fc5bc-162b-44db-bd82-910d73f3a0df",
+    "rationale": "Demonstrating Quantify Monte Carlo uncertainty materially invokes Simulation verification, validation, and reproducibility at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2757d75b-d1f3-4bcb-b2bd-b55124a5dfe9",
+    "revision": 1,
+    "subject": "ola:n:5406be7c-aaa6-4b12-9f29-86450c43479c",
+    "relation": "uses_representation",
+    "object": "ola:n:b1bf773a-634f-4dbd-af09-20632ba4efaf",
+    "rationale": "Demonstrating Quantify Monte Carlo uncertainty materially invokes Simulation flow, state trajectory, and output distribution at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:3a78beb6-089f-4677-92af-2239834cfba8",
+    "revision": 1,
+    "subject": "ola:n:196bf7dd-8b8a-46f7-8087-ff46640acd44",
+    "relation": "composed_of",
+    "object": "ola:n:2fed0fec-9d18-4c38-a4d4-3f20b828a14d",
+    "rationale": "Verify and validate a simulation is a bounded performance within Validate and analyze simulations.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c8d3d65f-d91a-444d-9710-959e4f9b9ae3",
+    "revision": 1,
+    "subject": "ola:n:2fed0fec-9d18-4c38-a4d4-3f20b828a14d",
+    "relation": "uses_concept",
+    "object": "ola:n:a1cd08d2-8c4f-406a-9a47-da20fd711581",
+    "rationale": "Demonstrating Verify and validate a simulation materially invokes Simulation experiment and replication at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f9be80ff-97d2-4501-8f5c-46179c26ced7",
+    "revision": 1,
+    "subject": "ola:n:2fed0fec-9d18-4c38-a4d4-3f20b828a14d",
+    "relation": "uses_knowledge",
+    "object": "ola:n:6e8fc5bc-162b-44db-bd82-910d73f3a0df",
+    "rationale": "Demonstrating Verify and validate a simulation materially invokes Simulation verification, validation, and reproducibility at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:41e92e22-03a9-4cc4-b7bf-c2fed54ce239",
+    "revision": 1,
+    "subject": "ola:n:2fed0fec-9d18-4c38-a4d4-3f20b828a14d",
+    "relation": "uses_representation",
+    "object": "ola:n:b1bf773a-634f-4dbd-af09-20632ba4efaf",
+    "rationale": "Demonstrating Verify and validate a simulation materially invokes Simulation flow, state trajectory, and output distribution at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b1f7c154-a48a-414b-b735-d88f88bf66a0",
+    "revision": 1,
+    "subject": "ola:n:196bf7dd-8b8a-46f7-8087-ff46640acd44",
+    "relation": "composed_of",
+    "object": "ola:n:55226597-d0bf-405b-ad92-4a8fd22fc945",
+    "rationale": "Audit a simulation claim is a bounded performance within Validate and analyze simulations.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8362ccff-9b95-480a-97fe-22f4f097c19e",
+    "revision": 1,
+    "subject": "ola:n:55226597-d0bf-405b-ad92-4a8fd22fc945",
+    "relation": "uses_concept",
+    "object": "ola:n:a1cd08d2-8c4f-406a-9a47-da20fd711581",
+    "rationale": "Demonstrating Audit a simulation claim materially invokes Simulation experiment and replication at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:486c0f40-d407-41b1-9c0c-1943e66b32c1",
+    "revision": 1,
+    "subject": "ola:n:55226597-d0bf-405b-ad92-4a8fd22fc945",
+    "relation": "uses_knowledge",
+    "object": "ola:n:6e8fc5bc-162b-44db-bd82-910d73f3a0df",
+    "rationale": "Demonstrating Audit a simulation claim materially invokes Simulation verification, validation, and reproducibility at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:33ef5a88-faf4-49a7-aa0c-2ab815fd3dd2",
+    "revision": 1,
+    "subject": "ola:n:55226597-d0bf-405b-ad92-4a8fd22fc945",
+    "relation": "uses_representation",
+    "object": "ola:n:b1bf773a-634f-4dbd-af09-20632ba4efaf",
+    "rationale": "Demonstrating Audit a simulation claim materially invokes Simulation flow, state trajectory, and output distribution at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f90bdd0a-bca5-42ff-b603-428f4187e58d",
+    "revision": 1,
+    "subject": "ola:n:22a97e52-0a7e-4700-ae5d-7494ac4fed2b",
+    "relation": "composed_of",
+    "object": "ola:n:b910b901-3de0-4f43-a82c-a0c6af09ee50",
+    "rationale": "Control state, input, and output is material terrain within control-inverse-problems; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:00cdf6e7-bdbc-4d2c-9916-3e92820801c6",
+    "revision": 1,
+    "subject": "ola:n:22a97e52-0a7e-4700-ae5d-7494ac4fed2b",
+    "relation": "composed_of",
+    "object": "ola:n:813d084e-6094-4a87-bfec-5486eb589521",
+    "rationale": "Inverse problem, identifiability, and regularization is material terrain within control-inverse-problems; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:78a82f89-43c8-4879-914a-676ada6ba9e6",
+    "revision": 1,
+    "subject": "ola:n:22a97e52-0a7e-4700-ae5d-7494ac4fed2b",
+    "relation": "composed_of",
+    "object": "ola:n:87377a65-e993-412a-8fe4-817069d9a1c8",
+    "rationale": "Stability, observability, controllability, and ill-posedness is material terrain within control-inverse-problems; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:911b84ec-3a47-4490-b286-78e531c6d64d",
+    "revision": 1,
+    "subject": "ola:n:22a97e52-0a7e-4700-ae5d-7494ac4fed2b",
+    "relation": "composed_of",
+    "object": "ola:n:04c69e50-2c00-473c-ac87-1d1b24f7883d",
+    "rationale": "Block, state-space, response, and regularization representation is material terrain within control-inverse-problems; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d73dc381-1196-4743-9e08-b98fdc6f3fc0",
+    "revision": 1,
+    "subject": "ola:n:22a97e52-0a7e-4700-ae5d-7494ac4fed2b",
+    "relation": "composed_of",
+    "object": "ola:n:f29f1c3b-d441-4a47-8b24-33c621d3bbca",
+    "rationale": "Analyze and design control systems is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ad2e9b26-e373-4536-be5d-e31a4092cabc",
+    "revision": 1,
+    "subject": "ola:n:f29f1c3b-d441-4a47-8b24-33c621d3bbca",
+    "relation": "composed_of",
+    "object": "ola:n:3784c5c1-7800-47fa-ac8b-fd58a758a293",
+    "rationale": "Analyze a linear control system is a bounded performance within Analyze and design control systems.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d3220112-3139-4e93-b8da-71a475a8358e",
+    "revision": 1,
+    "subject": "ola:n:3784c5c1-7800-47fa-ac8b-fd58a758a293",
+    "relation": "uses_concept",
+    "object": "ola:n:b910b901-3de0-4f43-a82c-a0c6af09ee50",
+    "rationale": "Demonstrating Analyze a linear control system materially invokes Control state, input, and output at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:bd344809-f52b-4770-b676-91939e69d284",
+    "revision": 1,
+    "subject": "ola:n:3784c5c1-7800-47fa-ac8b-fd58a758a293",
+    "relation": "uses_knowledge",
+    "object": "ola:n:87377a65-e993-412a-8fe4-817069d9a1c8",
+    "rationale": "Demonstrating Analyze a linear control system materially invokes Stability, observability, controllability, and ill-posedness at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:cf38522a-bc0e-485a-8b6c-8abeccc2fe03",
+    "revision": 1,
+    "subject": "ola:n:3784c5c1-7800-47fa-ac8b-fd58a758a293",
+    "relation": "uses_representation",
+    "object": "ola:n:04c69e50-2c00-473c-ac87-1d1b24f7883d",
+    "rationale": "Demonstrating Analyze a linear control system materially invokes Block, state-space, response, and regularization representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:76ed4ba3-94a5-4474-a242-2fca94c0008f",
+    "revision": 1,
+    "subject": "ola:n:f29f1c3b-d441-4a47-8b24-33c621d3bbca",
+    "relation": "composed_of",
+    "object": "ola:n:14b18c1e-0d24-4371-928d-04ec95dfa17c",
+    "rationale": "Design a bounded feedback controller is a bounded performance within Analyze and design control systems.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:fc66c2a0-8c5b-4c36-8584-a5100759e9a0",
+    "revision": 1,
+    "subject": "ola:n:14b18c1e-0d24-4371-928d-04ec95dfa17c",
+    "relation": "uses_concept",
+    "object": "ola:n:b910b901-3de0-4f43-a82c-a0c6af09ee50",
+    "rationale": "Demonstrating Design a bounded feedback controller materially invokes Control state, input, and output at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b3964021-f649-4852-940e-aade8df218c4",
+    "revision": 1,
+    "subject": "ola:n:14b18c1e-0d24-4371-928d-04ec95dfa17c",
+    "relation": "uses_knowledge",
+    "object": "ola:n:87377a65-e993-412a-8fe4-817069d9a1c8",
+    "rationale": "Demonstrating Design a bounded feedback controller materially invokes Stability, observability, controllability, and ill-posedness at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:cd5664c8-6b66-4c29-95c2-2954778506f2",
+    "revision": 1,
+    "subject": "ola:n:14b18c1e-0d24-4371-928d-04ec95dfa17c",
+    "relation": "uses_representation",
+    "object": "ola:n:04c69e50-2c00-473c-ac87-1d1b24f7883d",
+    "rationale": "Demonstrating Design a bounded feedback controller materially invokes Block, state-space, response, and regularization representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4efa1b05-9564-4868-83a7-d17e30cda772",
+    "revision": 1,
+    "subject": "ola:n:f29f1c3b-d441-4a47-8b24-33c621d3bbca",
+    "relation": "composed_of",
+    "object": "ola:n:9b58b2f4-5fd3-4dc1-92e8-88608f5454dd",
+    "rationale": "Simulate and interpret a control response is a bounded performance within Analyze and design control systems.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a9572601-8881-4405-ab6d-fffd05ec2f9f",
+    "revision": 1,
+    "subject": "ola:n:9b58b2f4-5fd3-4dc1-92e8-88608f5454dd",
+    "relation": "uses_concept",
+    "object": "ola:n:b910b901-3de0-4f43-a82c-a0c6af09ee50",
+    "rationale": "Demonstrating Simulate and interpret a control response materially invokes Control state, input, and output at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:cfd6f1c7-65f8-4821-9d9d-cd9cbd873622",
+    "revision": 1,
+    "subject": "ola:n:9b58b2f4-5fd3-4dc1-92e8-88608f5454dd",
+    "relation": "uses_knowledge",
+    "object": "ola:n:87377a65-e993-412a-8fe4-817069d9a1c8",
+    "rationale": "Demonstrating Simulate and interpret a control response materially invokes Stability, observability, controllability, and ill-posedness at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:68e1c027-c069-45de-bee9-da9588a2317e",
+    "revision": 1,
+    "subject": "ola:n:9b58b2f4-5fd3-4dc1-92e8-88608f5454dd",
+    "relation": "uses_representation",
+    "object": "ola:n:04c69e50-2c00-473c-ac87-1d1b24f7883d",
+    "rationale": "Demonstrating Simulate and interpret a control response materially invokes Block, state-space, response, and regularization representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b6938eab-1cc8-4bbd-8967-648e1a304e74",
+    "revision": 1,
+    "subject": "ola:n:22a97e52-0a7e-4700-ae5d-7494ac4fed2b",
+    "relation": "composed_of",
+    "object": "ola:n:2a38a517-0c05-46ba-b872-0eec99d7ecfc",
+    "rationale": "Solve and audit inverse problems is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:0277c863-3db0-41aa-a329-4ca4c8fe031c",
+    "revision": 1,
+    "subject": "ola:n:2a38a517-0c05-46ba-b872-0eec99d7ecfc",
+    "relation": "composed_of",
+    "object": "ola:n:d28dbe79-adf6-4d2a-95a2-f9e047940c17",
+    "rationale": "Formulate an inverse problem is a bounded performance within Solve and audit inverse problems.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8f5bd5da-9a08-4003-bb6c-f7c21dfde245",
+    "revision": 1,
+    "subject": "ola:n:d28dbe79-adf6-4d2a-95a2-f9e047940c17",
+    "relation": "uses_concept",
+    "object": "ola:n:813d084e-6094-4a87-bfec-5486eb589521",
+    "rationale": "Demonstrating Formulate an inverse problem materially invokes Inverse problem, identifiability, and regularization at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:34d64697-3be5-4116-b453-eb04f4ebf16d",
+    "revision": 1,
+    "subject": "ola:n:d28dbe79-adf6-4d2a-95a2-f9e047940c17",
+    "relation": "uses_knowledge",
+    "object": "ola:n:87377a65-e993-412a-8fe4-817069d9a1c8",
+    "rationale": "Demonstrating Formulate an inverse problem materially invokes Stability, observability, controllability, and ill-posedness at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a80ccf3b-1538-4fa3-ac4f-9526978a8916",
+    "revision": 1,
+    "subject": "ola:n:d28dbe79-adf6-4d2a-95a2-f9e047940c17",
+    "relation": "uses_representation",
+    "object": "ola:n:04c69e50-2c00-473c-ac87-1d1b24f7883d",
+    "rationale": "Demonstrating Formulate an inverse problem materially invokes Block, state-space, response, and regularization representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d40a4fc5-6f26-4e45-9334-54acd3976687",
+    "revision": 1,
+    "subject": "ola:n:2a38a517-0c05-46ba-b872-0eec99d7ecfc",
+    "relation": "composed_of",
+    "object": "ola:n:28b9defb-1997-4c34-a534-50b25426e489",
+    "rationale": "Solve a regularized inverse problem is a bounded performance within Solve and audit inverse problems.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f43c389e-92ab-4c43-8fd6-5fd0bbc1b1c9",
+    "revision": 1,
+    "subject": "ola:n:28b9defb-1997-4c34-a534-50b25426e489",
+    "relation": "uses_concept",
+    "object": "ola:n:813d084e-6094-4a87-bfec-5486eb589521",
+    "rationale": "Demonstrating Solve a regularized inverse problem materially invokes Inverse problem, identifiability, and regularization at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:121fd376-08fc-4686-8b55-6af7f26e060f",
+    "revision": 1,
+    "subject": "ola:n:28b9defb-1997-4c34-a534-50b25426e489",
+    "relation": "uses_knowledge",
+    "object": "ola:n:87377a65-e993-412a-8fe4-817069d9a1c8",
+    "rationale": "Demonstrating Solve a regularized inverse problem materially invokes Stability, observability, controllability, and ill-posedness at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8e897716-d8a7-4388-8909-aa98de0372da",
+    "revision": 1,
+    "subject": "ola:n:28b9defb-1997-4c34-a534-50b25426e489",
+    "relation": "uses_representation",
+    "object": "ola:n:04c69e50-2c00-473c-ac87-1d1b24f7883d",
+    "rationale": "Demonstrating Solve a regularized inverse problem materially invokes Block, state-space, response, and regularization representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b7588bb8-d00a-42b1-bca9-69c12096d582",
+    "revision": 1,
+    "subject": "ola:n:2a38a517-0c05-46ba-b872-0eec99d7ecfc",
+    "relation": "composed_of",
+    "object": "ola:n:e752c183-91cc-40a0-98f7-a1ca7260fbd9",
+    "rationale": "Audit a control or inverse result is a bounded performance within Solve and audit inverse problems.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:6c22062e-770e-4bfa-98e7-daf673bf9c7c",
+    "revision": 1,
+    "subject": "ola:n:e752c183-91cc-40a0-98f7-a1ca7260fbd9",
+    "relation": "uses_concept",
+    "object": "ola:n:813d084e-6094-4a87-bfec-5486eb589521",
+    "rationale": "Demonstrating Audit a control or inverse result materially invokes Inverse problem, identifiability, and regularization at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:be7fa720-3b34-4c8a-a853-e4a7dd2bc549",
+    "revision": 1,
+    "subject": "ola:n:e752c183-91cc-40a0-98f7-a1ca7260fbd9",
+    "relation": "uses_knowledge",
+    "object": "ola:n:87377a65-e993-412a-8fe4-817069d9a1c8",
+    "rationale": "Demonstrating Audit a control or inverse result materially invokes Stability, observability, controllability, and ill-posedness at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:cb026ff9-0692-40b8-b5b8-63f5468fb80d",
+    "revision": 1,
+    "subject": "ola:n:e752c183-91cc-40a0-98f7-a1ca7260fbd9",
+    "relation": "uses_representation",
+    "object": "ola:n:04c69e50-2c00-473c-ac87-1d1b24f7883d",
+    "rationale": "Demonstrating Audit a control or inverse result materially invokes Block, state-space, response, and regularization representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e37ea73f-59e7-4a98-81f7-5ad3557fc1f9",
+    "revision": 1,
+    "subject": "ola:n:35f2c3ac-3cb8-43a1-8257-816e76102c48",
+    "relation": "composed_of",
+    "object": "ola:n:1933f2c8-93a8-474f-bcad-c57df69bc9eb",
+    "rationale": "Decision variable, objective, and constraint is material terrain within operations-research-decision-science; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:829a1372-ffe0-43ec-a0dc-75da297544bb",
+    "revision": 1,
+    "subject": "ola:n:35f2c3ac-3cb8-43a1-8257-816e76102c48",
+    "relation": "composed_of",
+    "object": "ola:n:09b96c1c-11d2-457b-a657-a46b52a0a72b",
+    "rationale": "Resource allocation, queue, network, and decision system is material terrain within operations-research-decision-science; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e80c146c-1f05-4f4d-bc0b-a1b22bdf8101",
+    "revision": 1,
+    "subject": "ola:n:35f2c3ac-3cb8-43a1-8257-816e76102c48",
+    "relation": "composed_of",
+    "object": "ola:n:fdb21891-443e-4d99-8545-f999780d1b7b",
+    "rationale": "Model, solution, policy, and tradeoff is material terrain within operations-research-decision-science; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:74812b2f-bfc1-429c-bd00-ffa376a5bb98",
+    "revision": 1,
+    "subject": "ola:n:35f2c3ac-3cb8-43a1-8257-816e76102c48",
+    "relation": "composed_of",
+    "object": "ola:n:24609a19-4443-461d-9781-13e4311683b7",
+    "rationale": "Optimization, network, queue, and decision-tree representation is material terrain within operations-research-decision-science; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c6d51b51-4f62-470d-8724-be31338460f1",
+    "revision": 1,
+    "subject": "ola:n:35f2c3ac-3cb8-43a1-8257-816e76102c48",
+    "relation": "composed_of",
+    "object": "ola:n:7ca110b6-daa5-4d03-b374-47d550cb1155",
+    "rationale": "Formulate and analyze operations models is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d5cf4ed1-acbb-4345-b9a2-3adf648e3006",
+    "revision": 1,
+    "subject": "ola:n:7ca110b6-daa5-4d03-b374-47d550cb1155",
+    "relation": "composed_of",
+    "object": "ola:n:77fb5505-4211-49fe-8794-b46fbb91acd9",
+    "rationale": "Formulate an operations-research model is a bounded performance within Formulate and analyze operations models.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:54628505-e530-481d-966c-8d3586948f9e",
+    "revision": 1,
+    "subject": "ola:n:77fb5505-4211-49fe-8794-b46fbb91acd9",
+    "relation": "uses_concept",
+    "object": "ola:n:1933f2c8-93a8-474f-bcad-c57df69bc9eb",
+    "rationale": "Demonstrating Formulate an operations-research model materially invokes Decision variable, objective, and constraint at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:691c1fe7-3d3d-4da7-8bde-9297cbc2ec3a",
+    "revision": 1,
+    "subject": "ola:n:77fb5505-4211-49fe-8794-b46fbb91acd9",
+    "relation": "uses_knowledge",
+    "object": "ola:n:fdb21891-443e-4d99-8545-f999780d1b7b",
+    "rationale": "Demonstrating Formulate an operations-research model materially invokes Model, solution, policy, and tradeoff at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:baf8a66d-d376-4367-9507-e286ba53922f",
+    "revision": 1,
+    "subject": "ola:n:77fb5505-4211-49fe-8794-b46fbb91acd9",
+    "relation": "uses_representation",
+    "object": "ola:n:24609a19-4443-461d-9781-13e4311683b7",
+    "rationale": "Demonstrating Formulate an operations-research model materially invokes Optimization, network, queue, and decision-tree representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:6190672e-ed28-49da-a63a-e62e0870a577",
+    "revision": 1,
+    "subject": "ola:n:7ca110b6-daa5-4d03-b374-47d550cb1155",
+    "relation": "composed_of",
+    "object": "ola:n:5d241f70-d59f-496b-a1dd-2f3acefedeaa",
+    "rationale": "Solve a resource-allocation or scheduling model is a bounded performance within Formulate and analyze operations models.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:98f3ed13-d143-45e9-a435-4dbb53844a6c",
+    "revision": 1,
+    "subject": "ola:n:5d241f70-d59f-496b-a1dd-2f3acefedeaa",
+    "relation": "uses_concept",
+    "object": "ola:n:1933f2c8-93a8-474f-bcad-c57df69bc9eb",
+    "rationale": "Demonstrating Solve a resource-allocation or scheduling model materially invokes Decision variable, objective, and constraint at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a0219e51-08aa-4bfd-82ec-1a84a405af51",
+    "revision": 1,
+    "subject": "ola:n:5d241f70-d59f-496b-a1dd-2f3acefedeaa",
+    "relation": "uses_knowledge",
+    "object": "ola:n:fdb21891-443e-4d99-8545-f999780d1b7b",
+    "rationale": "Demonstrating Solve a resource-allocation or scheduling model materially invokes Model, solution, policy, and tradeoff at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a9e8e0be-960c-4520-abda-29ae5a62b79a",
+    "revision": 1,
+    "subject": "ola:n:5d241f70-d59f-496b-a1dd-2f3acefedeaa",
+    "relation": "uses_representation",
+    "object": "ola:n:24609a19-4443-461d-9781-13e4311683b7",
+    "rationale": "Demonstrating Solve a resource-allocation or scheduling model materially invokes Optimization, network, queue, and decision-tree representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:6bec97fc-1082-4a7d-96e2-15a371e3ff81",
+    "revision": 1,
+    "subject": "ola:n:7ca110b6-daa5-4d03-b374-47d550cb1155",
+    "relation": "composed_of",
+    "object": "ola:n:528f24e2-86b4-4a16-9289-1b6f380d3cc6",
+    "rationale": "Analyze a queue or service system is a bounded performance within Formulate and analyze operations models.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:1065e7ef-dd2f-4896-b8a3-6dfc96e6815c",
+    "revision": 1,
+    "subject": "ola:n:528f24e2-86b4-4a16-9289-1b6f380d3cc6",
+    "relation": "uses_concept",
+    "object": "ola:n:1933f2c8-93a8-474f-bcad-c57df69bc9eb",
+    "rationale": "Demonstrating Analyze a queue or service system materially invokes Decision variable, objective, and constraint at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:90ddc7ba-9f08-4cef-93dd-a42ff61645c3",
+    "revision": 1,
+    "subject": "ola:n:528f24e2-86b4-4a16-9289-1b6f380d3cc6",
+    "relation": "uses_knowledge",
+    "object": "ola:n:fdb21891-443e-4d99-8545-f999780d1b7b",
+    "rationale": "Demonstrating Analyze a queue or service system materially invokes Model, solution, policy, and tradeoff at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:21849052-063b-4283-ba23-a17b4147e989",
+    "revision": 1,
+    "subject": "ola:n:528f24e2-86b4-4a16-9289-1b6f380d3cc6",
+    "relation": "uses_representation",
+    "object": "ola:n:24609a19-4443-461d-9781-13e4311683b7",
+    "rationale": "Demonstrating Analyze a queue or service system materially invokes Optimization, network, queue, and decision-tree representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:43e22f67-4c74-43c7-9e8f-f39468d6ec3a",
+    "revision": 1,
+    "subject": "ola:n:35f2c3ac-3cb8-43a1-8257-816e76102c48",
+    "relation": "composed_of",
+    "object": "ola:n:9e65dd62-40be-41dc-b75b-ff88a1a308bd",
+    "rationale": "Evaluate decisions and policies is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:307a7f7b-79db-42a8-95f6-10c2ffb20f1c",
+    "revision": 1,
+    "subject": "ola:n:9e65dd62-40be-41dc-b75b-ff88a1a308bd",
+    "relation": "composed_of",
+    "object": "ola:n:3b7298ae-d3a2-477f-ad36-9de37c3d3552",
+    "rationale": "Compare policies under uncertainty is a bounded performance within Evaluate decisions and policies.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:0a5b753a-16c1-406d-9d2c-fc01327cc43f",
+    "revision": 1,
+    "subject": "ola:n:3b7298ae-d3a2-477f-ad36-9de37c3d3552",
+    "relation": "uses_concept",
+    "object": "ola:n:09b96c1c-11d2-457b-a657-a46b52a0a72b",
+    "rationale": "Demonstrating Compare policies under uncertainty materially invokes Resource allocation, queue, network, and decision system at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7657f353-d8f7-4a97-9db9-b13e6c00d438",
+    "revision": 1,
+    "subject": "ola:n:3b7298ae-d3a2-477f-ad36-9de37c3d3552",
+    "relation": "uses_knowledge",
+    "object": "ola:n:fdb21891-443e-4d99-8545-f999780d1b7b",
+    "rationale": "Demonstrating Compare policies under uncertainty materially invokes Model, solution, policy, and tradeoff at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b28814cf-c310-40ab-9423-d4c6e5484ed7",
+    "revision": 1,
+    "subject": "ola:n:3b7298ae-d3a2-477f-ad36-9de37c3d3552",
+    "relation": "uses_representation",
+    "object": "ola:n:24609a19-4443-461d-9781-13e4311683b7",
+    "rationale": "Demonstrating Compare policies under uncertainty materially invokes Optimization, network, queue, and decision-tree representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:94713455-a5fc-4e40-b558-525639c2e6aa",
+    "revision": 1,
+    "subject": "ola:n:9e65dd62-40be-41dc-b75b-ff88a1a308bd",
+    "relation": "composed_of",
+    "object": "ola:n:fa9d288e-6ee2-4d2e-80b3-f8598dbe49ed",
+    "rationale": "Perform sensitivity or scenario analysis is a bounded performance within Evaluate decisions and policies.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:bf0a8abd-69f0-4510-a1b9-5056ff2d38de",
+    "revision": 1,
+    "subject": "ola:n:fa9d288e-6ee2-4d2e-80b3-f8598dbe49ed",
+    "relation": "uses_concept",
+    "object": "ola:n:09b96c1c-11d2-457b-a657-a46b52a0a72b",
+    "rationale": "Demonstrating Perform sensitivity or scenario analysis materially invokes Resource allocation, queue, network, and decision system at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:deef3d2b-87e3-45ee-ba0f-37740dd0d423",
+    "revision": 1,
+    "subject": "ola:n:fa9d288e-6ee2-4d2e-80b3-f8598dbe49ed",
+    "relation": "uses_knowledge",
+    "object": "ola:n:fdb21891-443e-4d99-8545-f999780d1b7b",
+    "rationale": "Demonstrating Perform sensitivity or scenario analysis materially invokes Model, solution, policy, and tradeoff at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:6b1d6c6f-a7ac-4e4b-b663-cf85f93f786a",
+    "revision": 1,
+    "subject": "ola:n:fa9d288e-6ee2-4d2e-80b3-f8598dbe49ed",
+    "relation": "uses_representation",
+    "object": "ola:n:24609a19-4443-461d-9781-13e4311683b7",
+    "rationale": "Demonstrating Perform sensitivity or scenario analysis materially invokes Optimization, network, queue, and decision-tree representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a139f46c-79e0-4a1b-b2d5-e083abe74862",
+    "revision": 1,
+    "subject": "ola:n:9e65dd62-40be-41dc-b75b-ff88a1a308bd",
+    "relation": "composed_of",
+    "object": "ola:n:3a684047-c00d-4a18-b9f3-3cd68a8695f5",
+    "rationale": "Audit an operations recommendation is a bounded performance within Evaluate decisions and policies.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:6f6da4fa-1c81-419f-8747-db2584767c08",
+    "revision": 1,
+    "subject": "ola:n:3a684047-c00d-4a18-b9f3-3cd68a8695f5",
+    "relation": "uses_concept",
+    "object": "ola:n:09b96c1c-11d2-457b-a657-a46b52a0a72b",
+    "rationale": "Demonstrating Audit an operations recommendation materially invokes Resource allocation, queue, network, and decision system at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d11f63f4-a5bc-4c11-937e-6d3a319f51ea",
+    "revision": 1,
+    "subject": "ola:n:3a684047-c00d-4a18-b9f3-3cd68a8695f5",
+    "relation": "uses_knowledge",
+    "object": "ola:n:fdb21891-443e-4d99-8545-f999780d1b7b",
+    "rationale": "Demonstrating Audit an operations recommendation materially invokes Model, solution, policy, and tradeoff at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7c11067f-0bf8-4363-96f1-69aca55fa20e",
+    "revision": 1,
+    "subject": "ola:n:3a684047-c00d-4a18-b9f3-3cd68a8695f5",
+    "relation": "uses_representation",
+    "object": "ola:n:24609a19-4443-461d-9781-13e4311683b7",
+    "rationale": "Demonstrating Audit an operations recommendation materially invokes Optimization, network, queue, and decision-tree representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  }
+]

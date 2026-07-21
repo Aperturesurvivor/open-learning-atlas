@@ -1,0 +1,2102 @@
+[
+  {
+    "id": "ola:e:0a392424-2671-421e-a632-62a57c6d6bbb",
+    "revision": 1,
+    "subject": "ola:n:f5e4494a-1177-411e-8103-26220b2ee736",
+    "relation": "composed_of",
+    "object": "ola:n:a4bfa0cb-88dc-4ce3-8ecd-8a7dc8da6d94",
+    "rationale": "Symbolic expression and exact object is material terrain within exact-symbolic-computation; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:5a910129-c9ba-4151-927c-ee31e0d908a8",
+    "revision": 1,
+    "subject": "ola:n:f5e4494a-1177-411e-8103-26220b2ee736",
+    "relation": "composed_of",
+    "object": "ola:n:877ef8d5-7a25-479b-8cf6-81f4f2d7effc",
+    "rationale": "Canonical or normal form and rewrite is material terrain within exact-symbolic-computation; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ec8e0927-4708-4b63-8407-d525b2b303cd",
+    "revision": 1,
+    "subject": "ola:n:f5e4494a-1177-411e-8103-26220b2ee736",
+    "relation": "composed_of",
+    "object": "ola:n:0d23d9ca-700e-41f8-84ec-8bb270f37df8",
+    "rationale": "Symbolic algorithm correctness and termination is material terrain within exact-symbolic-computation; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a4d61c9a-5dd0-4750-8446-ae48730e8aef",
+    "revision": 1,
+    "subject": "ola:n:f5e4494a-1177-411e-8103-26220b2ee736",
+    "relation": "composed_of",
+    "object": "ola:n:8b51c0b3-3cf6-4b9a-bcb6-faeb13c74351",
+    "rationale": "Expression DAG and rewrite trace is material terrain within exact-symbolic-computation; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:6f0ffd3b-a602-41b3-be26-d9505cec6806",
+    "revision": 1,
+    "subject": "ola:n:f5e4494a-1177-411e-8103-26220b2ee736",
+    "relation": "composed_of",
+    "object": "ola:n:3f54f0e5-62f5-4564-969a-30e0e2f6ec60",
+    "rationale": "Perform exact symbolic computation is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:0892558c-a96f-4ccb-94cb-8ca1810986e6",
+    "revision": 1,
+    "subject": "ola:n:3f54f0e5-62f5-4564-969a-30e0e2f6ec60",
+    "relation": "composed_of",
+    "object": "ola:n:ceb91f1d-389c-4b00-b303-7632fab7dfdc",
+    "rationale": "Simplify a symbolic expression exactly is a bounded performance within Perform exact symbolic computation.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:be4a82b4-8975-46d9-8177-fe62ff462433",
+    "revision": 1,
+    "subject": "ola:n:ceb91f1d-389c-4b00-b303-7632fab7dfdc",
+    "relation": "uses_concept",
+    "object": "ola:n:a4bfa0cb-88dc-4ce3-8ecd-8a7dc8da6d94",
+    "rationale": "Demonstrating Simplify a symbolic expression exactly materially invokes Symbolic expression and exact object at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:91722cac-5dc8-496d-915e-04f14423d527",
+    "revision": 1,
+    "subject": "ola:n:ceb91f1d-389c-4b00-b303-7632fab7dfdc",
+    "relation": "uses_knowledge",
+    "object": "ola:n:0d23d9ca-700e-41f8-84ec-8bb270f37df8",
+    "rationale": "Demonstrating Simplify a symbolic expression exactly materially invokes Symbolic algorithm correctness and termination at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:0b46c523-7289-4fd0-8941-62bdc692d174",
+    "revision": 1,
+    "subject": "ola:n:ceb91f1d-389c-4b00-b303-7632fab7dfdc",
+    "relation": "uses_representation",
+    "object": "ola:n:8b51c0b3-3cf6-4b9a-bcb6-faeb13c74351",
+    "rationale": "Demonstrating Simplify a symbolic expression exactly materially invokes Expression DAG and rewrite trace at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:00ba3c52-e212-4ea9-bf1e-37f11ffd1efc",
+    "revision": 1,
+    "subject": "ola:n:3f54f0e5-62f5-4564-969a-30e0e2f6ec60",
+    "relation": "composed_of",
+    "object": "ola:n:aca99be6-6908-423a-ac95-b344c2817962",
+    "rationale": "Compute an exact algebraic object is a bounded performance within Perform exact symbolic computation.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:96061b02-0f0f-4a98-9085-f3b700beb919",
+    "revision": 1,
+    "subject": "ola:n:aca99be6-6908-423a-ac95-b344c2817962",
+    "relation": "uses_concept",
+    "object": "ola:n:a4bfa0cb-88dc-4ce3-8ecd-8a7dc8da6d94",
+    "rationale": "Demonstrating Compute an exact algebraic object materially invokes Symbolic expression and exact object at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2328f2a4-6b77-4c8e-be6c-5adc957c0d06",
+    "revision": 1,
+    "subject": "ola:n:aca99be6-6908-423a-ac95-b344c2817962",
+    "relation": "uses_knowledge",
+    "object": "ola:n:0d23d9ca-700e-41f8-84ec-8bb270f37df8",
+    "rationale": "Demonstrating Compute an exact algebraic object materially invokes Symbolic algorithm correctness and termination at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e283d232-52f2-4e64-aa01-2ec278c7f7ab",
+    "revision": 1,
+    "subject": "ola:n:aca99be6-6908-423a-ac95-b344c2817962",
+    "relation": "uses_representation",
+    "object": "ola:n:8b51c0b3-3cf6-4b9a-bcb6-faeb13c74351",
+    "rationale": "Demonstrating Compute an exact algebraic object materially invokes Expression DAG and rewrite trace at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f71ccaa6-8bb1-4fae-8424-df1a129cd424",
+    "revision": 1,
+    "subject": "ola:n:3f54f0e5-62f5-4564-969a-30e0e2f6ec60",
+    "relation": "composed_of",
+    "object": "ola:n:a3009d99-549a-4b21-9b16-2ce9b7e1f7a6",
+    "rationale": "Differentiate or integrate symbolically in scope is a bounded performance within Perform exact symbolic computation.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a5bcb79b-0828-4fe4-911d-42b551b25046",
+    "revision": 1,
+    "subject": "ola:n:a3009d99-549a-4b21-9b16-2ce9b7e1f7a6",
+    "relation": "uses_concept",
+    "object": "ola:n:a4bfa0cb-88dc-4ce3-8ecd-8a7dc8da6d94",
+    "rationale": "Demonstrating Differentiate or integrate symbolically in scope materially invokes Symbolic expression and exact object at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a70591ad-c1a1-409d-a476-e9e189b8fd5c",
+    "revision": 1,
+    "subject": "ola:n:a3009d99-549a-4b21-9b16-2ce9b7e1f7a6",
+    "relation": "uses_knowledge",
+    "object": "ola:n:0d23d9ca-700e-41f8-84ec-8bb270f37df8",
+    "rationale": "Demonstrating Differentiate or integrate symbolically in scope materially invokes Symbolic algorithm correctness and termination at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a22fe732-1b8b-4ff3-9b12-fdc41522cf5a",
+    "revision": 1,
+    "subject": "ola:n:a3009d99-549a-4b21-9b16-2ce9b7e1f7a6",
+    "relation": "uses_representation",
+    "object": "ola:n:8b51c0b3-3cf6-4b9a-bcb6-faeb13c74351",
+    "rationale": "Demonstrating Differentiate or integrate symbolically in scope materially invokes Expression DAG and rewrite trace at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b3a855a1-b55a-4957-a96c-73c395af9dad",
+    "revision": 1,
+    "subject": "ola:n:f5e4494a-1177-411e-8103-26220b2ee736",
+    "relation": "composed_of",
+    "object": "ola:n:842af160-e4e4-4b1b-ae49-7203495de78b",
+    "rationale": "Design and audit symbolic algorithms is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:253169c4-675a-4225-8fb0-2a62451669db",
+    "revision": 1,
+    "subject": "ola:n:842af160-e4e4-4b1b-ae49-7203495de78b",
+    "relation": "composed_of",
+    "object": "ola:n:7bf96db8-7fab-43f9-a98a-b8b53f40cef2",
+    "rationale": "Design a terminating rewrite procedure is a bounded performance within Design and audit symbolic algorithms.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:82361c04-3c46-4016-86aa-d5661dfdbf9f",
+    "revision": 1,
+    "subject": "ola:n:7bf96db8-7fab-43f9-a98a-b8b53f40cef2",
+    "relation": "uses_concept",
+    "object": "ola:n:877ef8d5-7a25-479b-8cf6-81f4f2d7effc",
+    "rationale": "Demonstrating Design a terminating rewrite procedure materially invokes Canonical or normal form and rewrite at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c6ec6c0a-15c5-41e1-9f56-e75116c439ad",
+    "revision": 1,
+    "subject": "ola:n:7bf96db8-7fab-43f9-a98a-b8b53f40cef2",
+    "relation": "uses_knowledge",
+    "object": "ola:n:0d23d9ca-700e-41f8-84ec-8bb270f37df8",
+    "rationale": "Demonstrating Design a terminating rewrite procedure materially invokes Symbolic algorithm correctness and termination at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a73e8d40-87ad-450c-9010-9506542247c4",
+    "revision": 1,
+    "subject": "ola:n:7bf96db8-7fab-43f9-a98a-b8b53f40cef2",
+    "relation": "uses_representation",
+    "object": "ola:n:8b51c0b3-3cf6-4b9a-bcb6-faeb13c74351",
+    "rationale": "Demonstrating Design a terminating rewrite procedure materially invokes Expression DAG and rewrite trace at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b0b508b0-a188-40bc-9428-ce1e272f408f",
+    "revision": 1,
+    "subject": "ola:n:842af160-e4e4-4b1b-ae49-7203495de78b",
+    "relation": "composed_of",
+    "object": "ola:n:aff51b7a-2d14-4d7d-b566-f40efc916609",
+    "rationale": "Verify a symbolic result is a bounded performance within Design and audit symbolic algorithms.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:babfd5e6-a39e-47c6-804d-d0e1a805de77",
+    "revision": 1,
+    "subject": "ola:n:aff51b7a-2d14-4d7d-b566-f40efc916609",
+    "relation": "uses_concept",
+    "object": "ola:n:877ef8d5-7a25-479b-8cf6-81f4f2d7effc",
+    "rationale": "Demonstrating Verify a symbolic result materially invokes Canonical or normal form and rewrite at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d26516b3-e588-40fc-b5bf-b42378fdf47f",
+    "revision": 1,
+    "subject": "ola:n:aff51b7a-2d14-4d7d-b566-f40efc916609",
+    "relation": "uses_knowledge",
+    "object": "ola:n:0d23d9ca-700e-41f8-84ec-8bb270f37df8",
+    "rationale": "Demonstrating Verify a symbolic result materially invokes Symbolic algorithm correctness and termination at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:aced24ea-cef9-43f6-bdfa-2019923ce3fd",
+    "revision": 1,
+    "subject": "ola:n:aff51b7a-2d14-4d7d-b566-f40efc916609",
+    "relation": "uses_representation",
+    "object": "ola:n:8b51c0b3-3cf6-4b9a-bcb6-faeb13c74351",
+    "rationale": "Demonstrating Verify a symbolic result materially invokes Expression DAG and rewrite trace at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:da9d97fc-d546-4ee2-80e8-ab6bac19fd84",
+    "revision": 1,
+    "subject": "ola:n:842af160-e4e4-4b1b-ae49-7203495de78b",
+    "relation": "composed_of",
+    "object": "ola:n:f7a97286-53c8-4e83-acd9-43df6fc486e5",
+    "rationale": "Audit computer-algebra output is a bounded performance within Design and audit symbolic algorithms.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:83051d35-0a8e-4e1b-bd22-a20405a1a3b9",
+    "revision": 1,
+    "subject": "ola:n:f7a97286-53c8-4e83-acd9-43df6fc486e5",
+    "relation": "uses_concept",
+    "object": "ola:n:877ef8d5-7a25-479b-8cf6-81f4f2d7effc",
+    "rationale": "Demonstrating Audit computer-algebra output materially invokes Canonical or normal form and rewrite at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a0ee219a-53bc-40d4-bdbe-eece5f5eb682",
+    "revision": 1,
+    "subject": "ola:n:f7a97286-53c8-4e83-acd9-43df6fc486e5",
+    "relation": "uses_knowledge",
+    "object": "ola:n:0d23d9ca-700e-41f8-84ec-8bb270f37df8",
+    "rationale": "Demonstrating Audit computer-algebra output materially invokes Symbolic algorithm correctness and termination at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f9daeb15-056e-4ba5-a6bb-7ceae69f605c",
+    "revision": 1,
+    "subject": "ola:n:f7a97286-53c8-4e83-acd9-43df6fc486e5",
+    "relation": "uses_representation",
+    "object": "ola:n:8b51c0b3-3cf6-4b9a-bcb6-faeb13c74351",
+    "rationale": "Demonstrating Audit computer-algebra output materially invokes Expression DAG and rewrite trace at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:29261c33-752e-49d4-a353-87838d23f50b",
+    "revision": 1,
+    "subject": "ola:n:b3c80783-dd26-458e-aab0-f26daf282f0f",
+    "relation": "composed_of",
+    "object": "ola:n:b7f88da6-7616-45f6-90c0-e70d3aae1430",
+    "rationale": "Finite-precision number system is material terrain within numerical-representation-error; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:3d8d4d87-4d5b-4081-a6de-0376f0fc1571",
+    "revision": 1,
+    "subject": "ola:n:b3c80783-dd26-458e-aab0-f26daf282f0f",
+    "relation": "composed_of",
+    "object": "ola:n:425914b9-244f-4376-a521-97bc1ac12e0c",
+    "rationale": "Roundoff, cancellation, overflow, and underflow is material terrain within numerical-representation-error; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e2804f69-92d1-4d8c-8a8c-b5f440fd8a58",
+    "revision": 1,
+    "subject": "ola:n:b3c80783-dd26-458e-aab0-f26daf282f0f",
+    "relation": "composed_of",
+    "object": "ola:n:21652b27-6ba4-4c8b-bc70-b1b6a3445d70",
+    "rationale": "Floating-point model and error propagation is material terrain within numerical-representation-error; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ff3d99d7-65ad-4123-bc8f-8349f0883a6c",
+    "revision": 1,
+    "subject": "ola:n:b3c80783-dd26-458e-aab0-f26daf282f0f",
+    "relation": "composed_of",
+    "object": "ola:n:ce52afac-570b-4e99-b56b-89d0fdc0e51f",
+    "rationale": "Binary floating-point and error representation is material terrain within numerical-representation-error; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:79c821a9-3158-4e2f-b76b-f7e44ad2672b",
+    "revision": 1,
+    "subject": "ola:n:b3c80783-dd26-458e-aab0-f26daf282f0f",
+    "relation": "composed_of",
+    "object": "ola:n:d02de827-111e-4603-8ada-68614d4cba46",
+    "rationale": "Represent and compute in finite precision is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:890b574a-0d06-46da-9617-9ef99955380e",
+    "revision": 1,
+    "subject": "ola:n:d02de827-111e-4603-8ada-68614d4cba46",
+    "relation": "composed_of",
+    "object": "ola:n:a4ea39ae-91f0-4f1b-a67a-bf14a8eb3412",
+    "rationale": "Encode or decode a floating-point value is a bounded performance within Represent and compute in finite precision.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:180a00e1-81c9-44b8-9e7b-b2c6325c944f",
+    "revision": 1,
+    "subject": "ola:n:a4ea39ae-91f0-4f1b-a67a-bf14a8eb3412",
+    "relation": "uses_concept",
+    "object": "ola:n:b7f88da6-7616-45f6-90c0-e70d3aae1430",
+    "rationale": "Demonstrating Encode or decode a floating-point value materially invokes Finite-precision number system at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:3314cd1c-84d2-48ff-827d-254fff063e3b",
+    "revision": 1,
+    "subject": "ola:n:a4ea39ae-91f0-4f1b-a67a-bf14a8eb3412",
+    "relation": "uses_knowledge",
+    "object": "ola:n:21652b27-6ba4-4c8b-bc70-b1b6a3445d70",
+    "rationale": "Demonstrating Encode or decode a floating-point value materially invokes Floating-point model and error propagation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d51c2f13-2d60-48b4-aca6-24c4ecd9e599",
+    "revision": 1,
+    "subject": "ola:n:a4ea39ae-91f0-4f1b-a67a-bf14a8eb3412",
+    "relation": "uses_representation",
+    "object": "ola:n:ce52afac-570b-4e99-b56b-89d0fdc0e51f",
+    "rationale": "Demonstrating Encode or decode a floating-point value materially invokes Binary floating-point and error representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a24d9bff-91b3-41c2-8e9b-e43b9e4ecec2",
+    "revision": 1,
+    "subject": "ola:n:d02de827-111e-4603-8ada-68614d4cba46",
+    "relation": "composed_of",
+    "object": "ola:n:4a392207-ab95-40b6-bd11-fcc47963b5a5",
+    "rationale": "Perform a rounded arithmetic step is a bounded performance within Represent and compute in finite precision.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:67bd1ecd-9503-4111-a3f1-3097d2013ef3",
+    "revision": 1,
+    "subject": "ola:n:4a392207-ab95-40b6-bd11-fcc47963b5a5",
+    "relation": "uses_concept",
+    "object": "ola:n:b7f88da6-7616-45f6-90c0-e70d3aae1430",
+    "rationale": "Demonstrating Perform a rounded arithmetic step materially invokes Finite-precision number system at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:9852ffc4-1cd6-4262-be2b-c63d3c263792",
+    "revision": 1,
+    "subject": "ola:n:4a392207-ab95-40b6-bd11-fcc47963b5a5",
+    "relation": "uses_knowledge",
+    "object": "ola:n:21652b27-6ba4-4c8b-bc70-b1b6a3445d70",
+    "rationale": "Demonstrating Perform a rounded arithmetic step materially invokes Floating-point model and error propagation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:5dfb15a8-7d1d-4dfb-8021-56ea9763eba1",
+    "revision": 1,
+    "subject": "ola:n:4a392207-ab95-40b6-bd11-fcc47963b5a5",
+    "relation": "uses_representation",
+    "object": "ola:n:ce52afac-570b-4e99-b56b-89d0fdc0e51f",
+    "rationale": "Demonstrating Perform a rounded arithmetic step materially invokes Binary floating-point and error representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:66d251bd-2e5b-45b2-a985-27fd3ba161a4",
+    "revision": 1,
+    "subject": "ola:n:d02de827-111e-4603-8ada-68614d4cba46",
+    "relation": "composed_of",
+    "object": "ola:n:691e3128-7061-4a80-a559-bb530f6b7c88",
+    "rationale": "Estimate roundoff error is a bounded performance within Represent and compute in finite precision.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e1b4b01a-2c61-49f7-9b01-b3599f1553b9",
+    "revision": 1,
+    "subject": "ola:n:691e3128-7061-4a80-a559-bb530f6b7c88",
+    "relation": "uses_concept",
+    "object": "ola:n:b7f88da6-7616-45f6-90c0-e70d3aae1430",
+    "rationale": "Demonstrating Estimate roundoff error materially invokes Finite-precision number system at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c11125a9-d024-40ee-9abe-088e55e0a699",
+    "revision": 1,
+    "subject": "ola:n:691e3128-7061-4a80-a559-bb530f6b7c88",
+    "relation": "uses_knowledge",
+    "object": "ola:n:21652b27-6ba4-4c8b-bc70-b1b6a3445d70",
+    "rationale": "Demonstrating Estimate roundoff error materially invokes Floating-point model and error propagation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:0b21fa5c-c854-4593-bbc8-322383316125",
+    "revision": 1,
+    "subject": "ola:n:691e3128-7061-4a80-a559-bb530f6b7c88",
+    "relation": "uses_representation",
+    "object": "ola:n:ce52afac-570b-4e99-b56b-89d0fdc0e51f",
+    "rationale": "Demonstrating Estimate roundoff error materially invokes Binary floating-point and error representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:5ed0e3f3-18ac-40ad-b992-91efd214516d",
+    "revision": 1,
+    "subject": "ola:n:b3c80783-dd26-458e-aab0-f26daf282f0f",
+    "relation": "composed_of",
+    "object": "ola:n:75d10c26-d5c3-4255-9900-d7011c956424",
+    "rationale": "Design and audit stable computation is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c5487172-097d-43f2-ab05-bd2bb8a4738b",
+    "revision": 1,
+    "subject": "ola:n:75d10c26-d5c3-4255-9900-d7011c956424",
+    "relation": "composed_of",
+    "object": "ola:n:852127ef-b175-4fd2-af6b-8160bde2d73d",
+    "rationale": "Detect catastrophic cancellation is a bounded performance within Design and audit stable computation.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:1c5a74f4-f48c-47ad-8a57-12152278709c",
+    "revision": 1,
+    "subject": "ola:n:852127ef-b175-4fd2-af6b-8160bde2d73d",
+    "relation": "uses_concept",
+    "object": "ola:n:425914b9-244f-4376-a521-97bc1ac12e0c",
+    "rationale": "Demonstrating Detect catastrophic cancellation materially invokes Roundoff, cancellation, overflow, and underflow at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:04a65725-07e7-40b2-927a-6c130e4f2874",
+    "revision": 1,
+    "subject": "ola:n:852127ef-b175-4fd2-af6b-8160bde2d73d",
+    "relation": "uses_knowledge",
+    "object": "ola:n:21652b27-6ba4-4c8b-bc70-b1b6a3445d70",
+    "rationale": "Demonstrating Detect catastrophic cancellation materially invokes Floating-point model and error propagation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ce272bdf-592a-4145-b58d-d98f95f00f76",
+    "revision": 1,
+    "subject": "ola:n:852127ef-b175-4fd2-af6b-8160bde2d73d",
+    "relation": "uses_representation",
+    "object": "ola:n:ce52afac-570b-4e99-b56b-89d0fdc0e51f",
+    "rationale": "Demonstrating Detect catastrophic cancellation materially invokes Binary floating-point and error representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2c62751e-ae58-4a4b-a1aa-d1373d574966",
+    "revision": 1,
+    "subject": "ola:n:75d10c26-d5c3-4255-9900-d7011c956424",
+    "relation": "composed_of",
+    "object": "ola:n:fac4ec40-0fb1-4e25-b370-158c27b5089b",
+    "rationale": "Reformulate for numerical stability is a bounded performance within Design and audit stable computation.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:99e6af1d-fd4e-4699-b16d-adc4afd127f0",
+    "revision": 1,
+    "subject": "ola:n:fac4ec40-0fb1-4e25-b370-158c27b5089b",
+    "relation": "uses_concept",
+    "object": "ola:n:425914b9-244f-4376-a521-97bc1ac12e0c",
+    "rationale": "Demonstrating Reformulate for numerical stability materially invokes Roundoff, cancellation, overflow, and underflow at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f3a1a3dd-855a-4b04-a95b-efd562a2bd52",
+    "revision": 1,
+    "subject": "ola:n:fac4ec40-0fb1-4e25-b370-158c27b5089b",
+    "relation": "uses_knowledge",
+    "object": "ola:n:21652b27-6ba4-4c8b-bc70-b1b6a3445d70",
+    "rationale": "Demonstrating Reformulate for numerical stability materially invokes Floating-point model and error propagation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4df45725-77f9-4b83-a722-1888c51be4b7",
+    "revision": 1,
+    "subject": "ola:n:fac4ec40-0fb1-4e25-b370-158c27b5089b",
+    "relation": "uses_representation",
+    "object": "ola:n:ce52afac-570b-4e99-b56b-89d0fdc0e51f",
+    "rationale": "Demonstrating Reformulate for numerical stability materially invokes Binary floating-point and error representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c6e992a1-05ee-4831-8eb7-a7d702533718",
+    "revision": 1,
+    "subject": "ola:n:75d10c26-d5c3-4255-9900-d7011c956424",
+    "relation": "composed_of",
+    "object": "ola:n:59d457d6-4964-4f43-8b71-cc5e407197c0",
+    "rationale": "Audit a numerical representation claim is a bounded performance within Design and audit stable computation.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:088452d9-93df-4a03-a813-e18e76b79eb9",
+    "revision": 1,
+    "subject": "ola:n:59d457d6-4964-4f43-8b71-cc5e407197c0",
+    "relation": "uses_concept",
+    "object": "ola:n:425914b9-244f-4376-a521-97bc1ac12e0c",
+    "rationale": "Demonstrating Audit a numerical representation claim materially invokes Roundoff, cancellation, overflow, and underflow at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:90bf3345-8081-4a30-8a88-106e024acc40",
+    "revision": 1,
+    "subject": "ola:n:59d457d6-4964-4f43-8b71-cc5e407197c0",
+    "relation": "uses_knowledge",
+    "object": "ola:n:21652b27-6ba4-4c8b-bc70-b1b6a3445d70",
+    "rationale": "Demonstrating Audit a numerical representation claim materially invokes Floating-point model and error propagation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:34e59656-8648-4ec0-a63f-ee8d6a84af04",
+    "revision": 1,
+    "subject": "ola:n:59d457d6-4964-4f43-8b71-cc5e407197c0",
+    "relation": "uses_representation",
+    "object": "ola:n:ce52afac-570b-4e99-b56b-89d0fdc0e51f",
+    "rationale": "Demonstrating Audit a numerical representation claim materially invokes Binary floating-point and error representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a51ed9d0-a83f-4564-910d-69e1c1c5fcde",
+    "revision": 1,
+    "subject": "ola:n:e5adb154-f003-4dcf-85d2-459188862c9b",
+    "relation": "composed_of",
+    "object": "ola:n:c734da5c-4d2e-4f77-b9df-2b58188979f0",
+    "rationale": "Numerical discretization and approximation is material terrain within numerical-analysis-approximation; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:1ebbe23e-c5b7-474d-9827-67a087080b17",
+    "revision": 1,
+    "subject": "ola:n:e5adb154-f003-4dcf-85d2-459188862c9b",
+    "relation": "composed_of",
+    "object": "ola:n:f6566620-dd39-4a85-a321-d7382b8aba0b",
+    "rationale": "Consistency, stability, and convergence is material terrain within numerical-analysis-approximation; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:9a61d7b5-c94e-4159-bd2f-347c5a5bcc4f",
+    "revision": 1,
+    "subject": "ola:n:e5adb154-f003-4dcf-85d2-459188862c9b",
+    "relation": "composed_of",
+    "object": "ola:n:926c5652-e9cd-4053-a9be-135c304dc00e",
+    "rationale": "Truncation, conditioning, and a posteriori error is material terrain within numerical-analysis-approximation; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:104638dc-7c5d-4121-afee-99d5a8cb07b9",
+    "revision": 1,
+    "subject": "ola:n:e5adb154-f003-4dcf-85d2-459188862c9b",
+    "relation": "composed_of",
+    "object": "ola:n:0c92f893-12b5-4d69-9acc-8040d6d8684c",
+    "rationale": "Grid, interpolant, convergence, and error plot is material terrain within numerical-analysis-approximation; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b09e0a0d-eb97-4684-a114-ba1ae3c58614",
+    "revision": 1,
+    "subject": "ola:n:e5adb154-f003-4dcf-85d2-459188862c9b",
+    "relation": "composed_of",
+    "object": "ola:n:c880971f-27cf-4c56-a521-fb5a6dbaaf2c",
+    "rationale": "Apply numerical methods is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:31b1fbd0-d173-419b-9644-57c7006ebcb9",
+    "revision": 1,
+    "subject": "ola:n:c880971f-27cf-4c56-a521-fb5a6dbaaf2c",
+    "relation": "composed_of",
+    "object": "ola:n:82d5bdea-cdd9-412c-adca-0c2adc1e67f7",
+    "rationale": "Approximate a root of a nonlinear equation is a bounded performance within Apply numerical methods.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:13f6cd86-baad-4462-8000-aa1587f816f3",
+    "revision": 1,
+    "subject": "ola:n:82d5bdea-cdd9-412c-adca-0c2adc1e67f7",
+    "relation": "uses_concept",
+    "object": "ola:n:c734da5c-4d2e-4f77-b9df-2b58188979f0",
+    "rationale": "Demonstrating Approximate a root of a nonlinear equation materially invokes Numerical discretization and approximation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ff92e0d2-d7ac-4546-8392-81f00b124e93",
+    "revision": 1,
+    "subject": "ola:n:82d5bdea-cdd9-412c-adca-0c2adc1e67f7",
+    "relation": "uses_knowledge",
+    "object": "ola:n:926c5652-e9cd-4053-a9be-135c304dc00e",
+    "rationale": "Demonstrating Approximate a root of a nonlinear equation materially invokes Truncation, conditioning, and a posteriori error at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:606f6e11-2f20-4de9-ba8e-935f8ddee9b4",
+    "revision": 1,
+    "subject": "ola:n:82d5bdea-cdd9-412c-adca-0c2adc1e67f7",
+    "relation": "uses_representation",
+    "object": "ola:n:0c92f893-12b5-4d69-9acc-8040d6d8684c",
+    "rationale": "Demonstrating Approximate a root of a nonlinear equation materially invokes Grid, interpolant, convergence, and error plot at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:41c33ed1-10b7-45a1-a6bb-7a6c1a4b3a6b",
+    "revision": 1,
+    "subject": "ola:n:c880971f-27cf-4c56-a521-fb5a6dbaaf2c",
+    "relation": "composed_of",
+    "object": "ola:n:0ffaefb4-0bc8-4dc0-8d6b-ef233461879c",
+    "rationale": "Construct an interpolation or quadrature approximation is a bounded performance within Apply numerical methods.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8967ca75-731d-4d31-a541-0704cd6a67f2",
+    "revision": 1,
+    "subject": "ola:n:0ffaefb4-0bc8-4dc0-8d6b-ef233461879c",
+    "relation": "uses_concept",
+    "object": "ola:n:c734da5c-4d2e-4f77-b9df-2b58188979f0",
+    "rationale": "Demonstrating Construct an interpolation or quadrature approximation materially invokes Numerical discretization and approximation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:9d88738f-df5f-43fa-9552-2c531db2a140",
+    "revision": 1,
+    "subject": "ola:n:0ffaefb4-0bc8-4dc0-8d6b-ef233461879c",
+    "relation": "uses_knowledge",
+    "object": "ola:n:926c5652-e9cd-4053-a9be-135c304dc00e",
+    "rationale": "Demonstrating Construct an interpolation or quadrature approximation materially invokes Truncation, conditioning, and a posteriori error at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e91f39cb-6363-4798-941d-f8286afc3f09",
+    "revision": 1,
+    "subject": "ola:n:0ffaefb4-0bc8-4dc0-8d6b-ef233461879c",
+    "relation": "uses_representation",
+    "object": "ola:n:0c92f893-12b5-4d69-9acc-8040d6d8684c",
+    "rationale": "Demonstrating Construct an interpolation or quadrature approximation materially invokes Grid, interpolant, convergence, and error plot at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ff980603-b4e2-4b76-b1de-6c69aad3421e",
+    "revision": 1,
+    "subject": "ola:n:c880971f-27cf-4c56-a521-fb5a6dbaaf2c",
+    "relation": "composed_of",
+    "object": "ola:n:0dbb3b0b-b222-40e8-9ae6-f1f89d671deb",
+    "rationale": "Numerically solve a differential equation is a bounded performance within Apply numerical methods.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:17ce946d-5adc-4060-a967-b632d21b5dbc",
+    "revision": 1,
+    "subject": "ola:n:0dbb3b0b-b222-40e8-9ae6-f1f89d671deb",
+    "relation": "uses_concept",
+    "object": "ola:n:c734da5c-4d2e-4f77-b9df-2b58188979f0",
+    "rationale": "Demonstrating Numerically solve a differential equation materially invokes Numerical discretization and approximation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:085258f7-8b9b-4965-b16c-f23de790e174",
+    "revision": 1,
+    "subject": "ola:n:0dbb3b0b-b222-40e8-9ae6-f1f89d671deb",
+    "relation": "uses_knowledge",
+    "object": "ola:n:926c5652-e9cd-4053-a9be-135c304dc00e",
+    "rationale": "Demonstrating Numerically solve a differential equation materially invokes Truncation, conditioning, and a posteriori error at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:9eab45b0-e3da-4e8e-bfc8-1b0e61081f59",
+    "revision": 1,
+    "subject": "ola:n:0dbb3b0b-b222-40e8-9ae6-f1f89d671deb",
+    "relation": "uses_representation",
+    "object": "ola:n:0c92f893-12b5-4d69-9acc-8040d6d8684c",
+    "rationale": "Demonstrating Numerically solve a differential equation materially invokes Grid, interpolant, convergence, and error plot at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:12d51061-52ba-4e72-98e8-0178c7500de2",
+    "revision": 1,
+    "subject": "ola:n:e5adb154-f003-4dcf-85d2-459188862c9b",
+    "relation": "composed_of",
+    "object": "ola:n:9adb45ea-cc3c-4fa5-b46e-1fe15acf4c81",
+    "rationale": "Analyze and audit numerical methods is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8589bde0-8b1f-4228-8d35-7952f696f3b1",
+    "revision": 1,
+    "subject": "ola:n:9adb45ea-cc3c-4fa5-b46e-1fe15acf4c81",
+    "relation": "composed_of",
+    "object": "ola:n:5cf6cbde-04b6-47bf-9b77-78e5c7d2ab64",
+    "rationale": "Derive or estimate numerical error order is a bounded performance within Analyze and audit numerical methods.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:967ef10c-c327-419c-bc81-d7bd1f2c7679",
+    "revision": 1,
+    "subject": "ola:n:5cf6cbde-04b6-47bf-9b77-78e5c7d2ab64",
+    "relation": "uses_concept",
+    "object": "ola:n:f6566620-dd39-4a85-a321-d7382b8aba0b",
+    "rationale": "Demonstrating Derive or estimate numerical error order materially invokes Consistency, stability, and convergence at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d186b85b-516a-42ed-a157-67b3c7f793ec",
+    "revision": 1,
+    "subject": "ola:n:5cf6cbde-04b6-47bf-9b77-78e5c7d2ab64",
+    "relation": "uses_knowledge",
+    "object": "ola:n:926c5652-e9cd-4053-a9be-135c304dc00e",
+    "rationale": "Demonstrating Derive or estimate numerical error order materially invokes Truncation, conditioning, and a posteriori error at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b604c98b-4b7e-496f-849d-0cb2a727cb8a",
+    "revision": 1,
+    "subject": "ola:n:5cf6cbde-04b6-47bf-9b77-78e5c7d2ab64",
+    "relation": "uses_representation",
+    "object": "ola:n:0c92f893-12b5-4d69-9acc-8040d6d8684c",
+    "rationale": "Demonstrating Derive or estimate numerical error order materially invokes Grid, interpolant, convergence, and error plot at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:9ef6b3fe-3e3b-4b65-ab72-ad13d4168e15",
+    "revision": 1,
+    "subject": "ola:n:9adb45ea-cc3c-4fa5-b46e-1fe15acf4c81",
+    "relation": "composed_of",
+    "object": "ola:n:f39b5e12-1492-4c12-b898-4c5861949020",
+    "rationale": "Select a numerical method and resolution is a bounded performance within Analyze and audit numerical methods.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f94fd4c2-5ed2-4eb6-8b32-2cf36d9b7325",
+    "revision": 1,
+    "subject": "ola:n:f39b5e12-1492-4c12-b898-4c5861949020",
+    "relation": "uses_concept",
+    "object": "ola:n:f6566620-dd39-4a85-a321-d7382b8aba0b",
+    "rationale": "Demonstrating Select a numerical method and resolution materially invokes Consistency, stability, and convergence at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4237e8fd-35ff-4588-b77d-3c9cacbf41c7",
+    "revision": 1,
+    "subject": "ola:n:f39b5e12-1492-4c12-b898-4c5861949020",
+    "relation": "uses_knowledge",
+    "object": "ola:n:926c5652-e9cd-4053-a9be-135c304dc00e",
+    "rationale": "Demonstrating Select a numerical method and resolution materially invokes Truncation, conditioning, and a posteriori error at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b9a2a9b1-285a-4b51-8b84-a85dee1f765c",
+    "revision": 1,
+    "subject": "ola:n:f39b5e12-1492-4c12-b898-4c5861949020",
+    "relation": "uses_representation",
+    "object": "ola:n:0c92f893-12b5-4d69-9acc-8040d6d8684c",
+    "rationale": "Demonstrating Select a numerical method and resolution materially invokes Grid, interpolant, convergence, and error plot at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4019fbfd-b652-44b3-9be8-5a835c34fcd0",
+    "revision": 1,
+    "subject": "ola:n:9adb45ea-cc3c-4fa5-b46e-1fe15acf4c81",
+    "relation": "composed_of",
+    "object": "ola:n:fe2803bd-ab4f-4762-8efd-9bb6f546defe",
+    "rationale": "Audit a numerical approximation is a bounded performance within Analyze and audit numerical methods.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7124d043-4520-43ee-a7ba-e3e069a73459",
+    "revision": 1,
+    "subject": "ola:n:fe2803bd-ab4f-4762-8efd-9bb6f546defe",
+    "relation": "uses_concept",
+    "object": "ola:n:f6566620-dd39-4a85-a321-d7382b8aba0b",
+    "rationale": "Demonstrating Audit a numerical approximation materially invokes Consistency, stability, and convergence at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:9f9eea03-00e3-4547-8c2f-38b58b75928a",
+    "revision": 1,
+    "subject": "ola:n:fe2803bd-ab4f-4762-8efd-9bb6f546defe",
+    "relation": "uses_knowledge",
+    "object": "ola:n:926c5652-e9cd-4053-a9be-135c304dc00e",
+    "rationale": "Demonstrating Audit a numerical approximation materially invokes Truncation, conditioning, and a posteriori error at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d89ea19a-4e69-4abc-9f90-2d52e204a37e",
+    "revision": 1,
+    "subject": "ola:n:fe2803bd-ab4f-4762-8efd-9bb6f546defe",
+    "relation": "uses_representation",
+    "object": "ola:n:0c92f893-12b5-4d69-9acc-8040d6d8684c",
+    "rationale": "Demonstrating Audit a numerical approximation materially invokes Grid, interpolant, convergence, and error plot at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:acd20f79-dffd-4f72-abca-6308552190cd",
+    "revision": 1,
+    "subject": "ola:n:3a6a6a58-944c-47b0-b31b-885d043bb733",
+    "relation": "composed_of",
+    "object": "ola:n:d28b7537-d900-4d9d-a5a5-1466587ade9e",
+    "rationale": "Rational number is a direct component of the rational and proportional structure territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f23dcc20-7d37-49b5-9f6b-ef612acbf4e3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:76318d85-d95f-4d7e-8ea2-d5cd93688a52",
+    "revision": 1,
+    "subject": "ola:n:3a6a6a58-944c-47b0-b31b-885d043bb733",
+    "relation": "composed_of",
+    "object": "ola:n:2a6047a2-c36d-4d7c-a5d6-3a6d0adc991c",
+    "rationale": "Ratio is a direct component of the rational and proportional structure territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f23dcc20-7d37-49b5-9f6b-ef612acbf4e3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:13dca852-41f1-48b2-a759-b94ba3818979",
+    "revision": 1,
+    "subject": "ola:n:3a6a6a58-944c-47b0-b31b-885d043bb733",
+    "relation": "composed_of",
+    "object": "ola:n:28e3bb5f-f028-4654-b48e-9e4ede18a9a6",
+    "rationale": "Fraction equivalence invariance is a direct component of the rational and proportional structure territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f23dcc20-7d37-49b5-9f6b-ef612acbf4e3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2558378d-3c0c-437a-84dd-d9d212901999",
+    "revision": 1,
+    "subject": "ola:n:3a6a6a58-944c-47b0-b31b-885d043bb733",
+    "relation": "composed_of",
+    "object": "ola:n:305a66a3-9e56-4b82-8530-1e0dc46a4a09",
+    "rationale": "Fraction notation is a direct component of the rational and proportional structure territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f23dcc20-7d37-49b5-9f6b-ef612acbf4e3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f70e98d7-7539-4b44-a225-c089ead3ea4e",
+    "revision": 1,
+    "subject": "ola:n:3a6a6a58-944c-47b0-b31b-885d043bb733",
+    "relation": "composed_of",
+    "object": "ola:n:df6c0fa9-ee9b-475b-b110-dec5dc35cf70",
+    "rationale": "Represent and compare rational quantities is a direct component of the rational and proportional structure territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f23dcc20-7d37-49b5-9f6b-ef612acbf4e3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7c012431-2ad8-4d62-811b-9db0cbfe3a8f",
+    "revision": 1,
+    "subject": "ola:n:3a6a6a58-944c-47b0-b31b-885d043bb733",
+    "relation": "composed_of",
+    "object": "ola:n:b2404799-3a95-4fea-8b82-b5dd7b4ce32a",
+    "rationale": "Interpret and solve proportional relations is a direct component of the rational and proportional structure territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f23dcc20-7d37-49b5-9f6b-ef612acbf4e3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7edaf372-c929-4b8a-a9d4-e0a8fe503a1d",
+    "revision": 1,
+    "subject": "ola:n:df6c0fa9-ee9b-475b-b110-dec5dc35cf70",
+    "relation": "composed_of",
+    "object": "ola:n:504bd765-46a9-4d23-8a71-9236683aea84",
+    "rationale": "Interpret fraction notation is a bounded performance within Represent and compare rational quantities.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f23dcc20-7d37-49b5-9f6b-ef612acbf4e3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:1bd43007-b79e-4071-a5be-5dbb41aed928",
+    "revision": 1,
+    "subject": "ola:n:df6c0fa9-ee9b-475b-b110-dec5dc35cf70",
+    "relation": "composed_of",
+    "object": "ola:n:a0c1ba69-bcbb-464a-8c41-a35df1386359",
+    "rationale": "Locate a rational number on a number line is a bounded performance within Represent and compare rational quantities.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f23dcc20-7d37-49b5-9f6b-ef612acbf4e3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:6a50e8ed-af08-4c55-9087-e17ded5b249f",
+    "revision": 1,
+    "subject": "ola:n:df6c0fa9-ee9b-475b-b110-dec5dc35cf70",
+    "relation": "composed_of",
+    "object": "ola:n:47ea4cdf-bd9a-4617-b68b-ffdf0436d4e1",
+    "rationale": "Compare nonnegative rational magnitudes is a bounded performance within Represent and compare rational quantities.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f23dcc20-7d37-49b5-9f6b-ef612acbf4e3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b2a82aaa-3633-4057-841a-390cd5693075",
+    "revision": 1,
+    "subject": "ola:n:b2404799-3a95-4fea-8b82-b5dd7b4ce32a",
+    "relation": "composed_of",
+    "object": "ola:n:588e1faf-e01b-436a-8426-75a3fe014d18",
+    "rationale": "Interpret a ratio is a bounded performance within Interpret and solve proportional relations.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f23dcc20-7d37-49b5-9f6b-ef612acbf4e3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:0e83ea27-1803-486c-a1db-3d719a7f599f",
+    "revision": 1,
+    "subject": "ola:n:b2404799-3a95-4fea-8b82-b5dd7b4ce32a",
+    "relation": "composed_of",
+    "object": "ola:n:4f6e553a-26c7-46a8-86e3-c3527f3fcb61",
+    "rationale": "Construct an equivalent ratio is a bounded performance within Interpret and solve proportional relations.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f23dcc20-7d37-49b5-9f6b-ef612acbf4e3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2ba73545-ffa4-4676-8df8-8ed0725d9a61",
+    "revision": 1,
+    "subject": "ola:n:b2404799-3a95-4fea-8b82-b5dd7b4ce32a",
+    "relation": "composed_of",
+    "object": "ola:n:80dd02b4-f9af-416e-b6d0-9f2aa771f509",
+    "rationale": "Determine a unit rate is a bounded performance within Interpret and solve proportional relations.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f23dcc20-7d37-49b5-9f6b-ef612acbf4e3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:60ef8961-dd89-46ec-a634-1a98dc38c19b",
+    "revision": 1,
+    "subject": "ola:n:b2404799-3a95-4fea-8b82-b5dd7b4ce32a",
+    "relation": "composed_of",
+    "object": "ola:n:f4c1632f-8a30-4f73-88da-c3252eff7726",
+    "rationale": "Identify a proportional relationship is a bounded performance within Interpret and solve proportional relations.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f23dcc20-7d37-49b5-9f6b-ef612acbf4e3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:3e1a9cf5-13ed-44af-b624-bf3e237e7356",
+    "revision": 1,
+    "subject": "ola:n:b2404799-3a95-4fea-8b82-b5dd7b4ce32a",
+    "relation": "composed_of",
+    "object": "ola:n:0a9060ad-8834-4e50-8b94-44a52bddd0e8",
+    "rationale": "Determine a missing proportional value is a bounded performance within Interpret and solve proportional relations.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f23dcc20-7d37-49b5-9f6b-ef612acbf4e3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b170d25c-5e75-4e36-ab80-0b232f442edf",
+    "revision": 1,
+    "subject": "ola:n:b2404799-3a95-4fea-8b82-b5dd7b4ce32a",
+    "relation": "composed_of",
+    "object": "ola:n:fb2bc0b7-1f80-4d83-9663-a43a33794547",
+    "rationale": "Justify multiplicative reasoning is a bounded performance within Interpret and solve proportional relations.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f23dcc20-7d37-49b5-9f6b-ef612acbf4e3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  }
+]

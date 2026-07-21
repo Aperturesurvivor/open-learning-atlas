@@ -1,0 +1,2418 @@
+[
+  {
+    "id": "ola:n:b12cf4c9-7be6-45cc-bc6f-74eb9a230048",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "set-membership-operation",
+    "label": "Set membership and operation",
+    "definition": "Membership, inclusion, union, intersection, complement, product, and power-set structure on declared collections.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:8bad4a5e-019f-40f8-a337-01e7bbef0e8a",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "finite-relation-structure",
+    "label": "Finite relation structure",
+    "definition": "A finite set equipped with unary, binary, or higher-arity relations, functions, or labels.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:5e81183d-9ecc-4689-9d65-9a1b9eee4357",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "set-relation-algebra-laws",
+    "label": "Set and relation algebra laws",
+    "definition": "Extensional equality, elementwise reasoning, De Morgan laws, composition, inverse, closure, and equivalence or order properties govern sets and relations.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:46884dc6-77c6-4337-a4b9-c568457a9a93",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "venn-relation-matrix-digraph",
+    "label": "Venn, relation-matrix, and digraph representation",
+    "definition": "Diagrams, Boolean matrices, ordered-pair lists, partitions, and directed graphs representing finite sets and relations.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:c8fcc3fa-821d-4468-82f2-6c46499291a9",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "operate-represent-finite-structures-family",
+    "label": "Operate on and represent finite structures",
+    "definition": "A capability family within sets-relations-finite-structures grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:9dd27f0e-2b1e-4b5f-946b-6068881ca27f",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compute-set-operations",
+    "label": "Compute set operations",
+    "definition": "Given finite or rule-defined sets, compute requested unions, intersections, differences, products, or power sets and state the universe where complement is used.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given finite or rule-defined sets, compute requested unions, intersections, differences, products, or power sets and state the universe where complement is used.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:4d2a410d-d1de-446d-84c5-f3067184080f",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "represent-finite-relation",
+    "label": "Represent a finite relation",
+    "definition": "Given a finite relation, translate among ordered pairs, a matrix, a directed graph, and a rule while preserving direction and loops.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a finite relation, translate among ordered pairs, a matrix, a directed graph, and a rule while preserving direction and loops.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:73467066-65ba-4f56-8e95-97e38bd72db2",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "determine-relation-properties",
+    "label": "Determine relation properties",
+    "definition": "Given a relation on a declared set, establish or refute reflexivity, symmetry, antisymmetry, transitivity, equivalence, or order properties with witnesses.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a relation on a declared set, establish or refute reflexivity, symmetry, antisymmetry, transitivity, equivalence, or order properties with witnesses.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:9b251403-31e4-411f-8501-d673b664c89b",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "analyze-construct-finite-structures-family",
+    "label": "Analyze and construct finite structures",
+    "definition": "A capability family within sets-relations-finite-structures grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:a7fe4cde-23f4-4ee9-958d-051f8bb7f7ea",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compute-equivalence-classes",
+    "label": "Compute equivalence classes",
+    "definition": "Given a finite equivalence relation, determine its classes, quotient set, and membership and verify partition properties.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a finite equivalence relation, determine its classes, quotient set, and membership and verify partition properties.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:2561bc2e-0936-4a86-baca-5cbc823ae0ca",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compute-relation-closure-composition",
+    "label": "Compute relation closure or composition",
+    "definition": "Given finite relations, compute composition or a requested reflexive, symmetric, or transitive closure and verify minimality in scope.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given finite relations, compute composition or a requested reflexive, symmetric, or transitive closure and verify minimality in scope.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:8d44a9c2-fbde-4b86-a69f-0e3d73b357b9",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "prove-finite-set-relation-claim",
+    "label": "Prove a finite set or relation claim",
+    "definition": "Given a scoped claim, prove it elementwise or structurally, or refute it with a finite counterexample that meets all hypotheses.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a scoped claim, prove it elementwise or structurally, or refute it with a finite counterexample that meets all hypotheses.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:dbaf1e30-ab65-4b0e-9339-21fb07655e5d",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "proposition-predicate-valuation",
+    "label": "Proposition, predicate, and valuation",
+    "definition": "A truth-valued statement, a variable-dependent property, and an assignment interpreting its nonlogical symbols.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:94b21db9-b40b-4564-9e3f-008ff56f4863",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "logical-consequence-inference-rule",
+    "label": "Logical consequence and inference rule",
+    "definition": "A relation in which every interpretation satisfying premises satisfies a conclusion, and a rule intended to preserve truth.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:b9f877ed-238e-40d7-9c68-1c4545eb27d4",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "connective-quantifier-inference-semantics",
+    "label": "Connective, quantifier, and inference semantics",
+    "definition": "Truth conditions, variable scope, quantifier order, and validity determine when formulas and inference patterns preserve meaning and truth.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:43ddb944-8efe-4b64-935b-ce27d4b11e25",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "truth-table-formula-proof-tree",
+    "label": "Truth table, formula, and proof-tree representation",
+    "definition": "Truth tables, syntax trees, natural-deduction steps, and semantic structures representing logical form and inference.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:82becf11-0d56-4f81-a3f7-f3ff6ea68a38",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "interpret-evaluate-logic-family",
+    "label": "Interpret and evaluate formal logic",
+    "definition": "A capability family within propositions-predicates-inference grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:14c61292-7a43-48a5-a3e9-e7f07f68bd58",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "translate-prose-predicate-logic",
+    "label": "Translate prose into predicate logic",
+    "definition": "Given a bounded statement and declared domain, represent its connectives, predicates, quantifiers, identity, and variable scope without changing meaning.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a bounded statement and declared domain, represent its connectives, predicates, quantifiers, identity, and variable scope without changing meaning.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:939152d9-1ca8-4dd5-8ca5-725dc90f88b7",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "evaluate-formula-under-valuation",
+    "label": "Evaluate a formula under a valuation",
+    "definition": "Given a propositional or first-order formula and interpretation, determine its truth value while respecting connective semantics and bound-variable scope.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a propositional or first-order formula and interpretation, determine its truth value while respecting connective semantics and bound-variable scope.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:baaf0e59-c339-442c-a825-7ea1ff97db56",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "determine-logical-equivalence",
+    "label": "Determine logical equivalence",
+    "definition": "Given two formulas, establish equivalence by valid laws, truth table, or semantic argument, or provide an interpretation where they differ.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given two formulas, establish equivalence by valid laws, truth table, or semantic argument, or provide an interpretation where they differ.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:d6a7f4c3-05ee-4f04-bdaa-ded9b72b10a0",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "construct-audit-inferences-family",
+    "label": "Construct and audit inferences",
+    "definition": "A capability family within propositions-predicates-inference grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:b7d8b01f-14ed-4c4d-a1ee-f319898ea22c",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "determine-argument-validity",
+    "label": "Determine argument validity",
+    "definition": "Given formal premises and conclusion, establish semantic or proof-theoretic validity or construct a countermodel satisfying premises and falsifying the conclusion.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given formal premises and conclusion, establish semantic or proof-theoretic validity or construct a countermodel satisfying premises and falsifying the conclusion.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:c05cb80d-0cbf-416c-b485-89f4d9931ff3",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-formal-derivation",
+    "label": "Construct a formal derivation",
+    "definition": "Given premises, a goal, and a declared proof system, build a derivation using only licensed rules and discharge assumptions correctly.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given premises, a goal, and a declared proof system, build a derivation using only licensed rules and discharge assumptions correctly.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:bc7dd919-9ffd-4794-b80a-9e81199d3b09",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "audit-quantifier-inference",
+    "label": "Audit a quantified inference",
+    "definition": "Given a quantified argument, check domain, free and bound variables, instantiation, generalization conditions, negation, and quantifier order and locate an invalid step.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a quantified argument, check domain, free and bound variables, instantiation, generalization conditions, negation, and quantifier order and locate an invalid step.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:1c8cc6f7-83c8-4461-9005-53006578a339",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "axiomatic-set-universe",
+    "label": "Axiomatic set universe",
+    "definition": "A foundational domain of sets governed by explicit axioms for membership, construction, replacement, regularity, choice, or alternative principles.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:0018c352-a44e-49d1-bc49-9a8360cf1023",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "ordinal-cardinal-infinity",
+    "label": "Ordinal, cardinal, and infinity",
+    "definition": "Structures representing well-order type and equinumerosity, including finite, countable, and transfinite comparison.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:37678acc-a5eb-411e-9649-368eb3d41196",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "set-construction-paradox-independence",
+    "label": "Set construction, paradox, and independence",
+    "definition": "Unrestricted comprehension leads to paradox; axiomatic schemas constrain constructions, while some statements are independent of selected foundations.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:8882eda4-0c39-45d1-8fea-448619746b95",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "membership-hierarchy-ordinal-cardinal-map",
+    "label": "Membership hierarchy and ordinal–cardinal map",
+    "definition": "Cumulative hierarchies, membership graphs, well-orders, injections, surjections, and bijections representing foundational structure.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:33e20b45-51bc-4a32-97cd-0ab3c9059d5d",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "construct-compare-sets-cardinals-family",
+    "label": "Construct and compare sets and cardinals",
+    "definition": "A capability family within set-theoretic-foundations grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:96978d18-e5e3-44c8-9860-ba3653b3dc44",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-set-by-axioms",
+    "label": "Construct a set using admitted axioms",
+    "definition": "Given existing sets and a declared foundation, justify a requested set construction by specific axioms or schemas rather than unrestricted description.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given existing sets and a declared foundation, justify a requested set construction by specific axioms or schemas rather than unrestricted description.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:8dc8e7e1-906e-48e0-999c-aa376e6a49c9",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compare-set-cardinalities",
+    "label": "Compare set cardinalities",
+    "definition": "Given finite or standard infinite sets, construct injections, surjections, or bijections to establish cardinal comparison and state any choice assumptions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given finite or standard infinite sets, construct injections, surjections, or bijections to establish cardinal comparison and state any choice assumptions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:1118f686-2b74-4cc9-b96d-ca714c4db3f3",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "analyze-ordinal-well-order",
+    "label": "Analyze an ordinal or well-order",
+    "definition": "Given a bounded ordinal notation or well-ordered set, determine requested predecessor, successor, limit, order-type, or transfinite-recursion information.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a bounded ordinal notation or well-ordered set, determine requested predecessor, successor, limit, order-type, or transfinite-recursion information.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:837927e6-55d4-406d-b91d-59b29980168e",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "reason-about-foundations-family",
+    "label": "Reason about foundational claims",
+    "definition": "A capability family within set-theoretic-foundations grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:a906eaf3-374d-4c4b-b5e6-59d9f785a193",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "detect-naive-set-paradox",
+    "label": "Detect a naive set-theory paradox",
+    "definition": "Given an unrestricted collection definition, analyze self-membership or diagonal consequences and explain which foundational restriction prevents the contradiction.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given an unrestricted collection definition, analyze self-membership or diagonal consequences and explain which foundational restriction prevents the contradiction.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:a5104253-72ac-40f2-9e3b-6d7f8a93c163",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "prove-set-theoretic-identity",
+    "label": "Prove a set-theoretic identity",
+    "definition": "Given a scoped identity or inclusion, prove it by elementwise membership or extensionality with explicit universe and complement conventions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a scoped identity or inclusion, prove it by elementwise membership or extensionality with explicit universe and complement conventions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:3ab8c624-9fe7-4d50-9e76-fc24bd614d06",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "distinguish-theorem-independence-consistency",
+    "label": "Distinguish theorem, independence, and consistency claims",
+    "definition": "Given a foundational statement and specified axiom system, distinguish proof, refutation, relative consistency, and independence and avoid inferring truth from non-derivability alone.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a foundational statement and specified axiom system, distinguish proof, refutation, relative consistency, and independence and avoid inferring truth from non-derivability alone.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:d5a132d5-8a74-40ce-bf15-0c975087c72d",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "formal-language-structure-model",
+    "label": "Formal language, structure, and model",
+    "definition": "A vocabulary of symbols together with a domain and interpretations that make formulas meaningful and possibly true.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:ff3c3546-5567-4bb4-81b2-06d7702f595f",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "theory-satisfaction-elementary-equivalence",
+    "label": "Theory, satisfaction, and elementary equivalence",
+    "definition": "Sets of sentences, the relation of truth in a structure, and agreement on all sentences of a declared language.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:4e880f0d-d49e-4f59-b653-f2f6a0da247b",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "soundness-completeness-compactness-model",
+    "label": "Soundness, completeness, and compactness",
+    "definition": "Semantic consequence and formal derivability correspond under completeness, and finite satisfiability implies satisfiability under compactness for first-order logic.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:91ff86ea-7a36-415f-b362-6b5fc0a20941",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "formula-structure-interpretation-map",
+    "label": "Formula–structure interpretation map",
+    "definition": "Syntax trees, assignments, structures, elementary maps, and theory–model diagrams representing semantics.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:e1fa4834-e2b7-4bd8-9580-382c17adad10",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "evaluate-construct-models-family",
+    "label": "Evaluate and construct models",
+    "definition": "A capability family within model-theory grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:756c331e-a025-47d9-bd16-6723c5ac87e1",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "evaluate-first-order-satisfaction",
+    "label": "Evaluate first-order satisfaction",
+    "definition": "Given a finite or standard structure, formula, and assignment, determine satisfaction recursively while respecting language and variable scope.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a finite or standard structure, formula, and assignment, determine satisfaction recursively while respecting language and variable scope.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:b33d04d8-c7bd-45d3-9a0a-4ba1140727e6",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-model-or-countermodel",
+    "label": "Construct a model or countermodel",
+    "definition": "Given a bounded theory or argument, construct a structure satisfying specified sentences or a countermodel that separates premises from a conclusion.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a bounded theory or argument, construct a structure satisfying specified sentences or a countermodel that separates premises from a conclusion.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:2457b909-6e06-42d8-aa22-fd0c11eb45af",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compare-structures-elementarily",
+    "label": "Compare structures elementarily",
+    "definition": "Given structures in the same language and a bounded formula class or map, determine requested elementary agreement, embedding, or distinguishability evidence.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given structures in the same language and a bounded formula class or map, determine requested elementary agreement, embedding, or distinguishability evidence.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:676519ee-19e1-453d-bc70-6cb54a3d01dd",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "apply-model-theoretic-principles-family",
+    "label": "Apply model-theoretic principles",
+    "definition": "A capability family within model-theory grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:48296011-1188-40dd-a728-cb8124691031",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "apply-compactness-in-scope",
+    "label": "Apply compactness in scope",
+    "definition": "Given a first-order theory whose finite subsets have models, use compactness to derive a model or consequence and state why the claim is first-order.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a first-order theory whose finite subsets have models, use compactness to derive a model or consequence and state why the claim is first-order.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:89e04436-ae76-493e-b69b-3e57dbd1d9b2",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "connect-syntax-semantics",
+    "label": "Connect syntax and semantics",
+    "definition": "Given a first-order consequence or derivation problem, use soundness or completeness in the correct direction and distinguish proof-system from model assumptions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a first-order consequence or derivation problem, use soundness or completeness in the correct direction and distinguish proof-system from model assumptions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:c4244bfb-c8d6-479e-a989-3193dfe72ae9",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "audit-model-theory-claim",
+    "label": "Audit a model-theoretic claim",
+    "definition": "Given a claim, check language, structure class, cardinality, parameter use, first-order expressibility, and theorem conditions and construct a separating example when possible.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a claim, check language, structure class, cardinality, parameter use, first-order expressibility, and theorem conditions and construct a separating example when possible.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:ceeb75e8-517d-4de9-8024-9e6f234ff3a7",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "effective-computation-decision-problem",
+    "label": "Effective computation and decision problem",
+    "definition": "A formal procedure model and a yes–no problem represented by a language or predicate over encoded inputs.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:0d1db854-7aa1-482b-a23f-36c63da4e968",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "computable-enumerable-reduction",
+    "label": "Computability, enumerability, and reduction",
+    "definition": "Classes of functions or languages solvable, semidecidable, enumerable, or transformable to one another by effective maps.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:ed6747be-8190-4fea-833f-39c981ff547f",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "church-turing-halting-reducibility",
+    "label": "Church–Turing thesis, halting, and reducibility",
+    "definition": "Formal computation models share robust computability power; diagonalization and reductions establish undecidability, while the thesis itself is not a formal theorem.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:102a2b25-3c92-4f5b-8c9a-484fd50c421e",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "automaton-turing-machine-reduction-diagram",
+    "label": "Automaton, Turing-machine, and reduction diagram",
+    "definition": "State machines, transition tables, tapes, programs, encodings, and mapping-reduction diagrams representing computation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:e85603e3-ba78-46d4-b23a-be1875bc2001",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "construct-analyze-computations-family",
+    "label": "Construct and analyze formal computations",
+    "definition": "A capability family within computability-decidability grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:4ed6f264-f7b2-4cf0-98b8-5ff5879516ed",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "execute-formal-machine",
+    "label": "Execute a formal machine",
+    "definition": "Given a finite automaton, pushdown automaton, Turing machine, or declared program model and encoded input, trace configurations and determine acceptance, output, or divergence evidence.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a finite automaton, pushdown automaton, Turing machine, or declared program model and encoded input, trace configurations and determine acceptance, output, or divergence evidence.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:de1974ad-ea66-42db-8493-d09bb3054aff",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-decider-recognizer",
+    "label": "Construct a decider or recognizer",
+    "definition": "Given a language in scope, design a formal algorithm or machine, argue correctness, and distinguish guaranteed termination from semidecision.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a language in scope, design a formal algorithm or machine, argue correctness, and distinguish guaranteed termination from semidecision.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:e0cb9206-c632-4496-92b2-1c9d35dd9aa0",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "classify-language-computability",
+    "label": "Classify language computability",
+    "definition": "Given a decision problem and sufficient construction or theorem evidence, classify it as decidable, recognizable, co-recognizable, or undecidable under the declared model.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a decision problem and sufficient construction or theorem evidence, classify it as decidable, recognizable, co-recognizable, or undecidable under the declared model.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:074cd823-f1aa-43f5-b749-40bd0ba111f5",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "prove-undecidability-reducibility-family",
+    "label": "Prove and audit undecidability",
+    "definition": "A capability family within computability-decidability grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:ea375c6b-00cb-4627-a0cd-eaad613519c5",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-computability-reduction",
+    "label": "Construct a computability reduction",
+    "definition": "Given source and target decision problems, define an effective transformation, prove yes–no preservation, and use direction correctly to transfer decidability or hardness.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given source and target decision problems, define an effective transformation, prove yes–no preservation, and use direction correctly to transfer decidability or hardness.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:7def40b8-f0a7-4013-b409-33282f312413",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "prove-undecidability-by-diagonalization",
+    "label": "Prove undecidability by diagonalization",
+    "definition": "Given a suitable encoded computation class, construct a self-reference or diagonal argument and clearly state the assumed decider and contradiction.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a suitable encoded computation class, construct a self-reference or diagonal argument and clearly state the assumed decider and contradiction.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:7cd63976-e81b-4a1e-ba6f-dec79c4e3470",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "audit-computability-proof",
+    "label": "Audit a computability proof",
+    "definition": "Given a decidability or undecidability argument, check encoding, totality, termination, reduction direction, promise conditions, and whether enumeration is confused with decision.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a decidability or undecidability argument, check encoding, totality, termination, reduction direction, promise conditions, and whether enumeration is confused with decision.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:e2b54257-ec20-4892-bbf9-89faf7fee5ca",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "formal-language-algorithm-resource",
+    "label": "Formal language, algorithm, and resource",
+    "definition": "Encoded problem instances, procedures, and time, space, randomness, communication, query, or circuit resources measured as input grows.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:d62c3728-f477-49e4-b316-2e9500e6316e",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "complexity-class-completeness",
+    "label": "Complexity class and completeness",
+    "definition": "A set of problems bounded by a resource model and problems representing the class through specified reductions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:8407a0ef-00d0-411e-8892-c8a5353b85c5",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "asymptotic-reduction-complexity-hierarchy",
+    "label": "Asymptotic analysis, reductions, and complexity hierarchies",
+    "definition": "Resource bounds ignore selected constants but depend on model and encoding; reductions compare problems and establish hardness in a precise direction.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:1a885c91-de4a-419a-8308-e44e694998e2",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "machine-circuit-reduction-complexity-plot",
+    "label": "Machine, circuit, reduction, and complexity representation",
+    "definition": "Pseudocode, state models, circuits, reduction graphs, recurrences, and growth plots representing algorithms and resource use.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:e69bb70d-d2a3-443c-af0d-4d70052ee069",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "analyze-algorithms-complexity-family",
+    "label": "Analyze algorithms and complexity",
+    "definition": "A capability family within theoretical-computer-science-complexity grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:2181813d-bebf-4db5-91de-405a0b2af1cf",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "derive-algorithm-resource-bound",
+    "label": "Derive an algorithm resource bound",
+    "definition": "Given an algorithm, input model, and cost convention, derive a valid upper or lower asymptotic bound by counting operations, solving recurrences, or structural argument.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given an algorithm, input model, and cost convention, derive a valid upper or lower asymptotic bound by counting operations, solving recurrences, or structural argument.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:ecefe5c6-7f84-4641-9213-371c937bab88",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "classify-problem-complexity-class",
+    "label": "Classify a problem in a complexity class",
+    "definition": "Given a decision problem and resource definition, construct a compliant algorithm or verifier and justify membership without claiming hardness.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a decision problem and resource definition, construct a compliant algorithm or verifier and justify membership without claiming hardness.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:d0c2c5eb-9ae1-424a-be19-a9c627ce186a",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compare-asymptotic-complexity",
+    "label": "Compare asymptotic complexity",
+    "definition": "Given functions or algorithms under common model assumptions, compare growth using O, Omega, Theta, or parameterized bounds and state the relevant limit regime.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given functions or algorithms under common model assumptions, compare growth using O, Omega, Theta, or parameterized bounds and state the relevant limit regime.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:9cec5d14-3141-465f-896d-31218d66249f",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "construct-audit-complexity-reductions-family",
+    "label": "Construct and audit complexity reductions",
+    "definition": "A capability family within theoretical-computer-science-complexity grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:5d13ce74-9511-489a-ab73-3bf0ee298551",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-polynomial-time-reduction",
+    "label": "Construct a polynomial-time reduction",
+    "definition": "Given source and target problems, define a polynomial-time instance map, prove answer preservation, and use the correct direction to transfer hardness.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given source and target problems, define a polynomial-time instance map, prove answer preservation, and use the correct direction to transfer hardness.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:c6ce7658-5d2c-4f0f-bd5c-0a2556356741",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "establish-completeness-in-scope",
+    "label": "Establish completeness in scope",
+    "definition": "Given a problem, show membership in a class and hardness from a known complete problem under the specified reduction, including encoding size.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a problem, show membership in a class and hardness from a known complete problem under the specified reduction, including encoding size.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:0735637f-a2b2-41ee-883e-7e34797b2f5a",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "audit-complexity-claim",
+    "label": "Audit a complexity claim",
+    "definition": "Given a theoretical efficiency claim, check model, encoding, worst versus average case, hidden parameters, reduction type, promise assumptions, and whether empirical speed implies class separation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a theoretical efficiency claim, check model, encoding, worst versus average case, hidden parameters, reduction type, promise assumptions, and whether empirical speed implies class separation.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:79be77a0-4b27-47ab-8314-c6ff827b9214",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "type-term-judgment",
+    "label": "Type, term, and judgment",
+    "definition": "Syntactic or semantic objects classifying expressions and assertions within a specified type theory or proof system.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:eb2ed4e8-cf22-4a91-9a5b-98eddf973709",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "category-functor-natural-transformation",
+    "label": "Category, functor, and natural transformation",
+    "definition": "Objects and composable morphisms, structure-preserving mappings between categories, and coherent mappings between functors.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:e4d1ac5e-4de0-4ffd-9a67-ad1bf351d778",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "curry-howard-universal-property-coherence",
+    "label": "Curry–Howard, universal property, and coherence",
+    "definition": "Proofs may correspond to typed terms; universal properties specify objects through mappings, and categorical diagrams express compositional equality.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:8ef7cd4c-4928-4920-a2f9-4ec451cb95ba",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "proof-term-type-derivation-commutative-diagram",
+    "label": "Proof term, type derivation, and commutative diagram",
+    "definition": "Typing trees, proof terms, dependent contexts, string diagrams, and commutative diagrams representing foundations and composition.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:80658602-8067-43b6-b82e-d64d2f0a9be6",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "construct-check-typed-proofs-family",
+    "label": "Construct and check typed proofs",
+    "definition": "A capability family within type-proof-category-foundations grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:b053bc40-966d-404a-8b3e-3671355c70fa",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "derive-typing-judgment",
+    "label": "Derive a typing judgment",
+    "definition": "Given a context, term, and formal typing rules, construct a derivation or identify the first rule whose premises fail.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a context, term, and formal typing rules, construct a derivation or identify the first rule whose premises fail.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:6c0981f7-b369-4f55-b57c-3318e8321070",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "normalize-proof-term-in-scope",
+    "label": "Normalize a proof term in scope",
+    "definition": "Given a typed lambda or proof term and reduction rules, perform valid reductions, avoid variable capture, and verify preservation of type where required.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a typed lambda or proof term and reduction rules, perform valid reductions, avoid variable capture, and verify preservation of type where required.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:c6e1a101-668d-4a45-af84-e7ea3d5408f0",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "translate-proposition-type-proof",
+    "label": "Translate among proposition, type, and proof",
+    "definition": "Given a bounded logical fragment under Curry–Howard, construct corresponding types and terms and state where classical, dependent, or extensional assumptions matter.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a bounded logical fragment under Curry–Howard, construct corresponding types and terms and state where classical, dependent, or extensional assumptions matter.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:692d5914-1363-4867-bda4-db959ca6aebb",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "analyze-categorical-structure-family",
+    "label": "Analyze categorical structure",
+    "definition": "A capability family within type-proof-category-foundations grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:0ed11140-947d-495f-8258-f91309d70f51",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "verify-category-functor",
+    "label": "Verify a category or functor",
+    "definition": "Given objects, morphisms, composition, identities, or a proposed mapping, check category or functor laws and provide failed cases when invalid.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given objects, morphisms, composition, identities, or a proposed mapping, check category or functor laws and provide failed cases when invalid.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:bf9ceaf2-3103-4060-8f9a-e5556104988e",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "use-universal-property",
+    "label": "Use a universal property",
+    "definition": "Given a product, coproduct, limit, adjunction, or other declared universal object, construct the unique mediating morphism and verify its equations.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a product, coproduct, limit, adjunction, or other declared universal object, construct the unique mediating morphism and verify its equations.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:3806db73-4a23-49dd-b66b-45f199168bbc",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "audit-commutative-diagram-argument",
+    "label": "Audit a commutative-diagram argument",
+    "definition": "Given a categorical argument, check object and morphism types, composition order, naturality, commutativity, and existence or uniqueness assumptions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a categorical argument, check object and morphism types, composition order, naturality, commutativity, and existence or uniqueness assumptions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:b0a7930b-53d1-4f59-9d2e-fb7ec145ee41",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "code-message-channel",
+    "label": "Code, message, and channel",
+    "definition": "Mappings between source messages and encoded words transmitted or stored through a channel with declared error behavior.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:3603b001-96bc-4469-bb66-8fd93e1f245d",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "entropy-information-divergence",
+    "label": "Entropy, information, and divergence",
+    "definition": "Functionals quantifying uncertainty, expected description length, mutual dependence, or discrepancy between probability laws.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:40547e60-f821-4582-944b-4d165e41c0b1",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "source-channel-coding-limits",
+    "label": "Source and channel coding limits",
+    "definition": "Entropy bounds average lossless compression and mutual information constrains reliable communication rates under model and asymptotic conditions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:4c8e023c-3ef8-4044-bfa6-5d12396f509c",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "code-tree-channel-matrix-information-diagram",
+    "label": "Code tree, channel matrix, and information diagram",
+    "definition": "Prefix trees, generator or parity matrices, probability channels, typical sets, and information diagrams representing coding structure.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:6437f3a1-786b-4ada-814e-88fe6e98ec40",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "construct-analyze-codes-family",
+    "label": "Construct and analyze codes",
+    "definition": "A capability family within coding-information-theory grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:73468a30-45f9-40c9-bbae-f9a2ccc743d7",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-prefix-or-block-code",
+    "label": "Construct a prefix or block code",
+    "definition": "Given a finite source alphabet and constraints, construct codewords satisfying prefix, block, or distance conditions and verify unique decodability or correction scope.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a finite source alphabet and constraints, construct codewords satisfying prefix, block, or distance conditions and verify unique decodability or correction scope.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:d57e0d1e-f01c-4d17-a39c-56692c22abc2",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "encode-decode-message",
+    "label": "Encode or decode a message",
+    "definition": "Given a specified code and message or received word, perform encoding or decoding, identify correctable errors, and report ambiguity when guarantees fail.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a specified code and message or received word, perform encoding or decoding, identify correctable errors, and report ambiguity when guarantees fail.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:781edf63-d2ac-4dc9-a2be-ec4a2c01707d",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compute-code-rate-distance",
+    "label": "Compute code rate or distance",
+    "definition": "Given a finite code, determine length, size, rate, minimum distance, and declared detection or correction capability and verify from definitions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a finite code, determine length, size, rate, minimum distance, and declared detection or correction capability and verify from definitions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:ebd57020-2d75-4bc3-be2b-7932c5e8d10b",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "quantify-information-limits-family",
+    "label": "Quantify information and limits",
+    "definition": "A capability family within coding-information-theory grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:58b04f16-3a08-48ef-866e-cf58e76fb1eb",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compute-entropy-mutual-information",
+    "label": "Compute entropy or mutual information",
+    "definition": "Given a finite probability distribution or joint law, compute requested entropy, conditional entropy, divergence, or mutual information with correct log base and zero conventions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a finite probability distribution or joint law, compute requested entropy, conditional entropy, divergence, or mutual information with correct log base and zero conventions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:a5a50049-5019-4d73-8331-a255d7254286",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "analyze-channel-capacity-in-scope",
+    "label": "Analyze channel capacity in scope",
+    "definition": "Given a finite memoryless channel or symmetric special case, determine or bound capacity using admissible optimization and state coding and asymptotic assumptions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a finite memoryless channel or symmetric special case, determine or bound capacity using admissible optimization and state coding and asymptotic assumptions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:f6fe58d0-b5c7-4b4f-b830-e0e1b5ade416",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "audit-information-theoretic-claim",
+    "label": "Audit an information-theoretic claim",
+    "definition": "Given a compression, privacy, communication, or learning claim, check distribution, code class, loss, block length, error criterion, asymptotics, and whether entropy is misinterpreted as semantic information.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a compression, privacy, communication, or learning claim, check distribution, code class, loss, block length, error criterion, asymptotics, and whether entropy is misinterpreted as semantic information.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  }
+]

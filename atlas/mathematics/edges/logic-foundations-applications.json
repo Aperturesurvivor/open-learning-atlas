@@ -1,0 +1,4802 @@
+[
+  {
+    "id": "ola:e:c89c1d77-5484-4405-83d4-cd565ebeda0a",
+    "revision": 1,
+    "subject": "ola:n:b3ab04de-2580-470b-ad28-a34046e57525",
+    "relation": "composed_of",
+    "object": "ola:n:b12cf4c9-7be6-45cc-bc6f-74eb9a230048",
+    "rationale": "Set membership and operation is material terrain within sets-relations-finite-structures; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a45526ce-fe84-4571-9295-b162a8e49993",
+    "revision": 1,
+    "subject": "ola:n:b3ab04de-2580-470b-ad28-a34046e57525",
+    "relation": "composed_of",
+    "object": "ola:n:8bad4a5e-019f-40f8-a337-01e7bbef0e8a",
+    "rationale": "Finite relation structure is material terrain within sets-relations-finite-structures; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:02e9133f-3753-47d6-9a73-42e3eceec569",
+    "revision": 1,
+    "subject": "ola:n:b3ab04de-2580-470b-ad28-a34046e57525",
+    "relation": "composed_of",
+    "object": "ola:n:5e81183d-9ecc-4689-9d65-9a1b9eee4357",
+    "rationale": "Set and relation algebra laws is material terrain within sets-relations-finite-structures; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:425a76cc-d088-4dc2-be5e-e55a982ee44a",
+    "revision": 1,
+    "subject": "ola:n:b3ab04de-2580-470b-ad28-a34046e57525",
+    "relation": "composed_of",
+    "object": "ola:n:46884dc6-77c6-4337-a4b9-c568457a9a93",
+    "rationale": "Venn, relation-matrix, and digraph representation is material terrain within sets-relations-finite-structures; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f745b126-bdee-46ec-ae8e-d9a1c5f29447",
+    "revision": 1,
+    "subject": "ola:n:b3ab04de-2580-470b-ad28-a34046e57525",
+    "relation": "composed_of",
+    "object": "ola:n:c8fcc3fa-821d-4468-82f2-6c46499291a9",
+    "rationale": "Operate on and represent finite structures is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:98c16fb0-ea63-4e41-a2ea-462dda8341ca",
+    "revision": 1,
+    "subject": "ola:n:c8fcc3fa-821d-4468-82f2-6c46499291a9",
+    "relation": "composed_of",
+    "object": "ola:n:9dd27f0e-2b1e-4b5f-946b-6068881ca27f",
+    "rationale": "Compute set operations is a bounded performance within Operate on and represent finite structures.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ec0e3c02-56de-4dde-9507-c594ec011870",
+    "revision": 1,
+    "subject": "ola:n:9dd27f0e-2b1e-4b5f-946b-6068881ca27f",
+    "relation": "uses_concept",
+    "object": "ola:n:b12cf4c9-7be6-45cc-bc6f-74eb9a230048",
+    "rationale": "Demonstrating Compute set operations materially invokes Set membership and operation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e5afa85d-cd62-4f3c-8cd1-a1a802ea0e48",
+    "revision": 1,
+    "subject": "ola:n:9dd27f0e-2b1e-4b5f-946b-6068881ca27f",
+    "relation": "uses_knowledge",
+    "object": "ola:n:5e81183d-9ecc-4689-9d65-9a1b9eee4357",
+    "rationale": "Demonstrating Compute set operations materially invokes Set and relation algebra laws at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7f4f0c41-880e-4165-a166-fba3ae47d77e",
+    "revision": 1,
+    "subject": "ola:n:9dd27f0e-2b1e-4b5f-946b-6068881ca27f",
+    "relation": "uses_representation",
+    "object": "ola:n:46884dc6-77c6-4337-a4b9-c568457a9a93",
+    "rationale": "Demonstrating Compute set operations materially invokes Venn, relation-matrix, and digraph representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e8ef66a8-6db3-4f5b-b635-fb882f7300f8",
+    "revision": 1,
+    "subject": "ola:n:c8fcc3fa-821d-4468-82f2-6c46499291a9",
+    "relation": "composed_of",
+    "object": "ola:n:4d2a410d-d1de-446d-84c5-f3067184080f",
+    "rationale": "Represent a finite relation is a bounded performance within Operate on and represent finite structures.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:889e29eb-41da-4b84-ba50-a93747ea1ad7",
+    "revision": 1,
+    "subject": "ola:n:4d2a410d-d1de-446d-84c5-f3067184080f",
+    "relation": "uses_concept",
+    "object": "ola:n:b12cf4c9-7be6-45cc-bc6f-74eb9a230048",
+    "rationale": "Demonstrating Represent a finite relation materially invokes Set membership and operation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:6a74cdd9-ede3-496e-87e0-0fe82f2d77ac",
+    "revision": 1,
+    "subject": "ola:n:4d2a410d-d1de-446d-84c5-f3067184080f",
+    "relation": "uses_knowledge",
+    "object": "ola:n:5e81183d-9ecc-4689-9d65-9a1b9eee4357",
+    "rationale": "Demonstrating Represent a finite relation materially invokes Set and relation algebra laws at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:53bd58b5-fad4-4b91-8e12-5d9a7ec924b7",
+    "revision": 1,
+    "subject": "ola:n:4d2a410d-d1de-446d-84c5-f3067184080f",
+    "relation": "uses_representation",
+    "object": "ola:n:46884dc6-77c6-4337-a4b9-c568457a9a93",
+    "rationale": "Demonstrating Represent a finite relation materially invokes Venn, relation-matrix, and digraph representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b6d37606-986e-41cd-b445-eafe62760c2a",
+    "revision": 1,
+    "subject": "ola:n:c8fcc3fa-821d-4468-82f2-6c46499291a9",
+    "relation": "composed_of",
+    "object": "ola:n:73467066-65ba-4f56-8e95-97e38bd72db2",
+    "rationale": "Determine relation properties is a bounded performance within Operate on and represent finite structures.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:298d0c20-0a2b-473e-b9aa-d04e5db40a72",
+    "revision": 1,
+    "subject": "ola:n:73467066-65ba-4f56-8e95-97e38bd72db2",
+    "relation": "uses_concept",
+    "object": "ola:n:b12cf4c9-7be6-45cc-bc6f-74eb9a230048",
+    "rationale": "Demonstrating Determine relation properties materially invokes Set membership and operation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:756a5ce6-f6ca-4c7e-8196-e13f9bd747ee",
+    "revision": 1,
+    "subject": "ola:n:73467066-65ba-4f56-8e95-97e38bd72db2",
+    "relation": "uses_knowledge",
+    "object": "ola:n:5e81183d-9ecc-4689-9d65-9a1b9eee4357",
+    "rationale": "Demonstrating Determine relation properties materially invokes Set and relation algebra laws at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b133de55-dd35-45af-9efa-854ea2369546",
+    "revision": 1,
+    "subject": "ola:n:73467066-65ba-4f56-8e95-97e38bd72db2",
+    "relation": "uses_representation",
+    "object": "ola:n:46884dc6-77c6-4337-a4b9-c568457a9a93",
+    "rationale": "Demonstrating Determine relation properties materially invokes Venn, relation-matrix, and digraph representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:5dc70ff5-696a-4655-b5d3-5ccca3594b43",
+    "revision": 1,
+    "subject": "ola:n:b3ab04de-2580-470b-ad28-a34046e57525",
+    "relation": "composed_of",
+    "object": "ola:n:9b251403-31e4-411f-8501-d673b664c89b",
+    "rationale": "Analyze and construct finite structures is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:be0142e7-263c-43ec-8949-ff252afe9776",
+    "revision": 1,
+    "subject": "ola:n:9b251403-31e4-411f-8501-d673b664c89b",
+    "relation": "composed_of",
+    "object": "ola:n:a7fe4cde-23f4-4ee9-958d-051f8bb7f7ea",
+    "rationale": "Compute equivalence classes is a bounded performance within Analyze and construct finite structures.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:19734713-3695-46de-9e71-107401708e3e",
+    "revision": 1,
+    "subject": "ola:n:a7fe4cde-23f4-4ee9-958d-051f8bb7f7ea",
+    "relation": "uses_concept",
+    "object": "ola:n:8bad4a5e-019f-40f8-a337-01e7bbef0e8a",
+    "rationale": "Demonstrating Compute equivalence classes materially invokes Finite relation structure at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:5ec62029-8f43-4bb8-9035-354637e143ad",
+    "revision": 1,
+    "subject": "ola:n:a7fe4cde-23f4-4ee9-958d-051f8bb7f7ea",
+    "relation": "uses_knowledge",
+    "object": "ola:n:5e81183d-9ecc-4689-9d65-9a1b9eee4357",
+    "rationale": "Demonstrating Compute equivalence classes materially invokes Set and relation algebra laws at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:cd79dcf9-b134-45e3-b9cd-f68323ab667b",
+    "revision": 1,
+    "subject": "ola:n:a7fe4cde-23f4-4ee9-958d-051f8bb7f7ea",
+    "relation": "uses_representation",
+    "object": "ola:n:46884dc6-77c6-4337-a4b9-c568457a9a93",
+    "rationale": "Demonstrating Compute equivalence classes materially invokes Venn, relation-matrix, and digraph representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4e7173a4-a12d-47ee-84c2-06bf33f5b624",
+    "revision": 1,
+    "subject": "ola:n:9b251403-31e4-411f-8501-d673b664c89b",
+    "relation": "composed_of",
+    "object": "ola:n:2561bc2e-0936-4a86-baca-5cbc823ae0ca",
+    "rationale": "Compute relation closure or composition is a bounded performance within Analyze and construct finite structures.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:327999a3-b578-4ec5-8c5c-76e83952250e",
+    "revision": 1,
+    "subject": "ola:n:2561bc2e-0936-4a86-baca-5cbc823ae0ca",
+    "relation": "uses_concept",
+    "object": "ola:n:8bad4a5e-019f-40f8-a337-01e7bbef0e8a",
+    "rationale": "Demonstrating Compute relation closure or composition materially invokes Finite relation structure at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:99d52a89-558e-45ee-b5eb-7cfb3e6bc334",
+    "revision": 1,
+    "subject": "ola:n:2561bc2e-0936-4a86-baca-5cbc823ae0ca",
+    "relation": "uses_knowledge",
+    "object": "ola:n:5e81183d-9ecc-4689-9d65-9a1b9eee4357",
+    "rationale": "Demonstrating Compute relation closure or composition materially invokes Set and relation algebra laws at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b72989f7-f2e5-42bc-92f1-0533d3db5796",
+    "revision": 1,
+    "subject": "ola:n:2561bc2e-0936-4a86-baca-5cbc823ae0ca",
+    "relation": "uses_representation",
+    "object": "ola:n:46884dc6-77c6-4337-a4b9-c568457a9a93",
+    "rationale": "Demonstrating Compute relation closure or composition materially invokes Venn, relation-matrix, and digraph representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:52d39c15-a5b7-4b08-ad69-fbe3385c6779",
+    "revision": 1,
+    "subject": "ola:n:9b251403-31e4-411f-8501-d673b664c89b",
+    "relation": "composed_of",
+    "object": "ola:n:8d44a9c2-fbde-4b86-a69f-0e3d73b357b9",
+    "rationale": "Prove a finite set or relation claim is a bounded performance within Analyze and construct finite structures.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d06c86b2-d9c0-40e4-89ac-6f4963a7b07b",
+    "revision": 1,
+    "subject": "ola:n:8d44a9c2-fbde-4b86-a69f-0e3d73b357b9",
+    "relation": "uses_concept",
+    "object": "ola:n:8bad4a5e-019f-40f8-a337-01e7bbef0e8a",
+    "rationale": "Demonstrating Prove a finite set or relation claim materially invokes Finite relation structure at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2e70cdbe-4a7a-4573-98a0-d8bf4bbd4a14",
+    "revision": 1,
+    "subject": "ola:n:8d44a9c2-fbde-4b86-a69f-0e3d73b357b9",
+    "relation": "uses_knowledge",
+    "object": "ola:n:5e81183d-9ecc-4689-9d65-9a1b9eee4357",
+    "rationale": "Demonstrating Prove a finite set or relation claim materially invokes Set and relation algebra laws at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:611b1ae9-17f8-4fb2-aae0-9aca0bfaf744",
+    "revision": 1,
+    "subject": "ola:n:8d44a9c2-fbde-4b86-a69f-0e3d73b357b9",
+    "relation": "uses_representation",
+    "object": "ola:n:46884dc6-77c6-4337-a4b9-c568457a9a93",
+    "rationale": "Demonstrating Prove a finite set or relation claim materially invokes Venn, relation-matrix, and digraph representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:993a2c14-2e66-478e-886c-46757c6423da",
+    "revision": 1,
+    "subject": "ola:n:b079694e-93de-442b-9b17-5e9828267aba",
+    "relation": "composed_of",
+    "object": "ola:n:dbaf1e30-ab65-4b0e-9339-21fb07655e5d",
+    "rationale": "Proposition, predicate, and valuation is material terrain within propositions-predicates-inference; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8d8a40ae-0e26-4d24-81e1-a1a327a4d32d",
+    "revision": 1,
+    "subject": "ola:n:b079694e-93de-442b-9b17-5e9828267aba",
+    "relation": "composed_of",
+    "object": "ola:n:94b21db9-b40b-4564-9e3f-008ff56f4863",
+    "rationale": "Logical consequence and inference rule is material terrain within propositions-predicates-inference; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e4816dda-8075-4feb-834e-07aea058a2e4",
+    "revision": 1,
+    "subject": "ola:n:b079694e-93de-442b-9b17-5e9828267aba",
+    "relation": "composed_of",
+    "object": "ola:n:b9f877ed-238e-40d7-9c68-1c4545eb27d4",
+    "rationale": "Connective, quantifier, and inference semantics is material terrain within propositions-predicates-inference; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:267cc1f6-be04-47eb-9203-b07eba7c7f6f",
+    "revision": 1,
+    "subject": "ola:n:b079694e-93de-442b-9b17-5e9828267aba",
+    "relation": "composed_of",
+    "object": "ola:n:43ddb944-8efe-4b64-935b-ce27d4b11e25",
+    "rationale": "Truth table, formula, and proof-tree representation is material terrain within propositions-predicates-inference; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:58666bb5-9166-4c10-847a-fb09cbaac32e",
+    "revision": 1,
+    "subject": "ola:n:b079694e-93de-442b-9b17-5e9828267aba",
+    "relation": "composed_of",
+    "object": "ola:n:82becf11-0d56-4f81-a3f7-f3ff6ea68a38",
+    "rationale": "Interpret and evaluate formal logic is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:3e2bc123-e108-4a36-84b4-830c48e42f4a",
+    "revision": 1,
+    "subject": "ola:n:82becf11-0d56-4f81-a3f7-f3ff6ea68a38",
+    "relation": "composed_of",
+    "object": "ola:n:14c61292-7a43-48a5-a3e9-e7f07f68bd58",
+    "rationale": "Translate prose into predicate logic is a bounded performance within Interpret and evaluate formal logic.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:6bbf7acf-f716-444a-9c08-bcdb2106e2c5",
+    "revision": 1,
+    "subject": "ola:n:14c61292-7a43-48a5-a3e9-e7f07f68bd58",
+    "relation": "uses_concept",
+    "object": "ola:n:dbaf1e30-ab65-4b0e-9339-21fb07655e5d",
+    "rationale": "Demonstrating Translate prose into predicate logic materially invokes Proposition, predicate, and valuation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b107687d-fb00-491f-8dbf-db365ea86672",
+    "revision": 1,
+    "subject": "ola:n:14c61292-7a43-48a5-a3e9-e7f07f68bd58",
+    "relation": "uses_knowledge",
+    "object": "ola:n:b9f877ed-238e-40d7-9c68-1c4545eb27d4",
+    "rationale": "Demonstrating Translate prose into predicate logic materially invokes Connective, quantifier, and inference semantics at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:43d68e94-edd6-4dfd-9c21-6516796a313e",
+    "revision": 1,
+    "subject": "ola:n:14c61292-7a43-48a5-a3e9-e7f07f68bd58",
+    "relation": "uses_representation",
+    "object": "ola:n:43ddb944-8efe-4b64-935b-ce27d4b11e25",
+    "rationale": "Demonstrating Translate prose into predicate logic materially invokes Truth table, formula, and proof-tree representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4da929ec-2072-430f-8548-268343fcd72c",
+    "revision": 1,
+    "subject": "ola:n:82becf11-0d56-4f81-a3f7-f3ff6ea68a38",
+    "relation": "composed_of",
+    "object": "ola:n:939152d9-1ca8-4dd5-8ca5-725dc90f88b7",
+    "rationale": "Evaluate a formula under a valuation is a bounded performance within Interpret and evaluate formal logic.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:9c270206-f845-4fc4-aa0a-55ac83b6b021",
+    "revision": 1,
+    "subject": "ola:n:939152d9-1ca8-4dd5-8ca5-725dc90f88b7",
+    "relation": "uses_concept",
+    "object": "ola:n:dbaf1e30-ab65-4b0e-9339-21fb07655e5d",
+    "rationale": "Demonstrating Evaluate a formula under a valuation materially invokes Proposition, predicate, and valuation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8a334983-58f4-44c4-96b2-78b0d5ccf06c",
+    "revision": 1,
+    "subject": "ola:n:939152d9-1ca8-4dd5-8ca5-725dc90f88b7",
+    "relation": "uses_knowledge",
+    "object": "ola:n:b9f877ed-238e-40d7-9c68-1c4545eb27d4",
+    "rationale": "Demonstrating Evaluate a formula under a valuation materially invokes Connective, quantifier, and inference semantics at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:69d6d45f-b64b-45f7-bc1f-c8aae1ae1757",
+    "revision": 1,
+    "subject": "ola:n:939152d9-1ca8-4dd5-8ca5-725dc90f88b7",
+    "relation": "uses_representation",
+    "object": "ola:n:43ddb944-8efe-4b64-935b-ce27d4b11e25",
+    "rationale": "Demonstrating Evaluate a formula under a valuation materially invokes Truth table, formula, and proof-tree representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c053a7e1-a6c4-4f13-91d5-16cd5c875665",
+    "revision": 1,
+    "subject": "ola:n:82becf11-0d56-4f81-a3f7-f3ff6ea68a38",
+    "relation": "composed_of",
+    "object": "ola:n:baaf0e59-c339-442c-a825-7ea1ff97db56",
+    "rationale": "Determine logical equivalence is a bounded performance within Interpret and evaluate formal logic.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b0956dbb-f69a-4066-a3f7-c401878ec2e5",
+    "revision": 1,
+    "subject": "ola:n:baaf0e59-c339-442c-a825-7ea1ff97db56",
+    "relation": "uses_concept",
+    "object": "ola:n:dbaf1e30-ab65-4b0e-9339-21fb07655e5d",
+    "rationale": "Demonstrating Determine logical equivalence materially invokes Proposition, predicate, and valuation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:15263330-a4be-4625-ad15-0fc3acdd36e8",
+    "revision": 1,
+    "subject": "ola:n:baaf0e59-c339-442c-a825-7ea1ff97db56",
+    "relation": "uses_knowledge",
+    "object": "ola:n:b9f877ed-238e-40d7-9c68-1c4545eb27d4",
+    "rationale": "Demonstrating Determine logical equivalence materially invokes Connective, quantifier, and inference semantics at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:bdf31cb9-9251-48cc-b5f7-e3e7ca117bef",
+    "revision": 1,
+    "subject": "ola:n:baaf0e59-c339-442c-a825-7ea1ff97db56",
+    "relation": "uses_representation",
+    "object": "ola:n:43ddb944-8efe-4b64-935b-ce27d4b11e25",
+    "rationale": "Demonstrating Determine logical equivalence materially invokes Truth table, formula, and proof-tree representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8ba211e8-435c-4cc7-a449-3b7f33c2231d",
+    "revision": 1,
+    "subject": "ola:n:b079694e-93de-442b-9b17-5e9828267aba",
+    "relation": "composed_of",
+    "object": "ola:n:d6a7f4c3-05ee-4f04-bdaa-ded9b72b10a0",
+    "rationale": "Construct and audit inferences is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:bfc5ed11-f82a-437b-a57a-f3987ff9b714",
+    "revision": 1,
+    "subject": "ola:n:d6a7f4c3-05ee-4f04-bdaa-ded9b72b10a0",
+    "relation": "composed_of",
+    "object": "ola:n:b7d8b01f-14ed-4c4d-a1ee-f319898ea22c",
+    "rationale": "Determine argument validity is a bounded performance within Construct and audit inferences.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f6649981-b76a-4794-ab81-26acf5a1e329",
+    "revision": 1,
+    "subject": "ola:n:b7d8b01f-14ed-4c4d-a1ee-f319898ea22c",
+    "relation": "uses_concept",
+    "object": "ola:n:94b21db9-b40b-4564-9e3f-008ff56f4863",
+    "rationale": "Demonstrating Determine argument validity materially invokes Logical consequence and inference rule at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:03ceb111-bea1-4cfa-a443-eb91e516b107",
+    "revision": 1,
+    "subject": "ola:n:b7d8b01f-14ed-4c4d-a1ee-f319898ea22c",
+    "relation": "uses_knowledge",
+    "object": "ola:n:b9f877ed-238e-40d7-9c68-1c4545eb27d4",
+    "rationale": "Demonstrating Determine argument validity materially invokes Connective, quantifier, and inference semantics at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:49f98759-084f-4ecf-a0c9-b74ad8d0fba6",
+    "revision": 1,
+    "subject": "ola:n:b7d8b01f-14ed-4c4d-a1ee-f319898ea22c",
+    "relation": "uses_representation",
+    "object": "ola:n:43ddb944-8efe-4b64-935b-ce27d4b11e25",
+    "rationale": "Demonstrating Determine argument validity materially invokes Truth table, formula, and proof-tree representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:3b6b2268-a7bc-4d4f-9841-f252a77fc0ed",
+    "revision": 1,
+    "subject": "ola:n:d6a7f4c3-05ee-4f04-bdaa-ded9b72b10a0",
+    "relation": "composed_of",
+    "object": "ola:n:c05cb80d-0cbf-416c-b485-89f4d9931ff3",
+    "rationale": "Construct a formal derivation is a bounded performance within Construct and audit inferences.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:26005634-ed0b-41c7-a12c-b5ea83680223",
+    "revision": 1,
+    "subject": "ola:n:c05cb80d-0cbf-416c-b485-89f4d9931ff3",
+    "relation": "uses_concept",
+    "object": "ola:n:94b21db9-b40b-4564-9e3f-008ff56f4863",
+    "rationale": "Demonstrating Construct a formal derivation materially invokes Logical consequence and inference rule at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:bc1055e6-1f09-4c7f-9343-95629b76aaff",
+    "revision": 1,
+    "subject": "ola:n:c05cb80d-0cbf-416c-b485-89f4d9931ff3",
+    "relation": "uses_knowledge",
+    "object": "ola:n:b9f877ed-238e-40d7-9c68-1c4545eb27d4",
+    "rationale": "Demonstrating Construct a formal derivation materially invokes Connective, quantifier, and inference semantics at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4091d58b-feeb-48f2-8361-0f96edf5341d",
+    "revision": 1,
+    "subject": "ola:n:c05cb80d-0cbf-416c-b485-89f4d9931ff3",
+    "relation": "uses_representation",
+    "object": "ola:n:43ddb944-8efe-4b64-935b-ce27d4b11e25",
+    "rationale": "Demonstrating Construct a formal derivation materially invokes Truth table, formula, and proof-tree representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ae386afb-784b-4011-9c1f-014ce06ec6c7",
+    "revision": 1,
+    "subject": "ola:n:d6a7f4c3-05ee-4f04-bdaa-ded9b72b10a0",
+    "relation": "composed_of",
+    "object": "ola:n:bc7dd919-9ffd-4794-b80a-9e81199d3b09",
+    "rationale": "Audit a quantified inference is a bounded performance within Construct and audit inferences.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:dc6be6a0-eb2d-497d-8bc7-9c4a165c9923",
+    "revision": 1,
+    "subject": "ola:n:bc7dd919-9ffd-4794-b80a-9e81199d3b09",
+    "relation": "uses_concept",
+    "object": "ola:n:94b21db9-b40b-4564-9e3f-008ff56f4863",
+    "rationale": "Demonstrating Audit a quantified inference materially invokes Logical consequence and inference rule at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b8a441f4-4b4f-432a-81d3-f866b1d41039",
+    "revision": 1,
+    "subject": "ola:n:bc7dd919-9ffd-4794-b80a-9e81199d3b09",
+    "relation": "uses_knowledge",
+    "object": "ola:n:b9f877ed-238e-40d7-9c68-1c4545eb27d4",
+    "rationale": "Demonstrating Audit a quantified inference materially invokes Connective, quantifier, and inference semantics at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ffcf2e3b-e4bd-45d1-b7b5-d9fe1e69597c",
+    "revision": 1,
+    "subject": "ola:n:bc7dd919-9ffd-4794-b80a-9e81199d3b09",
+    "relation": "uses_representation",
+    "object": "ola:n:43ddb944-8efe-4b64-935b-ce27d4b11e25",
+    "rationale": "Demonstrating Audit a quantified inference materially invokes Truth table, formula, and proof-tree representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:723cf914-062d-450a-9848-f0be92051ea4",
+    "revision": 1,
+    "subject": "ola:n:57301c82-bc6a-45c4-8d3d-701bd69b1e74",
+    "relation": "composed_of",
+    "object": "ola:n:1c8cc6f7-83c8-4461-9005-53006578a339",
+    "rationale": "Axiomatic set universe is material terrain within set-theoretic-foundations; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7ee7b47d-3b0e-42eb-965b-eb9c976f6e25",
+    "revision": 1,
+    "subject": "ola:n:57301c82-bc6a-45c4-8d3d-701bd69b1e74",
+    "relation": "composed_of",
+    "object": "ola:n:0018c352-a44e-49d1-bc49-9a8360cf1023",
+    "rationale": "Ordinal, cardinal, and infinity is material terrain within set-theoretic-foundations; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b4a2aed0-dd4e-490a-aefe-ad88fec552c3",
+    "revision": 1,
+    "subject": "ola:n:57301c82-bc6a-45c4-8d3d-701bd69b1e74",
+    "relation": "composed_of",
+    "object": "ola:n:37678acc-a5eb-411e-9649-368eb3d41196",
+    "rationale": "Set construction, paradox, and independence is material terrain within set-theoretic-foundations; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:74ce7c64-a1f0-4303-af2c-7d930711b396",
+    "revision": 1,
+    "subject": "ola:n:57301c82-bc6a-45c4-8d3d-701bd69b1e74",
+    "relation": "composed_of",
+    "object": "ola:n:8882eda4-0c39-45d1-8fea-448619746b95",
+    "rationale": "Membership hierarchy and ordinal–cardinal map is material terrain within set-theoretic-foundations; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:11c93411-653f-46ae-a5ea-8c127ba301c5",
+    "revision": 1,
+    "subject": "ola:n:57301c82-bc6a-45c4-8d3d-701bd69b1e74",
+    "relation": "composed_of",
+    "object": "ola:n:33e20b45-51bc-4a32-97cd-0ab3c9059d5d",
+    "rationale": "Construct and compare sets and cardinals is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:5c96a46e-0192-4de0-b0d6-c778c9b8d67e",
+    "revision": 1,
+    "subject": "ola:n:33e20b45-51bc-4a32-97cd-0ab3c9059d5d",
+    "relation": "composed_of",
+    "object": "ola:n:96978d18-e5e3-44c8-9860-ba3653b3dc44",
+    "rationale": "Construct a set using admitted axioms is a bounded performance within Construct and compare sets and cardinals.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:90a2a3f7-fbef-485d-940d-6bcf9b884b2e",
+    "revision": 1,
+    "subject": "ola:n:96978d18-e5e3-44c8-9860-ba3653b3dc44",
+    "relation": "uses_concept",
+    "object": "ola:n:1c8cc6f7-83c8-4461-9005-53006578a339",
+    "rationale": "Demonstrating Construct a set using admitted axioms materially invokes Axiomatic set universe at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:18291f89-28dc-4fa0-82ba-9100feacd1b7",
+    "revision": 1,
+    "subject": "ola:n:96978d18-e5e3-44c8-9860-ba3653b3dc44",
+    "relation": "uses_knowledge",
+    "object": "ola:n:37678acc-a5eb-411e-9649-368eb3d41196",
+    "rationale": "Demonstrating Construct a set using admitted axioms materially invokes Set construction, paradox, and independence at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:203ce594-48be-4c57-a967-37037405912d",
+    "revision": 1,
+    "subject": "ola:n:96978d18-e5e3-44c8-9860-ba3653b3dc44",
+    "relation": "uses_representation",
+    "object": "ola:n:8882eda4-0c39-45d1-8fea-448619746b95",
+    "rationale": "Demonstrating Construct a set using admitted axioms materially invokes Membership hierarchy and ordinal–cardinal map at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:54ede436-fa92-4f87-a4af-816dba6079ca",
+    "revision": 1,
+    "subject": "ola:n:33e20b45-51bc-4a32-97cd-0ab3c9059d5d",
+    "relation": "composed_of",
+    "object": "ola:n:8dc8e7e1-906e-48e0-999c-aa376e6a49c9",
+    "rationale": "Compare set cardinalities is a bounded performance within Construct and compare sets and cardinals.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8bf79533-6210-4aaa-9ee5-3108b6c79932",
+    "revision": 1,
+    "subject": "ola:n:8dc8e7e1-906e-48e0-999c-aa376e6a49c9",
+    "relation": "uses_concept",
+    "object": "ola:n:1c8cc6f7-83c8-4461-9005-53006578a339",
+    "rationale": "Demonstrating Compare set cardinalities materially invokes Axiomatic set universe at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e3b4f0ac-bf68-47a7-8330-8e67cd9062f5",
+    "revision": 1,
+    "subject": "ola:n:8dc8e7e1-906e-48e0-999c-aa376e6a49c9",
+    "relation": "uses_knowledge",
+    "object": "ola:n:37678acc-a5eb-411e-9649-368eb3d41196",
+    "rationale": "Demonstrating Compare set cardinalities materially invokes Set construction, paradox, and independence at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:af1b7498-c04b-433a-8998-d959042e2e7b",
+    "revision": 1,
+    "subject": "ola:n:8dc8e7e1-906e-48e0-999c-aa376e6a49c9",
+    "relation": "uses_representation",
+    "object": "ola:n:8882eda4-0c39-45d1-8fea-448619746b95",
+    "rationale": "Demonstrating Compare set cardinalities materially invokes Membership hierarchy and ordinal–cardinal map at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:dcb8048d-9965-419a-971e-c28ceb56019c",
+    "revision": 1,
+    "subject": "ola:n:33e20b45-51bc-4a32-97cd-0ab3c9059d5d",
+    "relation": "composed_of",
+    "object": "ola:n:1118f686-2b74-4cc9-b96d-ca714c4db3f3",
+    "rationale": "Analyze an ordinal or well-order is a bounded performance within Construct and compare sets and cardinals.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ad36112d-e4e7-446f-b13c-164b5f0095aa",
+    "revision": 1,
+    "subject": "ola:n:1118f686-2b74-4cc9-b96d-ca714c4db3f3",
+    "relation": "uses_concept",
+    "object": "ola:n:1c8cc6f7-83c8-4461-9005-53006578a339",
+    "rationale": "Demonstrating Analyze an ordinal or well-order materially invokes Axiomatic set universe at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:de75c10c-1c5c-43f9-b943-9f801edd0a64",
+    "revision": 1,
+    "subject": "ola:n:1118f686-2b74-4cc9-b96d-ca714c4db3f3",
+    "relation": "uses_knowledge",
+    "object": "ola:n:37678acc-a5eb-411e-9649-368eb3d41196",
+    "rationale": "Demonstrating Analyze an ordinal or well-order materially invokes Set construction, paradox, and independence at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:6324d87a-4abb-4029-9fc3-3a1d01b80009",
+    "revision": 1,
+    "subject": "ola:n:1118f686-2b74-4cc9-b96d-ca714c4db3f3",
+    "relation": "uses_representation",
+    "object": "ola:n:8882eda4-0c39-45d1-8fea-448619746b95",
+    "rationale": "Demonstrating Analyze an ordinal or well-order materially invokes Membership hierarchy and ordinal–cardinal map at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e240feaf-9cf6-4392-b605-9e115fa2cd4c",
+    "revision": 1,
+    "subject": "ola:n:57301c82-bc6a-45c4-8d3d-701bd69b1e74",
+    "relation": "composed_of",
+    "object": "ola:n:837927e6-55d4-406d-b91d-59b29980168e",
+    "rationale": "Reason about foundational claims is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:458d47b9-a83d-4949-940e-f7787a07c7dc",
+    "revision": 1,
+    "subject": "ola:n:837927e6-55d4-406d-b91d-59b29980168e",
+    "relation": "composed_of",
+    "object": "ola:n:a906eaf3-374d-4c4b-b5e6-59d9f785a193",
+    "rationale": "Detect a naive set-theory paradox is a bounded performance within Reason about foundational claims.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:dac49d44-f753-429e-a691-020de7cd1e20",
+    "revision": 1,
+    "subject": "ola:n:a906eaf3-374d-4c4b-b5e6-59d9f785a193",
+    "relation": "uses_concept",
+    "object": "ola:n:0018c352-a44e-49d1-bc49-9a8360cf1023",
+    "rationale": "Demonstrating Detect a naive set-theory paradox materially invokes Ordinal, cardinal, and infinity at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:81e3dd98-b9c3-4db4-9262-dfada5a18892",
+    "revision": 1,
+    "subject": "ola:n:a906eaf3-374d-4c4b-b5e6-59d9f785a193",
+    "relation": "uses_knowledge",
+    "object": "ola:n:37678acc-a5eb-411e-9649-368eb3d41196",
+    "rationale": "Demonstrating Detect a naive set-theory paradox materially invokes Set construction, paradox, and independence at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:27b62471-b9cc-4f10-a827-5980484db478",
+    "revision": 1,
+    "subject": "ola:n:a906eaf3-374d-4c4b-b5e6-59d9f785a193",
+    "relation": "uses_representation",
+    "object": "ola:n:8882eda4-0c39-45d1-8fea-448619746b95",
+    "rationale": "Demonstrating Detect a naive set-theory paradox materially invokes Membership hierarchy and ordinal–cardinal map at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2a384496-31e3-498b-950e-0d0d448edca9",
+    "revision": 1,
+    "subject": "ola:n:837927e6-55d4-406d-b91d-59b29980168e",
+    "relation": "composed_of",
+    "object": "ola:n:a5104253-72ac-40f2-9e3b-6d7f8a93c163",
+    "rationale": "Prove a set-theoretic identity is a bounded performance within Reason about foundational claims.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:5cdb78c4-3e32-4691-9d26-0826f920a163",
+    "revision": 1,
+    "subject": "ola:n:a5104253-72ac-40f2-9e3b-6d7f8a93c163",
+    "relation": "uses_concept",
+    "object": "ola:n:0018c352-a44e-49d1-bc49-9a8360cf1023",
+    "rationale": "Demonstrating Prove a set-theoretic identity materially invokes Ordinal, cardinal, and infinity at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:79f7c1e0-419d-4d01-9bea-2ac5ee20b504",
+    "revision": 1,
+    "subject": "ola:n:a5104253-72ac-40f2-9e3b-6d7f8a93c163",
+    "relation": "uses_knowledge",
+    "object": "ola:n:37678acc-a5eb-411e-9649-368eb3d41196",
+    "rationale": "Demonstrating Prove a set-theoretic identity materially invokes Set construction, paradox, and independence at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:6f7a4ab2-2adf-4cd4-8542-9b5ea2d8a4cb",
+    "revision": 1,
+    "subject": "ola:n:a5104253-72ac-40f2-9e3b-6d7f8a93c163",
+    "relation": "uses_representation",
+    "object": "ola:n:8882eda4-0c39-45d1-8fea-448619746b95",
+    "rationale": "Demonstrating Prove a set-theoretic identity materially invokes Membership hierarchy and ordinal–cardinal map at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c8fe56ee-b080-4d36-83c2-1f87b3e695e9",
+    "revision": 1,
+    "subject": "ola:n:837927e6-55d4-406d-b91d-59b29980168e",
+    "relation": "composed_of",
+    "object": "ola:n:3ab8c624-9fe7-4d50-9e76-fc24bd614d06",
+    "rationale": "Distinguish theorem, independence, and consistency claims is a bounded performance within Reason about foundational claims.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:6f8635de-1da7-4b32-a394-f4c9c076599b",
+    "revision": 1,
+    "subject": "ola:n:3ab8c624-9fe7-4d50-9e76-fc24bd614d06",
+    "relation": "uses_concept",
+    "object": "ola:n:0018c352-a44e-49d1-bc49-9a8360cf1023",
+    "rationale": "Demonstrating Distinguish theorem, independence, and consistency claims materially invokes Ordinal, cardinal, and infinity at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f79ce210-5e6c-4092-b96f-fa702e19c702",
+    "revision": 1,
+    "subject": "ola:n:3ab8c624-9fe7-4d50-9e76-fc24bd614d06",
+    "relation": "uses_knowledge",
+    "object": "ola:n:37678acc-a5eb-411e-9649-368eb3d41196",
+    "rationale": "Demonstrating Distinguish theorem, independence, and consistency claims materially invokes Set construction, paradox, and independence at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a6d2bad4-9f6a-4286-b14d-688b006231e4",
+    "revision": 1,
+    "subject": "ola:n:3ab8c624-9fe7-4d50-9e76-fc24bd614d06",
+    "relation": "uses_representation",
+    "object": "ola:n:8882eda4-0c39-45d1-8fea-448619746b95",
+    "rationale": "Demonstrating Distinguish theorem, independence, and consistency claims materially invokes Membership hierarchy and ordinal–cardinal map at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f5e9229e-5109-4523-9619-0044d88da74e",
+    "revision": 1,
+    "subject": "ola:n:2b86a211-1be1-490c-a35c-4c7a749ff3d5",
+    "relation": "composed_of",
+    "object": "ola:n:d5a132d5-8a74-40ce-bf15-0c975087c72d",
+    "rationale": "Formal language, structure, and model is material terrain within model-theory; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d65f6684-1661-45f2-98d5-2bf464007d73",
+    "revision": 1,
+    "subject": "ola:n:2b86a211-1be1-490c-a35c-4c7a749ff3d5",
+    "relation": "composed_of",
+    "object": "ola:n:ff3c3546-5567-4bb4-81b2-06d7702f595f",
+    "rationale": "Theory, satisfaction, and elementary equivalence is material terrain within model-theory; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:354e49a6-8043-47ed-add6-3b7d04d9d3af",
+    "revision": 1,
+    "subject": "ola:n:2b86a211-1be1-490c-a35c-4c7a749ff3d5",
+    "relation": "composed_of",
+    "object": "ola:n:4e880f0d-d49e-4f59-b653-f2f6a0da247b",
+    "rationale": "Soundness, completeness, and compactness is material terrain within model-theory; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c8ba07f1-e5d1-4537-95bf-aa398c9b26c4",
+    "revision": 1,
+    "subject": "ola:n:2b86a211-1be1-490c-a35c-4c7a749ff3d5",
+    "relation": "composed_of",
+    "object": "ola:n:91ff86ea-7a36-415f-b362-6b5fc0a20941",
+    "rationale": "Formula–structure interpretation map is material terrain within model-theory; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:930f87fb-1116-49fa-be1d-2dc694a0bfbf",
+    "revision": 1,
+    "subject": "ola:n:2b86a211-1be1-490c-a35c-4c7a749ff3d5",
+    "relation": "composed_of",
+    "object": "ola:n:e1fa4834-e2b7-4bd8-9580-382c17adad10",
+    "rationale": "Evaluate and construct models is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7f960034-564a-43a3-ad9b-0a712856c286",
+    "revision": 1,
+    "subject": "ola:n:e1fa4834-e2b7-4bd8-9580-382c17adad10",
+    "relation": "composed_of",
+    "object": "ola:n:756c331e-a025-47d9-bd16-6723c5ac87e1",
+    "rationale": "Evaluate first-order satisfaction is a bounded performance within Evaluate and construct models.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c7037b3a-5068-4e4e-bea9-2003c229f61e",
+    "revision": 1,
+    "subject": "ola:n:756c331e-a025-47d9-bd16-6723c5ac87e1",
+    "relation": "uses_concept",
+    "object": "ola:n:d5a132d5-8a74-40ce-bf15-0c975087c72d",
+    "rationale": "Demonstrating Evaluate first-order satisfaction materially invokes Formal language, structure, and model at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:84b0dfc0-6f7e-4b3f-9ad8-51e0a46ed14a",
+    "revision": 1,
+    "subject": "ola:n:756c331e-a025-47d9-bd16-6723c5ac87e1",
+    "relation": "uses_knowledge",
+    "object": "ola:n:4e880f0d-d49e-4f59-b653-f2f6a0da247b",
+    "rationale": "Demonstrating Evaluate first-order satisfaction materially invokes Soundness, completeness, and compactness at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:286839ca-d560-459f-a0d6-849cf4d5eb2c",
+    "revision": 1,
+    "subject": "ola:n:756c331e-a025-47d9-bd16-6723c5ac87e1",
+    "relation": "uses_representation",
+    "object": "ola:n:91ff86ea-7a36-415f-b362-6b5fc0a20941",
+    "rationale": "Demonstrating Evaluate first-order satisfaction materially invokes Formula–structure interpretation map at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ae33907b-a7b1-4bb2-be3d-a2748df18804",
+    "revision": 1,
+    "subject": "ola:n:e1fa4834-e2b7-4bd8-9580-382c17adad10",
+    "relation": "composed_of",
+    "object": "ola:n:b33d04d8-c7bd-45d3-9a0a-4ba1140727e6",
+    "rationale": "Construct a model or countermodel is a bounded performance within Evaluate and construct models.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e11d0d48-a7a2-4e37-8dd9-ee0a2b48f442",
+    "revision": 1,
+    "subject": "ola:n:b33d04d8-c7bd-45d3-9a0a-4ba1140727e6",
+    "relation": "uses_concept",
+    "object": "ola:n:d5a132d5-8a74-40ce-bf15-0c975087c72d",
+    "rationale": "Demonstrating Construct a model or countermodel materially invokes Formal language, structure, and model at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:177ec3aa-ecac-4a82-be94-660e06b0deb5",
+    "revision": 1,
+    "subject": "ola:n:b33d04d8-c7bd-45d3-9a0a-4ba1140727e6",
+    "relation": "uses_knowledge",
+    "object": "ola:n:4e880f0d-d49e-4f59-b653-f2f6a0da247b",
+    "rationale": "Demonstrating Construct a model or countermodel materially invokes Soundness, completeness, and compactness at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:55fdd092-5463-440a-aff5-6fc2821bf0cf",
+    "revision": 1,
+    "subject": "ola:n:b33d04d8-c7bd-45d3-9a0a-4ba1140727e6",
+    "relation": "uses_representation",
+    "object": "ola:n:91ff86ea-7a36-415f-b362-6b5fc0a20941",
+    "rationale": "Demonstrating Construct a model or countermodel materially invokes Formula–structure interpretation map at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8f8bbcfe-b805-443c-9f0c-5af2b1016c75",
+    "revision": 1,
+    "subject": "ola:n:e1fa4834-e2b7-4bd8-9580-382c17adad10",
+    "relation": "composed_of",
+    "object": "ola:n:2457b909-6e06-42d8-aa22-fd0c11eb45af",
+    "rationale": "Compare structures elementarily is a bounded performance within Evaluate and construct models.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a5d1102c-dfa9-40e1-a8a6-a2256c57e86c",
+    "revision": 1,
+    "subject": "ola:n:2457b909-6e06-42d8-aa22-fd0c11eb45af",
+    "relation": "uses_concept",
+    "object": "ola:n:d5a132d5-8a74-40ce-bf15-0c975087c72d",
+    "rationale": "Demonstrating Compare structures elementarily materially invokes Formal language, structure, and model at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:bb974b33-3325-4d90-a89e-1b3db2215c5b",
+    "revision": 1,
+    "subject": "ola:n:2457b909-6e06-42d8-aa22-fd0c11eb45af",
+    "relation": "uses_knowledge",
+    "object": "ola:n:4e880f0d-d49e-4f59-b653-f2f6a0da247b",
+    "rationale": "Demonstrating Compare structures elementarily materially invokes Soundness, completeness, and compactness at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:1c16874e-d3c1-465a-9a11-3f33b049c67f",
+    "revision": 1,
+    "subject": "ola:n:2457b909-6e06-42d8-aa22-fd0c11eb45af",
+    "relation": "uses_representation",
+    "object": "ola:n:91ff86ea-7a36-415f-b362-6b5fc0a20941",
+    "rationale": "Demonstrating Compare structures elementarily materially invokes Formula–structure interpretation map at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:cf977371-35ec-4e8a-a65a-177d36d9051d",
+    "revision": 1,
+    "subject": "ola:n:2b86a211-1be1-490c-a35c-4c7a749ff3d5",
+    "relation": "composed_of",
+    "object": "ola:n:676519ee-19e1-453d-bc70-6cb54a3d01dd",
+    "rationale": "Apply model-theoretic principles is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ef5940cd-525e-4886-891c-6bd5f2246c59",
+    "revision": 1,
+    "subject": "ola:n:676519ee-19e1-453d-bc70-6cb54a3d01dd",
+    "relation": "composed_of",
+    "object": "ola:n:48296011-1188-40dd-a728-cb8124691031",
+    "rationale": "Apply compactness in scope is a bounded performance within Apply model-theoretic principles.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:755b6399-342c-4f98-a39d-e7f62cee4c53",
+    "revision": 1,
+    "subject": "ola:n:48296011-1188-40dd-a728-cb8124691031",
+    "relation": "uses_concept",
+    "object": "ola:n:ff3c3546-5567-4bb4-81b2-06d7702f595f",
+    "rationale": "Demonstrating Apply compactness in scope materially invokes Theory, satisfaction, and elementary equivalence at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4bf40136-e492-4d59-93c3-5fb3fa667241",
+    "revision": 1,
+    "subject": "ola:n:48296011-1188-40dd-a728-cb8124691031",
+    "relation": "uses_knowledge",
+    "object": "ola:n:4e880f0d-d49e-4f59-b653-f2f6a0da247b",
+    "rationale": "Demonstrating Apply compactness in scope materially invokes Soundness, completeness, and compactness at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f9d1f523-24bb-4e16-a8f8-edabaf4bf24c",
+    "revision": 1,
+    "subject": "ola:n:48296011-1188-40dd-a728-cb8124691031",
+    "relation": "uses_representation",
+    "object": "ola:n:91ff86ea-7a36-415f-b362-6b5fc0a20941",
+    "rationale": "Demonstrating Apply compactness in scope materially invokes Formula–structure interpretation map at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:44cc029f-226f-47a7-b849-1f6610d5f1b7",
+    "revision": 1,
+    "subject": "ola:n:676519ee-19e1-453d-bc70-6cb54a3d01dd",
+    "relation": "composed_of",
+    "object": "ola:n:89e04436-ae76-493e-b69b-3e57dbd1d9b2",
+    "rationale": "Connect syntax and semantics is a bounded performance within Apply model-theoretic principles.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:9f86e66b-0e51-4294-a9cd-eb26710881da",
+    "revision": 1,
+    "subject": "ola:n:89e04436-ae76-493e-b69b-3e57dbd1d9b2",
+    "relation": "uses_concept",
+    "object": "ola:n:ff3c3546-5567-4bb4-81b2-06d7702f595f",
+    "rationale": "Demonstrating Connect syntax and semantics materially invokes Theory, satisfaction, and elementary equivalence at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:94f1728a-aae8-4a5b-b928-7d506abfecd1",
+    "revision": 1,
+    "subject": "ola:n:89e04436-ae76-493e-b69b-3e57dbd1d9b2",
+    "relation": "uses_knowledge",
+    "object": "ola:n:4e880f0d-d49e-4f59-b653-f2f6a0da247b",
+    "rationale": "Demonstrating Connect syntax and semantics materially invokes Soundness, completeness, and compactness at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:62fb4d8b-d5c2-45e4-98db-5a58ac15d2d5",
+    "revision": 1,
+    "subject": "ola:n:89e04436-ae76-493e-b69b-3e57dbd1d9b2",
+    "relation": "uses_representation",
+    "object": "ola:n:91ff86ea-7a36-415f-b362-6b5fc0a20941",
+    "rationale": "Demonstrating Connect syntax and semantics materially invokes Formula–structure interpretation map at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:aa632efc-27b3-4e0e-aa15-1b3684d855e8",
+    "revision": 1,
+    "subject": "ola:n:676519ee-19e1-453d-bc70-6cb54a3d01dd",
+    "relation": "composed_of",
+    "object": "ola:n:c4244bfb-c8d6-479e-a989-3193dfe72ae9",
+    "rationale": "Audit a model-theoretic claim is a bounded performance within Apply model-theoretic principles.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:97905482-44f6-42ae-b946-4776e61a6538",
+    "revision": 1,
+    "subject": "ola:n:c4244bfb-c8d6-479e-a989-3193dfe72ae9",
+    "relation": "uses_concept",
+    "object": "ola:n:ff3c3546-5567-4bb4-81b2-06d7702f595f",
+    "rationale": "Demonstrating Audit a model-theoretic claim materially invokes Theory, satisfaction, and elementary equivalence at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:76a18797-ca11-457c-8d78-a31011a8a31a",
+    "revision": 1,
+    "subject": "ola:n:c4244bfb-c8d6-479e-a989-3193dfe72ae9",
+    "relation": "uses_knowledge",
+    "object": "ola:n:4e880f0d-d49e-4f59-b653-f2f6a0da247b",
+    "rationale": "Demonstrating Audit a model-theoretic claim materially invokes Soundness, completeness, and compactness at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8d896c70-7677-41a9-bec8-587f944669fa",
+    "revision": 1,
+    "subject": "ola:n:c4244bfb-c8d6-479e-a989-3193dfe72ae9",
+    "relation": "uses_representation",
+    "object": "ola:n:91ff86ea-7a36-415f-b362-6b5fc0a20941",
+    "rationale": "Demonstrating Audit a model-theoretic claim materially invokes Formula–structure interpretation map at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:986bc8d4-5ec5-49e2-bc98-e96e804a4030",
+    "revision": 1,
+    "subject": "ola:n:51cb46fd-37cc-4fc4-9148-33fb10aa4588",
+    "relation": "composed_of",
+    "object": "ola:n:ceeb75e8-517d-4de9-8024-9e6f234ff3a7",
+    "rationale": "Effective computation and decision problem is material terrain within computability-decidability; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7c575b94-8839-4fd3-afc6-a411263a8c4d",
+    "revision": 1,
+    "subject": "ola:n:51cb46fd-37cc-4fc4-9148-33fb10aa4588",
+    "relation": "composed_of",
+    "object": "ola:n:0d1db854-7aa1-482b-a23f-36c63da4e968",
+    "rationale": "Computability, enumerability, and reduction is material terrain within computability-decidability; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:15949e29-5581-4f15-90d9-7e236b491c5d",
+    "revision": 1,
+    "subject": "ola:n:51cb46fd-37cc-4fc4-9148-33fb10aa4588",
+    "relation": "composed_of",
+    "object": "ola:n:ed6747be-8190-4fea-833f-39c981ff547f",
+    "rationale": "Church–Turing thesis, halting, and reducibility is material terrain within computability-decidability; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:29d1a23c-02bd-471d-89ca-c2e25b7d309b",
+    "revision": 1,
+    "subject": "ola:n:51cb46fd-37cc-4fc4-9148-33fb10aa4588",
+    "relation": "composed_of",
+    "object": "ola:n:102a2b25-3c92-4f5b-8c9a-484fd50c421e",
+    "rationale": "Automaton, Turing-machine, and reduction diagram is material terrain within computability-decidability; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ca368389-8e0e-4f2b-8221-abfc38e7ae45",
+    "revision": 1,
+    "subject": "ola:n:51cb46fd-37cc-4fc4-9148-33fb10aa4588",
+    "relation": "composed_of",
+    "object": "ola:n:e85603e3-ba78-46d4-b23a-be1875bc2001",
+    "rationale": "Construct and analyze formal computations is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ad6def15-2131-40f2-be5c-77edd0ee59b0",
+    "revision": 1,
+    "subject": "ola:n:e85603e3-ba78-46d4-b23a-be1875bc2001",
+    "relation": "composed_of",
+    "object": "ola:n:4ed6f264-f7b2-4cf0-98b8-5ff5879516ed",
+    "rationale": "Execute a formal machine is a bounded performance within Construct and analyze formal computations.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:9e40a386-cf8e-4163-ae53-a67db1940530",
+    "revision": 1,
+    "subject": "ola:n:4ed6f264-f7b2-4cf0-98b8-5ff5879516ed",
+    "relation": "uses_concept",
+    "object": "ola:n:ceeb75e8-517d-4de9-8024-9e6f234ff3a7",
+    "rationale": "Demonstrating Execute a formal machine materially invokes Effective computation and decision problem at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2493d902-feb0-428e-96b0-a94872617328",
+    "revision": 1,
+    "subject": "ola:n:4ed6f264-f7b2-4cf0-98b8-5ff5879516ed",
+    "relation": "uses_knowledge",
+    "object": "ola:n:ed6747be-8190-4fea-833f-39c981ff547f",
+    "rationale": "Demonstrating Execute a formal machine materially invokes Church–Turing thesis, halting, and reducibility at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:25db2a17-d575-4304-81e4-e59c4f8ef107",
+    "revision": 1,
+    "subject": "ola:n:4ed6f264-f7b2-4cf0-98b8-5ff5879516ed",
+    "relation": "uses_representation",
+    "object": "ola:n:102a2b25-3c92-4f5b-8c9a-484fd50c421e",
+    "rationale": "Demonstrating Execute a formal machine materially invokes Automaton, Turing-machine, and reduction diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:867e8442-d188-4799-ad2c-59c3114e5ddf",
+    "revision": 1,
+    "subject": "ola:n:e85603e3-ba78-46d4-b23a-be1875bc2001",
+    "relation": "composed_of",
+    "object": "ola:n:de1974ad-ea66-42db-8493-d09bb3054aff",
+    "rationale": "Construct a decider or recognizer is a bounded performance within Construct and analyze formal computations.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d140916c-7968-4cda-9ba6-dd9a0a2b6860",
+    "revision": 1,
+    "subject": "ola:n:de1974ad-ea66-42db-8493-d09bb3054aff",
+    "relation": "uses_concept",
+    "object": "ola:n:ceeb75e8-517d-4de9-8024-9e6f234ff3a7",
+    "rationale": "Demonstrating Construct a decider or recognizer materially invokes Effective computation and decision problem at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c5d76939-718d-4951-ac37-5b5c27537462",
+    "revision": 1,
+    "subject": "ola:n:de1974ad-ea66-42db-8493-d09bb3054aff",
+    "relation": "uses_knowledge",
+    "object": "ola:n:ed6747be-8190-4fea-833f-39c981ff547f",
+    "rationale": "Demonstrating Construct a decider or recognizer materially invokes Church–Turing thesis, halting, and reducibility at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d12eaa77-0d46-4a2d-9043-16ea836ccb04",
+    "revision": 1,
+    "subject": "ola:n:de1974ad-ea66-42db-8493-d09bb3054aff",
+    "relation": "uses_representation",
+    "object": "ola:n:102a2b25-3c92-4f5b-8c9a-484fd50c421e",
+    "rationale": "Demonstrating Construct a decider or recognizer materially invokes Automaton, Turing-machine, and reduction diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:6357ecb6-7004-4e9e-81b1-721dfa0390b0",
+    "revision": 1,
+    "subject": "ola:n:e85603e3-ba78-46d4-b23a-be1875bc2001",
+    "relation": "composed_of",
+    "object": "ola:n:e0cb9206-c632-4496-92b2-1c9d35dd9aa0",
+    "rationale": "Classify language computability is a bounded performance within Construct and analyze formal computations.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:60a2db78-a860-4449-bd5a-cf6ad21d81ef",
+    "revision": 1,
+    "subject": "ola:n:e0cb9206-c632-4496-92b2-1c9d35dd9aa0",
+    "relation": "uses_concept",
+    "object": "ola:n:ceeb75e8-517d-4de9-8024-9e6f234ff3a7",
+    "rationale": "Demonstrating Classify language computability materially invokes Effective computation and decision problem at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:1be154cd-0ac6-4786-a50f-e30b8ac82f8b",
+    "revision": 1,
+    "subject": "ola:n:e0cb9206-c632-4496-92b2-1c9d35dd9aa0",
+    "relation": "uses_knowledge",
+    "object": "ola:n:ed6747be-8190-4fea-833f-39c981ff547f",
+    "rationale": "Demonstrating Classify language computability materially invokes Church–Turing thesis, halting, and reducibility at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:950907ad-2262-4e96-88db-2af58fcac4c0",
+    "revision": 1,
+    "subject": "ola:n:e0cb9206-c632-4496-92b2-1c9d35dd9aa0",
+    "relation": "uses_representation",
+    "object": "ola:n:102a2b25-3c92-4f5b-8c9a-484fd50c421e",
+    "rationale": "Demonstrating Classify language computability materially invokes Automaton, Turing-machine, and reduction diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e26c2ff6-3ef1-42d3-945d-569d912d40a2",
+    "revision": 1,
+    "subject": "ola:n:51cb46fd-37cc-4fc4-9148-33fb10aa4588",
+    "relation": "composed_of",
+    "object": "ola:n:074cd823-f1aa-43f5-b749-40bd0ba111f5",
+    "rationale": "Prove and audit undecidability is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:5039d9ff-b549-48c5-bfb3-f8724aaa3f19",
+    "revision": 1,
+    "subject": "ola:n:074cd823-f1aa-43f5-b749-40bd0ba111f5",
+    "relation": "composed_of",
+    "object": "ola:n:ea375c6b-00cb-4627-a0cd-eaad613519c5",
+    "rationale": "Construct a computability reduction is a bounded performance within Prove and audit undecidability.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:933b6b0f-d333-41bd-9842-e5906794ec52",
+    "revision": 1,
+    "subject": "ola:n:ea375c6b-00cb-4627-a0cd-eaad613519c5",
+    "relation": "uses_concept",
+    "object": "ola:n:0d1db854-7aa1-482b-a23f-36c63da4e968",
+    "rationale": "Demonstrating Construct a computability reduction materially invokes Computability, enumerability, and reduction at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:dcb3a717-6beb-4f05-8177-ffdf7728962e",
+    "revision": 1,
+    "subject": "ola:n:ea375c6b-00cb-4627-a0cd-eaad613519c5",
+    "relation": "uses_knowledge",
+    "object": "ola:n:ed6747be-8190-4fea-833f-39c981ff547f",
+    "rationale": "Demonstrating Construct a computability reduction materially invokes Church–Turing thesis, halting, and reducibility at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c4b5febd-08c1-427a-a26f-b9290b786f8b",
+    "revision": 1,
+    "subject": "ola:n:ea375c6b-00cb-4627-a0cd-eaad613519c5",
+    "relation": "uses_representation",
+    "object": "ola:n:102a2b25-3c92-4f5b-8c9a-484fd50c421e",
+    "rationale": "Demonstrating Construct a computability reduction materially invokes Automaton, Turing-machine, and reduction diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:61f9a0c7-6a4c-456e-a580-b32b001c5a8d",
+    "revision": 1,
+    "subject": "ola:n:074cd823-f1aa-43f5-b749-40bd0ba111f5",
+    "relation": "composed_of",
+    "object": "ola:n:7def40b8-f0a7-4013-b409-33282f312413",
+    "rationale": "Prove undecidability by diagonalization is a bounded performance within Prove and audit undecidability.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:79311491-7ea7-4bfe-99c0-fbddf44e188f",
+    "revision": 1,
+    "subject": "ola:n:7def40b8-f0a7-4013-b409-33282f312413",
+    "relation": "uses_concept",
+    "object": "ola:n:0d1db854-7aa1-482b-a23f-36c63da4e968",
+    "rationale": "Demonstrating Prove undecidability by diagonalization materially invokes Computability, enumerability, and reduction at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:1e89c8e2-9fba-4042-92b4-308007c2e260",
+    "revision": 1,
+    "subject": "ola:n:7def40b8-f0a7-4013-b409-33282f312413",
+    "relation": "uses_knowledge",
+    "object": "ola:n:ed6747be-8190-4fea-833f-39c981ff547f",
+    "rationale": "Demonstrating Prove undecidability by diagonalization materially invokes Church–Turing thesis, halting, and reducibility at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:668439c7-0a29-417c-8ed6-cb2ff5ef8952",
+    "revision": 1,
+    "subject": "ola:n:7def40b8-f0a7-4013-b409-33282f312413",
+    "relation": "uses_representation",
+    "object": "ola:n:102a2b25-3c92-4f5b-8c9a-484fd50c421e",
+    "rationale": "Demonstrating Prove undecidability by diagonalization materially invokes Automaton, Turing-machine, and reduction diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:fde3aeee-6d73-4f99-a468-59906377ad94",
+    "revision": 1,
+    "subject": "ola:n:074cd823-f1aa-43f5-b749-40bd0ba111f5",
+    "relation": "composed_of",
+    "object": "ola:n:7cd63976-e81b-4a1e-ba6f-dec79c4e3470",
+    "rationale": "Audit a computability proof is a bounded performance within Prove and audit undecidability.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:915d1ec1-4551-40f3-b90b-3dbc3ed8b806",
+    "revision": 1,
+    "subject": "ola:n:7cd63976-e81b-4a1e-ba6f-dec79c4e3470",
+    "relation": "uses_concept",
+    "object": "ola:n:0d1db854-7aa1-482b-a23f-36c63da4e968",
+    "rationale": "Demonstrating Audit a computability proof materially invokes Computability, enumerability, and reduction at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d1bb546a-6986-49a4-aa8d-3f81e287ef9b",
+    "revision": 1,
+    "subject": "ola:n:7cd63976-e81b-4a1e-ba6f-dec79c4e3470",
+    "relation": "uses_knowledge",
+    "object": "ola:n:ed6747be-8190-4fea-833f-39c981ff547f",
+    "rationale": "Demonstrating Audit a computability proof materially invokes Church–Turing thesis, halting, and reducibility at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d47afef9-4ac4-472f-87e5-d61f901d551e",
+    "revision": 1,
+    "subject": "ola:n:7cd63976-e81b-4a1e-ba6f-dec79c4e3470",
+    "relation": "uses_representation",
+    "object": "ola:n:102a2b25-3c92-4f5b-8c9a-484fd50c421e",
+    "rationale": "Demonstrating Audit a computability proof materially invokes Automaton, Turing-machine, and reduction diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e4dc4ff7-a1a3-44c3-b966-7b33f4bc6097",
+    "revision": 1,
+    "subject": "ola:n:e842fff4-2b60-4328-9386-8c6f7a5bda24",
+    "relation": "composed_of",
+    "object": "ola:n:e2b54257-ec20-4892-bbf9-89faf7fee5ca",
+    "rationale": "Formal language, algorithm, and resource is material terrain within theoretical-computer-science-complexity; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4016bd8f-df70-46ba-8d6f-c9ed893b374e",
+    "revision": 1,
+    "subject": "ola:n:e842fff4-2b60-4328-9386-8c6f7a5bda24",
+    "relation": "composed_of",
+    "object": "ola:n:d62c3728-f477-49e4-b316-2e9500e6316e",
+    "rationale": "Complexity class and completeness is material terrain within theoretical-computer-science-complexity; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2d764d1b-5859-41d2-9d68-f85850b759ad",
+    "revision": 1,
+    "subject": "ola:n:e842fff4-2b60-4328-9386-8c6f7a5bda24",
+    "relation": "composed_of",
+    "object": "ola:n:8407a0ef-00d0-411e-8892-c8a5353b85c5",
+    "rationale": "Asymptotic analysis, reductions, and complexity hierarchies is material terrain within theoretical-computer-science-complexity; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:26fe657a-7b8e-489b-9276-903a00e9ae95",
+    "revision": 1,
+    "subject": "ola:n:e842fff4-2b60-4328-9386-8c6f7a5bda24",
+    "relation": "composed_of",
+    "object": "ola:n:1a885c91-de4a-419a-8308-e44e694998e2",
+    "rationale": "Machine, circuit, reduction, and complexity representation is material terrain within theoretical-computer-science-complexity; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7e47de0d-01d6-47be-a24b-d42bf14df135",
+    "revision": 1,
+    "subject": "ola:n:e842fff4-2b60-4328-9386-8c6f7a5bda24",
+    "relation": "composed_of",
+    "object": "ola:n:e69bb70d-d2a3-443c-af0d-4d70052ee069",
+    "rationale": "Analyze algorithms and complexity is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:3f193207-f270-4501-8fd3-3f027ac1a2e2",
+    "revision": 1,
+    "subject": "ola:n:e69bb70d-d2a3-443c-af0d-4d70052ee069",
+    "relation": "composed_of",
+    "object": "ola:n:2181813d-bebf-4db5-91de-405a0b2af1cf",
+    "rationale": "Derive an algorithm resource bound is a bounded performance within Analyze algorithms and complexity.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:35463f95-7ef3-4cc5-ad85-e3f06dc96bf2",
+    "revision": 1,
+    "subject": "ola:n:2181813d-bebf-4db5-91de-405a0b2af1cf",
+    "relation": "uses_concept",
+    "object": "ola:n:e2b54257-ec20-4892-bbf9-89faf7fee5ca",
+    "rationale": "Demonstrating Derive an algorithm resource bound materially invokes Formal language, algorithm, and resource at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b39188ab-1458-49bc-8495-00095216ab37",
+    "revision": 1,
+    "subject": "ola:n:2181813d-bebf-4db5-91de-405a0b2af1cf",
+    "relation": "uses_knowledge",
+    "object": "ola:n:8407a0ef-00d0-411e-8892-c8a5353b85c5",
+    "rationale": "Demonstrating Derive an algorithm resource bound materially invokes Asymptotic analysis, reductions, and complexity hierarchies at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f01a3608-4f03-4e8f-9063-9912058041e4",
+    "revision": 1,
+    "subject": "ola:n:2181813d-bebf-4db5-91de-405a0b2af1cf",
+    "relation": "uses_representation",
+    "object": "ola:n:1a885c91-de4a-419a-8308-e44e694998e2",
+    "rationale": "Demonstrating Derive an algorithm resource bound materially invokes Machine, circuit, reduction, and complexity representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f4b891dd-1b89-4e00-9d82-ec48e6fa3cc8",
+    "revision": 1,
+    "subject": "ola:n:e69bb70d-d2a3-443c-af0d-4d70052ee069",
+    "relation": "composed_of",
+    "object": "ola:n:ecefe5c6-7f84-4641-9213-371c937bab88",
+    "rationale": "Classify a problem in a complexity class is a bounded performance within Analyze algorithms and complexity.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d3196f0e-c95c-4ffe-b3fc-c6861c6785b9",
+    "revision": 1,
+    "subject": "ola:n:ecefe5c6-7f84-4641-9213-371c937bab88",
+    "relation": "uses_concept",
+    "object": "ola:n:e2b54257-ec20-4892-bbf9-89faf7fee5ca",
+    "rationale": "Demonstrating Classify a problem in a complexity class materially invokes Formal language, algorithm, and resource at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:9972705e-bcad-404a-8967-071a78f98429",
+    "revision": 1,
+    "subject": "ola:n:ecefe5c6-7f84-4641-9213-371c937bab88",
+    "relation": "uses_knowledge",
+    "object": "ola:n:8407a0ef-00d0-411e-8892-c8a5353b85c5",
+    "rationale": "Demonstrating Classify a problem in a complexity class materially invokes Asymptotic analysis, reductions, and complexity hierarchies at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c3b050a1-3168-4143-bb25-68efc99328dc",
+    "revision": 1,
+    "subject": "ola:n:ecefe5c6-7f84-4641-9213-371c937bab88",
+    "relation": "uses_representation",
+    "object": "ola:n:1a885c91-de4a-419a-8308-e44e694998e2",
+    "rationale": "Demonstrating Classify a problem in a complexity class materially invokes Machine, circuit, reduction, and complexity representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b62fb4ef-12d4-4c25-a273-2d6654d0c2d3",
+    "revision": 1,
+    "subject": "ola:n:e69bb70d-d2a3-443c-af0d-4d70052ee069",
+    "relation": "composed_of",
+    "object": "ola:n:d0c2c5eb-9ae1-424a-be19-a9c627ce186a",
+    "rationale": "Compare asymptotic complexity is a bounded performance within Analyze algorithms and complexity.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:29c6c686-f5f6-478e-91cc-9ac5ef7c54eb",
+    "revision": 1,
+    "subject": "ola:n:d0c2c5eb-9ae1-424a-be19-a9c627ce186a",
+    "relation": "uses_concept",
+    "object": "ola:n:e2b54257-ec20-4892-bbf9-89faf7fee5ca",
+    "rationale": "Demonstrating Compare asymptotic complexity materially invokes Formal language, algorithm, and resource at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ecb61604-afdc-4cc0-bf94-a702ef72a504",
+    "revision": 1,
+    "subject": "ola:n:d0c2c5eb-9ae1-424a-be19-a9c627ce186a",
+    "relation": "uses_knowledge",
+    "object": "ola:n:8407a0ef-00d0-411e-8892-c8a5353b85c5",
+    "rationale": "Demonstrating Compare asymptotic complexity materially invokes Asymptotic analysis, reductions, and complexity hierarchies at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d8cf18bd-6382-44f6-9db2-7e97f587126f",
+    "revision": 1,
+    "subject": "ola:n:d0c2c5eb-9ae1-424a-be19-a9c627ce186a",
+    "relation": "uses_representation",
+    "object": "ola:n:1a885c91-de4a-419a-8308-e44e694998e2",
+    "rationale": "Demonstrating Compare asymptotic complexity materially invokes Machine, circuit, reduction, and complexity representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:1c384822-92b4-4c51-8f3c-6ee40fe3e3b2",
+    "revision": 1,
+    "subject": "ola:n:e842fff4-2b60-4328-9386-8c6f7a5bda24",
+    "relation": "composed_of",
+    "object": "ola:n:9cec5d14-3141-465f-896d-31218d66249f",
+    "rationale": "Construct and audit complexity reductions is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:640aad25-9a00-40c2-b891-85acaeca8823",
+    "revision": 1,
+    "subject": "ola:n:9cec5d14-3141-465f-896d-31218d66249f",
+    "relation": "composed_of",
+    "object": "ola:n:5d13ce74-9511-489a-ab73-3bf0ee298551",
+    "rationale": "Construct a polynomial-time reduction is a bounded performance within Construct and audit complexity reductions.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c53541e4-8feb-44f2-9b52-35ca8f50e625",
+    "revision": 1,
+    "subject": "ola:n:5d13ce74-9511-489a-ab73-3bf0ee298551",
+    "relation": "uses_concept",
+    "object": "ola:n:d62c3728-f477-49e4-b316-2e9500e6316e",
+    "rationale": "Demonstrating Construct a polynomial-time reduction materially invokes Complexity class and completeness at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:95e6f4f2-1b11-464c-9b7b-5daf8a6aa0a5",
+    "revision": 1,
+    "subject": "ola:n:5d13ce74-9511-489a-ab73-3bf0ee298551",
+    "relation": "uses_knowledge",
+    "object": "ola:n:8407a0ef-00d0-411e-8892-c8a5353b85c5",
+    "rationale": "Demonstrating Construct a polynomial-time reduction materially invokes Asymptotic analysis, reductions, and complexity hierarchies at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:fcf6d17b-94fa-4b18-a4c5-9c782db63d9c",
+    "revision": 1,
+    "subject": "ola:n:5d13ce74-9511-489a-ab73-3bf0ee298551",
+    "relation": "uses_representation",
+    "object": "ola:n:1a885c91-de4a-419a-8308-e44e694998e2",
+    "rationale": "Demonstrating Construct a polynomial-time reduction materially invokes Machine, circuit, reduction, and complexity representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:fbb1a906-b99b-4627-986b-a04b17c0fffb",
+    "revision": 1,
+    "subject": "ola:n:9cec5d14-3141-465f-896d-31218d66249f",
+    "relation": "composed_of",
+    "object": "ola:n:c6ce7658-5d2c-4f0f-bd5c-0a2556356741",
+    "rationale": "Establish completeness in scope is a bounded performance within Construct and audit complexity reductions.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ea35d8de-c400-434c-a20e-76d4ecf90370",
+    "revision": 1,
+    "subject": "ola:n:c6ce7658-5d2c-4f0f-bd5c-0a2556356741",
+    "relation": "uses_concept",
+    "object": "ola:n:d62c3728-f477-49e4-b316-2e9500e6316e",
+    "rationale": "Demonstrating Establish completeness in scope materially invokes Complexity class and completeness at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:9777e0de-fd7b-4e4c-87f2-05a6561b3e2f",
+    "revision": 1,
+    "subject": "ola:n:c6ce7658-5d2c-4f0f-bd5c-0a2556356741",
+    "relation": "uses_knowledge",
+    "object": "ola:n:8407a0ef-00d0-411e-8892-c8a5353b85c5",
+    "rationale": "Demonstrating Establish completeness in scope materially invokes Asymptotic analysis, reductions, and complexity hierarchies at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2962bf29-099c-44de-b69d-c45000ac7cf5",
+    "revision": 1,
+    "subject": "ola:n:c6ce7658-5d2c-4f0f-bd5c-0a2556356741",
+    "relation": "uses_representation",
+    "object": "ola:n:1a885c91-de4a-419a-8308-e44e694998e2",
+    "rationale": "Demonstrating Establish completeness in scope materially invokes Machine, circuit, reduction, and complexity representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4e0999f9-a2db-4085-bb4a-f8a9e722e355",
+    "revision": 1,
+    "subject": "ola:n:9cec5d14-3141-465f-896d-31218d66249f",
+    "relation": "composed_of",
+    "object": "ola:n:0735637f-a2b2-41ee-883e-7e34797b2f5a",
+    "rationale": "Audit a complexity claim is a bounded performance within Construct and audit complexity reductions.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:cb8323f2-f197-4e4e-8a85-cfb9c8f62126",
+    "revision": 1,
+    "subject": "ola:n:0735637f-a2b2-41ee-883e-7e34797b2f5a",
+    "relation": "uses_concept",
+    "object": "ola:n:d62c3728-f477-49e4-b316-2e9500e6316e",
+    "rationale": "Demonstrating Audit a complexity claim materially invokes Complexity class and completeness at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2c472784-1395-4640-90e7-4853885f942d",
+    "revision": 1,
+    "subject": "ola:n:0735637f-a2b2-41ee-883e-7e34797b2f5a",
+    "relation": "uses_knowledge",
+    "object": "ola:n:8407a0ef-00d0-411e-8892-c8a5353b85c5",
+    "rationale": "Demonstrating Audit a complexity claim materially invokes Asymptotic analysis, reductions, and complexity hierarchies at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:77f734e8-22a3-4597-bcf8-604e2460f8a7",
+    "revision": 1,
+    "subject": "ola:n:0735637f-a2b2-41ee-883e-7e34797b2f5a",
+    "relation": "uses_representation",
+    "object": "ola:n:1a885c91-de4a-419a-8308-e44e694998e2",
+    "rationale": "Demonstrating Audit a complexity claim materially invokes Machine, circuit, reduction, and complexity representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:1efadb7d-b9d6-4858-9f93-e091f79d6deb",
+    "revision": 1,
+    "subject": "ola:n:1ddffc3d-bbbe-4d3a-9e56-3231255a907f",
+    "relation": "composed_of",
+    "object": "ola:n:79be77a0-4b27-47ab-8314-c6ff827b9214",
+    "rationale": "Type, term, and judgment is material terrain within type-proof-category-foundations; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:03462b62-2893-4b02-9d97-022aee50bc12",
+    "revision": 1,
+    "subject": "ola:n:1ddffc3d-bbbe-4d3a-9e56-3231255a907f",
+    "relation": "composed_of",
+    "object": "ola:n:eb2ed4e8-cf22-4a91-9a5b-98eddf973709",
+    "rationale": "Category, functor, and natural transformation is material terrain within type-proof-category-foundations; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:1cf94078-330f-42d7-b91f-b8b11e5ba0f3",
+    "revision": 1,
+    "subject": "ola:n:1ddffc3d-bbbe-4d3a-9e56-3231255a907f",
+    "relation": "composed_of",
+    "object": "ola:n:e4d1ac5e-4de0-4ffd-9a67-ad1bf351d778",
+    "rationale": "Curry–Howard, universal property, and coherence is material terrain within type-proof-category-foundations; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:def2a462-491b-41f0-bd41-80a27c298c7e",
+    "revision": 1,
+    "subject": "ola:n:1ddffc3d-bbbe-4d3a-9e56-3231255a907f",
+    "relation": "composed_of",
+    "object": "ola:n:8ef7cd4c-4928-4920-a2f9-4ec451cb95ba",
+    "rationale": "Proof term, type derivation, and commutative diagram is material terrain within type-proof-category-foundations; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b965c1dc-4145-458b-8de1-ec2943406b3c",
+    "revision": 1,
+    "subject": "ola:n:1ddffc3d-bbbe-4d3a-9e56-3231255a907f",
+    "relation": "composed_of",
+    "object": "ola:n:80658602-8067-43b6-b82e-d64d2f0a9be6",
+    "rationale": "Construct and check typed proofs is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f960419b-050d-49c0-9174-389e012b0e66",
+    "revision": 1,
+    "subject": "ola:n:80658602-8067-43b6-b82e-d64d2f0a9be6",
+    "relation": "composed_of",
+    "object": "ola:n:b053bc40-966d-404a-8b3e-3671355c70fa",
+    "rationale": "Derive a typing judgment is a bounded performance within Construct and check typed proofs.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a14264a8-620d-4c34-ac97-54e614a27524",
+    "revision": 1,
+    "subject": "ola:n:b053bc40-966d-404a-8b3e-3671355c70fa",
+    "relation": "uses_concept",
+    "object": "ola:n:79be77a0-4b27-47ab-8314-c6ff827b9214",
+    "rationale": "Demonstrating Derive a typing judgment materially invokes Type, term, and judgment at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:bc1dd263-5982-44e8-b788-d8d3111b4fc4",
+    "revision": 1,
+    "subject": "ola:n:b053bc40-966d-404a-8b3e-3671355c70fa",
+    "relation": "uses_knowledge",
+    "object": "ola:n:e4d1ac5e-4de0-4ffd-9a67-ad1bf351d778",
+    "rationale": "Demonstrating Derive a typing judgment materially invokes Curry–Howard, universal property, and coherence at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:36976e04-0834-4155-a1b3-0582bcb29914",
+    "revision": 1,
+    "subject": "ola:n:b053bc40-966d-404a-8b3e-3671355c70fa",
+    "relation": "uses_representation",
+    "object": "ola:n:8ef7cd4c-4928-4920-a2f9-4ec451cb95ba",
+    "rationale": "Demonstrating Derive a typing judgment materially invokes Proof term, type derivation, and commutative diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:6d08ce0a-3bf7-42f8-96b1-b096565d3148",
+    "revision": 1,
+    "subject": "ola:n:80658602-8067-43b6-b82e-d64d2f0a9be6",
+    "relation": "composed_of",
+    "object": "ola:n:6c0981f7-b369-4f55-b57c-3318e8321070",
+    "rationale": "Normalize a proof term in scope is a bounded performance within Construct and check typed proofs.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a2e75f45-92dd-405a-abcb-9d58810f7957",
+    "revision": 1,
+    "subject": "ola:n:6c0981f7-b369-4f55-b57c-3318e8321070",
+    "relation": "uses_concept",
+    "object": "ola:n:79be77a0-4b27-47ab-8314-c6ff827b9214",
+    "rationale": "Demonstrating Normalize a proof term in scope materially invokes Type, term, and judgment at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e3e72655-7353-4f8d-9418-a1213ca254e5",
+    "revision": 1,
+    "subject": "ola:n:6c0981f7-b369-4f55-b57c-3318e8321070",
+    "relation": "uses_knowledge",
+    "object": "ola:n:e4d1ac5e-4de0-4ffd-9a67-ad1bf351d778",
+    "rationale": "Demonstrating Normalize a proof term in scope materially invokes Curry–Howard, universal property, and coherence at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:bd4a2603-5c1d-40f8-b369-13496a73407a",
+    "revision": 1,
+    "subject": "ola:n:6c0981f7-b369-4f55-b57c-3318e8321070",
+    "relation": "uses_representation",
+    "object": "ola:n:8ef7cd4c-4928-4920-a2f9-4ec451cb95ba",
+    "rationale": "Demonstrating Normalize a proof term in scope materially invokes Proof term, type derivation, and commutative diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:073ffca5-8b9d-41d1-88af-dc7e587653b5",
+    "revision": 1,
+    "subject": "ola:n:80658602-8067-43b6-b82e-d64d2f0a9be6",
+    "relation": "composed_of",
+    "object": "ola:n:c6e1a101-668d-4a45-af84-e7ea3d5408f0",
+    "rationale": "Translate among proposition, type, and proof is a bounded performance within Construct and check typed proofs.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:fc63d781-a92a-4442-b126-78415781622c",
+    "revision": 1,
+    "subject": "ola:n:c6e1a101-668d-4a45-af84-e7ea3d5408f0",
+    "relation": "uses_concept",
+    "object": "ola:n:79be77a0-4b27-47ab-8314-c6ff827b9214",
+    "rationale": "Demonstrating Translate among proposition, type, and proof materially invokes Type, term, and judgment at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:bd62767c-79ef-4a7d-91e8-99a53c696755",
+    "revision": 1,
+    "subject": "ola:n:c6e1a101-668d-4a45-af84-e7ea3d5408f0",
+    "relation": "uses_knowledge",
+    "object": "ola:n:e4d1ac5e-4de0-4ffd-9a67-ad1bf351d778",
+    "rationale": "Demonstrating Translate among proposition, type, and proof materially invokes Curry–Howard, universal property, and coherence at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7379f9b6-09ce-481a-a7c1-51d5138197ec",
+    "revision": 1,
+    "subject": "ola:n:c6e1a101-668d-4a45-af84-e7ea3d5408f0",
+    "relation": "uses_representation",
+    "object": "ola:n:8ef7cd4c-4928-4920-a2f9-4ec451cb95ba",
+    "rationale": "Demonstrating Translate among proposition, type, and proof materially invokes Proof term, type derivation, and commutative diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:27a344bc-8dd9-487e-812d-887fa807b011",
+    "revision": 1,
+    "subject": "ola:n:1ddffc3d-bbbe-4d3a-9e56-3231255a907f",
+    "relation": "composed_of",
+    "object": "ola:n:692d5914-1363-4867-bda4-db959ca6aebb",
+    "rationale": "Analyze categorical structure is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b4cc6917-c51e-4ec0-b064-3d755d7c08d8",
+    "revision": 1,
+    "subject": "ola:n:692d5914-1363-4867-bda4-db959ca6aebb",
+    "relation": "composed_of",
+    "object": "ola:n:0ed11140-947d-495f-8258-f91309d70f51",
+    "rationale": "Verify a category or functor is a bounded performance within Analyze categorical structure.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ced19a54-7d92-4d00-9fdf-f6d5253389a5",
+    "revision": 1,
+    "subject": "ola:n:0ed11140-947d-495f-8258-f91309d70f51",
+    "relation": "uses_concept",
+    "object": "ola:n:eb2ed4e8-cf22-4a91-9a5b-98eddf973709",
+    "rationale": "Demonstrating Verify a category or functor materially invokes Category, functor, and natural transformation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b48b06a6-a9ba-498a-aca4-fd1bf57aa16f",
+    "revision": 1,
+    "subject": "ola:n:0ed11140-947d-495f-8258-f91309d70f51",
+    "relation": "uses_knowledge",
+    "object": "ola:n:e4d1ac5e-4de0-4ffd-9a67-ad1bf351d778",
+    "rationale": "Demonstrating Verify a category or functor materially invokes Curry–Howard, universal property, and coherence at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:265c1335-7917-461f-bfe8-53f18f775a7e",
+    "revision": 1,
+    "subject": "ola:n:0ed11140-947d-495f-8258-f91309d70f51",
+    "relation": "uses_representation",
+    "object": "ola:n:8ef7cd4c-4928-4920-a2f9-4ec451cb95ba",
+    "rationale": "Demonstrating Verify a category or functor materially invokes Proof term, type derivation, and commutative diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f1c01b8d-b110-4a40-975a-488b1a3e5c58",
+    "revision": 1,
+    "subject": "ola:n:692d5914-1363-4867-bda4-db959ca6aebb",
+    "relation": "composed_of",
+    "object": "ola:n:bf9ceaf2-3103-4060-8f9a-e5556104988e",
+    "rationale": "Use a universal property is a bounded performance within Analyze categorical structure.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:1a1d3c87-a642-4047-9420-c8abbf95f0e5",
+    "revision": 1,
+    "subject": "ola:n:bf9ceaf2-3103-4060-8f9a-e5556104988e",
+    "relation": "uses_concept",
+    "object": "ola:n:eb2ed4e8-cf22-4a91-9a5b-98eddf973709",
+    "rationale": "Demonstrating Use a universal property materially invokes Category, functor, and natural transformation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:419325b8-3b90-43fd-ae4d-c1b208172c00",
+    "revision": 1,
+    "subject": "ola:n:bf9ceaf2-3103-4060-8f9a-e5556104988e",
+    "relation": "uses_knowledge",
+    "object": "ola:n:e4d1ac5e-4de0-4ffd-9a67-ad1bf351d778",
+    "rationale": "Demonstrating Use a universal property materially invokes Curry–Howard, universal property, and coherence at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:32a87d34-d78c-4109-89f2-a0d4dcb83361",
+    "revision": 1,
+    "subject": "ola:n:bf9ceaf2-3103-4060-8f9a-e5556104988e",
+    "relation": "uses_representation",
+    "object": "ola:n:8ef7cd4c-4928-4920-a2f9-4ec451cb95ba",
+    "rationale": "Demonstrating Use a universal property materially invokes Proof term, type derivation, and commutative diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:3e5b156c-931f-448d-bfef-d5b7a6a60dcb",
+    "revision": 1,
+    "subject": "ola:n:692d5914-1363-4867-bda4-db959ca6aebb",
+    "relation": "composed_of",
+    "object": "ola:n:3806db73-4a23-49dd-b66b-45f199168bbc",
+    "rationale": "Audit a commutative-diagram argument is a bounded performance within Analyze categorical structure.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d9d5ca89-f3ea-45ce-a4ad-47a9898985d1",
+    "revision": 1,
+    "subject": "ola:n:3806db73-4a23-49dd-b66b-45f199168bbc",
+    "relation": "uses_concept",
+    "object": "ola:n:eb2ed4e8-cf22-4a91-9a5b-98eddf973709",
+    "rationale": "Demonstrating Audit a commutative-diagram argument materially invokes Category, functor, and natural transformation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:294abdcc-3cfb-483a-9d21-f9da081080bb",
+    "revision": 1,
+    "subject": "ola:n:3806db73-4a23-49dd-b66b-45f199168bbc",
+    "relation": "uses_knowledge",
+    "object": "ola:n:e4d1ac5e-4de0-4ffd-9a67-ad1bf351d778",
+    "rationale": "Demonstrating Audit a commutative-diagram argument materially invokes Curry–Howard, universal property, and coherence at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8878afcb-b001-4884-8601-a5d9d62d05f6",
+    "revision": 1,
+    "subject": "ola:n:3806db73-4a23-49dd-b66b-45f199168bbc",
+    "relation": "uses_representation",
+    "object": "ola:n:8ef7cd4c-4928-4920-a2f9-4ec451cb95ba",
+    "rationale": "Demonstrating Audit a commutative-diagram argument materially invokes Proof term, type derivation, and commutative diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:968c7644-4120-484e-a5ae-ac982836e1bc",
+    "revision": 1,
+    "subject": "ola:n:194a3600-e568-42b6-a4c4-e635a6775cef",
+    "relation": "composed_of",
+    "object": "ola:n:b0a7930b-53d1-4f59-9d2e-fb7ec145ee41",
+    "rationale": "Code, message, and channel is material terrain within coding-information-theory; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:6a80f20f-a748-4fbd-9193-70aa7cb332e5",
+    "revision": 1,
+    "subject": "ola:n:194a3600-e568-42b6-a4c4-e635a6775cef",
+    "relation": "composed_of",
+    "object": "ola:n:3603b001-96bc-4469-bb66-8fd93e1f245d",
+    "rationale": "Entropy, information, and divergence is material terrain within coding-information-theory; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:15c6174a-d441-4b7b-9ced-0c6de43accef",
+    "revision": 1,
+    "subject": "ola:n:194a3600-e568-42b6-a4c4-e635a6775cef",
+    "relation": "composed_of",
+    "object": "ola:n:40547e60-f821-4582-944b-4d165e41c0b1",
+    "rationale": "Source and channel coding limits is material terrain within coding-information-theory; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:96498431-1a30-4f13-a850-9e153301490d",
+    "revision": 1,
+    "subject": "ola:n:194a3600-e568-42b6-a4c4-e635a6775cef",
+    "relation": "composed_of",
+    "object": "ola:n:4c8e023c-3ef8-4044-bfa6-5d12396f509c",
+    "rationale": "Code tree, channel matrix, and information diagram is material terrain within coding-information-theory; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7b52257f-aaf5-4663-9f35-dbbf01a2a25d",
+    "revision": 1,
+    "subject": "ola:n:194a3600-e568-42b6-a4c4-e635a6775cef",
+    "relation": "composed_of",
+    "object": "ola:n:6437f3a1-786b-4ada-814e-88fe6e98ec40",
+    "rationale": "Construct and analyze codes is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:39fd91c2-eae8-4efd-a7b1-80754aeb7577",
+    "revision": 1,
+    "subject": "ola:n:6437f3a1-786b-4ada-814e-88fe6e98ec40",
+    "relation": "composed_of",
+    "object": "ola:n:73468a30-45f9-40c9-bbae-f9a2ccc743d7",
+    "rationale": "Construct a prefix or block code is a bounded performance within Construct and analyze codes.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ed9082bf-9fa4-4846-9046-2a1489a440f1",
+    "revision": 1,
+    "subject": "ola:n:73468a30-45f9-40c9-bbae-f9a2ccc743d7",
+    "relation": "uses_concept",
+    "object": "ola:n:b0a7930b-53d1-4f59-9d2e-fb7ec145ee41",
+    "rationale": "Demonstrating Construct a prefix or block code materially invokes Code, message, and channel at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:3921a3ae-c852-4b45-8a40-8ada3daba463",
+    "revision": 1,
+    "subject": "ola:n:73468a30-45f9-40c9-bbae-f9a2ccc743d7",
+    "relation": "uses_knowledge",
+    "object": "ola:n:40547e60-f821-4582-944b-4d165e41c0b1",
+    "rationale": "Demonstrating Construct a prefix or block code materially invokes Source and channel coding limits at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:32e968b5-a2f2-41fd-835a-cfafee2cde4b",
+    "revision": 1,
+    "subject": "ola:n:73468a30-45f9-40c9-bbae-f9a2ccc743d7",
+    "relation": "uses_representation",
+    "object": "ola:n:4c8e023c-3ef8-4044-bfa6-5d12396f509c",
+    "rationale": "Demonstrating Construct a prefix or block code materially invokes Code tree, channel matrix, and information diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c2668059-e7a0-4c09-9580-1e1449fc9f25",
+    "revision": 1,
+    "subject": "ola:n:6437f3a1-786b-4ada-814e-88fe6e98ec40",
+    "relation": "composed_of",
+    "object": "ola:n:d57e0d1e-f01c-4d17-a39c-56692c22abc2",
+    "rationale": "Encode or decode a message is a bounded performance within Construct and analyze codes.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2199cd91-d1f5-4e63-a95c-5bbc7bdf86d8",
+    "revision": 1,
+    "subject": "ola:n:d57e0d1e-f01c-4d17-a39c-56692c22abc2",
+    "relation": "uses_concept",
+    "object": "ola:n:b0a7930b-53d1-4f59-9d2e-fb7ec145ee41",
+    "rationale": "Demonstrating Encode or decode a message materially invokes Code, message, and channel at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:33e179d2-d363-4742-9850-36a1a5ea7919",
+    "revision": 1,
+    "subject": "ola:n:d57e0d1e-f01c-4d17-a39c-56692c22abc2",
+    "relation": "uses_knowledge",
+    "object": "ola:n:40547e60-f821-4582-944b-4d165e41c0b1",
+    "rationale": "Demonstrating Encode or decode a message materially invokes Source and channel coding limits at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a006668b-5787-49dc-bc25-9a154973ed6d",
+    "revision": 1,
+    "subject": "ola:n:d57e0d1e-f01c-4d17-a39c-56692c22abc2",
+    "relation": "uses_representation",
+    "object": "ola:n:4c8e023c-3ef8-4044-bfa6-5d12396f509c",
+    "rationale": "Demonstrating Encode or decode a message materially invokes Code tree, channel matrix, and information diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e7b9303f-b071-4390-8c00-5063bee928e0",
+    "revision": 1,
+    "subject": "ola:n:6437f3a1-786b-4ada-814e-88fe6e98ec40",
+    "relation": "composed_of",
+    "object": "ola:n:781edf63-d2ac-4dc9-a2be-ec4a2c01707d",
+    "rationale": "Compute code rate or distance is a bounded performance within Construct and analyze codes.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e51f447f-721b-4681-9bca-656380fc3a45",
+    "revision": 1,
+    "subject": "ola:n:781edf63-d2ac-4dc9-a2be-ec4a2c01707d",
+    "relation": "uses_concept",
+    "object": "ola:n:b0a7930b-53d1-4f59-9d2e-fb7ec145ee41",
+    "rationale": "Demonstrating Compute code rate or distance materially invokes Code, message, and channel at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:23892f65-ffb3-476f-9995-f03074f1a1f6",
+    "revision": 1,
+    "subject": "ola:n:781edf63-d2ac-4dc9-a2be-ec4a2c01707d",
+    "relation": "uses_knowledge",
+    "object": "ola:n:40547e60-f821-4582-944b-4d165e41c0b1",
+    "rationale": "Demonstrating Compute code rate or distance materially invokes Source and channel coding limits at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:57f7772d-d112-4ee2-8db4-aa9680831e10",
+    "revision": 1,
+    "subject": "ola:n:781edf63-d2ac-4dc9-a2be-ec4a2c01707d",
+    "relation": "uses_representation",
+    "object": "ola:n:4c8e023c-3ef8-4044-bfa6-5d12396f509c",
+    "rationale": "Demonstrating Compute code rate or distance materially invokes Code tree, channel matrix, and information diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:400f8dcd-a1d2-4ed4-a777-59968adf276a",
+    "revision": 1,
+    "subject": "ola:n:194a3600-e568-42b6-a4c4-e635a6775cef",
+    "relation": "composed_of",
+    "object": "ola:n:ebd57020-2d75-4bc3-be2b-7932c5e8d10b",
+    "rationale": "Quantify information and limits is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ed75d36d-eb61-424e-9252-b3c9e0dc5c0a",
+    "revision": 1,
+    "subject": "ola:n:ebd57020-2d75-4bc3-be2b-7932c5e8d10b",
+    "relation": "composed_of",
+    "object": "ola:n:58b04f16-3a08-48ef-866e-cf58e76fb1eb",
+    "rationale": "Compute entropy or mutual information is a bounded performance within Quantify information and limits.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c195c2d7-9077-4566-ac5d-29dc94374e8d",
+    "revision": 1,
+    "subject": "ola:n:58b04f16-3a08-48ef-866e-cf58e76fb1eb",
+    "relation": "uses_concept",
+    "object": "ola:n:3603b001-96bc-4469-bb66-8fd93e1f245d",
+    "rationale": "Demonstrating Compute entropy or mutual information materially invokes Entropy, information, and divergence at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:711948d3-6702-4eb3-92f8-6dd33472ae34",
+    "revision": 1,
+    "subject": "ola:n:58b04f16-3a08-48ef-866e-cf58e76fb1eb",
+    "relation": "uses_knowledge",
+    "object": "ola:n:40547e60-f821-4582-944b-4d165e41c0b1",
+    "rationale": "Demonstrating Compute entropy or mutual information materially invokes Source and channel coding limits at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:0360fb8a-ab3f-485a-b77d-f14664f7222a",
+    "revision": 1,
+    "subject": "ola:n:58b04f16-3a08-48ef-866e-cf58e76fb1eb",
+    "relation": "uses_representation",
+    "object": "ola:n:4c8e023c-3ef8-4044-bfa6-5d12396f509c",
+    "rationale": "Demonstrating Compute entropy or mutual information materially invokes Code tree, channel matrix, and information diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2fdfc1a0-d4da-44a1-aea2-cc59d8ad570d",
+    "revision": 1,
+    "subject": "ola:n:ebd57020-2d75-4bc3-be2b-7932c5e8d10b",
+    "relation": "composed_of",
+    "object": "ola:n:a5a50049-5019-4d73-8331-a255d7254286",
+    "rationale": "Analyze channel capacity in scope is a bounded performance within Quantify information and limits.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b321b4e0-e19b-431f-8d7a-f5a3b8e1eafb",
+    "revision": 1,
+    "subject": "ola:n:a5a50049-5019-4d73-8331-a255d7254286",
+    "relation": "uses_concept",
+    "object": "ola:n:3603b001-96bc-4469-bb66-8fd93e1f245d",
+    "rationale": "Demonstrating Analyze channel capacity in scope materially invokes Entropy, information, and divergence at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b4face2b-40a6-4389-a7a1-53bb3318eef6",
+    "revision": 1,
+    "subject": "ola:n:a5a50049-5019-4d73-8331-a255d7254286",
+    "relation": "uses_knowledge",
+    "object": "ola:n:40547e60-f821-4582-944b-4d165e41c0b1",
+    "rationale": "Demonstrating Analyze channel capacity in scope materially invokes Source and channel coding limits at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:60183096-a7c4-4666-b9eb-d4d7f3ba713d",
+    "revision": 1,
+    "subject": "ola:n:a5a50049-5019-4d73-8331-a255d7254286",
+    "relation": "uses_representation",
+    "object": "ola:n:4c8e023c-3ef8-4044-bfa6-5d12396f509c",
+    "rationale": "Demonstrating Analyze channel capacity in scope materially invokes Code tree, channel matrix, and information diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:df22415f-6aff-49d8-9f69-f6e51b1050be",
+    "revision": 1,
+    "subject": "ola:n:ebd57020-2d75-4bc3-be2b-7932c5e8d10b",
+    "relation": "composed_of",
+    "object": "ola:n:f6fe58d0-b5c7-4b4f-b830-e0e1b5ade416",
+    "rationale": "Audit an information-theoretic claim is a bounded performance within Quantify information and limits.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:209d06bd-752d-40ad-920f-5e0bb3847eab",
+    "revision": 1,
+    "subject": "ola:n:f6fe58d0-b5c7-4b4f-b830-e0e1b5ade416",
+    "relation": "uses_concept",
+    "object": "ola:n:3603b001-96bc-4469-bb66-8fd93e1f245d",
+    "rationale": "Demonstrating Audit an information-theoretic claim materially invokes Entropy, information, and divergence at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8aa690a4-46fb-4bd1-ad89-e3aa5a7aadec",
+    "revision": 1,
+    "subject": "ola:n:f6fe58d0-b5c7-4b4f-b830-e0e1b5ade416",
+    "relation": "uses_knowledge",
+    "object": "ola:n:40547e60-f821-4582-944b-4d165e41c0b1",
+    "rationale": "Demonstrating Audit an information-theoretic claim materially invokes Source and channel coding limits at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4e894061-2b30-48bd-86ae-f379ab5e181f",
+    "revision": 1,
+    "subject": "ola:n:f6fe58d0-b5c7-4b4f-b830-e0e1b5ade416",
+    "relation": "uses_representation",
+    "object": "ola:n:4c8e023c-3ef8-4044-bfa6-5d12396f509c",
+    "rationale": "Demonstrating Audit an information-theoretic claim materially invokes Code tree, channel matrix, and information diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:bdbcbb6c-f461-4d81-ad39-0c33e2c18dfa",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  }
+]

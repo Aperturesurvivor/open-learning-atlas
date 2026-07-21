@@ -1,0 +1,1512 @@
+[
+  {
+    "id": "ola:n:fcd76705-441f-450e-903b-d811fa5c3ddd",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "mechanical-state-force-stress-flow",
+    "label": "Mechanical state, force, stress, and flow",
+    "definition": "Kinematic and dynamic quantities describing particles, rigid bodies, deformable continua, and fluids.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:ea8c2f3a-eb77-4f39-9209-5073977b3d74",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "continuum-field-constitutive-law",
+    "label": "Continuum field and constitutive law",
+    "definition": "Spatially varying fields linked by balance equations and material-specific relations under scale and regularity assumptions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:e3f077ec-c817-4c5c-8211-3bafeca5700c",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "balance-conservation-boundary-frame",
+    "label": "Balance, conservation, boundary, and frame principles",
+    "definition": "Mass, momentum, energy, and angular momentum balances combine with constitutive laws, boundaries, initial data, and coordinate-frame conventions to determine models.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:5642f5f6-4fcb-48f3-a7fe-4bf72460ed9c",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "free-body-field-streamline-mesh",
+    "label": "Free-body, field, streamline, and mesh representation",
+    "definition": "Force diagrams, trajectories, stress tensors, control volumes, streamlines, and computational meshes representing mechanical systems.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:e7c5299d-b294-4e7a-ac34-dda7a13aee98",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "formulate-analyze-mechanics-family",
+    "label": "Formulate and analyze mechanics",
+    "definition": "A capability family within mechanics-continuum-fluids grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:b70a11e9-2ab7-4af5-ae6e-3bff8fa23864",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-mechanical-balance-model",
+    "label": "Construct a mechanical balance model",
+    "definition": "Given a particle, rigid body, continuum, or control volume, define system boundary, forces, kinematics, material assumptions, and balance equations with consistent signs and units.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a particle, rigid body, continuum, or control volume, define system boundary, forces, kinematics, material assumptions, and balance equations with consistent signs and units.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:64a2178a-23e2-450b-ba9c-70531f6dc221",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "solve-bounded-mechanics-problem",
+    "label": "Solve a bounded mechanics problem",
+    "definition": "Given a well-posed mechanical model in an admitted class, determine requested motion, equilibrium, stress, deformation, or flow and verify initial and boundary conditions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a well-posed mechanical model in an admitted class, determine requested motion, equilibrium, stress, deformation, or flow and verify initial and boundary conditions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:d80fd27d-8d35-45b4-acea-5b7d1591bbbd",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "analyze-dimensional-scaling-mechanics",
+    "label": "Analyze mechanical scaling and dimensions",
+    "definition": "Given a mechanical regime, form relevant dimensionless groups or scaling balances and identify dominant terms and limits without replacing validation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a mechanical regime, form relevant dimensionless groups or scaling balances and identify dominant terms and limits without replacing validation.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:7aa440ff-d0d5-4140-85cb-3652018568a0",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "validate-audit-continuum-models-family",
+    "label": "Validate and audit continuum models",
+    "definition": "A capability family within mechanics-continuum-fluids grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:93cbcafe-2ce6-47da-bc15-7603fcc3bd5a",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "interpret-mechanical-field-solution",
+    "label": "Interpret a mechanical field solution",
+    "definition": "Given a displacement, velocity, pressure, stress, or vorticity field, determine requested local and global quantities and relate them to conservation and boundary conditions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a displacement, velocity, pressure, stress, or vorticity field, determine requested local and global quantities and relate them to conservation and boundary conditions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:ac037086-ebf5-4704-bd25-9ee85b7c8804",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "simulate-continuum-fluid-model",
+    "label": "Simulate a continuum or fluid model",
+    "definition": "Given a discretized well-posed model and numerical settings, compute an approximate field and report mesh, stability, conservation, and convergence evidence.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a discretized well-posed model and numerical settings, compute an approximate field and report mesh, stability, conservation, and convergence evidence.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:b4732f29-27ad-45fe-b0bd-2b5a95993149",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "audit-mechanics-continuum-claim",
+    "label": "Audit a mechanics or fluid claim",
+    "definition": "Given an analysis, check frame, signs, dimensions, forces, constitutive assumptions, conservation, boundary conditions, regime, numerical convergence, and whether the continuum approximation is appropriate.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given an analysis, check frame, signs, dimensions, forces, constitutive assumptions, conservation, boundary conditions, regime, numerical convergence, and whether the continuum approximation is appropriate.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:af4b93aa-3a65-4e22-81a5-ff566c8cd5a9",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "physical-field-operator-symmetry",
+    "label": "Physical field, operator, and symmetry",
+    "definition": "Mathematical structures representing physical states, observables, fields, transformations, and conserved quantities.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:fc9724ef-4bca-484d-8e8f-d7b80ad225d7",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "variational-spectral-quantum-structure",
+    "label": "Variational, spectral, and quantum structure",
+    "definition": "Action or energy principles, operator spectra, state spaces, and probabilistic amplitudes used across classical and quantum theories.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:4d281775-010e-4593-8b88-78c3eef5e5b6",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "symmetry-conservation-variational-principles",
+    "label": "Symmetry, conservation, and variational principles",
+    "definition": "Continuous symmetries connect to conserved quantities under appropriate action principles; spectral and boundary structure determines physical modes and states.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:e04641f4-893b-43f3-b496-f73875811b27",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "field-equation-spectrum-symmetry-diagram",
+    "label": "Field equation, spectrum, and symmetry representation",
+    "definition": "Differential equations, operator diagrams, spacetime or phase plots, group actions, spectra, and state amplitudes representing mathematical physics.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:5cd1583b-4293-46ee-96aa-b5452129d970",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "formulate-solve-mathematical-physics-family",
+    "label": "Formulate and solve mathematical-physics models",
+    "definition": "A capability family within mathematical-physics grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:980aefb1-18c5-4a9a-941f-f07894f6b0a7",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "formulate-physical-field-equation",
+    "label": "Formulate a physical field equation",
+    "definition": "Given a bounded physical theory and regime, define fields, coordinates, parameters, symmetries, action or balance laws, and initial or boundary conditions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a bounded physical theory and regime, define fields, coordinates, parameters, symmetries, action or balance laws, and initial or boundary conditions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:6a2c63c5-2da6-444e-a912-cec2cc0e48c2",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "solve-bounded-spectral-boundary-problem",
+    "label": "Solve a bounded spectral or boundary problem",
+    "definition": "Given a linear operator and well-posed domain or boundary conditions in an admitted class, determine modes, eigenvalues, Green-function, or expansion information and verify conditions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a linear operator and well-posed domain or boundary conditions in an admitted class, determine modes, eigenvalues, Green-function, or expansion information and verify conditions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:6cd687b1-a1f7-4dca-9803-a376eb323697",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "apply-symmetry-conservation-relation",
+    "label": "Apply a symmetry–conservation relation",
+    "definition": "Given a system and admitted symmetry principle, identify invariant transformations and derive or verify the corresponding conserved quantity under required assumptions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a system and admitted symmetry principle, identify invariant transformations and derive or verify the corresponding conserved quantity under required assumptions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:b4433159-3ef7-4c75-ba4c-4954ef1b6640",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "interpret-audit-physical-mathematics-family",
+    "label": "Interpret and audit physical mathematics",
+    "definition": "A capability family within mathematical-physics grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:1924a33c-46ee-4899-afc6-a294a1a2f3df",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "interpret-mathematical-physics-solution",
+    "label": "Interpret a mathematical-physics solution",
+    "definition": "Given a field, operator, spectral, or probabilistic result, relate mathematical quantities to observables, units, boundary data, gauge or coordinate choices, and approximation regime.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a field, operator, spectral, or probabilistic result, relate mathematical quantities to observables, units, boundary data, gauge or coordinate choices, and approximation regime.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:d38e4ab3-633a-466f-a072-8c0b71243c9d",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "analyze-asymptotic-perturbative-regime",
+    "label": "Analyze an asymptotic or perturbative regime",
+    "definition": "Given a physical model with a small or large parameter, derive leading behavior and error order and state where the approximation breaks down.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a physical model with a small or large parameter, derive leading behavior and error order and state where the approximation breaks down.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:8c59d958-d88a-446b-9b81-39c1dc6bfdc6",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "audit-mathematical-physics-claim",
+    "label": "Audit a mathematical-physics claim",
+    "definition": "Given a derivation, check physical regime, dimensions, operator domain, symmetry, boundary conditions, approximation, gauge or coordinate dependence, and whether mathematical existence implies physical realization.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a derivation, check physical regime, dimensions, operator domain, symmetry, boundary conditions, approximation, gauge or coordinate dependence, and whether mathematical existence implies physical realization.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:dae115a8-9ed8-41a3-ae47-0536928a71fd",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "biological-population-compartment-network",
+    "label": "Biological population, compartment, and network",
+    "definition": "Mathematical representations of interacting organisms, cell states, anatomical compartments, biochemical networks, or disease states.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:29ae065b-4d7f-46f7-b197-8815fcdc2b33",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "biological-heterogeneity-observation",
+    "label": "Biological heterogeneity and observation",
+    "definition": "Variation across individuals, scales, time, measurement processes, censoring, and interventions that constrain biological inference.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:7ea7eff3-7d11-4182-a694-b485fbb18024",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "mechanistic-statistical-identifiability-biology",
+    "label": "Mechanistic, statistical, and identifiability principles in biology",
+    "definition": "Biological models connect mechanisms and data but parameters may be practically or structurally unidentifiable and conclusions depend on scale, design, and biological assumptions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:99071a63-42ab-4cf6-9d13-c57a49b46477",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "compartment-network-survival-spatial-map",
+    "label": "Compartment, network, survival, and spatial representation",
+    "definition": "State diagrams, dose–response curves, pedigrees, survival plots, phylogenies, and spatial fields representing biological systems.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:20ee95a5-fe18-412d-b51c-2812c63e0356",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "formulate-analyze-biological-models-family",
+    "label": "Formulate and analyze biological models",
+    "definition": "A capability family within biological-medical-mathematics grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:5618d308-49d1-4d98-8d19-5cef3b3acf9c",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-population-compartment-model",
+    "label": "Construct a population or compartment model",
+    "definition": "Given a bounded biological question, define states, flows, interactions, time scale, parameters, observations, interventions, and biological assumptions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a bounded biological question, define states, flows, interactions, time scale, parameters, observations, interventions, and biological assumptions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:f56d34c8-1c2c-488f-a953-0c83b029dd4c",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "analyze-biological-dynamics",
+    "label": "Analyze biological dynamics",
+    "definition": "Given a specified population, epidemic, biochemical, physiological, or ecological model, determine equilibria, thresholds, trajectories, or sensitivities and interpret them biologically.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a specified population, epidemic, biochemical, physiological, or ecological model, determine equilibria, thresholds, trajectories, or sensitivities and interpret them biologically.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:1f755e65-204c-4374-9885-e4b9c853c222",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "fit-identify-biological-parameters",
+    "label": "Fit and assess biological parameters",
+    "definition": "Given biological data and a model, estimate parameters or distributions and analyze identifiability, variability, uncertainty, and confounding between mechanisms.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given biological data and a model, estimate parameters or distributions and analyze identifiability, variability, uncertainty, and confounding between mechanisms.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:34a8cf07-68e1-405a-a73a-c989f3869abb",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "validate-audit-biomedical-inference-family",
+    "label": "Validate and audit biomedical inference",
+    "definition": "A capability family within biological-medical-mathematics grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:91d3db65-7830-4f99-827b-2f0074b5515c",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "design-biological-model-validation",
+    "label": "Design biological model validation",
+    "definition": "Given a model and use case, select independent data, perturbations, scales, and outcome measures that test mechanisms or predictions and distinguish calibration from validation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a model and use case, select independent data, perturbations, scales, and outcome measures that test mechanisms or predictions and distinguish calibration from validation.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:b8d8b7ac-9654-4ba6-b4f2-9a3482220551",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "analyze-risk-benefit-medical-model",
+    "label": "Analyze a medical risk or benefit model",
+    "definition": "Given a validated bounded model and population, compute or interpret absolute and relative effects, uncertainty, heterogeneity, and decision thresholds without substituting model output for clinical judgment.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a validated bounded model and population, compute or interpret absolute and relative effects, uncertainty, heterogeneity, and decision thresholds without substituting model output for clinical judgment.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:eddd9beb-2d02-4144-8563-2b0d98fc8932",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "audit-biological-medical-math-claim",
+    "label": "Audit a biological or medical mathematics claim",
+    "definition": "Given a claim, check population, mechanism, design, identifiability, missingness, multiplicity, uncertainty, scale, validation, causal assumptions, and whether clinical implications exceed evidence.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a claim, check population, mechanism, design, identifiability, missingness, multiplicity, uncertainty, scale, validation, causal assumptions, and whether clinical implications exceed evidence.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:78f24d5e-64d7-43ff-a565-a15a6b811cf8",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "agent-preference-strategy-equilibrium",
+    "label": "Agent, preference, strategy, and equilibrium",
+    "definition": "Decision makers, feasible actions, objectives or preferences, beliefs, and mutually consistent strategic or market outcomes.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:e73540d0-a8a3-4007-b50c-d6f977233891",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "asset-cashflow-price-risk",
+    "label": "Asset, cash flow, price, and risk",
+    "definition": "Time-indexed uncertain values and contracts connected through discounting, probability, optimization, and no-arbitrage assumptions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:91ea11c5-e4d5-432a-a1e5-5276d7b5776c",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "incentive-equilibrium-no-arbitrage-identification",
+    "label": "Incentive, equilibrium, no-arbitrage, and identification",
+    "definition": "Economic and financial conclusions depend on preferences, information, institutions, equilibrium selection, market completeness, and empirical identification.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:15c380b7-9d00-46cf-96a0-f20724cf96d4",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "game-tree-payoff-market-flow-price-path",
+    "label": "Game tree, payoff matrix, market flow, and price path",
+    "definition": "Strategic-form and extensive-form games, budget sets, supply–demand diagrams, cash-flow timelines, and stochastic price models.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:74ec03d3-22e9-4865-9dc1-bc6f6f2ca6b7",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "formulate-analyze-economic-games-family",
+    "label": "Formulate and analyze economic or strategic models",
+    "definition": "A capability family within economics-finance-game-theory grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:60b10a68-eac6-421e-a712-4d0ce634ea6f",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-economic-optimization-model",
+    "label": "Construct an economic optimization model",
+    "definition": "Given a bounded choice problem, define agents, goods or states, preferences or objective, technology, information, constraints, and equilibrium or welfare concept.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a bounded choice problem, define agents, goods or states, preferences or objective, technology, information, constraints, and equilibrium or welfare concept.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:44c57761-c469-4433-97e7-5d6e1a66633c",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "analyze-strategic-game",
+    "label": "Analyze a strategic game",
+    "definition": "Given a finite or declared game, determine best responses, dominated strategies, Nash or sequential equilibrium candidates, and dependence on beliefs and information.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a finite or declared game, determine best responses, dominated strategies, Nash or sequential equilibrium candidates, and dependence on beliefs and information.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:c5056ab7-e4c1-4aee-9773-7d79e575167c",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "analyze-market-equilibrium-comparative-static",
+    "label": "Analyze market equilibrium or comparative statics",
+    "definition": "Given a specified market or general-equilibrium model, solve equilibrium conditions and analyze parameter changes while stating existence, uniqueness, and institutional assumptions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a specified market or general-equilibrium model, solve equilibrium conditions and analyze parameter changes while stating existence, uniqueness, and institutional assumptions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:499932c3-5fe0-423d-9bc9-63875ced40c4",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "analyze-finance-risk-evidence-family",
+    "label": "Analyze finance, risk, and evidence",
+    "definition": "A capability family within economics-finance-game-theory grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:aefaca64-0851-43a5-adb5-608d9965ede2",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "value-bounded-cashflow-asset",
+    "label": "Value a bounded cash flow or asset",
+    "definition": "Given cash flows, timing, discount or stochastic model, and market assumptions, compute present or expected value and state currency, compounding, risk, and no-arbitrage conditions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given cash flows, timing, discount or stochastic model, and market assumptions, compute present or expected value and state currency, compounding, risk, and no-arbitrage conditions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:9845c647-ec1c-476b-8fe1-62be5e4e21a6",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "analyze-portfolio-risk-return",
+    "label": "Analyze portfolio risk and return",
+    "definition": "Given asset-return data or a model, compute expected return, covariance-based or other declared risk, feasible portfolios, and sensitivity to estimation and tail assumptions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given asset-return data or a model, compute expected return, covariance-based or other declared risk, feasible portfolios, and sensitivity to estimation and tail assumptions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:9cb833b1-ca6a-4123-a2ee-601dd99c7b2d",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "audit-economic-financial-claim",
+    "label": "Audit an economic or financial claim",
+    "definition": "Given a model-based claim, check incentives, equilibrium, identification, endogeneity, expectations, market frictions, distributional effects, uncertainty, regime stability, and whether optimization describes actual behavior.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a model-based claim, check incentives, equilibrium, identification, endogeneity, expectations, market frictions, distributional effects, uncertainty, regime stability, and whether optimization describes actual behavior.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:304f4b19-059b-46b4-b882-d6803a678c98",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "geospatial-temporal-field-system",
+    "label": "Geospatial–temporal field and system",
+    "definition": "Quantities varying across location, depth, time, and scale within coupled Earth, environmental, climate, or space systems.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:072f02dc-2287-43fa-a61e-9debe37f37f1",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "earth-system-boundary-flux-forcing",
+    "label": "Earth-system boundary, flux, and forcing",
+    "definition": "Control volumes, transfers, sources, sinks, feedbacks, and external drivers defining balance and response across system boundaries.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:b87bc1a0-5749-4011-aa43-b0d07cbd37f6",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "conservation-scale-feedback-data-assimilation",
+    "label": "Conservation, scale, feedback, and data assimilation",
+    "definition": "Earth-system models combine balance laws, multiscale parameterization, uncertain feedbacks, sparse observations, and state estimation under strong boundary and initial-condition dependence.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:702465a3-607e-46ca-9ed4-92c9abdb90db",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "map-grid-time-series-orbit-field",
+    "label": "Map, grid, time series, orbit, and field representation",
+    "definition": "Geospatial rasters, coordinate maps, vertical sections, trajectories, spectra, ensemble forecasts, and remote-sensing products representing systems.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:59345454-9322-4196-af6a-6bf4de09e0c6",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "formulate-analyze-earth-space-models-family",
+    "label": "Formulate and analyze Earth or space models",
+    "definition": "A capability family within earth-environment-space-sciences grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:b63ff6e1-d4f7-4477-baa3-44ce55c7f33a",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-geospatial-balance-model",
+    "label": "Construct a geospatial balance model",
+    "definition": "Given a bounded Earth or environmental question, define domain, coordinate reference, stocks, fluxes, sources, sinks, forcing, scale, and boundary and initial conditions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a bounded Earth or environmental question, define domain, coordinate reference, stocks, fluxes, sources, sinks, forcing, scale, and boundary and initial conditions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:307e6029-877f-40f2-8221-a914bd787304",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "analyze-spatiotemporal-field",
+    "label": "Analyze a spatiotemporal field",
+    "definition": "Given georeferenced observations or model output, quantify requested gradients, anomalies, trends, cycles, transport, or spatial dependence while tracking resolution and missingness.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given georeferenced observations or model output, quantify requested gradients, anomalies, trends, cycles, transport, or spatial dependence while tracking resolution and missingness.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:9245f482-d4b9-4883-83a3-494635c01ba4",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compute-orbit-trajectory-in-scope",
+    "label": "Compute an orbit or trajectory in scope",
+    "definition": "Given an admitted gravitational or kinematic model and initial state, determine a trajectory or orbital quantity and state frame, perturbations, numerical accuracy, and validity regime.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given an admitted gravitational or kinematic model and initial state, determine a trajectory or orbital quantity and state frame, perturbations, numerical accuracy, and validity regime.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:1f8cb02f-b19e-449e-b366-bd948caba2e0",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "forecast-validate-audit-earth-systems-family",
+    "label": "Forecast, validate, and audit Earth systems",
+    "definition": "A capability family within earth-environment-space-sciences grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:99979a15-c92a-4a2b-b00b-03b8e92d9115",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "perform-data-assimilation-state-estimation",
+    "label": "Perform bounded state estimation or data assimilation",
+    "definition": "Given a dynamical model, observations, and error assumptions, update state estimates by a declared method and report uncertainty, resolution, and sensitivity.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a dynamical model, observations, and error assumptions, update state estimates by a declared method and report uncertainty, resolution, and sensitivity.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:985cc656-aa52-4efe-9bbb-531d92efd915",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "evaluate-ensemble-scenario-forecast",
+    "label": "Evaluate an ensemble, scenario, or forecast",
+    "definition": "Given multiple model runs or scenarios, summarize distributions, calibration, skill, spread, and conditional assumptions and distinguish scenario uncertainty from probability.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given multiple model runs or scenarios, summarize distributions, calibration, skill, spread, and conditional assumptions and distinguish scenario uncertainty from probability.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:4c7fdb6c-6f6a-4c07-a7cd-8ca0af76ecbe",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "audit-earth-environment-space-claim",
+    "label": "Audit an Earth, environmental, or space claim",
+    "definition": "Given a model-based claim, check coordinate system, scale, conservation, forcing, parameterization, observation error, spatial dependence, ensemble design, validation, and extrapolation beyond the modeled regime.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a model-based claim, check coordinate system, scale, conservation, forcing, parameterization, observation error, spatial dependence, ensemble design, validation, and extrapolation beyond the modeled regime.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  }
+]

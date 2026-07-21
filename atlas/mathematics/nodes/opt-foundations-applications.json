@@ -1,0 +1,1512 @@
+[
+  {
+    "id": "ola:n:c5385357-2670-4748-81b7-058c7cc835f3",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "continuous-objective-feasible-set",
+    "label": "Continuous objective and feasible set",
+    "definition": "A real-valued objective optimized over continuous variables satisfying equality, inequality, cone, or domain constraints.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:b8d97aa1-15eb-4999-b87e-ea787016bfab",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "convexity-duality-optimality",
+    "label": "Convexity, duality, and optimality",
+    "definition": "Convex objectives and feasible sets make local minima global; dual variables and stationarity characterize optima under constraint qualifications.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:d4d47266-e26f-4b5a-a78e-a2c348bf23ec",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "gradient-kkt-strong-duality",
+    "label": "Gradient, KKT, and strong duality conditions",
+    "definition": "First- and second-order or subgradient conditions and KKT systems require differentiability, convexity, and constraint qualifications appropriate to the problem.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:2d471814-0226-42d6-ad9b-ca85d72fc9a1",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "contour-feasible-region-dual-gap",
+    "label": "Contour, feasible-region, and dual-gap representation",
+    "definition": "Level sets, feasible geometry, gradients, Lagrangians, convergence plots, and primal–dual gaps representing optimization.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:f37572d6-cfbf-42e6-b134-1e0eebc85060",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "formulate-solve-continuous-optimization-family",
+    "label": "Formulate and solve continuous optimization",
+    "definition": "A capability family within continuous-convex-optimization grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:8e760e66-ed0c-4f3c-ad58-8cc974950c7e",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "formulate-continuous-optimization-problem",
+    "label": "Formulate a continuous optimization problem",
+    "definition": "Given a bounded decision problem, define variables, objective, constraints, units, domains, and convexity or smoothness assumptions and separate feasibility from optimality.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a bounded decision problem, define variables, objective, constraints, units, domains, and convexity or smoothness assumptions and separate feasibility from optimality.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:71456901-0bf7-4a77-b522-72972a64270a",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "solve-unconstrained-smooth-optimization",
+    "label": "Solve an unconstrained smooth optimization problem",
+    "definition": "Given a differentiable objective in a declared class, find candidate optima using analytic or numerical methods and verify first-, second-, and boundary-relevant conditions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a differentiable objective in a declared class, find candidate optima using analytic or numerical methods and verify first-, second-, and boundary-relevant conditions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:e8fe3554-4caa-4d61-91cb-4810a2837dbe",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "solve-convex-constrained-problem",
+    "label": "Solve a convex constrained problem",
+    "definition": "Given a convex program with satisfied regularity, compute or characterize an optimum and report feasibility, objective, KKT evidence, and numerical tolerance.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a convex program with satisfied regularity, compute or characterize an optimum and report feasibility, objective, KKT evidence, and numerical tolerance.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:07c77ab4-0d9a-45d8-91c0-5138f6364a0d",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "analyze-audit-continuous-optimization-family",
+    "label": "Analyze and audit continuous optimization",
+    "definition": "A capability family within continuous-convex-optimization grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:968ce08f-ae33-4c68-bd7f-8d43f260f042",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "derive-interpret-optimization-dual",
+    "label": "Derive and interpret an optimization dual",
+    "definition": "Given a constrained problem in scope, form a Lagrangian or standard dual, determine bounds, and interpret multipliers and duality gap under stated conditions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a constrained problem in scope, form a Lagrangian or standard dual, determine bounds, and interpret multipliers and duality gap under stated conditions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:95307728-e3f1-4bf9-9a5b-389caf9cb241",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "analyze-optimization-sensitivity",
+    "label": "Analyze optimization sensitivity",
+    "definition": "Given an optimum and perturbations to data or constraints, quantify local or scenario-based change in objective and solution and distinguish conditioning from solver tolerance.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given an optimum and perturbations to data or constraints, quantify local or scenario-based change in objective and solution and distinguish conditioning from solver tolerance.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:6f4a8711-1507-45c4-bb20-fbac7d679584",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "audit-continuous-optimization-result",
+    "label": "Audit a continuous optimization result",
+    "definition": "Given a claimed optimum, check formulation, domain, convexity, constraint qualification, stationarity, feasibility, global-versus-local status, initialization, and solver certificates.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a claimed optimum, check formulation, domain, convexity, constraint qualification, stationarity, feasibility, global-versus-local status, initialization, and solver certificates.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:b0527f1d-c069-4fbf-a1c9-93da65103da0",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "combinatorial-decision-feasible-set",
+    "label": "Combinatorial decision and feasible set",
+    "definition": "A finite or discrete family of assignments, selections, schedules, routes, matchings, or structures satisfying constraints.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:7543d2d5-5c06-48b2-a0c6-6e92ae4f25e1",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "relaxation-integrality-branch-bound",
+    "label": "Relaxation, integrality, and branch-and-bound",
+    "definition": "A continuous or simpler relaxation provides bounds; branching partitions discrete choices and valid cuts tighten feasible regions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:cde1dbea-03bd-4bf8-8311-4058a7318fbf",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "optimality-bound-combinatorial-complexity",
+    "label": "Optimality bounds and combinatorial complexity",
+    "definition": "Exact discrete optimization requires feasible incumbents and valid bounds, while approximation and heuristics require separate guarantees and empirical evidence.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:8340e073-36c5-4431-bce3-26f55cb0bdef",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "integer-model-search-tree-network",
+    "label": "Integer model, search tree, and network representation",
+    "definition": "Binary or integer formulations, graphs, dynamic-programming states, branch trees, cuts, and gap plots representing discrete optimization.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:1b681f1d-bc93-47d2-8e6d-c40cd82b8dda",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "formulate-solve-discrete-optimization-family",
+    "label": "Formulate and solve discrete optimization",
+    "definition": "A capability family within discrete-optimization grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:9aa332d3-9320-48bf-9861-af35eefce103",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "formulate-integer-combinatorial-model",
+    "label": "Formulate an integer or combinatorial model",
+    "definition": "Given a bounded decision problem, define discrete variables, objective, constraints, symmetry, and correspondence between feasible structures and model solutions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a bounded decision problem, define discrete variables, objective, constraints, symmetry, and correspondence between feasible structures and model solutions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:8f5f008c-212a-4462-bef8-704120d43032",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "solve-discrete-problem-exactly",
+    "label": "Solve a discrete optimization problem exactly",
+    "definition": "Given a finite problem in an admitted class, use enumeration, dynamic programming, network methods, integer programming, or proof to find an optimum and certify it.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a finite problem in an admitted class, use enumeration, dynamic programming, network methods, integer programming, or proof to find an optimum and certify it.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:b3b77e9d-8db9-4448-aadb-cb93eead89d0",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-approximation-heuristic",
+    "label": "Construct an approximation or heuristic solution",
+    "definition": "Given a hard discrete problem and resource limit, produce a feasible solution by a declared approximation or heuristic and distinguish worst-case guarantee from empirical quality.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a hard discrete problem and resource limit, produce a feasible solution by a declared approximation or heuristic and distinguish worst-case guarantee from empirical quality.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:a21a70c5-eb00-4345-8eda-2766af1d31e2",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "analyze-audit-discrete-optimization-family",
+    "label": "Analyze and audit discrete optimization",
+    "definition": "A capability family within discrete-optimization grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:d264b3cb-d863-4b5c-9909-9806af7d6042",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "derive-relaxation-bound",
+    "label": "Derive a relaxation bound",
+    "definition": "Given a discrete optimization problem, construct a valid relaxation, compute or bound its optimum, and use direction correctly relative to minimization or maximization.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a discrete optimization problem, construct a valid relaxation, compute or bound its optimum, and use direction correctly relative to minimization or maximization.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:23560ad8-c56b-4b78-9923-351c8a2e257f",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "analyze-discrete-optimality-gap",
+    "label": "Analyze a discrete optimality gap",
+    "definition": "Given incumbent and valid bound, compute absolute or relative gap, handle sign and zero conventions, and state what remains uncertified.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given incumbent and valid bound, compute absolute or relative gap, handle sign and zero conventions, and state what remains uncertified.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:35d1a355-d165-4152-a046-20e6b020b0cd",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "audit-discrete-optimization-result",
+    "label": "Audit a discrete optimization result",
+    "definition": "Given a reported solution, check formulation, feasibility, integrality, symmetry, bound validity, gap, randomness, stopping, and whether optimal, approximate, and heuristic claims are distinguished.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a reported solution, check formulation, feasibility, integrality, symmetry, bound validity, gap, randomness, stopping, and whether optimal, approximate, and heuristic claims are distinguished.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:daa5fad3-dd48-494f-88a2-32b46715e6d9",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "computational-simulation-model",
+    "label": "Computational simulation model",
+    "definition": "An executable mathematical representation that evolves state, samples uncertainty, or solves discretized relations to generate model outcomes.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:a1cd08d2-8c4f-406a-9a47-da20fd711581",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "simulation-experiment-replication",
+    "label": "Simulation experiment and replication",
+    "definition": "A design over scenarios, inputs, random seeds, time horizons, and repeated runs used to estimate model behavior and Monte Carlo uncertainty.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:6e8fc5bc-162b-44db-bd82-910d73f3a0df",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "verification-validation-reproducibility-simulation",
+    "label": "Simulation verification, validation, and reproducibility",
+    "definition": "Correct code, adequate numerical solution, empirical relevance, and repeatable provenance are separate obligations; more runs reduce sampling error but not model bias.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:b1bf773a-634f-4dbd-af09-20632ba4efaf",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "simulation-flow-state-trajectory-output",
+    "label": "Simulation flow, state trajectory, and output distribution",
+    "definition": "Process diagrams, state plots, event logs, scenario tables, and distributions representing simulation mechanisms and results.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:ec6f5124-2f54-48c6-b4c9-6c5b03fea762",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "build-run-simulations-family",
+    "label": "Build and run simulations",
+    "definition": "A capability family within simulation-computational-modeling grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:8d0c394b-3c82-451c-8e97-98b0c0c2b69d",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "specify-computational-simulation",
+    "label": "Specify a computational simulation",
+    "definition": "Given a model question, define state, update rules, inputs, parameters, randomness, initial and boundary conditions, time or event handling, and outputs.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a model question, define state, update rules, inputs, parameters, randomness, initial and boundary conditions, time or event handling, and outputs.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:80dfd687-2a97-4bc9-a380-2b2afbdcc09c",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "execute-reproducible-simulation",
+    "label": "Execute a reproducible simulation",
+    "definition": "Given a fully specified model and implementation, run declared scenarios with recorded code version, environment, parameters, seeds, resolution, and output summaries.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a fully specified model and implementation, run declared scenarios with recorded code version, environment, parameters, seeds, resolution, and output summaries.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:daa0cac2-91e1-4acf-92fd-7dbecf8aa7b1",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "design-simulation-experiment",
+    "label": "Design a simulation experiment",
+    "definition": "Given a simulation and comparison goal, select scenarios, replications, warm-up, run length, random-number controls, and response measures to separate effects and sampling error.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a simulation and comparison goal, select scenarios, replications, warm-up, run length, random-number controls, and response measures to separate effects and sampling error.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:196bf7dd-8b8a-46f7-8087-ff46640acd44",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "validate-analyze-simulation-family",
+    "label": "Validate and analyze simulations",
+    "definition": "A capability family within simulation-computational-modeling grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:5406be7c-aaa6-4b12-9f29-86450c43479c",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "quantify-monte-carlo-uncertainty",
+    "label": "Quantify Monte Carlo uncertainty",
+    "definition": "Given replicated stochastic simulation outputs, estimate target summaries and simulation error with dependence-aware methods and distinguish it from input and model uncertainty.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given replicated stochastic simulation outputs, estimate target summaries and simulation error with dependence-aware methods and distinguish it from input and model uncertainty.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:2fed0fec-9d18-4c38-a4d4-3f20b828a14d",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "verify-validate-simulation",
+    "label": "Verify and validate a simulation",
+    "definition": "Given a simulation, test implementation against equations and invariants, compare outputs with benchmarks or observations, and document unresolved mismatch and scope.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a simulation, test implementation against equations and invariants, compare outputs with benchmarks or observations, and document unresolved mismatch and scope.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:55226597-d0bf-405b-ad92-4a8fd22fc945",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "audit-simulation-claim",
+    "label": "Audit a simulation claim",
+    "definition": "Given a simulation-based conclusion, check model structure, numerical error, initialization, calibration, seeds, replication, sensitivity, validation, provenance, and whether simulated output is presented as real evidence.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a simulation-based conclusion, check model structure, numerical error, initialization, calibration, seeds, replication, sensitivity, validation, provenance, and whether simulated output is presented as real evidence.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:b910b901-3de0-4f43-a82c-a0c6af09ee50",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "control-state-input-output",
+    "label": "Control state, input, and output",
+    "definition": "A dynamical system representation connecting latent state, controllable inputs, disturbances, and measured outputs.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:813d084e-6094-4a87-bfec-5486eb589521",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "inverse-identifiability-regularization",
+    "label": "Inverse problem, identifiability, and regularization",
+    "definition": "Recovery of causes, parameters, or states from effects, with uniqueness, stability, noise, and prior or penalty structure made explicit.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:87377a65-e993-412a-8fe4-817069d9a1c8",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "stability-observability-controllability-illposedness",
+    "label": "Stability, observability, controllability, and ill-posedness",
+    "definition": "Control feasibility depends on state reachability and observation; inverse recovery may be nonunique or unstable and require regularization whose bias is part of the result.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:04c69e50-2c00-473c-ac87-1d1b24f7883d",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "block-state-space-response-regularization-path",
+    "label": "Block, state-space, response, and regularization representation",
+    "definition": "Block diagrams, state equations, transfer or impulse responses, observation operators, spectra, and regularization paths representing control and inversion.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:f29f1c3b-d441-4a47-8b24-33c621d3bbca",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "analyze-design-control-family",
+    "label": "Analyze and design control systems",
+    "definition": "A capability family within control-inverse-problems grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:3784c5c1-7800-47fa-ac8b-fd58a758a293",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "analyze-linear-control-system",
+    "label": "Analyze a linear control system",
+    "definition": "Given a finite-dimensional state-space or transfer representation, determine stability, modes, response, controllability, or observability using valid criteria and conventions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a finite-dimensional state-space or transfer representation, determine stability, modes, response, controllability, or observability using valid criteria and conventions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:14b18c1e-0d24-4371-928d-04ec95dfa17c",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "design-bounded-feedback-controller",
+    "label": "Design a bounded feedback controller",
+    "definition": "Given a plant model and declared performance constraints, select controller parameters by an admitted method and analyze closed-loop stability, response, and robustness.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a plant model and declared performance constraints, select controller parameters by an admitted method and analyze closed-loop stability, response, and robustness.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:9b58b2f4-5fd3-4dc1-92e8-88608f5454dd",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "simulate-control-response",
+    "label": "Simulate and interpret a control response",
+    "definition": "Given a controlled dynamical model, inputs, disturbances, and settings, compute a response and interpret transient, steady-state, saturation, and model limitations.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a controlled dynamical model, inputs, disturbances, and settings, compute a response and interpret transient, steady-state, saturation, and model limitations.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:2a38a517-0c05-46ba-b872-0eec99d7ecfc",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "solve-audit-inverse-problems-family",
+    "label": "Solve and audit inverse problems",
+    "definition": "A capability family within control-inverse-problems grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:d28dbe79-adf6-4d2a-95a2-f9e047940c17",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "formulate-inverse-problem",
+    "label": "Formulate an inverse problem",
+    "definition": "Given observations and a forward model, define unknowns, noise, observation operator, identifiability target, constraints, and prior or regularization assumptions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given observations and a forward model, define unknowns, noise, observation operator, identifiability target, constraints, and prior or regularization assumptions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:28b9defb-1997-4c34-a534-50b25426e489",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "solve-regularized-inverse-problem",
+    "label": "Solve a regularized inverse problem",
+    "definition": "Given a bounded inverse problem and regularization family, compute an estimate, select or analyze the regularization level, and report residual, stability, resolution, and bias.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a bounded inverse problem and regularization family, compute an estimate, select or analyze the regularization level, and report residual, stability, resolution, and bias.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:e752c183-91cc-40a0-98f7-a1ca7260fbd9",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "audit-control-inverse-result",
+    "label": "Audit a control or inverse result",
+    "definition": "Given a result, check model, identifiability, stability, observability, constraints, noise, regularization, sensitivity, validation, and whether reconstructed detail is supported by data.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a result, check model, identifiability, stability, observability, constraints, noise, regularization, sensitivity, validation, and whether reconstructed detail is supported by data.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:1933f2c8-93a8-474f-bcad-c57df69bc9eb",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "decision-variable-objective-constraint",
+    "label": "Decision variable, objective, and constraint",
+    "definition": "Mathematical representation of controllable choices, performance criteria, and feasibility requirements in a decision problem.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:09b96c1c-11d2-457b-a657-a46b52a0a72b",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "resource-allocation-queue-network-decision",
+    "label": "Resource allocation, queue, network, and decision system",
+    "definition": "Structured systems for assigning scarce resources, scheduling flow, managing congestion, or choosing under uncertainty.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:fdb21891-443e-4d99-8545-f999780d1b7b",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "model-solution-policy-tradeoff",
+    "label": "Model, solution, policy, and tradeoff",
+    "definition": "An operations-research model links decisions to outcomes; optimization, simulation, queueing, and decision analysis produce policies whose tradeoffs and assumptions require validation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:24609a19-4443-461d-9781-13e4311683b7",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "optimization-network-queue-decision-tree",
+    "label": "Optimization, network, queue, and decision-tree representation",
+    "definition": "Mathematical programs, flow networks, process maps, queue states, payoff tables, and scenario trees representing decisions and operations.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:7ca110b6-daa5-4d03-b374-47d550cb1155",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "formulate-analyze-operations-models-family",
+    "label": "Formulate and analyze operations models",
+    "definition": "A capability family within operations-research-decision-science grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:77fb5505-4211-49fe-8794-b46fbb91acd9",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "formulate-operations-research-model",
+    "label": "Formulate an operations-research model",
+    "definition": "Given an operational question, define decisions, objectives, constraints, time, uncertainty, units, stakeholders, and correspondence between mathematical and real feasibility.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given an operational question, define decisions, objectives, constraints, time, uncertainty, units, stakeholders, and correspondence between mathematical and real feasibility.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:5d241f70-d59f-496b-a1dd-2f3acefedeaa",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "solve-resource-allocation-scheduling-model",
+    "label": "Solve a resource-allocation or scheduling model",
+    "definition": "Given a bounded linear, network, scheduling, inventory, or assignment model, compute a feasible solution and objective and provide appropriate optimality or quality evidence.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a bounded linear, network, scheduling, inventory, or assignment model, compute a feasible solution and objective and provide appropriate optimality or quality evidence.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:528f24e2-86b4-4a16-9289-1b6f380d3cc6",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "analyze-queue-service-system",
+    "label": "Analyze a queue or service system",
+    "definition": "Given an admitted queueing or flow model, compute or estimate requested utilization, delay, throughput, backlog, or service levels and check stability and arrival assumptions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given an admitted queueing or flow model, compute or estimate requested utilization, delay, throughput, backlog, or service levels and check stability and arrival assumptions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:9e65dd62-40be-41dc-b75b-ff88a1a308bd",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "evaluate-decisions-policies-family",
+    "label": "Evaluate decisions and policies",
+    "definition": "A capability family within operations-research-decision-science grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:3b7298ae-d3a2-477f-ad36-9de37c3d3552",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compare-policies-under-uncertainty",
+    "label": "Compare policies under uncertainty",
+    "definition": "Given candidate policies, scenarios or distributions, and declared criteria, compute expected and risk-sensitive outcomes and expose tradeoffs and distributional effects.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given candidate policies, scenarios or distributions, and declared criteria, compute expected and risk-sensitive outcomes and expose tradeoffs and distributional effects.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:fa9d288e-6ee2-4d2e-80b3-f8598dbe49ed",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "perform-decision-sensitivity-scenario-analysis",
+    "label": "Perform sensitivity or scenario analysis",
+    "definition": "Given a decision model, vary uncertain data, constraints, and preferences systematically and identify robust conclusions, thresholds, and reversals.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a decision model, vary uncertain data, constraints, and preferences systematically and identify robust conclusions, thresholds, and reversals.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:3a684047-c00d-4a18-b9f3-3cd68a8695f5",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "audit-operations-recommendation",
+    "label": "Audit an operations recommendation",
+    "definition": "Given a recommendation, check data, objectives, constraints, infeasibility, uncertainty, solver evidence, incentives, equity or stakeholder effects, implementation, and model validation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7c806523-7405-48cc-871a-dcb588726f80",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a recommendation, check data, objectives, constraints, infeasibility, uncertainty, solver evidence, incentives, equity or stakeholder effects, implementation, and model validation.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  }
+]

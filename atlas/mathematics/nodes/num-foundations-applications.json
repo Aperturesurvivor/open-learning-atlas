@@ -1,0 +1,950 @@
+[
+  {
+    "id": "ola:n:a4bfa0cb-88dc-4ce3-8ecd-8a7dc8da6d94",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "symbolic-expression-exact-object",
+    "label": "Symbolic expression and exact object",
+    "definition": "A syntactic representation intended to denote an exact algebraic, combinatorial, logical, or analytic object.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:877ef8d5-7a25-479b-8cf6-81f4f2d7effc",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "canonical-normal-form-rewrite",
+    "label": "Canonical or normal form and rewrite",
+    "definition": "A standardized representative and a directed transformation governed by matching, equivalence, termination, and confluence conditions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:0d23d9ca-700e-41f8-84ec-8bb270f37df8",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "symbolic-algorithm-correctness-termination",
+    "label": "Symbolic algorithm correctness and termination",
+    "definition": "Exact output still depends on representation, domains, branch conventions, algorithm termination, and proof that rewrites preserve denotation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:8b51c0b3-3cf6-4b9a-bcb6-faeb13c74351",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "expression-dag-rewrite-trace",
+    "label": "Expression DAG and rewrite trace",
+    "definition": "Syntax trees, directed acyclic expression graphs, term-rewriting steps, and exact coefficient structures representing symbolic computation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:3f54f0e5-62f5-4564-969a-30e0e2f6ec60",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "perform-symbolic-computation-family",
+    "label": "Perform exact symbolic computation",
+    "definition": "A capability family within exact-symbolic-computation grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:ceb91f1d-389c-4b00-b303-7632fab7dfdc",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "simplify-symbolic-expression-exactly",
+    "label": "Simplify a symbolic expression exactly",
+    "definition": "Given an expression and declared domain, apply valid exact rewrites to a requested form and preserve conditions and branch information.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given an expression and declared domain, apply valid exact rewrites to a requested form and preserve conditions and branch information.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:aca99be6-6908-423a-ac95-b344c2817962",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compute-exact-algebraic-object",
+    "label": "Compute an exact algebraic object",
+    "definition": "Given finite polynomial, rational, integer, or algebraic data, compute a requested gcd, factorization, resultant, Gröbner-style output, or exact solution within a declared algorithm class.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given finite polynomial, rational, integer, or algebraic data, compute a requested gcd, factorization, resultant, Gröbner-style output, or exact solution within a declared algorithm class.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:a3009d99-549a-4b21-9b16-2ce9b7e1f7a6",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "differentiate-integrate-symbolically-in-scope",
+    "label": "Differentiate or integrate symbolically in scope",
+    "definition": "Given an expression in an admitted class, compute an exact derivative or antiderivative and state domain, constant, branch, or non-elementary limitations.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given an expression in an admitted class, compute an exact derivative or antiderivative and state domain, constant, branch, or non-elementary limitations.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:842af160-e4e4-4b1b-ae49-7203495de78b",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "design-audit-symbolic-algorithms-family",
+    "label": "Design and audit symbolic algorithms",
+    "definition": "A capability family within exact-symbolic-computation grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:7bf96db8-7fab-43f9-a98a-b8b53f40cef2",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "design-terminating-rewrite-procedure",
+    "label": "Design a terminating rewrite procedure",
+    "definition": "Given a bounded term language and target normal form, specify rewrite rules, ordering, and stopping conditions and argue denotation preservation and termination.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a bounded term language and target normal form, specify rewrite rules, ordering, and stopping conditions and argue denotation preservation and termination.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:aff51b7a-2d14-4d7d-b566-f40efc916609",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "verify-symbolic-result",
+    "label": "Verify a symbolic result",
+    "definition": "Given a symbolic output, verify by substitution, differentiation, multiplication, reduction, randomized identity check with stated limits, or independent exact method.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a symbolic output, verify by substitution, differentiation, multiplication, reduction, randomized identity check with stated limits, or independent exact method.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:f7a97286-53c8-4e83-acd9-43df6fc486e5",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "audit-computer-algebra-output",
+    "label": "Audit computer-algebra output",
+    "definition": "Given software-generated symbolic work, check assumptions, domains, branches, exact versus approximate modes, hidden simplifications, and whether the output addresses the original problem.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given software-generated symbolic work, check assumptions, domains, branches, exact versus approximate modes, hidden simplifications, and whether the output addresses the original problem.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:b7f88da6-7616-45f6-90c0-e70d3aae1430",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "finite-precision-number-system",
+    "label": "Finite-precision number system",
+    "definition": "A discrete set of representable numerical values with encoding, range, precision, rounding, and exceptional-value rules.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:425914b9-244f-4376-a521-97bc1ac12e0c",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "roundoff-cancellation-overflow",
+    "label": "Roundoff, cancellation, overflow, and underflow",
+    "definition": "Error mechanisms from rounding and scale limits, including loss of relative accuracy when nearby values are subtracted.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:21652b27-6ba4-4c8b-bc70-b1b6a3445d70",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "floating-point-model-error-propagation",
+    "label": "Floating-point model and error propagation",
+    "definition": "Standard floating-point operations approximate exact results with bounded local error under conditions, but accumulated error depends on conditioning, algorithm, scale, and exceptional cases.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:ce52afac-570b-4e99-b56b-89d0fdc0e51f",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "binary-floating-point-error-plot",
+    "label": "Binary floating-point and error representation",
+    "definition": "Bit fields, number grids, unit-roundoff intervals, error plots, and computational traces representing finite precision.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:d02de827-111e-4603-8ada-68614d4cba46",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "represent-compute-finite-precision-family",
+    "label": "Represent and compute in finite precision",
+    "definition": "A capability family within numerical-representation-error grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:a4ea39ae-91f0-4f1b-a67a-bf14a8eb3412",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "encode-decode-floating-point-value",
+    "label": "Encode or decode a floating-point value",
+    "definition": "Given a specified finite-precision format, convert between components and numerical value, identify normal, subnormal, infinite, or invalid cases, and state rounding.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a specified finite-precision format, convert between components and numerical value, identify normal, subnormal, infinite, or invalid cases, and state rounding.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:4a392207-ab95-40b6-bd11-fcc47963b5a5",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "perform-rounded-arithmetic-step",
+    "label": "Perform a rounded arithmetic step",
+    "definition": "Given operands, format, and rounding mode, compute the correctly rounded result or a valid error interval and detect overflow, underflow, or invalid operation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given operands, format, and rounding mode, compute the correctly rounded result or a valid error interval and detect overflow, underflow, or invalid operation.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:691e3128-7061-4a80-a559-bb530f6b7c88",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "estimate-roundoff-error",
+    "label": "Estimate roundoff error",
+    "definition": "Given a finite computation and standard error model, derive or empirically estimate absolute or relative roundoff effects and distinguish them from truncation and data error.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a finite computation and standard error model, derive or empirically estimate absolute or relative roundoff effects and distinguish them from truncation and data error.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:75d10c26-d5c3-4255-9900-d7011c956424",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "design-audit-stable-computation-family",
+    "label": "Design and audit stable computation",
+    "definition": "A capability family within numerical-representation-error grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:852127ef-b175-4fd2-af6b-8160bde2d73d",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "detect-catastrophic-cancellation",
+    "label": "Detect catastrophic cancellation",
+    "definition": "Given a formula and input regime, identify subtraction or scaling that destroys significant relative information and quantify likely loss.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a formula and input regime, identify subtraction or scaling that destroys significant relative information and quantify likely loss.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:fac4ec40-0fb1-4e25-b370-158c27b5089b",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "reformulate-for-numerical-stability",
+    "label": "Reformulate for numerical stability",
+    "definition": "Given an unstable expression or computation in a bounded regime, construct an algebraically equivalent or alternative method that reduces cancellation, overflow, or conditioning amplification.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given an unstable expression or computation in a bounded regime, construct an algebraically equivalent or alternative method that reduces cancellation, overflow, or conditioning amplification.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:59d457d6-4964-4f43-8b71-cc5e407197c0",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "audit-numerical-representation-claim",
+    "label": "Audit a numerical representation claim",
+    "definition": "Given computed output, check format, rounding, summation order, scale, exceptional values, tolerance, reproducibility, and whether displayed digits imply unsupported accuracy.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given computed output, check format, rounding, summation order, scale, exceptional values, tolerance, reproducibility, and whether displayed digits imply unsupported accuracy.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:c734da5c-4d2e-4f77-b9df-2b58188979f0",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "numerical-discretization-approximation",
+    "label": "Numerical discretization and approximation",
+    "definition": "Replacement of a continuous or exact problem by finite data, basis, grid, interpolation, quadrature, or iterative computation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:f6566620-dd39-4a85-a321-d7382b8aba0b",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "consistency-stability-convergence",
+    "label": "Consistency, stability, and convergence",
+    "definition": "Relations connecting local approximation, propagation of perturbations, and approach of numerical solutions to exact solutions as resolution changes.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:926c5652-e9cd-4053-a9be-135c304dc00e",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "truncation-conditioning-a-posteriori-error",
+    "label": "Truncation, conditioning, and a posteriori error",
+    "definition": "Total numerical error separates problem sensitivity, discretization, iteration, data, and rounding; residual and refinement evidence can estimate but not automatically guarantee accuracy.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:0c92f893-12b5-4d69-9acc-8040d6d8684c",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "grid-interpolant-convergence-error-plot",
+    "label": "Grid, interpolant, convergence, and error plot",
+    "definition": "Meshes, nodes, basis functions, iteration histories, and log–log error plots representing numerical approximation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review."
+  },
+  {
+    "id": "ola:n:c880971f-27cf-4c56-a521-fb5a6dbaaf2c",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "apply-numerical-methods-family",
+    "label": "Apply numerical methods",
+    "definition": "A capability family within numerical-analysis-approximation grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:82d5bdea-cdd9-412c-adca-0c2adc1e67f7",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "approximate-root-nonlinear-equation",
+    "label": "Approximate a root of a nonlinear equation",
+    "definition": "Given a function, interval or initial guess, tolerance, and method conditions, compute an approximate root and report residual, stopping rule, and convergence evidence.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a function, interval or initial guess, tolerance, and method conditions, compute an approximate root and report residual, stopping rule, and convergence evidence.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:0ffaefb4-0bc8-4dc0-8d6b-ef233461879c",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-interpolation-quadrature",
+    "label": "Construct an interpolation or quadrature approximation",
+    "definition": "Given sampled function information and an admitted method, construct the approximation, compute requested values or integral, and state smoothness and error conditions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given sampled function information and an admitted method, construct the approximation, compute requested values or integral, and state smoothness and error conditions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:0dbb3b0b-b222-40e8-9ae6-f1f89d671deb",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "numerically-solve-differential-equation",
+    "label": "Numerically solve a differential equation",
+    "definition": "Given a well-posed initial or boundary problem, discretization, resolution, and solver settings, compute an approximate solution and document stability, convergence, and boundary treatment.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a well-posed initial or boundary problem, discretization, resolution, and solver settings, compute an approximate solution and document stability, convergence, and boundary treatment.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:9adb45ea-cc3c-4fa5-b46e-1fe15acf4c81",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "analyze-audit-numerical-methods-family",
+    "label": "Analyze and audit numerical methods",
+    "definition": "A capability family within numerical-analysis-approximation grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:5cf6cbde-04b6-47bf-9b77-78e5c7d2ab64",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "derive-numerical-error-order",
+    "label": "Derive or estimate numerical error order",
+    "definition": "Given a method and sufficient regularity, derive a truncation or convergence order or estimate it from systematic refinement while separating asymptotic and pre-asymptotic behavior.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a method and sufficient regularity, derive a truncation or convergence order or estimate it from systematic refinement while separating asymptotic and pre-asymptotic behavior.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:f39b5e12-1492-4c12-b898-4c5861949020",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "select-numerical-method-resolution",
+    "label": "Select a numerical method and resolution",
+    "definition": "Given problem structure, desired accuracy, stability, cost, and available precision, choose a method and resolution and justify the tradeoffs and stopping rule.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given problem structure, desired accuracy, stability, cost, and available precision, choose a method and resolution and justify the tradeoffs and stopping rule.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:fe2803bd-ab4f-4762-8efd-9bb6f546defe",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "audit-numerical-approximation",
+    "label": "Audit a numerical approximation",
+    "definition": "Given a numerical result, check well-posedness, conditioning, discretization, stability, convergence study, residual, roundoff, implementation verification, and whether the error claim is supported.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:152ad7fe-0c7e-457d-a210-cf2959f6d489",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "capability_statement": "Given a numerical result, check well-posedness, conditioning, discretization, stability, convergence study, residual, roundoff, implementation verification, and whether the error claim is supported.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:df6c0fa9-ee9b-475b-b110-dec5dc35cf70",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "rational-number-representation-family",
+    "label": "Represent and compare rational quantities",
+    "definition": "A capability family for fraction notation, number-line magnitude, equivalence, and comparison of rational values.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f23dcc20-7d37-49b5-9f6b-ef612acbf4e3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:b2404799-3a95-4fea-8b82-b5dd7b4ce32a",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "ratio-proportion-action-family",
+    "label": "Interpret and solve proportional relations",
+    "definition": "A capability family for ratios, unit rates, equivalent ratios, proportional relationships, and multiplicative justification.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f23dcc20-7d37-49b5-9f6b-ef612acbf4e3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable specialist and educational review.",
+    "subtype": "capability-family"
+  }
+]

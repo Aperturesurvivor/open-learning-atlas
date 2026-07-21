@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "ola:e:97c89ff0-79a6-4da1-99c4-d9b00066259c",
+    "revision": 1,
+    "subject": "ola:n:7d804ff3-0faf-4ca6-8fa2-f0f0c5cec3da",
+    "relation": "composed_of",
+    "object": "ola:n:fcd76705-441f-450e-903b-d811fa5c3ddd",
+    "rationale": "Mechanical state, force, stress, and flow is material terrain within mechanics-continuum-fluids; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:96bd14ae-9d9b-4864-a8f7-b1fdbd1868ce",
+    "revision": 1,
+    "subject": "ola:n:7d804ff3-0faf-4ca6-8fa2-f0f0c5cec3da",
+    "relation": "composed_of",
+    "object": "ola:n:ea8c2f3a-eb77-4f39-9209-5073977b3d74",
+    "rationale": "Continuum field and constitutive law is material terrain within mechanics-continuum-fluids; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:bf5ebd63-1a57-4311-a051-03a6c0d15619",
+    "revision": 1,
+    "subject": "ola:n:7d804ff3-0faf-4ca6-8fa2-f0f0c5cec3da",
+    "relation": "composed_of",
+    "object": "ola:n:e3f077ec-c817-4c5c-8211-3bafeca5700c",
+    "rationale": "Balance, conservation, boundary, and frame principles is material terrain within mechanics-continuum-fluids; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7352cdbd-9a7c-4c19-b2c8-ed3b3b32f5b8",
+    "revision": 1,
+    "subject": "ola:n:7d804ff3-0faf-4ca6-8fa2-f0f0c5cec3da",
+    "relation": "composed_of",
+    "object": "ola:n:5642f5f6-4fcb-48f3-a7fe-4bf72460ed9c",
+    "rationale": "Free-body, field, streamline, and mesh representation is material terrain within mechanics-continuum-fluids; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ca8bf1c1-1950-4172-b056-2c06b75d330e",
+    "revision": 1,
+    "subject": "ola:n:7d804ff3-0faf-4ca6-8fa2-f0f0c5cec3da",
+    "relation": "composed_of",
+    "object": "ola:n:e7c5299d-b294-4e7a-ac34-dda7a13aee98",
+    "rationale": "Formulate and analyze mechanics is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7d336ed9-926c-4886-9186-6a71ceda1281",
+    "revision": 1,
+    "subject": "ola:n:e7c5299d-b294-4e7a-ac34-dda7a13aee98",
+    "relation": "composed_of",
+    "object": "ola:n:b70a11e9-2ab7-4af5-ae6e-3bff8fa23864",
+    "rationale": "Construct a mechanical balance model is a bounded performance within Formulate and analyze mechanics.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c875c272-c3e9-410e-bf25-e7af2ba3be69",
+    "revision": 1,
+    "subject": "ola:n:b70a11e9-2ab7-4af5-ae6e-3bff8fa23864",
+    "relation": "uses_concept",
+    "object": "ola:n:fcd76705-441f-450e-903b-d811fa5c3ddd",
+    "rationale": "Demonstrating Construct a mechanical balance model materially invokes Mechanical state, force, stress, and flow at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a8010435-86bc-4ad4-bdfc-7ca767debf99",
+    "revision": 1,
+    "subject": "ola:n:b70a11e9-2ab7-4af5-ae6e-3bff8fa23864",
+    "relation": "uses_knowledge",
+    "object": "ola:n:e3f077ec-c817-4c5c-8211-3bafeca5700c",
+    "rationale": "Demonstrating Construct a mechanical balance model materially invokes Balance, conservation, boundary, and frame principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4e60273a-14d2-4172-9735-de1a71593e69",
+    "revision": 1,
+    "subject": "ola:n:b70a11e9-2ab7-4af5-ae6e-3bff8fa23864",
+    "relation": "uses_representation",
+    "object": "ola:n:5642f5f6-4fcb-48f3-a7fe-4bf72460ed9c",
+    "rationale": "Demonstrating Construct a mechanical balance model materially invokes Free-body, field, streamline, and mesh representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:9ba0c437-c50c-4027-ac27-b3301634600f",
+    "revision": 1,
+    "subject": "ola:n:e7c5299d-b294-4e7a-ac34-dda7a13aee98",
+    "relation": "composed_of",
+    "object": "ola:n:64a2178a-23e2-450b-ba9c-70531f6dc221",
+    "rationale": "Solve a bounded mechanics problem is a bounded performance within Formulate and analyze mechanics.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:16632179-1bc0-4d7a-85ae-205519138c3e",
+    "revision": 1,
+    "subject": "ola:n:64a2178a-23e2-450b-ba9c-70531f6dc221",
+    "relation": "uses_concept",
+    "object": "ola:n:fcd76705-441f-450e-903b-d811fa5c3ddd",
+    "rationale": "Demonstrating Solve a bounded mechanics problem materially invokes Mechanical state, force, stress, and flow at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:6d65407c-80ad-4c70-ac84-72db64e1280c",
+    "revision": 1,
+    "subject": "ola:n:64a2178a-23e2-450b-ba9c-70531f6dc221",
+    "relation": "uses_knowledge",
+    "object": "ola:n:e3f077ec-c817-4c5c-8211-3bafeca5700c",
+    "rationale": "Demonstrating Solve a bounded mechanics problem materially invokes Balance, conservation, boundary, and frame principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7f571fb1-c4ac-4aa2-a967-705515537fbc",
+    "revision": 1,
+    "subject": "ola:n:64a2178a-23e2-450b-ba9c-70531f6dc221",
+    "relation": "uses_representation",
+    "object": "ola:n:5642f5f6-4fcb-48f3-a7fe-4bf72460ed9c",
+    "rationale": "Demonstrating Solve a bounded mechanics problem materially invokes Free-body, field, streamline, and mesh representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:05ea0edf-e7a4-45d8-82a9-550e2b145a17",
+    "revision": 1,
+    "subject": "ola:n:e7c5299d-b294-4e7a-ac34-dda7a13aee98",
+    "relation": "composed_of",
+    "object": "ola:n:d80fd27d-8d35-45b4-acea-5b7d1591bbbd",
+    "rationale": "Analyze mechanical scaling and dimensions is a bounded performance within Formulate and analyze mechanics.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:65cc74de-4a4a-4b77-88d4-746b3fe54bd5",
+    "revision": 1,
+    "subject": "ola:n:d80fd27d-8d35-45b4-acea-5b7d1591bbbd",
+    "relation": "uses_concept",
+    "object": "ola:n:fcd76705-441f-450e-903b-d811fa5c3ddd",
+    "rationale": "Demonstrating Analyze mechanical scaling and dimensions materially invokes Mechanical state, force, stress, and flow at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:adc3ddf8-b297-4e7c-9302-6b745ba4e357",
+    "revision": 1,
+    "subject": "ola:n:d80fd27d-8d35-45b4-acea-5b7d1591bbbd",
+    "relation": "uses_knowledge",
+    "object": "ola:n:e3f077ec-c817-4c5c-8211-3bafeca5700c",
+    "rationale": "Demonstrating Analyze mechanical scaling and dimensions materially invokes Balance, conservation, boundary, and frame principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a88a14e4-0e62-411f-9efc-f7dd9568c81b",
+    "revision": 1,
+    "subject": "ola:n:d80fd27d-8d35-45b4-acea-5b7d1591bbbd",
+    "relation": "uses_representation",
+    "object": "ola:n:5642f5f6-4fcb-48f3-a7fe-4bf72460ed9c",
+    "rationale": "Demonstrating Analyze mechanical scaling and dimensions materially invokes Free-body, field, streamline, and mesh representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:98c44dfe-7c81-4881-b373-cbfe6c060c1c",
+    "revision": 1,
+    "subject": "ola:n:7d804ff3-0faf-4ca6-8fa2-f0f0c5cec3da",
+    "relation": "composed_of",
+    "object": "ola:n:7aa440ff-d0d5-4140-85cb-3652018568a0",
+    "rationale": "Validate and audit continuum models is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:cb8e2df2-687a-4244-86bd-204f70172b90",
+    "revision": 1,
+    "subject": "ola:n:7aa440ff-d0d5-4140-85cb-3652018568a0",
+    "relation": "composed_of",
+    "object": "ola:n:93cbcafe-2ce6-47da-bc15-7603fcc3bd5a",
+    "rationale": "Interpret a mechanical field solution is a bounded performance within Validate and audit continuum models.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c10c7da7-dd86-483a-870d-74f689dd2735",
+    "revision": 1,
+    "subject": "ola:n:93cbcafe-2ce6-47da-bc15-7603fcc3bd5a",
+    "relation": "uses_concept",
+    "object": "ola:n:ea8c2f3a-eb77-4f39-9209-5073977b3d74",
+    "rationale": "Demonstrating Interpret a mechanical field solution materially invokes Continuum field and constitutive law at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:18176063-46ca-407f-87ec-4676cf0c0b59",
+    "revision": 1,
+    "subject": "ola:n:93cbcafe-2ce6-47da-bc15-7603fcc3bd5a",
+    "relation": "uses_knowledge",
+    "object": "ola:n:e3f077ec-c817-4c5c-8211-3bafeca5700c",
+    "rationale": "Demonstrating Interpret a mechanical field solution materially invokes Balance, conservation, boundary, and frame principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:15b7c0ce-bde9-4ea3-82f0-740ac1f870e2",
+    "revision": 1,
+    "subject": "ola:n:93cbcafe-2ce6-47da-bc15-7603fcc3bd5a",
+    "relation": "uses_representation",
+    "object": "ola:n:5642f5f6-4fcb-48f3-a7fe-4bf72460ed9c",
+    "rationale": "Demonstrating Interpret a mechanical field solution materially invokes Free-body, field, streamline, and mesh representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ab675579-40df-403a-988a-522d885a3861",
+    "revision": 1,
+    "subject": "ola:n:7aa440ff-d0d5-4140-85cb-3652018568a0",
+    "relation": "composed_of",
+    "object": "ola:n:ac037086-ebf5-4704-bd25-9ee85b7c8804",
+    "rationale": "Simulate a continuum or fluid model is a bounded performance within Validate and audit continuum models.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4bccd81b-c6d0-4f00-9ce3-7a5036de0f67",
+    "revision": 1,
+    "subject": "ola:n:ac037086-ebf5-4704-bd25-9ee85b7c8804",
+    "relation": "uses_concept",
+    "object": "ola:n:ea8c2f3a-eb77-4f39-9209-5073977b3d74",
+    "rationale": "Demonstrating Simulate a continuum or fluid model materially invokes Continuum field and constitutive law at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:0061397c-0031-4ddd-a7ce-03174691e5c5",
+    "revision": 1,
+    "subject": "ola:n:ac037086-ebf5-4704-bd25-9ee85b7c8804",
+    "relation": "uses_knowledge",
+    "object": "ola:n:e3f077ec-c817-4c5c-8211-3bafeca5700c",
+    "rationale": "Demonstrating Simulate a continuum or fluid model materially invokes Balance, conservation, boundary, and frame principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4b28ad87-a341-495d-b37b-cadda1368302",
+    "revision": 1,
+    "subject": "ola:n:ac037086-ebf5-4704-bd25-9ee85b7c8804",
+    "relation": "uses_representation",
+    "object": "ola:n:5642f5f6-4fcb-48f3-a7fe-4bf72460ed9c",
+    "rationale": "Demonstrating Simulate a continuum or fluid model materially invokes Free-body, field, streamline, and mesh representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8a74a8e3-1852-4fb4-96c4-673b7f0c19f6",
+    "revision": 1,
+    "subject": "ola:n:7aa440ff-d0d5-4140-85cb-3652018568a0",
+    "relation": "composed_of",
+    "object": "ola:n:b4732f29-27ad-45fe-b0bd-2b5a95993149",
+    "rationale": "Audit a mechanics or fluid claim is a bounded performance within Validate and audit continuum models.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:3cefeeb0-6d6f-4dbb-8544-a6d74eb8cc62",
+    "revision": 1,
+    "subject": "ola:n:b4732f29-27ad-45fe-b0bd-2b5a95993149",
+    "relation": "uses_concept",
+    "object": "ola:n:ea8c2f3a-eb77-4f39-9209-5073977b3d74",
+    "rationale": "Demonstrating Audit a mechanics or fluid claim materially invokes Continuum field and constitutive law at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c5e40cd5-759c-482a-b4a5-7f41e8919cf1",
+    "revision": 1,
+    "subject": "ola:n:b4732f29-27ad-45fe-b0bd-2b5a95993149",
+    "relation": "uses_knowledge",
+    "object": "ola:n:e3f077ec-c817-4c5c-8211-3bafeca5700c",
+    "rationale": "Demonstrating Audit a mechanics or fluid claim materially invokes Balance, conservation, boundary, and frame principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:0b05a21a-5e95-4b54-9e77-5df543b41c68",
+    "revision": 1,
+    "subject": "ola:n:b4732f29-27ad-45fe-b0bd-2b5a95993149",
+    "relation": "uses_representation",
+    "object": "ola:n:5642f5f6-4fcb-48f3-a7fe-4bf72460ed9c",
+    "rationale": "Demonstrating Audit a mechanics or fluid claim materially invokes Free-body, field, streamline, and mesh representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:83293dd7-d065-4c37-9765-66d09e7d7fe3",
+    "revision": 1,
+    "subject": "ola:n:73008d58-e92d-43b9-9c5c-47d7115a72b0",
+    "relation": "composed_of",
+    "object": "ola:n:af4b93aa-3a65-4e22-81a5-ff566c8cd5a9",
+    "rationale": "Physical field, operator, and symmetry is material terrain within mathematical-physics; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d05f8643-fdc8-4378-a6f3-9811aa9955bd",
+    "revision": 1,
+    "subject": "ola:n:73008d58-e92d-43b9-9c5c-47d7115a72b0",
+    "relation": "composed_of",
+    "object": "ola:n:fc9724ef-4bca-484d-8e8f-d7b80ad225d7",
+    "rationale": "Variational, spectral, and quantum structure is material terrain within mathematical-physics; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:84dbdd2b-fa5d-48a7-abc6-7f215a1f8e78",
+    "revision": 1,
+    "subject": "ola:n:73008d58-e92d-43b9-9c5c-47d7115a72b0",
+    "relation": "composed_of",
+    "object": "ola:n:4d281775-010e-4593-8b88-78c3eef5e5b6",
+    "rationale": "Symmetry, conservation, and variational principles is material terrain within mathematical-physics; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b459ac25-8a91-46e1-9f91-0f4a5aea04b2",
+    "revision": 1,
+    "subject": "ola:n:73008d58-e92d-43b9-9c5c-47d7115a72b0",
+    "relation": "composed_of",
+    "object": "ola:n:e04641f4-893b-43f3-b496-f73875811b27",
+    "rationale": "Field equation, spectrum, and symmetry representation is material terrain within mathematical-physics; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:68926afe-678e-4a15-9af2-cfeb7fe91a28",
+    "revision": 1,
+    "subject": "ola:n:73008d58-e92d-43b9-9c5c-47d7115a72b0",
+    "relation": "composed_of",
+    "object": "ola:n:5cd1583b-4293-46ee-96aa-b5452129d970",
+    "rationale": "Formulate and solve mathematical-physics models is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:061e741c-be96-4ef8-b03c-3192f1152763",
+    "revision": 1,
+    "subject": "ola:n:5cd1583b-4293-46ee-96aa-b5452129d970",
+    "relation": "composed_of",
+    "object": "ola:n:980aefb1-18c5-4a9a-941f-f07894f6b0a7",
+    "rationale": "Formulate a physical field equation is a bounded performance within Formulate and solve mathematical-physics models.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d7ae84fb-0624-4ac9-8765-39ced6e933de",
+    "revision": 1,
+    "subject": "ola:n:980aefb1-18c5-4a9a-941f-f07894f6b0a7",
+    "relation": "uses_concept",
+    "object": "ola:n:af4b93aa-3a65-4e22-81a5-ff566c8cd5a9",
+    "rationale": "Demonstrating Formulate a physical field equation materially invokes Physical field, operator, and symmetry at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2c387ed8-c719-41f2-b6cc-7305519df89a",
+    "revision": 1,
+    "subject": "ola:n:980aefb1-18c5-4a9a-941f-f07894f6b0a7",
+    "relation": "uses_knowledge",
+    "object": "ola:n:4d281775-010e-4593-8b88-78c3eef5e5b6",
+    "rationale": "Demonstrating Formulate a physical field equation materially invokes Symmetry, conservation, and variational principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e2201203-ee53-4ebc-ae80-2a9fefa04079",
+    "revision": 1,
+    "subject": "ola:n:980aefb1-18c5-4a9a-941f-f07894f6b0a7",
+    "relation": "uses_representation",
+    "object": "ola:n:e04641f4-893b-43f3-b496-f73875811b27",
+    "rationale": "Demonstrating Formulate a physical field equation materially invokes Field equation, spectrum, and symmetry representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2bf9dcf4-c0d1-4860-911e-6c2e889c19b9",
+    "revision": 1,
+    "subject": "ola:n:5cd1583b-4293-46ee-96aa-b5452129d970",
+    "relation": "composed_of",
+    "object": "ola:n:6a2c63c5-2da6-444e-a912-cec2cc0e48c2",
+    "rationale": "Solve a bounded spectral or boundary problem is a bounded performance within Formulate and solve mathematical-physics models.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:363ccfc8-9c34-413b-960d-1b48a968a6bd",
+    "revision": 1,
+    "subject": "ola:n:6a2c63c5-2da6-444e-a912-cec2cc0e48c2",
+    "relation": "uses_concept",
+    "object": "ola:n:af4b93aa-3a65-4e22-81a5-ff566c8cd5a9",
+    "rationale": "Demonstrating Solve a bounded spectral or boundary problem materially invokes Physical field, operator, and symmetry at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:3bc10639-6f33-4909-a10d-97997ab0bbfa",
+    "revision": 1,
+    "subject": "ola:n:6a2c63c5-2da6-444e-a912-cec2cc0e48c2",
+    "relation": "uses_knowledge",
+    "object": "ola:n:4d281775-010e-4593-8b88-78c3eef5e5b6",
+    "rationale": "Demonstrating Solve a bounded spectral or boundary problem materially invokes Symmetry, conservation, and variational principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:0d1e91a1-200a-4b52-8f2a-0f1250527e4f",
+    "revision": 1,
+    "subject": "ola:n:6a2c63c5-2da6-444e-a912-cec2cc0e48c2",
+    "relation": "uses_representation",
+    "object": "ola:n:e04641f4-893b-43f3-b496-f73875811b27",
+    "rationale": "Demonstrating Solve a bounded spectral or boundary problem materially invokes Field equation, spectrum, and symmetry representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:30a29691-95b8-4079-9f2a-d9e98784b004",
+    "revision": 1,
+    "subject": "ola:n:5cd1583b-4293-46ee-96aa-b5452129d970",
+    "relation": "composed_of",
+    "object": "ola:n:6cd687b1-a1f7-4dca-9803-a376eb323697",
+    "rationale": "Apply a symmetry–conservation relation is a bounded performance within Formulate and solve mathematical-physics models.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4c49c346-4622-494b-9dc1-bd65fc2c87f2",
+    "revision": 1,
+    "subject": "ola:n:6cd687b1-a1f7-4dca-9803-a376eb323697",
+    "relation": "uses_concept",
+    "object": "ola:n:af4b93aa-3a65-4e22-81a5-ff566c8cd5a9",
+    "rationale": "Demonstrating Apply a symmetry–conservation relation materially invokes Physical field, operator, and symmetry at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b16d4838-e0be-4b37-89f3-31060a15e9f4",
+    "revision": 1,
+    "subject": "ola:n:6cd687b1-a1f7-4dca-9803-a376eb323697",
+    "relation": "uses_knowledge",
+    "object": "ola:n:4d281775-010e-4593-8b88-78c3eef5e5b6",
+    "rationale": "Demonstrating Apply a symmetry–conservation relation materially invokes Symmetry, conservation, and variational principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:98ba09cd-5989-40c7-8274-71c9f08e176a",
+    "revision": 1,
+    "subject": "ola:n:6cd687b1-a1f7-4dca-9803-a376eb323697",
+    "relation": "uses_representation",
+    "object": "ola:n:e04641f4-893b-43f3-b496-f73875811b27",
+    "rationale": "Demonstrating Apply a symmetry–conservation relation materially invokes Field equation, spectrum, and symmetry representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a151ec63-6df4-4266-9201-e8a5dd74284f",
+    "revision": 1,
+    "subject": "ola:n:73008d58-e92d-43b9-9c5c-47d7115a72b0",
+    "relation": "composed_of",
+    "object": "ola:n:b4433159-3ef7-4c75-ba4c-4954ef1b6640",
+    "rationale": "Interpret and audit physical mathematics is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:9403f351-a53c-4ff1-aea7-61f05f9b5d62",
+    "revision": 1,
+    "subject": "ola:n:b4433159-3ef7-4c75-ba4c-4954ef1b6640",
+    "relation": "composed_of",
+    "object": "ola:n:1924a33c-46ee-4899-afc6-a294a1a2f3df",
+    "rationale": "Interpret a mathematical-physics solution is a bounded performance within Interpret and audit physical mathematics.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:95f52a4a-e602-473b-9c21-c548c2ae6878",
+    "revision": 1,
+    "subject": "ola:n:1924a33c-46ee-4899-afc6-a294a1a2f3df",
+    "relation": "uses_concept",
+    "object": "ola:n:fc9724ef-4bca-484d-8e8f-d7b80ad225d7",
+    "rationale": "Demonstrating Interpret a mathematical-physics solution materially invokes Variational, spectral, and quantum structure at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c37037c5-2f86-4986-8778-1d625b82a8a5",
+    "revision": 1,
+    "subject": "ola:n:1924a33c-46ee-4899-afc6-a294a1a2f3df",
+    "relation": "uses_knowledge",
+    "object": "ola:n:4d281775-010e-4593-8b88-78c3eef5e5b6",
+    "rationale": "Demonstrating Interpret a mathematical-physics solution materially invokes Symmetry, conservation, and variational principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e17412a4-3a3c-4220-a1bb-388cf244db81",
+    "revision": 1,
+    "subject": "ola:n:1924a33c-46ee-4899-afc6-a294a1a2f3df",
+    "relation": "uses_representation",
+    "object": "ola:n:e04641f4-893b-43f3-b496-f73875811b27",
+    "rationale": "Demonstrating Interpret a mathematical-physics solution materially invokes Field equation, spectrum, and symmetry representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f2f3cc78-c132-4b4d-8524-744e31c5d2dc",
+    "revision": 1,
+    "subject": "ola:n:b4433159-3ef7-4c75-ba4c-4954ef1b6640",
+    "relation": "composed_of",
+    "object": "ola:n:d38e4ab3-633a-466f-a072-8c0b71243c9d",
+    "rationale": "Analyze an asymptotic or perturbative regime is a bounded performance within Interpret and audit physical mathematics.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:3fe5a19a-c2f2-4720-b380-cc983601d291",
+    "revision": 1,
+    "subject": "ola:n:d38e4ab3-633a-466f-a072-8c0b71243c9d",
+    "relation": "uses_concept",
+    "object": "ola:n:fc9724ef-4bca-484d-8e8f-d7b80ad225d7",
+    "rationale": "Demonstrating Analyze an asymptotic or perturbative regime materially invokes Variational, spectral, and quantum structure at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e4a18d56-0ade-4c43-a60c-19cf3beaa425",
+    "revision": 1,
+    "subject": "ola:n:d38e4ab3-633a-466f-a072-8c0b71243c9d",
+    "relation": "uses_knowledge",
+    "object": "ola:n:4d281775-010e-4593-8b88-78c3eef5e5b6",
+    "rationale": "Demonstrating Analyze an asymptotic or perturbative regime materially invokes Symmetry, conservation, and variational principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b2a8150e-bd48-42a6-82b2-c2e730ebafad",
+    "revision": 1,
+    "subject": "ola:n:d38e4ab3-633a-466f-a072-8c0b71243c9d",
+    "relation": "uses_representation",
+    "object": "ola:n:e04641f4-893b-43f3-b496-f73875811b27",
+    "rationale": "Demonstrating Analyze an asymptotic or perturbative regime materially invokes Field equation, spectrum, and symmetry representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:67d63bfd-0246-494c-9f2a-28d19bfe739b",
+    "revision": 1,
+    "subject": "ola:n:b4433159-3ef7-4c75-ba4c-4954ef1b6640",
+    "relation": "composed_of",
+    "object": "ola:n:8c59d958-d88a-446b-9b81-39c1dc6bfdc6",
+    "rationale": "Audit a mathematical-physics claim is a bounded performance within Interpret and audit physical mathematics.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:1d8015c3-b4e9-4e22-80cf-f2effcbb1a07",
+    "revision": 1,
+    "subject": "ola:n:8c59d958-d88a-446b-9b81-39c1dc6bfdc6",
+    "relation": "uses_concept",
+    "object": "ola:n:fc9724ef-4bca-484d-8e8f-d7b80ad225d7",
+    "rationale": "Demonstrating Audit a mathematical-physics claim materially invokes Variational, spectral, and quantum structure at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ad900b64-ffa1-4c16-818d-29fce12dac60",
+    "revision": 1,
+    "subject": "ola:n:8c59d958-d88a-446b-9b81-39c1dc6bfdc6",
+    "relation": "uses_knowledge",
+    "object": "ola:n:4d281775-010e-4593-8b88-78c3eef5e5b6",
+    "rationale": "Demonstrating Audit a mathematical-physics claim materially invokes Symmetry, conservation, and variational principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:9dad4332-2497-4cfe-a996-a77796019530",
+    "revision": 1,
+    "subject": "ola:n:8c59d958-d88a-446b-9b81-39c1dc6bfdc6",
+    "relation": "uses_representation",
+    "object": "ola:n:e04641f4-893b-43f3-b496-f73875811b27",
+    "rationale": "Demonstrating Audit a mathematical-physics claim materially invokes Field equation, spectrum, and symmetry representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8a1d6d36-0b9c-4830-9b12-9cd8ff866bf6",
+    "revision": 1,
+    "subject": "ola:n:b8882f8f-c6b6-46ba-a7f5-b93c326d7ca6",
+    "relation": "composed_of",
+    "object": "ola:n:dae115a8-9ed8-41a3-ae47-0536928a71fd",
+    "rationale": "Biological population, compartment, and network is material terrain within biological-medical-mathematics; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:0947968e-9d53-496c-9d03-8e533fe81d6c",
+    "revision": 1,
+    "subject": "ola:n:b8882f8f-c6b6-46ba-a7f5-b93c326d7ca6",
+    "relation": "composed_of",
+    "object": "ola:n:29ae065b-4d7f-46f7-b197-8815fcdc2b33",
+    "rationale": "Biological heterogeneity and observation is material terrain within biological-medical-mathematics; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:1505f5f5-83ae-4e45-93d8-2ec477b085b3",
+    "revision": 1,
+    "subject": "ola:n:b8882f8f-c6b6-46ba-a7f5-b93c326d7ca6",
+    "relation": "composed_of",
+    "object": "ola:n:7ea7eff3-7d11-4182-a694-b485fbb18024",
+    "rationale": "Mechanistic, statistical, and identifiability principles in biology is material terrain within biological-medical-mathematics; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f06d8684-af45-45fc-8a99-82fc924beaa6",
+    "revision": 1,
+    "subject": "ola:n:b8882f8f-c6b6-46ba-a7f5-b93c326d7ca6",
+    "relation": "composed_of",
+    "object": "ola:n:99071a63-42ab-4cf6-9d13-c57a49b46477",
+    "rationale": "Compartment, network, survival, and spatial representation is material terrain within biological-medical-mathematics; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:259c60c1-11f3-4bc1-aca5-c28533e75647",
+    "revision": 1,
+    "subject": "ola:n:b8882f8f-c6b6-46ba-a7f5-b93c326d7ca6",
+    "relation": "composed_of",
+    "object": "ola:n:20ee95a5-fe18-412d-b51c-2812c63e0356",
+    "rationale": "Formulate and analyze biological models is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:067e6790-c210-4eb3-b5a1-a65b163fbb54",
+    "revision": 1,
+    "subject": "ola:n:20ee95a5-fe18-412d-b51c-2812c63e0356",
+    "relation": "composed_of",
+    "object": "ola:n:5618d308-49d1-4d98-8d19-5cef3b3acf9c",
+    "rationale": "Construct a population or compartment model is a bounded performance within Formulate and analyze biological models.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:18dc70dc-f194-4e30-894a-c4b50e24e96d",
+    "revision": 1,
+    "subject": "ola:n:5618d308-49d1-4d98-8d19-5cef3b3acf9c",
+    "relation": "uses_concept",
+    "object": "ola:n:dae115a8-9ed8-41a3-ae47-0536928a71fd",
+    "rationale": "Demonstrating Construct a population or compartment model materially invokes Biological population, compartment, and network at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2d95f8be-6af6-4986-ab10-66e29d9c2e58",
+    "revision": 1,
+    "subject": "ola:n:5618d308-49d1-4d98-8d19-5cef3b3acf9c",
+    "relation": "uses_knowledge",
+    "object": "ola:n:7ea7eff3-7d11-4182-a694-b485fbb18024",
+    "rationale": "Demonstrating Construct a population or compartment model materially invokes Mechanistic, statistical, and identifiability principles in biology at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ead008a2-2569-4adf-a78b-af328536d7d0",
+    "revision": 1,
+    "subject": "ola:n:5618d308-49d1-4d98-8d19-5cef3b3acf9c",
+    "relation": "uses_representation",
+    "object": "ola:n:99071a63-42ab-4cf6-9d13-c57a49b46477",
+    "rationale": "Demonstrating Construct a population or compartment model materially invokes Compartment, network, survival, and spatial representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a8da1de9-3c5e-408c-8b1c-b00be8bee63b",
+    "revision": 1,
+    "subject": "ola:n:20ee95a5-fe18-412d-b51c-2812c63e0356",
+    "relation": "composed_of",
+    "object": "ola:n:f56d34c8-1c2c-488f-a953-0c83b029dd4c",
+    "rationale": "Analyze biological dynamics is a bounded performance within Formulate and analyze biological models.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d1a44f20-5001-4c3d-b39e-7986dc56b9a0",
+    "revision": 1,
+    "subject": "ola:n:f56d34c8-1c2c-488f-a953-0c83b029dd4c",
+    "relation": "uses_concept",
+    "object": "ola:n:dae115a8-9ed8-41a3-ae47-0536928a71fd",
+    "rationale": "Demonstrating Analyze biological dynamics materially invokes Biological population, compartment, and network at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d3c5f66f-83a7-4161-9d9c-8e270e2cc5ba",
+    "revision": 1,
+    "subject": "ola:n:f56d34c8-1c2c-488f-a953-0c83b029dd4c",
+    "relation": "uses_knowledge",
+    "object": "ola:n:7ea7eff3-7d11-4182-a694-b485fbb18024",
+    "rationale": "Demonstrating Analyze biological dynamics materially invokes Mechanistic, statistical, and identifiability principles in biology at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:bbf464ed-abab-40e3-a7c6-2edc80048674",
+    "revision": 1,
+    "subject": "ola:n:f56d34c8-1c2c-488f-a953-0c83b029dd4c",
+    "relation": "uses_representation",
+    "object": "ola:n:99071a63-42ab-4cf6-9d13-c57a49b46477",
+    "rationale": "Demonstrating Analyze biological dynamics materially invokes Compartment, network, survival, and spatial representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8173862e-a4b4-4895-8c3d-99a648d2b269",
+    "revision": 1,
+    "subject": "ola:n:20ee95a5-fe18-412d-b51c-2812c63e0356",
+    "relation": "composed_of",
+    "object": "ola:n:1f755e65-204c-4374-9885-e4b9c853c222",
+    "rationale": "Fit and assess biological parameters is a bounded performance within Formulate and analyze biological models.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c8fc1dfd-adc1-4619-a951-7572bf686de6",
+    "revision": 1,
+    "subject": "ola:n:1f755e65-204c-4374-9885-e4b9c853c222",
+    "relation": "uses_concept",
+    "object": "ola:n:dae115a8-9ed8-41a3-ae47-0536928a71fd",
+    "rationale": "Demonstrating Fit and assess biological parameters materially invokes Biological population, compartment, and network at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e31d59e1-c953-4c67-a2bd-3a4fdae58703",
+    "revision": 1,
+    "subject": "ola:n:1f755e65-204c-4374-9885-e4b9c853c222",
+    "relation": "uses_knowledge",
+    "object": "ola:n:7ea7eff3-7d11-4182-a694-b485fbb18024",
+    "rationale": "Demonstrating Fit and assess biological parameters materially invokes Mechanistic, statistical, and identifiability principles in biology at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c18d509c-5582-4ebc-8f04-5df77877814a",
+    "revision": 1,
+    "subject": "ola:n:1f755e65-204c-4374-9885-e4b9c853c222",
+    "relation": "uses_representation",
+    "object": "ola:n:99071a63-42ab-4cf6-9d13-c57a49b46477",
+    "rationale": "Demonstrating Fit and assess biological parameters materially invokes Compartment, network, survival, and spatial representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:620bbf65-e2bb-40a7-95e2-f60b8844da2e",
+    "revision": 1,
+    "subject": "ola:n:b8882f8f-c6b6-46ba-a7f5-b93c326d7ca6",
+    "relation": "composed_of",
+    "object": "ola:n:34a8cf07-68e1-405a-a73a-c989f3869abb",
+    "rationale": "Validate and audit biomedical inference is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ec630249-e6e2-4d5c-8bf6-79929ae9b879",
+    "revision": 1,
+    "subject": "ola:n:34a8cf07-68e1-405a-a73a-c989f3869abb",
+    "relation": "composed_of",
+    "object": "ola:n:91d3db65-7830-4f99-827b-2f0074b5515c",
+    "rationale": "Design biological model validation is a bounded performance within Validate and audit biomedical inference.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:25bf7ce2-1dbc-40f6-bdbc-7b9fcbdd701d",
+    "revision": 1,
+    "subject": "ola:n:91d3db65-7830-4f99-827b-2f0074b5515c",
+    "relation": "uses_concept",
+    "object": "ola:n:29ae065b-4d7f-46f7-b197-8815fcdc2b33",
+    "rationale": "Demonstrating Design biological model validation materially invokes Biological heterogeneity and observation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7aa75200-6f44-4924-a7c7-1b80b4254c64",
+    "revision": 1,
+    "subject": "ola:n:91d3db65-7830-4f99-827b-2f0074b5515c",
+    "relation": "uses_knowledge",
+    "object": "ola:n:7ea7eff3-7d11-4182-a694-b485fbb18024",
+    "rationale": "Demonstrating Design biological model validation materially invokes Mechanistic, statistical, and identifiability principles in biology at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4005f256-5738-4759-83d0-d08157f794ea",
+    "revision": 1,
+    "subject": "ola:n:91d3db65-7830-4f99-827b-2f0074b5515c",
+    "relation": "uses_representation",
+    "object": "ola:n:99071a63-42ab-4cf6-9d13-c57a49b46477",
+    "rationale": "Demonstrating Design biological model validation materially invokes Compartment, network, survival, and spatial representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ac26c541-11bf-440e-857f-0be16ef2606c",
+    "revision": 1,
+    "subject": "ola:n:34a8cf07-68e1-405a-a73a-c989f3869abb",
+    "relation": "composed_of",
+    "object": "ola:n:b8d8b7ac-9654-4ba6-b4f2-9a3482220551",
+    "rationale": "Analyze a medical risk or benefit model is a bounded performance within Validate and audit biomedical inference.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:981f4dd7-d67d-4683-8057-e47f9912fe84",
+    "revision": 1,
+    "subject": "ola:n:b8d8b7ac-9654-4ba6-b4f2-9a3482220551",
+    "relation": "uses_concept",
+    "object": "ola:n:29ae065b-4d7f-46f7-b197-8815fcdc2b33",
+    "rationale": "Demonstrating Analyze a medical risk or benefit model materially invokes Biological heterogeneity and observation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b997a542-90b7-401a-8d30-1b593d3b8c3e",
+    "revision": 1,
+    "subject": "ola:n:b8d8b7ac-9654-4ba6-b4f2-9a3482220551",
+    "relation": "uses_knowledge",
+    "object": "ola:n:7ea7eff3-7d11-4182-a694-b485fbb18024",
+    "rationale": "Demonstrating Analyze a medical risk or benefit model materially invokes Mechanistic, statistical, and identifiability principles in biology at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:6617183d-e67b-4dd4-bd2a-df02ad006231",
+    "revision": 1,
+    "subject": "ola:n:b8d8b7ac-9654-4ba6-b4f2-9a3482220551",
+    "relation": "uses_representation",
+    "object": "ola:n:99071a63-42ab-4cf6-9d13-c57a49b46477",
+    "rationale": "Demonstrating Analyze a medical risk or benefit model materially invokes Compartment, network, survival, and spatial representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ac841041-5669-4931-8f89-bb2d9b9468fd",
+    "revision": 1,
+    "subject": "ola:n:34a8cf07-68e1-405a-a73a-c989f3869abb",
+    "relation": "composed_of",
+    "object": "ola:n:eddd9beb-2d02-4144-8563-2b0d98fc8932",
+    "rationale": "Audit a biological or medical mathematics claim is a bounded performance within Validate and audit biomedical inference.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d9aa6f70-780e-43bf-904a-f0cfbfb58f47",
+    "revision": 1,
+    "subject": "ola:n:eddd9beb-2d02-4144-8563-2b0d98fc8932",
+    "relation": "uses_concept",
+    "object": "ola:n:29ae065b-4d7f-46f7-b197-8815fcdc2b33",
+    "rationale": "Demonstrating Audit a biological or medical mathematics claim materially invokes Biological heterogeneity and observation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e06f3c69-3857-4f55-90bb-e77551698b83",
+    "revision": 1,
+    "subject": "ola:n:eddd9beb-2d02-4144-8563-2b0d98fc8932",
+    "relation": "uses_knowledge",
+    "object": "ola:n:7ea7eff3-7d11-4182-a694-b485fbb18024",
+    "rationale": "Demonstrating Audit a biological or medical mathematics claim materially invokes Mechanistic, statistical, and identifiability principles in biology at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:cecd8ebb-d8b2-45d4-a492-4882a96a8c14",
+    "revision": 1,
+    "subject": "ola:n:eddd9beb-2d02-4144-8563-2b0d98fc8932",
+    "relation": "uses_representation",
+    "object": "ola:n:99071a63-42ab-4cf6-9d13-c57a49b46477",
+    "rationale": "Demonstrating Audit a biological or medical mathematics claim materially invokes Compartment, network, survival, and spatial representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:19ea8e45-f201-4d10-8a87-3a24f1f8cacc",
+    "revision": 1,
+    "subject": "ola:n:fa1944ef-f4a0-489d-85fb-8e2f673c3342",
+    "relation": "composed_of",
+    "object": "ola:n:78f24d5e-64d7-43ff-a565-a15a6b811cf8",
+    "rationale": "Agent, preference, strategy, and equilibrium is material terrain within economics-finance-game-theory; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7e14e651-f5a1-4cc1-91df-9540e0a0aeb2",
+    "revision": 1,
+    "subject": "ola:n:fa1944ef-f4a0-489d-85fb-8e2f673c3342",
+    "relation": "composed_of",
+    "object": "ola:n:e73540d0-a8a3-4007-b50c-d6f977233891",
+    "rationale": "Asset, cash flow, price, and risk is material terrain within economics-finance-game-theory; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:cbda92a7-468d-4ab3-bf3d-5586f8f46699",
+    "revision": 1,
+    "subject": "ola:n:fa1944ef-f4a0-489d-85fb-8e2f673c3342",
+    "relation": "composed_of",
+    "object": "ola:n:91ea11c5-e4d5-432a-a1e5-5276d7b5776c",
+    "rationale": "Incentive, equilibrium, no-arbitrage, and identification is material terrain within economics-finance-game-theory; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:da4f64ad-1abc-45d5-bb0a-f1def07af1e2",
+    "revision": 1,
+    "subject": "ola:n:fa1944ef-f4a0-489d-85fb-8e2f673c3342",
+    "relation": "composed_of",
+    "object": "ola:n:15c380b7-9d00-46cf-96a0-f20724cf96d4",
+    "rationale": "Game tree, payoff matrix, market flow, and price path is material terrain within economics-finance-game-theory; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c88b32b1-d242-4607-99c5-56509a2fba25",
+    "revision": 1,
+    "subject": "ola:n:fa1944ef-f4a0-489d-85fb-8e2f673c3342",
+    "relation": "composed_of",
+    "object": "ola:n:74ec03d3-22e9-4865-9dc1-bc6f6f2ca6b7",
+    "rationale": "Formulate and analyze economic or strategic models is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d0cf4504-0ab3-4f10-8f5e-7bce72c29eb6",
+    "revision": 1,
+    "subject": "ola:n:74ec03d3-22e9-4865-9dc1-bc6f6f2ca6b7",
+    "relation": "composed_of",
+    "object": "ola:n:60b10a68-eac6-421e-a712-4d0ce634ea6f",
+    "rationale": "Construct an economic optimization model is a bounded performance within Formulate and analyze economic or strategic models.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:9f1544fb-45c3-4e20-a50c-c95a71d8ced0",
+    "revision": 1,
+    "subject": "ola:n:60b10a68-eac6-421e-a712-4d0ce634ea6f",
+    "relation": "uses_concept",
+    "object": "ola:n:78f24d5e-64d7-43ff-a565-a15a6b811cf8",
+    "rationale": "Demonstrating Construct an economic optimization model materially invokes Agent, preference, strategy, and equilibrium at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:51bddea2-5375-4545-8c73-d9d8ecca92fa",
+    "revision": 1,
+    "subject": "ola:n:60b10a68-eac6-421e-a712-4d0ce634ea6f",
+    "relation": "uses_knowledge",
+    "object": "ola:n:91ea11c5-e4d5-432a-a1e5-5276d7b5776c",
+    "rationale": "Demonstrating Construct an economic optimization model materially invokes Incentive, equilibrium, no-arbitrage, and identification at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:997a4eaa-43af-41a6-a768-7cd72421bb76",
+    "revision": 1,
+    "subject": "ola:n:60b10a68-eac6-421e-a712-4d0ce634ea6f",
+    "relation": "uses_representation",
+    "object": "ola:n:15c380b7-9d00-46cf-96a0-f20724cf96d4",
+    "rationale": "Demonstrating Construct an economic optimization model materially invokes Game tree, payoff matrix, market flow, and price path at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:9149e645-b4eb-4cfc-9d25-8baf055b254c",
+    "revision": 1,
+    "subject": "ola:n:74ec03d3-22e9-4865-9dc1-bc6f6f2ca6b7",
+    "relation": "composed_of",
+    "object": "ola:n:44c57761-c469-4433-97e7-5d6e1a66633c",
+    "rationale": "Analyze a strategic game is a bounded performance within Formulate and analyze economic or strategic models.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:bba71cad-ff46-4363-9d74-2db56c56569a",
+    "revision": 1,
+    "subject": "ola:n:44c57761-c469-4433-97e7-5d6e1a66633c",
+    "relation": "uses_concept",
+    "object": "ola:n:78f24d5e-64d7-43ff-a565-a15a6b811cf8",
+    "rationale": "Demonstrating Analyze a strategic game materially invokes Agent, preference, strategy, and equilibrium at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f5ae1cc8-1d62-42c2-a0e7-0164a468ab65",
+    "revision": 1,
+    "subject": "ola:n:44c57761-c469-4433-97e7-5d6e1a66633c",
+    "relation": "uses_knowledge",
+    "object": "ola:n:91ea11c5-e4d5-432a-a1e5-5276d7b5776c",
+    "rationale": "Demonstrating Analyze a strategic game materially invokes Incentive, equilibrium, no-arbitrage, and identification at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:9705cd5c-7ebe-4c35-be7e-0d69d5f6382a",
+    "revision": 1,
+    "subject": "ola:n:44c57761-c469-4433-97e7-5d6e1a66633c",
+    "relation": "uses_representation",
+    "object": "ola:n:15c380b7-9d00-46cf-96a0-f20724cf96d4",
+    "rationale": "Demonstrating Analyze a strategic game materially invokes Game tree, payoff matrix, market flow, and price path at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b0ea9dc5-9611-46f7-bbdf-d9370d8edb72",
+    "revision": 1,
+    "subject": "ola:n:74ec03d3-22e9-4865-9dc1-bc6f6f2ca6b7",
+    "relation": "composed_of",
+    "object": "ola:n:c5056ab7-e4c1-4aee-9773-7d79e575167c",
+    "rationale": "Analyze market equilibrium or comparative statics is a bounded performance within Formulate and analyze economic or strategic models.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7cbd4d24-f58f-4ce3-96b6-9b6896f11a5f",
+    "revision": 1,
+    "subject": "ola:n:c5056ab7-e4c1-4aee-9773-7d79e575167c",
+    "relation": "uses_concept",
+    "object": "ola:n:78f24d5e-64d7-43ff-a565-a15a6b811cf8",
+    "rationale": "Demonstrating Analyze market equilibrium or comparative statics materially invokes Agent, preference, strategy, and equilibrium at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:66b406b5-77e4-4608-9624-590f24555434",
+    "revision": 1,
+    "subject": "ola:n:c5056ab7-e4c1-4aee-9773-7d79e575167c",
+    "relation": "uses_knowledge",
+    "object": "ola:n:91ea11c5-e4d5-432a-a1e5-5276d7b5776c",
+    "rationale": "Demonstrating Analyze market equilibrium or comparative statics materially invokes Incentive, equilibrium, no-arbitrage, and identification at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:0604f6c6-d20c-4c20-a20b-81163ae5f35d",
+    "revision": 1,
+    "subject": "ola:n:c5056ab7-e4c1-4aee-9773-7d79e575167c",
+    "relation": "uses_representation",
+    "object": "ola:n:15c380b7-9d00-46cf-96a0-f20724cf96d4",
+    "rationale": "Demonstrating Analyze market equilibrium or comparative statics materially invokes Game tree, payoff matrix, market flow, and price path at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:5f538fe2-b3a5-4b3c-8cf7-1a0144523dac",
+    "revision": 1,
+    "subject": "ola:n:fa1944ef-f4a0-489d-85fb-8e2f673c3342",
+    "relation": "composed_of",
+    "object": "ola:n:499932c3-5fe0-423d-9bc9-63875ced40c4",
+    "rationale": "Analyze finance, risk, and evidence is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:9dd0d4d7-73cb-447e-8b8a-0476b8cec377",
+    "revision": 1,
+    "subject": "ola:n:499932c3-5fe0-423d-9bc9-63875ced40c4",
+    "relation": "composed_of",
+    "object": "ola:n:aefaca64-0851-43a5-adb5-608d9965ede2",
+    "rationale": "Value a bounded cash flow or asset is a bounded performance within Analyze finance, risk, and evidence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8e245ca7-d90c-4843-abbf-c121a84d6239",
+    "revision": 1,
+    "subject": "ola:n:aefaca64-0851-43a5-adb5-608d9965ede2",
+    "relation": "uses_concept",
+    "object": "ola:n:e73540d0-a8a3-4007-b50c-d6f977233891",
+    "rationale": "Demonstrating Value a bounded cash flow or asset materially invokes Asset, cash flow, price, and risk at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:be3cd996-5133-43c4-a175-28d87e1713f8",
+    "revision": 1,
+    "subject": "ola:n:aefaca64-0851-43a5-adb5-608d9965ede2",
+    "relation": "uses_knowledge",
+    "object": "ola:n:91ea11c5-e4d5-432a-a1e5-5276d7b5776c",
+    "rationale": "Demonstrating Value a bounded cash flow or asset materially invokes Incentive, equilibrium, no-arbitrage, and identification at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:67817045-67b3-4f7e-8341-c8e79540d74a",
+    "revision": 1,
+    "subject": "ola:n:aefaca64-0851-43a5-adb5-608d9965ede2",
+    "relation": "uses_representation",
+    "object": "ola:n:15c380b7-9d00-46cf-96a0-f20724cf96d4",
+    "rationale": "Demonstrating Value a bounded cash flow or asset materially invokes Game tree, payoff matrix, market flow, and price path at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:447450cb-cea9-4660-b4ee-35bb12098db4",
+    "revision": 1,
+    "subject": "ola:n:499932c3-5fe0-423d-9bc9-63875ced40c4",
+    "relation": "composed_of",
+    "object": "ola:n:9845c647-ec1c-476b-8fe1-62be5e4e21a6",
+    "rationale": "Analyze portfolio risk and return is a bounded performance within Analyze finance, risk, and evidence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:84b0bf46-b8ae-481f-ba72-f6cd2021b427",
+    "revision": 1,
+    "subject": "ola:n:9845c647-ec1c-476b-8fe1-62be5e4e21a6",
+    "relation": "uses_concept",
+    "object": "ola:n:e73540d0-a8a3-4007-b50c-d6f977233891",
+    "rationale": "Demonstrating Analyze portfolio risk and return materially invokes Asset, cash flow, price, and risk at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:dea089f8-e5de-40cb-bab3-3725e731e1fb",
+    "revision": 1,
+    "subject": "ola:n:9845c647-ec1c-476b-8fe1-62be5e4e21a6",
+    "relation": "uses_knowledge",
+    "object": "ola:n:91ea11c5-e4d5-432a-a1e5-5276d7b5776c",
+    "rationale": "Demonstrating Analyze portfolio risk and return materially invokes Incentive, equilibrium, no-arbitrage, and identification at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a6b3a43e-1ed7-4c6e-9943-88590a5149a6",
+    "revision": 1,
+    "subject": "ola:n:9845c647-ec1c-476b-8fe1-62be5e4e21a6",
+    "relation": "uses_representation",
+    "object": "ola:n:15c380b7-9d00-46cf-96a0-f20724cf96d4",
+    "rationale": "Demonstrating Analyze portfolio risk and return materially invokes Game tree, payoff matrix, market flow, and price path at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:275e84ad-f724-42a8-ae3c-dbfbc17223b8",
+    "revision": 1,
+    "subject": "ola:n:499932c3-5fe0-423d-9bc9-63875ced40c4",
+    "relation": "composed_of",
+    "object": "ola:n:9cb833b1-ca6a-4123-a2ee-601dd99c7b2d",
+    "rationale": "Audit an economic or financial claim is a bounded performance within Analyze finance, risk, and evidence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:74410510-a463-4eb5-ae8f-1947202ce974",
+    "revision": 1,
+    "subject": "ola:n:9cb833b1-ca6a-4123-a2ee-601dd99c7b2d",
+    "relation": "uses_concept",
+    "object": "ola:n:e73540d0-a8a3-4007-b50c-d6f977233891",
+    "rationale": "Demonstrating Audit an economic or financial claim materially invokes Asset, cash flow, price, and risk at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e8bff3a1-0b49-47d5-87df-43728dad1418",
+    "revision": 1,
+    "subject": "ola:n:9cb833b1-ca6a-4123-a2ee-601dd99c7b2d",
+    "relation": "uses_knowledge",
+    "object": "ola:n:91ea11c5-e4d5-432a-a1e5-5276d7b5776c",
+    "rationale": "Demonstrating Audit an economic or financial claim materially invokes Incentive, equilibrium, no-arbitrage, and identification at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b42055dd-7ab1-4ea7-9e09-c074994f40f6",
+    "revision": 1,
+    "subject": "ola:n:9cb833b1-ca6a-4123-a2ee-601dd99c7b2d",
+    "relation": "uses_representation",
+    "object": "ola:n:15c380b7-9d00-46cf-96a0-f20724cf96d4",
+    "rationale": "Demonstrating Audit an economic or financial claim materially invokes Game tree, payoff matrix, market flow, and price path at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:cef06be6-8dd0-4b45-93be-623d973227ee",
+    "revision": 1,
+    "subject": "ola:n:2e58af24-2dcf-476c-94d4-7b6bb35a3ae1",
+    "relation": "composed_of",
+    "object": "ola:n:304f4b19-059b-46b4-b882-d6803a678c98",
+    "rationale": "Geospatial–temporal field and system is material terrain within earth-environment-space-sciences; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ed5d14aa-dcd6-4314-9bca-977ae12579f5",
+    "revision": 1,
+    "subject": "ola:n:2e58af24-2dcf-476c-94d4-7b6bb35a3ae1",
+    "relation": "composed_of",
+    "object": "ola:n:072f02dc-2287-43fa-a61e-9debe37f37f1",
+    "rationale": "Earth-system boundary, flux, and forcing is material terrain within earth-environment-space-sciences; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b5654b2f-c749-47fb-8387-cd60b73a5ecb",
+    "revision": 1,
+    "subject": "ola:n:2e58af24-2dcf-476c-94d4-7b6bb35a3ae1",
+    "relation": "composed_of",
+    "object": "ola:n:b87bc1a0-5749-4011-aa43-b0d07cbd37f6",
+    "rationale": "Conservation, scale, feedback, and data assimilation is material terrain within earth-environment-space-sciences; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:0bae290d-7958-43e1-b8c8-9398bc7e72d9",
+    "revision": 1,
+    "subject": "ola:n:2e58af24-2dcf-476c-94d4-7b6bb35a3ae1",
+    "relation": "composed_of",
+    "object": "ola:n:702465a3-607e-46ca-9ed4-92c9abdb90db",
+    "rationale": "Map, grid, time series, orbit, and field representation is material terrain within earth-environment-space-sciences; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2d8879b9-7faa-4cec-a8d5-e0afc339ad9f",
+    "revision": 1,
+    "subject": "ola:n:2e58af24-2dcf-476c-94d4-7b6bb35a3ae1",
+    "relation": "composed_of",
+    "object": "ola:n:59345454-9322-4196-af6a-6bf4de09e0c6",
+    "rationale": "Formulate and analyze Earth or space models is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4c00f9d5-55e0-4aba-b83b-bda72b2b1631",
+    "revision": 1,
+    "subject": "ola:n:59345454-9322-4196-af6a-6bf4de09e0c6",
+    "relation": "composed_of",
+    "object": "ola:n:b63ff6e1-d4f7-4477-baa3-44ce55c7f33a",
+    "rationale": "Construct a geospatial balance model is a bounded performance within Formulate and analyze Earth or space models.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e5672ad9-ffcc-4e0d-b68c-164da1207760",
+    "revision": 1,
+    "subject": "ola:n:b63ff6e1-d4f7-4477-baa3-44ce55c7f33a",
+    "relation": "uses_concept",
+    "object": "ola:n:304f4b19-059b-46b4-b882-d6803a678c98",
+    "rationale": "Demonstrating Construct a geospatial balance model materially invokes Geospatial–temporal field and system at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:bae77e83-52ad-4ca4-96ed-9b9959422a36",
+    "revision": 1,
+    "subject": "ola:n:b63ff6e1-d4f7-4477-baa3-44ce55c7f33a",
+    "relation": "uses_knowledge",
+    "object": "ola:n:b87bc1a0-5749-4011-aa43-b0d07cbd37f6",
+    "rationale": "Demonstrating Construct a geospatial balance model materially invokes Conservation, scale, feedback, and data assimilation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e6eb9c8a-cdca-4848-b794-725f9eae8b80",
+    "revision": 1,
+    "subject": "ola:n:b63ff6e1-d4f7-4477-baa3-44ce55c7f33a",
+    "relation": "uses_representation",
+    "object": "ola:n:702465a3-607e-46ca-9ed4-92c9abdb90db",
+    "rationale": "Demonstrating Construct a geospatial balance model materially invokes Map, grid, time series, orbit, and field representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:44f3b674-f81e-46e6-928d-fe6926bdc926",
+    "revision": 1,
+    "subject": "ola:n:59345454-9322-4196-af6a-6bf4de09e0c6",
+    "relation": "composed_of",
+    "object": "ola:n:307e6029-877f-40f2-8221-a914bd787304",
+    "rationale": "Analyze a spatiotemporal field is a bounded performance within Formulate and analyze Earth or space models.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:5f98e305-337e-47ad-a4b8-de3130737998",
+    "revision": 1,
+    "subject": "ola:n:307e6029-877f-40f2-8221-a914bd787304",
+    "relation": "uses_concept",
+    "object": "ola:n:304f4b19-059b-46b4-b882-d6803a678c98",
+    "rationale": "Demonstrating Analyze a spatiotemporal field materially invokes Geospatial–temporal field and system at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d4b45482-74c0-48f0-9fe5-2879ad72bf6b",
+    "revision": 1,
+    "subject": "ola:n:307e6029-877f-40f2-8221-a914bd787304",
+    "relation": "uses_knowledge",
+    "object": "ola:n:b87bc1a0-5749-4011-aa43-b0d07cbd37f6",
+    "rationale": "Demonstrating Analyze a spatiotemporal field materially invokes Conservation, scale, feedback, and data assimilation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:815a58dd-589a-4c21-9705-c66f304aad5a",
+    "revision": 1,
+    "subject": "ola:n:307e6029-877f-40f2-8221-a914bd787304",
+    "relation": "uses_representation",
+    "object": "ola:n:702465a3-607e-46ca-9ed4-92c9abdb90db",
+    "rationale": "Demonstrating Analyze a spatiotemporal field materially invokes Map, grid, time series, orbit, and field representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c9868e02-d57f-44c2-b628-45e258dcff49",
+    "revision": 1,
+    "subject": "ola:n:59345454-9322-4196-af6a-6bf4de09e0c6",
+    "relation": "composed_of",
+    "object": "ola:n:9245f482-d4b9-4883-83a3-494635c01ba4",
+    "rationale": "Compute an orbit or trajectory in scope is a bounded performance within Formulate and analyze Earth or space models.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:41278d26-34e8-440f-b48b-ddf1d9455852",
+    "revision": 1,
+    "subject": "ola:n:9245f482-d4b9-4883-83a3-494635c01ba4",
+    "relation": "uses_concept",
+    "object": "ola:n:304f4b19-059b-46b4-b882-d6803a678c98",
+    "rationale": "Demonstrating Compute an orbit or trajectory in scope materially invokes Geospatial–temporal field and system at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b3ec4282-5201-4d91-bf05-d48e9b8ec116",
+    "revision": 1,
+    "subject": "ola:n:9245f482-d4b9-4883-83a3-494635c01ba4",
+    "relation": "uses_knowledge",
+    "object": "ola:n:b87bc1a0-5749-4011-aa43-b0d07cbd37f6",
+    "rationale": "Demonstrating Compute an orbit or trajectory in scope materially invokes Conservation, scale, feedback, and data assimilation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:9eb76c23-0b7f-4b93-936c-9ab5f60fdb9c",
+    "revision": 1,
+    "subject": "ola:n:9245f482-d4b9-4883-83a3-494635c01ba4",
+    "relation": "uses_representation",
+    "object": "ola:n:702465a3-607e-46ca-9ed4-92c9abdb90db",
+    "rationale": "Demonstrating Compute an orbit or trajectory in scope materially invokes Map, grid, time series, orbit, and field representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b3d7e5a3-9020-4585-b29c-3250a3635662",
+    "revision": 1,
+    "subject": "ola:n:2e58af24-2dcf-476c-94d4-7b6bb35a3ae1",
+    "relation": "composed_of",
+    "object": "ola:n:1f8cb02f-b19e-449e-b366-bd948caba2e0",
+    "rationale": "Forecast, validate, and audit Earth systems is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b9e80e1c-a0f7-4e83-9b13-d343dbe6573f",
+    "revision": 1,
+    "subject": "ola:n:1f8cb02f-b19e-449e-b366-bd948caba2e0",
+    "relation": "composed_of",
+    "object": "ola:n:99979a15-c92a-4a2b-b00b-03b8e92d9115",
+    "rationale": "Perform bounded state estimation or data assimilation is a bounded performance within Forecast, validate, and audit Earth systems.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:17b70bac-199c-40c1-926c-fd73d70e95c2",
+    "revision": 1,
+    "subject": "ola:n:99979a15-c92a-4a2b-b00b-03b8e92d9115",
+    "relation": "uses_concept",
+    "object": "ola:n:072f02dc-2287-43fa-a61e-9debe37f37f1",
+    "rationale": "Demonstrating Perform bounded state estimation or data assimilation materially invokes Earth-system boundary, flux, and forcing at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:0242c196-fab5-4cf4-aae3-accf9f20f11c",
+    "revision": 1,
+    "subject": "ola:n:99979a15-c92a-4a2b-b00b-03b8e92d9115",
+    "relation": "uses_knowledge",
+    "object": "ola:n:b87bc1a0-5749-4011-aa43-b0d07cbd37f6",
+    "rationale": "Demonstrating Perform bounded state estimation or data assimilation materially invokes Conservation, scale, feedback, and data assimilation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:97ea15df-f046-4da4-94de-6315ed81111a",
+    "revision": 1,
+    "subject": "ola:n:99979a15-c92a-4a2b-b00b-03b8e92d9115",
+    "relation": "uses_representation",
+    "object": "ola:n:702465a3-607e-46ca-9ed4-92c9abdb90db",
+    "rationale": "Demonstrating Perform bounded state estimation or data assimilation materially invokes Map, grid, time series, orbit, and field representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:48bd9d26-938a-496a-b8ae-9d1e917e73c7",
+    "revision": 1,
+    "subject": "ola:n:1f8cb02f-b19e-449e-b366-bd948caba2e0",
+    "relation": "composed_of",
+    "object": "ola:n:985cc656-aa52-4efe-9bbb-531d92efd915",
+    "rationale": "Evaluate an ensemble, scenario, or forecast is a bounded performance within Forecast, validate, and audit Earth systems.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:944bf205-66a5-4ec8-81ad-169c785ccab5",
+    "revision": 1,
+    "subject": "ola:n:985cc656-aa52-4efe-9bbb-531d92efd915",
+    "relation": "uses_concept",
+    "object": "ola:n:072f02dc-2287-43fa-a61e-9debe37f37f1",
+    "rationale": "Demonstrating Evaluate an ensemble, scenario, or forecast materially invokes Earth-system boundary, flux, and forcing at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:6afe07c2-ed99-46b1-b9b8-f5cf602bd55b",
+    "revision": 1,
+    "subject": "ola:n:985cc656-aa52-4efe-9bbb-531d92efd915",
+    "relation": "uses_knowledge",
+    "object": "ola:n:b87bc1a0-5749-4011-aa43-b0d07cbd37f6",
+    "rationale": "Demonstrating Evaluate an ensemble, scenario, or forecast materially invokes Conservation, scale, feedback, and data assimilation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:394d8a58-ef02-4806-b88d-1f1f3852bd42",
+    "revision": 1,
+    "subject": "ola:n:985cc656-aa52-4efe-9bbb-531d92efd915",
+    "relation": "uses_representation",
+    "object": "ola:n:702465a3-607e-46ca-9ed4-92c9abdb90db",
+    "rationale": "Demonstrating Evaluate an ensemble, scenario, or forecast materially invokes Map, grid, time series, orbit, and field representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:910890e2-e9c1-48a9-bb9c-c6e836041350",
+    "revision": 1,
+    "subject": "ola:n:1f8cb02f-b19e-449e-b366-bd948caba2e0",
+    "relation": "composed_of",
+    "object": "ola:n:4c7fdb6c-6f6a-4c07-a7cd-8ca0af76ecbe",
+    "rationale": "Audit an Earth, environmental, or space claim is a bounded performance within Forecast, validate, and audit Earth systems.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:624d1069-597b-43a1-bc21-bf002a2356fb",
+    "revision": 1,
+    "subject": "ola:n:4c7fdb6c-6f6a-4c07-a7cd-8ca0af76ecbe",
+    "relation": "uses_concept",
+    "object": "ola:n:072f02dc-2287-43fa-a61e-9debe37f37f1",
+    "rationale": "Demonstrating Audit an Earth, environmental, or space claim materially invokes Earth-system boundary, flux, and forcing at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:90f1db89-ff1e-42be-9d22-1a42c3544d13",
+    "revision": 1,
+    "subject": "ola:n:4c7fdb6c-6f6a-4c07-a7cd-8ca0af76ecbe",
+    "relation": "uses_knowledge",
+    "object": "ola:n:b87bc1a0-5749-4011-aa43-b0d07cbd37f6",
+    "rationale": "Demonstrating Audit an Earth, environmental, or space claim materially invokes Conservation, scale, feedback, and data assimilation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f3f9eca4-e2e3-44d3-893b-8cbb1c9633ed",
+    "revision": 1,
+    "subject": "ola:n:4c7fdb6c-6f6a-4c07-a7cd-8ca0af76ecbe",
+    "relation": "uses_representation",
+    "object": "ola:n:702465a3-607e-46ca-9ed4-92c9abdb90db",
+    "rationale": "Demonstrating Audit an Earth, environmental, or space claim materially invokes Map, grid, time series, orbit, and field representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:13831160-7468-4c5a-83b4-ef2b156b8e68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  }
+]
