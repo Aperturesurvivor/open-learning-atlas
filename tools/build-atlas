@@ -1,0 +1,121 @@
+#!/usr/bin/env python3
+"""Compile modular Open Learning Atlas authoring records into one release document."""
+
+from __future__ import annotations
+
+import argparse
+import json
+import sys
+from pathlib import Path
+from typing import Any
+
+
+ROOT = Path(__file__).resolve().parents[1]
+DEFAULT_SOURCE = ROOT / "atlas" / "mathematics"
+DEFAULT_OUTPUT = ROOT / "map" / "releases" / "mathematics-v0.1.0-alpha.json"
+
+
+class BuildError(RuntimeError):
+    """Raised when canonical authoring records cannot be compiled safely."""
+
+
+def load_json(path: Path) -> Any:
+    try:
+        return json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError) as exc:
+        raise BuildError(f"{path}: {exc}") from exc
+
+
+def load_records(directory: Path, label: str) -> list[dict[str, Any]]:
+    records: dict[str, tuple[dict[str, Any], Path]] = {}
+    slugs: dict[str, tuple[str, Path]] = {}
+    for path in sorted(directory.glob("*.json")):
+        value = load_json(path)
+        if not isinstance(value, list):
+            raise BuildError(f"{path}: expected a JSON array")
+        for index, record in enumerate(value):
+            if not isinstance(record, dict):
+                raise BuildError(f"{path}[{index}]: expected an object")
+            record_id = record.get("id")
+            if not isinstance(record_id, str) or not record_id:
+                raise BuildError(f"{path}[{index}]: missing stable id")
+            previous = records.get(record_id)
+            if previous and previous[0] != record:
+                raise BuildError(
+                    f"conflicting {label} id {record_id} in {previous[1]} and {path}"
+                )
+            records.setdefault(record_id, (record, path))
+            slug = record.get("slug")
+            if isinstance(slug, str):
+                prior_slug = slugs.get(slug)
+                if prior_slug and prior_slug[0] != record_id:
+                    raise BuildError(
+                        f"duplicate {label} slug {slug!r} in {prior_slug[1]} and {path}"
+                    )
+                slugs.setdefault(slug, (record_id, path))
+    return [records[record_id][0] for record_id in sorted(records)]
+
+
+def compile_atlas(source: Path) -> dict[str, Any]:
+    metadata = load_json(source / "metadata.json")
+    if not isinstance(metadata, dict):
+        raise BuildError(f"{source / 'metadata.json'}: expected a JSON object")
+    if set(metadata) != {"format_version", "map"}:
+        raise BuildError("metadata.json must contain exactly format_version and map")
+    return {
+        "format_version": metadata["format_version"],
+        "map": metadata["map"],
+        "sources": load_records(source / "sources", "source"),
+        "nodes": load_records(source / "nodes", "node"),
+        "edges": load_records(source / "edges", "edge"),
+        "requirement_groups": load_records(
+            source / "requirements", "requirement group"
+        ),
+    }
+
+
+def serialize(document: dict[str, Any]) -> str:
+    return json.dumps(document, indent=2, ensure_ascii=False) + "\n"
+
+
+def main(argv: list[str]) -> int:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--source", type=Path, default=DEFAULT_SOURCE)
+    parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT)
+    parser.add_argument(
+        "--check",
+        action="store_true",
+        help="fail if the committed release differs from a fresh compilation",
+    )
+    args = parser.parse_args(argv[1:])
+
+    try:
+        rendered = serialize(compile_atlas(args.source.resolve()))
+    except BuildError as exc:
+        print(f"BUILD ERROR: {exc}", file=sys.stderr)
+        return 1
+
+    output = args.output.resolve()
+    if args.check:
+        try:
+            committed = output.read_text(encoding="utf-8")
+        except OSError as exc:
+            print(f"BUILD ERROR: {output}: {exc}", file=sys.stderr)
+            return 1
+        if committed != rendered:
+            print(
+                f"BUILD ERROR: {output} is stale; run tools/build-atlas",
+                file=sys.stderr,
+            )
+            return 1
+        print(f"OK {output}: reproducible from {args.source.resolve()}")
+        return 0
+
+    output.parent.mkdir(parents=True, exist_ok=True)
+    output.write_text(rendered, encoding="utf-8")
+    print(f"WROTE {output}")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main(sys.argv))

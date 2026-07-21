@@ -1,0 +1,29 @@
+[
+  {
+    "id": "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+    "revision": 1,
+    "title": "Breadth-first mathematics atlas synthesis",
+    "source_type": "contributor-analysis",
+    "citation": "Wilson, Josiah, and OpenAI Codex. Breadth-first mathematics atlas synthesis. 2026-07-21.",
+    "accessed_at": "2026-07-21",
+    "notes": "Original candidate decomposition developed under the Open Learning Atlas map constitution."
+  },
+  {
+    "id": "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+    "revision": 1,
+    "title": "Mathematics Subject Classification 2020",
+    "source_type": "other",
+    "citation": "Mathematical Reviews and zbMATH. Mathematics Subject Classification 2020 (MSC2020). 2020.",
+    "url": "https://msc2020.org/",
+    "accessed_at": "2026-07-21",
+    "notes": "Used only as a coverage audit across pure and applied mathematical literature. MSC labels and hierarchy were not imported; MSC is a literature taxonomy, not a learning or dependency graph."
+  },
+  {
+    "id": "ola:s:f23dcc20-7d37-49b5-9f6b-ef612acbf4e3",
+    "revision": 1,
+    "title": "Open Learning Atlas v0.1 contributor analysis",
+    "source_type": "contributor-analysis",
+    "citation": "Initial ontology and map-slice analysis drafted for Open Learning Atlas on 2026-07-21.",
+    "notes": "This source records design reasoning, not independent empirical validation. Every record remains a candidate."
+  }
+]

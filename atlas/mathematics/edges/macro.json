@@ -1,0 +1,2187 @@
+[
+  {
+    "id": "ola:e:94a0bf85-470e-479b-b2ca-672b4ad624f8",
+    "revision": 1,
+    "subject": "ola:n:fac3bb6f-c693-4b54-b215-5436ecb27f67",
+    "relation": "composed_of",
+    "object": "ola:n:cc007a9a-f88d-4418-b51e-e9c507b6887b",
+    "rationale": "Mathematical Practice and Reasoning is proposed as one broad navigational region of the mathematics atlas; this is coverage, not sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:7a15deb3-173c-4243-baea-3cae853b2c22",
+    "revision": 1,
+    "subject": "ola:n:fac3bb6f-c693-4b54-b215-5436ecb27f67",
+    "relation": "composed_of",
+    "object": "ola:n:6c2dd104-9a4a-467a-833c-4273fc551359",
+    "rationale": "Quantity and Number Systems is proposed as one broad navigational region of the mathematics atlas; this is coverage, not sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:8264344d-8a40-436c-8f0a-f306eb5e49f9",
+    "revision": 1,
+    "subject": "ola:n:fac3bb6f-c693-4b54-b215-5436ecb27f67",
+    "relation": "composed_of",
+    "object": "ola:n:5b57eeee-e162-430c-ba9d-90ef2c57a6a9",
+    "rationale": "Algebraic Structure and Symbolic Relations is proposed as one broad navigational region of the mathematics atlas; this is coverage, not sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:a35b057d-e4e9-4e08-80ed-e44a0e2315a2",
+    "revision": 1,
+    "subject": "ola:n:fac3bb6f-c693-4b54-b215-5436ecb27f67",
+    "relation": "composed_of",
+    "object": "ola:n:65a97823-0cd0-4058-889f-1da87e07fcee",
+    "rationale": "Functions, Variation, and Analysis is proposed as one broad navigational region of the mathematics atlas; this is coverage, not sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:b1017362-5d25-4c7f-9bd2-fd9b00349c72",
+    "revision": 1,
+    "subject": "ola:n:fac3bb6f-c693-4b54-b215-5436ecb27f67",
+    "relation": "composed_of",
+    "object": "ola:n:e9980cba-ccca-4454-a5ad-4698c5ee58d9",
+    "rationale": "Space, Shape, and Transformation is proposed as one broad navigational region of the mathematics atlas; this is coverage, not sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:8900ab84-4cb4-463e-a88e-132d00a893ef",
+    "revision": 1,
+    "subject": "ola:n:fac3bb6f-c693-4b54-b215-5436ecb27f67",
+    "relation": "composed_of",
+    "object": "ola:n:5961ab3d-647d-40d1-9045-ba7f82d9765f",
+    "rationale": "Measurement and Dimensional Reasoning is proposed as one broad navigational region of the mathematics atlas; this is coverage, not sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:cdf2e828-0459-45e1-8fd1-f1278c56a18c",
+    "revision": 1,
+    "subject": "ola:n:fac3bb6f-c693-4b54-b215-5436ecb27f67",
+    "relation": "composed_of",
+    "object": "ola:n:686ca659-1a7c-4056-8713-94df74419852",
+    "rationale": "Data, Statistics, and Inference is proposed as one broad navigational region of the mathematics atlas; this is coverage, not sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:0bef4cca-808f-42e4-894f-99cf92ff949f",
+    "revision": 1,
+    "subject": "ola:n:fac3bb6f-c693-4b54-b215-5436ecb27f67",
+    "relation": "composed_of",
+    "object": "ola:n:bd1591ab-0dd9-45bb-9d85-5a28e5c0c96f",
+    "rationale": "Probability and Stochastic Structure is proposed as one broad navigational region of the mathematics atlas; this is coverage, not sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:287e1660-bbb0-4762-8767-7b69ece94659",
+    "revision": 1,
+    "subject": "ola:n:fac3bb6f-c693-4b54-b215-5436ecb27f67",
+    "relation": "composed_of",
+    "object": "ola:n:616a8a42-2b47-4b8e-8531-62dec9495a12",
+    "rationale": "Discrete Structures is proposed as one broad navigational region of the mathematics atlas; this is coverage, not sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:db49bbbb-ad4b-461a-a754-f601b9810f20",
+    "revision": 1,
+    "subject": "ola:n:fac3bb6f-c693-4b54-b215-5436ecb27f67",
+    "relation": "composed_of",
+    "object": "ola:n:59080c02-cb1a-4256-a09a-29e6acde9da9",
+    "rationale": "Linear and Multilinear Structure is proposed as one broad navigational region of the mathematics atlas; this is coverage, not sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:aa8f055e-f409-44e9-b40b-11ba8d9062bb",
+    "revision": 1,
+    "subject": "ola:n:fac3bb6f-c693-4b54-b215-5436ecb27f67",
+    "relation": "composed_of",
+    "object": "ola:n:086d0a3f-e433-404c-ba0e-84eee4264259",
+    "rationale": "Logic and Foundations is proposed as one broad navigational region of the mathematics atlas; this is coverage, not sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:4fb1515e-5adb-4071-96ed-245673302fdd",
+    "revision": 1,
+    "subject": "ola:n:fac3bb6f-c693-4b54-b215-5436ecb27f67",
+    "relation": "composed_of",
+    "object": "ola:n:69e8f875-9408-4192-998d-f9e7b2385415",
+    "rationale": "Computation, Approximation, and Optimization is proposed as one broad navigational region of the mathematics atlas; this is coverage, not sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:ea0edd9a-bb43-4fea-9ef6-816fb93d8f72",
+    "revision": 1,
+    "subject": "ola:n:fac3bb6f-c693-4b54-b215-5436ecb27f67",
+    "relation": "composed_of",
+    "object": "ola:n:7b4261c4-2983-480c-818b-3ab042e598b5",
+    "rationale": "Mathematical Modeling and Application Interfaces is proposed as one broad navigational region of the mathematics atlas; this is coverage, not sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:280d3c07-7358-4868-ba18-347932d94a83",
+    "revision": 1,
+    "subject": "ola:n:cc007a9a-f88d-4418-b51e-e9c507b6887b",
+    "relation": "composed_of",
+    "object": "ola:n:5613fb3b-eba6-485a-9d52-85a24fb0368f",
+    "rationale": "Representation and Translation is provisionally included in Mathematical Practice and Reasoning; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:eec5aa43-9aa9-4e4f-a6cf-6a0f74678526",
+    "revision": 1,
+    "subject": "ola:n:cc007a9a-f88d-4418-b51e-e9c507b6887b",
+    "relation": "composed_of",
+    "object": "ola:n:4e3af406-856e-44bf-8967-d7d0925eb98f",
+    "rationale": "Pattern and Structure is provisionally included in Mathematical Practice and Reasoning; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:d25e527f-8b84-417f-94ad-3778fd8bc1bc",
+    "revision": 1,
+    "subject": "ola:n:cc007a9a-f88d-4418-b51e-e9c507b6887b",
+    "relation": "composed_of",
+    "object": "ola:n:c686a2f1-9583-463c-b33c-219822a370a9",
+    "rationale": "Abstraction and Generalization is provisionally included in Mathematical Practice and Reasoning; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:17414b1b-c9cc-44e9-a738-d6af13a093d0",
+    "revision": 1,
+    "subject": "ola:n:cc007a9a-f88d-4418-b51e-e9c507b6887b",
+    "relation": "composed_of",
+    "object": "ola:n:d3952861-bde5-4ee1-bb51-6596d0fa0a58",
+    "rationale": "Problem Formulation and Conjecture is provisionally included in Mathematical Practice and Reasoning; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:79e23fd7-5eb5-4b76-8c45-d3f97f10c9c5",
+    "revision": 1,
+    "subject": "ola:n:cc007a9a-f88d-4418-b51e-e9c507b6887b",
+    "relation": "composed_of",
+    "object": "ola:n:b35547fe-875f-4eff-a5f5-7fdfc18363e8",
+    "rationale": "Justification and Proof is provisionally included in Mathematical Practice and Reasoning and intentionally remains available to other regions; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:2eb5f3d5-6e3b-4019-9194-e189358db220",
+    "revision": 1,
+    "subject": "ola:n:cc007a9a-f88d-4418-b51e-e9c507b6887b",
+    "relation": "composed_of",
+    "object": "ola:n:5663694c-4ce4-4007-9de5-e8048f3343eb",
+    "rationale": "Estimation and Bounding is provisionally included in Mathematical Practice and Reasoning; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:f8157385-a872-455d-936b-1f5babff4a0c",
+    "revision": 1,
+    "subject": "ola:n:cc007a9a-f88d-4418-b51e-e9c507b6887b",
+    "relation": "composed_of",
+    "object": "ola:n:ef46286d-a69f-4a0c-8f97-0536a736ae89",
+    "rationale": "Mathematical Modeling is provisionally included in Mathematical Practice and Reasoning and intentionally remains available to other regions; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:ad38929a-d4a9-408b-9105-647ea808a913",
+    "revision": 1,
+    "subject": "ola:n:cc007a9a-f88d-4418-b51e-e9c507b6887b",
+    "relation": "composed_of",
+    "object": "ola:n:8d2aa761-fea5-4ed2-b1aa-c3140a3670f5",
+    "rationale": "Error, Uncertainty, and Critique is provisionally included in Mathematical Practice and Reasoning and intentionally remains available to other regions; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:21d7687a-5395-4705-92f5-344b6763fd78",
+    "revision": 1,
+    "subject": "ola:n:cc007a9a-f88d-4418-b51e-e9c507b6887b",
+    "relation": "composed_of",
+    "object": "ola:n:c314db6a-d2d4-45d0-93b7-4f22eab59de9",
+    "rationale": "Mathematical Communication is provisionally included in Mathematical Practice and Reasoning; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:e928b6c5-798c-40a6-b269-212b244f3b87",
+    "revision": 1,
+    "subject": "ola:n:6c2dd104-9a4a-467a-833c-4273fc551359",
+    "relation": "composed_of",
+    "object": "ola:n:0cab0be3-5531-474d-bc2b-d3dd90c78fa3",
+    "rationale": "Counting, Numeration, and Cardinality is provisionally included in Quantity and Number Systems; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:d896f083-0a7b-4129-a978-47f1bdbb3dd9",
+    "revision": 1,
+    "subject": "ola:n:6c2dd104-9a4a-467a-833c-4273fc551359",
+    "relation": "composed_of",
+    "object": "ola:n:4c83ed0c-3ed7-4554-b566-b937c04e3e37",
+    "rationale": "Magnitude, Order, and Comparison is provisionally included in Quantity and Number Systems; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:d1063ab3-7a7e-4bb4-ab52-e3defad28b87",
+    "revision": 1,
+    "subject": "ola:n:6c2dd104-9a4a-467a-833c-4273fc551359",
+    "relation": "composed_of",
+    "object": "ola:n:f6e75f2e-d126-4500-bedd-aa3c3624544c",
+    "rationale": "Whole Numbers and Integers is provisionally included in Quantity and Number Systems; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:9e639cb7-4bed-4ee5-b244-359ade82f80b",
+    "revision": 1,
+    "subject": "ola:n:6c2dd104-9a4a-467a-833c-4273fc551359",
+    "relation": "composed_of",
+    "object": "ola:n:3a6a6a58-944c-47b0-b31b-885d043bb733",
+    "rationale": "Rational and Proportional Structure is provisionally included in Quantity and Number Systems; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:67b2dc19-0f4c-4b16-91ef-f81cd0a0c42f",
+    "revision": 1,
+    "subject": "ola:n:6c2dd104-9a4a-467a-833c-4273fc551359",
+    "relation": "composed_of",
+    "object": "ola:n:3f0eadb0-1111-43cc-9bfe-db02f4776e93",
+    "rationale": "Real and Complex Number Systems is provisionally included in Quantity and Number Systems; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:cc626a4c-5aea-469d-a6ad-05b90191ffb0",
+    "revision": 1,
+    "subject": "ola:n:6c2dd104-9a4a-467a-833c-4273fc551359",
+    "relation": "composed_of",
+    "object": "ola:n:8994155f-ccce-4906-a6d5-8fba0d4bcf41",
+    "rationale": "Arithmetic Operations and Properties is provisionally included in Quantity and Number Systems; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:fad9cfa3-2ddd-4702-8bf7-0b46c25ebddd",
+    "revision": 1,
+    "subject": "ola:n:6c2dd104-9a4a-467a-833c-4273fc551359",
+    "relation": "composed_of",
+    "object": "ola:n:0e63b46b-7ec0-4641-b8bf-14017474d82a",
+    "rationale": "Divisibility and Number Theory is provisionally included in Quantity and Number Systems; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:0dd68601-28cf-4693-aa72-93244cd73cf7",
+    "revision": 1,
+    "subject": "ola:n:5b57eeee-e162-430c-ba9d-90ef2c57a6a9",
+    "relation": "composed_of",
+    "object": "ola:n:164c3d7c-a12e-4fe9-988d-5299b3ea2f29",
+    "rationale": "Equivalence and Symbolic Transformation is provisionally included in Algebraic Structure and Symbolic Relations; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:78f12906-8d72-4729-853d-205f0b8e1365",
+    "revision": 1,
+    "subject": "ola:n:5b57eeee-e162-430c-ba9d-90ef2c57a6a9",
+    "relation": "composed_of",
+    "object": "ola:n:bb1b0330-6ee3-4e96-bdaa-5b36429d9aa8",
+    "rationale": "Variables and Expressions is provisionally included in Algebraic Structure and Symbolic Relations; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:4267b64a-6683-4de1-800c-1b3ac5fd166d",
+    "revision": 1,
+    "subject": "ola:n:5b57eeee-e162-430c-ba9d-90ef2c57a6a9",
+    "relation": "composed_of",
+    "object": "ola:n:ff72e1fe-db8d-4f43-8108-e6ff56f965a1",
+    "rationale": "Equations, Inequalities, and Systems is provisionally included in Algebraic Structure and Symbolic Relations; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:598cf348-7630-4f7c-bd09-6cc375fc589b",
+    "revision": 1,
+    "subject": "ola:n:5b57eeee-e162-430c-ba9d-90ef2c57a6a9",
+    "relation": "composed_of",
+    "object": "ola:n:344d96fb-d7f4-48ff-9896-7b455896c020",
+    "rationale": "Polynomial Algebra is provisionally included in Algebraic Structure and Symbolic Relations; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:e1c07eea-fdf7-47fc-a27c-635751c1b3c0",
+    "revision": 1,
+    "subject": "ola:n:5b57eeee-e162-430c-ba9d-90ef2c57a6a9",
+    "relation": "composed_of",
+    "object": "ola:n:42024327-5920-4875-8ac5-1cd78cebce5c",
+    "rationale": "Exponential and Logarithmic Structure is provisionally included in Algebraic Structure and Symbolic Relations; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:cd76eda3-cd7a-4f9d-bd1b-ea3b35712650",
+    "revision": 1,
+    "subject": "ola:n:5b57eeee-e162-430c-ba9d-90ef2c57a6a9",
+    "relation": "composed_of",
+    "object": "ola:n:dec0e1cc-e42d-4cd4-ac04-9096fce32821",
+    "rationale": "Groups, Rings, Fields, and Modules is provisionally included in Algebraic Structure and Symbolic Relations; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:7270c1b8-d3b1-4bed-aa50-7943b5750de1",
+    "revision": 1,
+    "subject": "ola:n:5b57eeee-e162-430c-ba9d-90ef2c57a6a9",
+    "relation": "composed_of",
+    "object": "ola:n:c168151c-5f3a-479b-b349-234ad99d1120",
+    "rationale": "Order, Lattices, and General Algebra is provisionally included in Algebraic Structure and Symbolic Relations; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:cb26e5a4-7b49-48f1-b507-97afdce14156",
+    "revision": 1,
+    "subject": "ola:n:65a97823-0cd0-4058-889f-1da87e07fcee",
+    "relation": "composed_of",
+    "object": "ola:n:8f7331e4-1374-4306-aa48-03aef45fe946",
+    "rationale": "Relations, Functions, and Dependence is provisionally included in Functions, Variation, and Analysis; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:4da34b8f-662c-4cf4-be74-9d656a21e3c8",
+    "revision": 1,
+    "subject": "ola:n:65a97823-0cd0-4058-889f-1da87e07fcee",
+    "relation": "composed_of",
+    "object": "ola:n:5cc96e68-f0e8-4eca-b07d-b3056a265aa5",
+    "rationale": "Sequences, Series, and Recurrence is provisionally included in Functions, Variation, and Analysis and intentionally remains available to other regions; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:e3209145-d1c3-49ed-a1d3-c02ebf465452",
+    "revision": 1,
+    "subject": "ola:n:65a97823-0cd0-4058-889f-1da87e07fcee",
+    "relation": "composed_of",
+    "object": "ola:n:676d8217-3356-4081-9a3b-3a45922c99f3",
+    "rationale": "Function Families and Transformations is provisionally included in Functions, Variation, and Analysis; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:e626bf62-2ed5-4e49-8364-e2523f5793bc",
+    "revision": 1,
+    "subject": "ola:n:65a97823-0cd0-4058-889f-1da87e07fcee",
+    "relation": "composed_of",
+    "object": "ola:n:db9e7778-3829-49c2-9998-1a8f104355fa",
+    "rationale": "Rates of Change and Local Behavior is provisionally included in Functions, Variation, and Analysis; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:9c37d812-73b8-4998-b6a8-3c48258838e6",
+    "revision": 1,
+    "subject": "ola:n:65a97823-0cd0-4058-889f-1da87e07fcee",
+    "relation": "composed_of",
+    "object": "ola:n:f5bed58e-448c-4db8-a672-5f98d77796d1",
+    "rationale": "Limits and Continuity is provisionally included in Functions, Variation, and Analysis; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:68a6f715-80cd-440a-8bde-50f9a4d33bd3",
+    "revision": 1,
+    "subject": "ola:n:65a97823-0cd0-4058-889f-1da87e07fcee",
+    "relation": "composed_of",
+    "object": "ola:n:22b56d73-55c3-47f4-9468-901f304e6555",
+    "rationale": "Differentiation and Integration is provisionally included in Functions, Variation, and Analysis; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:7a32817c-9bce-4202-b317-bf118c21dd21",
+    "revision": 1,
+    "subject": "ola:n:65a97823-0cd0-4058-889f-1da87e07fcee",
+    "relation": "composed_of",
+    "object": "ola:n:18b61ff2-8aa1-4a9f-b3d8-e6e68f8328d4",
+    "rationale": "Differential Equations and Dynamical Systems is provisionally included in Functions, Variation, and Analysis and intentionally remains available to other regions; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:699f0bb4-771f-454a-8b7e-cb3f1930ae2d",
+    "revision": 1,
+    "subject": "ola:n:65a97823-0cd0-4058-889f-1da87e07fcee",
+    "relation": "composed_of",
+    "object": "ola:n:921ce5ef-565c-4e34-abbc-3a569226e533",
+    "rationale": "Measure, Functional, Complex, and Harmonic Analysis is provisionally included in Functions, Variation, and Analysis; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:74699c81-80b2-41e9-8c6f-88467ca00ab7",
+    "revision": 1,
+    "subject": "ola:n:e9980cba-ccca-4454-a5ad-4698c5ee58d9",
+    "relation": "composed_of",
+    "object": "ola:n:be3c8b0f-dd6a-49a3-b9e0-59e3144c7e52",
+    "rationale": "Euclidean and Synthetic Geometry is provisionally included in Space, Shape, and Transformation; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:ac730983-6ab0-40a6-aac3-2e57521c20de",
+    "revision": 1,
+    "subject": "ola:n:e9980cba-ccca-4454-a5ad-4698c5ee58d9",
+    "relation": "composed_of",
+    "object": "ola:n:53c25a30-0b50-4d17-9e52-ceaa73728f8f",
+    "rationale": "Coordinate and Analytic Geometry is provisionally included in Space, Shape, and Transformation; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:b1b05b1c-946e-4beb-b376-b5310ba437b4",
+    "revision": 1,
+    "subject": "ola:n:e9980cba-ccca-4454-a5ad-4698c5ee58d9",
+    "relation": "composed_of",
+    "object": "ola:n:10838764-47a9-4c87-8f05-747f1dc05d22",
+    "rationale": "Congruence, Similarity, and Symmetry is provisionally included in Space, Shape, and Transformation; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:ff9f5481-830b-49b1-bc2d-4e775041b1f8",
+    "revision": 1,
+    "subject": "ola:n:e9980cba-ccca-4454-a5ad-4698c5ee58d9",
+    "relation": "composed_of",
+    "object": "ola:n:2c96ba35-a841-4d8f-acc1-806b437b93b9",
+    "rationale": "Geometric Transformations is provisionally included in Space, Shape, and Transformation; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:1fa8e859-3cc5-47e2-8c29-2d14e0e94e43",
+    "revision": 1,
+    "subject": "ola:n:e9980cba-ccca-4454-a5ad-4698c5ee58d9",
+    "relation": "composed_of",
+    "object": "ola:n:a804d3d5-c27c-4bb2-8052-000cc5dad9a1",
+    "rationale": "Trigonometry is provisionally included in Space, Shape, and Transformation; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:04a77c67-0286-4b59-a7dc-789388729aca",
+    "revision": 1,
+    "subject": "ola:n:e9980cba-ccca-4454-a5ad-4698c5ee58d9",
+    "relation": "composed_of",
+    "object": "ola:n:32960293-70d7-4413-9230-99dc0d4dd424",
+    "rationale": "Differential and Algebraic Geometry is provisionally included in Space, Shape, and Transformation; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:a828be17-65eb-4da1-b5f4-a4be0c0c1e39",
+    "revision": 1,
+    "subject": "ola:n:e9980cba-ccca-4454-a5ad-4698c5ee58d9",
+    "relation": "composed_of",
+    "object": "ola:n:f128be18-b96a-4b03-a840-556f95b84a99",
+    "rationale": "Topology and Manifolds is provisionally included in Space, Shape, and Transformation; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:bca324f2-203f-44d5-a87f-b2c1a4cc6674",
+    "revision": 1,
+    "subject": "ola:n:e9980cba-ccca-4454-a5ad-4698c5ee58d9",
+    "relation": "composed_of",
+    "object": "ola:n:798b2d05-3369-425f-9c8b-5b1b7300f636",
+    "rationale": "Convex, Discrete, and Computational Geometry is provisionally included in Space, Shape, and Transformation and intentionally remains available to other regions; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:72063232-8629-43e7-92e5-85063c097316",
+    "revision": 1,
+    "subject": "ola:n:5961ab3d-647d-40d1-9045-ba7f82d9765f",
+    "relation": "composed_of",
+    "object": "ola:n:2b72476f-74b2-4240-a508-7a83ddfe94df",
+    "rationale": "Measurable Attributes, Units, and Scales is provisionally included in Measurement and Dimensional Reasoning; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:2d2aa57f-681d-4145-9740-89c7f2c7775b",
+    "revision": 1,
+    "subject": "ola:n:5961ab3d-647d-40d1-9045-ba7f82d9765f",
+    "relation": "composed_of",
+    "object": "ola:n:d6674c91-a2d2-41aa-bbe6-b1a1bf916042",
+    "rationale": "Length, Area, Volume, and Angle is provisionally included in Measurement and Dimensional Reasoning; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:6e914e07-b316-4632-a0dc-41e0255bbb73",
+    "revision": 1,
+    "subject": "ola:n:5961ab3d-647d-40d1-9045-ba7f82d9765f",
+    "relation": "composed_of",
+    "object": "ola:n:6d2a1df6-fab8-42e2-8ff3-91314074a746",
+    "rationale": "Derived Measurement is provisionally included in Measurement and Dimensional Reasoning; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:e87e5598-595b-4d81-90e0-8629fda11cee",
+    "revision": 1,
+    "subject": "ola:n:5961ab3d-647d-40d1-9045-ba7f82d9765f",
+    "relation": "composed_of",
+    "object": "ola:n:053e52aa-0f0f-49e0-9994-520a9c1f58c7",
+    "rationale": "Dimensional Analysis is provisionally included in Measurement and Dimensional Reasoning; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:740c8cff-52da-4022-a6f7-e7219c407cbc",
+    "revision": 1,
+    "subject": "ola:n:5961ab3d-647d-40d1-9045-ba7f82d9765f",
+    "relation": "composed_of",
+    "object": "ola:n:bc8eedc5-5c1f-48a6-a003-d1e4a206f8a9",
+    "rationale": "Precision, Tolerance, and Measurement Uncertainty is provisionally included in Measurement and Dimensional Reasoning; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:29325e78-a218-4d1d-a17d-4e8f2242587c",
+    "revision": 1,
+    "subject": "ola:n:5961ab3d-647d-40d1-9045-ba7f82d9765f",
+    "relation": "composed_of",
+    "object": "ola:n:8d2aa761-fea5-4ed2-b1aa-c3140a3670f5",
+    "rationale": "Error, Uncertainty, and Critique is provisionally included in Measurement and Dimensional Reasoning and intentionally remains available to other regions; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:00104d58-2992-441b-8124-ac245174f7f2",
+    "revision": 1,
+    "subject": "ola:n:686ca659-1a7c-4056-8713-94df74419852",
+    "relation": "composed_of",
+    "object": "ola:n:f799bc32-265c-4b95-8ec8-385c5b1d267f",
+    "rationale": "Data Generation and Study Design is provisionally included in Data, Statistics, and Inference; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:6a394ebc-72ac-4d93-838b-68400d5bea8b",
+    "revision": 1,
+    "subject": "ola:n:686ca659-1a7c-4056-8713-94df74419852",
+    "relation": "composed_of",
+    "object": "ola:n:b12cc5da-f9ec-4c5a-9459-5e1c1ce977e4",
+    "rationale": "Data Representation and Visualization is provisionally included in Data, Statistics, and Inference; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:a92a3497-bf64-4aa4-9cc3-7a8021888147",
+    "revision": 1,
+    "subject": "ola:n:686ca659-1a7c-4056-8713-94df74419852",
+    "relation": "composed_of",
+    "object": "ola:n:5ff655ea-d3f2-4d82-8da3-a372d53061e3",
+    "rationale": "Descriptive Statistics is provisionally included in Data, Statistics, and Inference; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:a24ff616-8254-417b-94f8-af8c9ae07749",
+    "revision": 1,
+    "subject": "ola:n:686ca659-1a7c-4056-8713-94df74419852",
+    "relation": "composed_of",
+    "object": "ola:n:75ad3a83-f3b6-4924-a2d5-86d6ca73f1fd",
+    "rationale": "Association and Regression is provisionally included in Data, Statistics, and Inference; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:e502306e-0879-49d9-a7ff-56b31f40a500",
+    "revision": 1,
+    "subject": "ola:n:686ca659-1a7c-4056-8713-94df74419852",
+    "relation": "composed_of",
+    "object": "ola:n:f9c03c23-cc3a-41b3-a723-48eee030ffff",
+    "rationale": "Statistical Modeling is provisionally included in Data, Statistics, and Inference; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:497f78db-2a60-41ce-898b-072f7dea013a",
+    "revision": 1,
+    "subject": "ola:n:686ca659-1a7c-4056-8713-94df74419852",
+    "relation": "composed_of",
+    "object": "ola:n:21ca64ce-13d4-4ac9-9ed2-41250d24f019",
+    "rationale": "Estimation, Hypothesis, and Inference is provisionally included in Data, Statistics, and Inference; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:5d52d96e-091f-4e60-8b89-2f293602effd",
+    "revision": 1,
+    "subject": "ola:n:686ca659-1a7c-4056-8713-94df74419852",
+    "relation": "composed_of",
+    "object": "ola:n:77411999-33ee-403c-b09e-f79165832eca",
+    "rationale": "Causal, Multivariate, and Computational Statistics is provisionally included in Data, Statistics, and Inference; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:28b40e82-7257-40d3-9562-4cbde5de6f4c",
+    "revision": 1,
+    "subject": "ola:n:bd1591ab-0dd9-45bb-9d85-5a28e5c0c96f",
+    "relation": "composed_of",
+    "object": "ola:n:3822d5a3-ebac-4882-91b6-3f7625ccef5f",
+    "rationale": "Sample Spaces and Events is provisionally included in Probability and Stochastic Structure; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:52591a77-5241-4105-85fa-eec4ddd09bc2",
+    "revision": 1,
+    "subject": "ola:n:bd1591ab-0dd9-45bb-9d85-5a28e5c0c96f",
+    "relation": "composed_of",
+    "object": "ola:n:2b5a234b-0ef4-47fa-900b-4188758d604e",
+    "rationale": "Combinatorics and Counting Probability is provisionally included in Probability and Stochastic Structure and intentionally remains available to other regions; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:1b1c9101-1448-4535-959d-d22a01097189",
+    "revision": 1,
+    "subject": "ola:n:bd1591ab-0dd9-45bb-9d85-5a28e5c0c96f",
+    "relation": "composed_of",
+    "object": "ola:n:ef99a75d-00c3-4991-a0b9-1299d7bcfdd1",
+    "rationale": "Conditional Probability and Dependence is provisionally included in Probability and Stochastic Structure; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:96a43731-c004-4530-a7f0-2b5d5f3458a8",
+    "revision": 1,
+    "subject": "ola:n:bd1591ab-0dd9-45bb-9d85-5a28e5c0c96f",
+    "relation": "composed_of",
+    "object": "ola:n:04a0a2e0-eefb-4f5e-9e5f-a6632c4e2c8f",
+    "rationale": "Random Variables and Distributions is provisionally included in Probability and Stochastic Structure; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:ada63f30-07a5-447d-8276-1d899fad3588",
+    "revision": 1,
+    "subject": "ola:n:bd1591ab-0dd9-45bb-9d85-5a28e5c0c96f",
+    "relation": "composed_of",
+    "object": "ola:n:05686f7f-4dee-4bd3-8161-b77a3e09133d",
+    "rationale": "Expectation and Variability is provisionally included in Probability and Stochastic Structure; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:c0d7e3e3-bf1d-4269-a3d3-b77841fdadd8",
+    "revision": 1,
+    "subject": "ola:n:bd1591ab-0dd9-45bb-9d85-5a28e5c0c96f",
+    "relation": "composed_of",
+    "object": "ola:n:91b00c32-4004-479a-90b4-1cb6c5df6640",
+    "rationale": "Stochastic Processes, Decision, and Risk is provisionally included in Probability and Stochastic Structure and intentionally remains available to other regions; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:a8b97205-c6f8-43a8-b9fe-15e7736cba92",
+    "revision": 1,
+    "subject": "ola:n:616a8a42-2b47-4b8e-8531-62dec9495a12",
+    "relation": "composed_of",
+    "object": "ola:n:b3ab04de-2580-470b-ad28-a34046e57525",
+    "rationale": "Sets, Relations, and Finite Structures is provisionally included in Discrete Structures; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:d3431c9f-0533-49af-8140-5d7829d52f23",
+    "revision": 1,
+    "subject": "ola:n:616a8a42-2b47-4b8e-8531-62dec9495a12",
+    "relation": "composed_of",
+    "object": "ola:n:2b5a234b-0ef4-47fa-900b-4188758d604e",
+    "rationale": "Combinatorics and Counting Probability is provisionally included in Discrete Structures and intentionally remains available to other regions; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:b08c0269-0edb-4c15-a098-a8e08f8c89ca",
+    "revision": 1,
+    "subject": "ola:n:616a8a42-2b47-4b8e-8531-62dec9495a12",
+    "relation": "composed_of",
+    "object": "ola:n:6554260b-2e0c-41ac-b9b9-cdaa7109cffa",
+    "rationale": "Graphs and Networks is provisionally included in Discrete Structures; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:c19f46e5-7e30-44d4-8c93-79c43ddb4181",
+    "revision": 1,
+    "subject": "ola:n:616a8a42-2b47-4b8e-8531-62dec9495a12",
+    "relation": "composed_of",
+    "object": "ola:n:5cc96e68-f0e8-4eca-b07d-b3056a265aa5",
+    "rationale": "Sequences, Series, and Recurrence is provisionally included in Discrete Structures and intentionally remains available to other regions; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:7549c67d-3011-4942-8b76-0ae8320c323c",
+    "revision": 1,
+    "subject": "ola:n:616a8a42-2b47-4b8e-8531-62dec9495a12",
+    "relation": "composed_of",
+    "object": "ola:n:194a3600-e568-42b6-a4c4-e635a6775cef",
+    "rationale": "Coding and Information Theory is provisionally included in Discrete Structures and intentionally remains available to other regions; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:eabc3848-85ff-4154-a71f-15f45093cb8c",
+    "revision": 1,
+    "subject": "ola:n:616a8a42-2b47-4b8e-8531-62dec9495a12",
+    "relation": "composed_of",
+    "object": "ola:n:e842fff4-2b60-4328-9386-8c6f7a5bda24",
+    "rationale": "Theoretical Computer Science and Complexity is provisionally included in Discrete Structures and intentionally remains available to other regions; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:7ded967b-ed2d-4263-99c9-3cc8d7030e53",
+    "revision": 1,
+    "subject": "ola:n:616a8a42-2b47-4b8e-8531-62dec9495a12",
+    "relation": "composed_of",
+    "object": "ola:n:7a1e2e34-46fb-4a29-9585-70cb4d929be5",
+    "rationale": "Discrete Optimization is provisionally included in Discrete Structures and intentionally remains available to other regions; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:e768f3f3-1046-4d6f-8179-bc6fe8f635d2",
+    "revision": 1,
+    "subject": "ola:n:616a8a42-2b47-4b8e-8531-62dec9495a12",
+    "relation": "composed_of",
+    "object": "ola:n:798b2d05-3369-425f-9c8b-5b1b7300f636",
+    "rationale": "Convex, Discrete, and Computational Geometry is provisionally included in Discrete Structures and intentionally remains available to other regions; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:7e3c7017-2e1d-4b40-8e0c-eed9e388df40",
+    "revision": 1,
+    "subject": "ola:n:616a8a42-2b47-4b8e-8531-62dec9495a12",
+    "relation": "composed_of",
+    "object": "ola:n:51cb46fd-37cc-4fc4-9148-33fb10aa4588",
+    "rationale": "Computability and Decidability is provisionally included in Discrete Structures and intentionally remains available to other regions; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:b6648c07-aaeb-4e0e-adb4-dc8d2229201c",
+    "revision": 1,
+    "subject": "ola:n:59080c02-cb1a-4256-a09a-29e6acde9da9",
+    "relation": "composed_of",
+    "object": "ola:n:b95a03f3-93a8-4709-b5d3-d74e3cb13a09",
+    "rationale": "Vectors and Vector Spaces is provisionally included in Linear and Multilinear Structure; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:2d1b333b-ff8a-4590-a3b8-0a6f0416bd8e",
+    "revision": 1,
+    "subject": "ola:n:59080c02-cb1a-4256-a09a-29e6acde9da9",
+    "relation": "composed_of",
+    "object": "ola:n:5e93135e-be13-4a65-98c8-686318db26ce",
+    "rationale": "Matrices and Linear Systems is provisionally included in Linear and Multilinear Structure; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:e9a52778-e161-4664-b6fb-f710fc05d1ba",
+    "revision": 1,
+    "subject": "ola:n:59080c02-cb1a-4256-a09a-29e6acde9da9",
+    "relation": "composed_of",
+    "object": "ola:n:d8f31787-941c-45dc-94e9-ca9e600ab4ec",
+    "rationale": "Linear Transformations is provisionally included in Linear and Multilinear Structure; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:4fd288fd-86d6-4a5f-be15-0031abfe3d68",
+    "revision": 1,
+    "subject": "ola:n:59080c02-cb1a-4256-a09a-29e6acde9da9",
+    "relation": "composed_of",
+    "object": "ola:n:2d5fe090-adbe-4824-991b-57329846a5ac",
+    "rationale": "Eigen, Spectral, and Inner-Product Structure is provisionally included in Linear and Multilinear Structure; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:21a7a6ea-7047-452d-bcf3-0ed8e67c3afa",
+    "revision": 1,
+    "subject": "ola:n:59080c02-cb1a-4256-a09a-29e6acde9da9",
+    "relation": "composed_of",
+    "object": "ola:n:55f86545-9bab-46c9-80f2-79c3f17f3cef",
+    "rationale": "Tensors and Multilinear Structure is provisionally included in Linear and Multilinear Structure; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:412443eb-96a4-4bb4-9e19-3e7baf04fd3e",
+    "revision": 1,
+    "subject": "ola:n:59080c02-cb1a-4256-a09a-29e6acde9da9",
+    "relation": "composed_of",
+    "object": "ola:n:585c8112-102f-4c8f-b68c-55585074e49f",
+    "rationale": "Numerical Linear Algebra is provisionally included in Linear and Multilinear Structure and intentionally remains available to other regions; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:96b5c76d-a6a3-4fa1-817b-6e269254ac7f",
+    "revision": 1,
+    "subject": "ola:n:086d0a3f-e433-404c-ba0e-84eee4264259",
+    "relation": "composed_of",
+    "object": "ola:n:b079694e-93de-442b-9b17-5e9828267aba",
+    "rationale": "Propositions, Predicates, and Inference is provisionally included in Logic and Foundations; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:f5362f79-ed34-484d-8547-aa846b143423",
+    "revision": 1,
+    "subject": "ola:n:086d0a3f-e433-404c-ba0e-84eee4264259",
+    "relation": "composed_of",
+    "object": "ola:n:b35547fe-875f-4eff-a5f5-7fdfc18363e8",
+    "rationale": "Justification and Proof is provisionally included in Logic and Foundations and intentionally remains available to other regions; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:4f1db896-b6bf-4d84-a37d-6ac142600896",
+    "revision": 1,
+    "subject": "ola:n:086d0a3f-e433-404c-ba0e-84eee4264259",
+    "relation": "composed_of",
+    "object": "ola:n:57301c82-bc6a-45c4-8d3d-701bd69b1e74",
+    "rationale": "Set-Theoretic Foundations is provisionally included in Logic and Foundations; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:9284892e-75e3-4a99-a523-8ca10b1cf2c9",
+    "revision": 1,
+    "subject": "ola:n:086d0a3f-e433-404c-ba0e-84eee4264259",
+    "relation": "composed_of",
+    "object": "ola:n:2b86a211-1be1-490c-a35c-4c7a749ff3d5",
+    "rationale": "Model Theory is provisionally included in Logic and Foundations; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:ac41ec72-d4bf-4f1a-83b6-8fe8ef596c08",
+    "revision": 1,
+    "subject": "ola:n:086d0a3f-e433-404c-ba0e-84eee4264259",
+    "relation": "composed_of",
+    "object": "ola:n:51cb46fd-37cc-4fc4-9148-33fb10aa4588",
+    "rationale": "Computability and Decidability is provisionally included in Logic and Foundations and intentionally remains available to other regions; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:4a6a02b4-9903-4dde-9057-1b4da12a328c",
+    "revision": 1,
+    "subject": "ola:n:086d0a3f-e433-404c-ba0e-84eee4264259",
+    "relation": "composed_of",
+    "object": "ola:n:1ddffc3d-bbbe-4d3a-9e56-3231255a907f",
+    "rationale": "Type, Proof, and Category Foundations is provisionally included in Logic and Foundations; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:c9f41444-82d7-48c4-b46d-ff6b2c3e0cc8",
+    "revision": 1,
+    "subject": "ola:n:69e8f875-9408-4192-998d-f9e7b2385415",
+    "relation": "composed_of",
+    "object": "ola:n:f5e4494a-1177-411e-8103-26220b2ee736",
+    "rationale": "Exact and Symbolic Computation is provisionally included in Computation, Approximation, and Optimization; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:a4d14da8-2fae-4b5a-9730-6da0a35afb2b",
+    "revision": 1,
+    "subject": "ola:n:69e8f875-9408-4192-998d-f9e7b2385415",
+    "relation": "composed_of",
+    "object": "ola:n:b3c80783-dd26-458e-aab0-f26daf282f0f",
+    "rationale": "Numerical Representation and Error is provisionally included in Computation, Approximation, and Optimization; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:c68275ae-de88-47af-945f-1b2db74858ef",
+    "revision": 1,
+    "subject": "ola:n:69e8f875-9408-4192-998d-f9e7b2385415",
+    "relation": "composed_of",
+    "object": "ola:n:585c8112-102f-4c8f-b68c-55585074e49f",
+    "rationale": "Numerical Linear Algebra is provisionally included in Computation, Approximation, and Optimization and intentionally remains available to other regions; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:0d11c1aa-0074-457c-814c-4a3889e0d01a",
+    "revision": 1,
+    "subject": "ola:n:69e8f875-9408-4192-998d-f9e7b2385415",
+    "relation": "composed_of",
+    "object": "ola:n:e5adb154-f003-4dcf-85d2-459188862c9b",
+    "rationale": "Numerical Analysis and Approximation is provisionally included in Computation, Approximation, and Optimization; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:a78b317e-97b0-403f-ad4f-2ff82413f55c",
+    "revision": 1,
+    "subject": "ola:n:69e8f875-9408-4192-998d-f9e7b2385415",
+    "relation": "composed_of",
+    "object": "ola:n:e842fff4-2b60-4328-9386-8c6f7a5bda24",
+    "rationale": "Theoretical Computer Science and Complexity is provisionally included in Computation, Approximation, and Optimization and intentionally remains available to other regions; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:a9e8ce1b-4931-4504-a060-d965d9178503",
+    "revision": 1,
+    "subject": "ola:n:69e8f875-9408-4192-998d-f9e7b2385415",
+    "relation": "composed_of",
+    "object": "ola:n:8471c304-6761-4f51-b8ad-e8a308617edc",
+    "rationale": "Continuous and Convex Optimization is provisionally included in Computation, Approximation, and Optimization; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:74cd35de-2489-4586-a60d-3e5b39ac7a40",
+    "revision": 1,
+    "subject": "ola:n:69e8f875-9408-4192-998d-f9e7b2385415",
+    "relation": "composed_of",
+    "object": "ola:n:7a1e2e34-46fb-4a29-9585-70cb4d929be5",
+    "rationale": "Discrete Optimization is provisionally included in Computation, Approximation, and Optimization and intentionally remains available to other regions; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:de52a91a-2876-488c-bf92-c61b4f8e0c1c",
+    "revision": 1,
+    "subject": "ola:n:69e8f875-9408-4192-998d-f9e7b2385415",
+    "relation": "composed_of",
+    "object": "ola:n:bfe67791-86a5-4700-9c7c-99f54ce9e474",
+    "rationale": "Simulation and Computational Modeling is provisionally included in Computation, Approximation, and Optimization; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:ca39df98-be67-4a5a-bd69-9ffa632480ed",
+    "revision": 1,
+    "subject": "ola:n:69e8f875-9408-4192-998d-f9e7b2385415",
+    "relation": "composed_of",
+    "object": "ola:n:22a97e52-0a7e-4700-ae5d-7494ac4fed2b",
+    "rationale": "Control and Inverse Problems is provisionally included in Computation, Approximation, and Optimization and intentionally remains available to other regions; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:a00c7e29-2707-48a6-abf7-73279a2fd699",
+    "revision": 1,
+    "subject": "ola:n:69e8f875-9408-4192-998d-f9e7b2385415",
+    "relation": "composed_of",
+    "object": "ola:n:798b2d05-3369-425f-9c8b-5b1b7300f636",
+    "rationale": "Convex, Discrete, and Computational Geometry is provisionally included in Computation, Approximation, and Optimization and intentionally remains available to other regions; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:d4598b42-7075-4701-a2a2-075bbd7f00c0",
+    "revision": 1,
+    "subject": "ola:n:69e8f875-9408-4192-998d-f9e7b2385415",
+    "relation": "composed_of",
+    "object": "ola:n:51cb46fd-37cc-4fc4-9148-33fb10aa4588",
+    "rationale": "Computability and Decidability is provisionally included in Computation, Approximation, and Optimization and intentionally remains available to other regions; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:0e309c79-3064-4c5d-bd3f-84dd29f1906c",
+    "revision": 1,
+    "subject": "ola:n:7b4261c4-2983-480c-818b-3ab042e598b5",
+    "relation": "composed_of",
+    "object": "ola:n:ef46286d-a69f-4a0c-8f97-0536a736ae89",
+    "rationale": "Mathematical Modeling is provisionally included in Mathematical Modeling and Application Interfaces and intentionally remains available to other regions; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:ea1abb65-1214-4265-910f-9e87a65b1f56",
+    "revision": 1,
+    "subject": "ola:n:7b4261c4-2983-480c-818b-3ab042e598b5",
+    "relation": "composed_of",
+    "object": "ola:n:18b61ff2-8aa1-4a9f-b3d8-e6e68f8328d4",
+    "rationale": "Differential Equations and Dynamical Systems is provisionally included in Mathematical Modeling and Application Interfaces and intentionally remains available to other regions; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:34269a9a-5790-41a4-aca6-a7effe7ddba9",
+    "revision": 1,
+    "subject": "ola:n:7b4261c4-2983-480c-818b-3ab042e598b5",
+    "relation": "composed_of",
+    "object": "ola:n:91b00c32-4004-479a-90b4-1cb6c5df6640",
+    "rationale": "Stochastic Processes, Decision, and Risk is provisionally included in Mathematical Modeling and Application Interfaces and intentionally remains available to other regions; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:965b6076-167c-4bed-abad-40a7c155327d",
+    "revision": 1,
+    "subject": "ola:n:7b4261c4-2983-480c-818b-3ab042e598b5",
+    "relation": "composed_of",
+    "object": "ola:n:194a3600-e568-42b6-a4c4-e635a6775cef",
+    "rationale": "Coding and Information Theory is provisionally included in Mathematical Modeling and Application Interfaces and intentionally remains available to other regions; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:f8db0634-21d9-4b39-af2d-0173096c655e",
+    "revision": 1,
+    "subject": "ola:n:7b4261c4-2983-480c-818b-3ab042e598b5",
+    "relation": "composed_of",
+    "object": "ola:n:22a97e52-0a7e-4700-ae5d-7494ac4fed2b",
+    "rationale": "Control and Inverse Problems is provisionally included in Mathematical Modeling and Application Interfaces and intentionally remains available to other regions; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:6677c84f-7b8f-4a70-9137-1a79a95395a0",
+    "revision": 1,
+    "subject": "ola:n:7b4261c4-2983-480c-818b-3ab042e598b5",
+    "relation": "composed_of",
+    "object": "ola:n:7d804ff3-0faf-4ca6-8fa2-f0f0c5cec3da",
+    "rationale": "Mechanics, Continua, and Fluids is provisionally included in Mathematical Modeling and Application Interfaces; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:68f70883-d856-4cf2-b115-ae1cd97e6add",
+    "revision": 1,
+    "subject": "ola:n:7b4261c4-2983-480c-818b-3ab042e598b5",
+    "relation": "composed_of",
+    "object": "ola:n:73008d58-e92d-43b9-9c5c-47d7115a72b0",
+    "rationale": "Mathematical Physics is provisionally included in Mathematical Modeling and Application Interfaces; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:1a6bd2a6-155b-4bcd-8ad9-eedd9f3c309d",
+    "revision": 1,
+    "subject": "ola:n:7b4261c4-2983-480c-818b-3ab042e598b5",
+    "relation": "composed_of",
+    "object": "ola:n:b8882f8f-c6b6-46ba-a7f5-b93c326d7ca6",
+    "rationale": "Biological and Medical Mathematics is provisionally included in Mathematical Modeling and Application Interfaces; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:541cce6a-5ed9-4179-8f8e-c23614d96ed1",
+    "revision": 1,
+    "subject": "ola:n:7b4261c4-2983-480c-818b-3ab042e598b5",
+    "relation": "composed_of",
+    "object": "ola:n:fa1944ef-f4a0-489d-85fb-8e2f673c3342",
+    "rationale": "Economics, Finance, and Game Theory is provisionally included in Mathematical Modeling and Application Interfaces; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:a9254f61-4521-4248-a759-70de86dcf72e",
+    "revision": 1,
+    "subject": "ola:n:7b4261c4-2983-480c-818b-3ab042e598b5",
+    "relation": "composed_of",
+    "object": "ola:n:2e58af24-2dcf-476c-94d4-7b6bb35a3ae1",
+    "rationale": "Earth, Environmental, and Space Sciences is provisionally included in Mathematical Modeling and Application Interfaces; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:18a67d39-9687-46fd-b716-08704dcb0af4",
+    "revision": 1,
+    "subject": "ola:n:69e8f875-9408-4192-998d-f9e7b2385415",
+    "relation": "composed_of",
+    "object": "ola:n:35f2c3ac-3cb8-43a1-8257-816e76102c48",
+    "rationale": "Operations Research and Decision Science is provisionally included in Computation, Approximation, and Optimization and intentionally remains available to other regions; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  },
+  {
+    "id": "ola:e:3ef67248-d49b-4be8-909d-bbcbe09c6db0",
+    "revision": 1,
+    "subject": "ola:n:7b4261c4-2983-480c-818b-3ab042e598b5",
+    "relation": "composed_of",
+    "object": "ola:n:35f2c3ac-3cb8-43a1-8257-816e76102c48",
+    "rationale": "Operations Research and Decision Science is provisionally included in Mathematical Modeling and Application Interfaces and intentionally remains available to other regions; this asserts navigational coverage, not prerequisite order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+  }
+]

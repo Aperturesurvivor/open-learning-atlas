@@ -17,9 +17,9 @@ routes without controlling the base map.
 The project is in public-alpha construction. Current validated artifacts
 include:
 
-- a 99-node breadth-first mathematics atlas containing 13 regions, 85
-  territories, and 15 intentionally shared territories;
-- an 18-node rational and proportional reasoning reference slice;
+- one connected 117-node mathematics release containing 13 regions, 85
+  territories, and a detailed rational/proportional reasoning slice;
+- modular canonical authoring data and a deterministic release compiler;
 - a typed graph schema and semantic validator;
 - a ratified v0.1 map constitution;
 - an explicit v1 completion contract.
@@ -43,8 +43,8 @@ Start with [`llms.txt`](llms.txt), then inspect:
   for the structural contract;
 - [`architecture/map-data-model.md`](architecture/map-data-model.md) for record
   semantics and invariants;
-- [`map/domains/mathematics-macro-v0.1.json`](map/domains/mathematics-macro-v0.1.json)
-  for the current macro dataset;
+- [`map/releases/mathematics-v0.1.0-alpha.json`](map/releases/mathematics-v0.1.0-alpha.json)
+  for the current complete graph snapshot;
 - [`tools/validate-map`](tools/validate-map) for executable semantic checks.
 
 Agents should never infer that a missing edge is false, promote their own
@@ -69,6 +69,7 @@ Those belong in downstream overlays that reference stable `ola:` identifiers.
 The semantic validator uses only the Python standard library:
 
 ```sh
+tools/build-atlas --check
 tools/validate-map
 ```
 
@@ -77,12 +78,13 @@ Full JSON Schema validation can be run with:
 ```sh
 uvx --from check-jsonschema check-jsonschema \
   --schemafile map/schema/open-learning-atlas.schema.json \
-  map/domains/*.json map/examples/*.json
+  map/domains/*.json map/examples/*.json map/releases/*.json
 ```
 
 ## Repository Map
 
-- [`map/`](map/) — canonical schemas and map documents.
+- [`atlas/`](atlas/) — modular canonical authoring records.
+- [`map/`](map/) — schemas, generated releases, and historical reference documents.
 - [`methodology/`](methodology/) — constitution, vocabulary, and mapping method.
 - [`architecture/`](architecture/) — data, release, agent, and projection boundaries.
 - [`docs/`](docs/) — public vision, accessibility contract, and v1 definition of done.

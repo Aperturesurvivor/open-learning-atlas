@@ -13,7 +13,10 @@ Read:
 3. [`governance/REVIEW.md`](governance/REVIEW.md);
 4. [`llms.txt`](llms.txt) if an AI agent will assist.
 
-Run `tools/validate-map` before opening a pull request that changes data.
+Canonical data lives under `atlas/mathematics/`. Edit the smallest relevant
+fragment, run `tools/build-atlas`, and commit the resulting release snapshot.
+Do not edit `map/releases/` directly. Run `tools/build-atlas --check` and
+`tools/validate-map` before opening a pull request that changes data.
 
 ## Useful Contributions
 

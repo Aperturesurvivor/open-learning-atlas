@@ -1,0 +1,1982 @@
+[
+  {
+    "id": "ola:n:fac3bb6f-c693-4b54-b215-5436ecb27f67",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-root",
+    "assessable": false,
+    "slug": "mathematics",
+    "label": "Mathematics",
+    "definition": "The connected terrain of mathematical objects, structures, representations, practices, methods, and application interfaces described by this candidate atlas.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Root of the breadth-first candidate atlas; it is a navigational container rather than a claim of final completeness."
+  },
+  {
+    "id": "ola:n:cc007a9a-f88d-4418-b51e-e9c507b6887b",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-region",
+    "assessable": false,
+    "slug": "mathematical-practice-reasoning",
+    "label": "Mathematical Practice and Reasoning",
+    "definition": "Cross-cutting ways of formulating, representing, investigating, justifying, checking, and communicating mathematics.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:6c2dd104-9a4a-467a-833c-4273fc551359",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-region",
+    "assessable": false,
+    "slug": "quantity-number-systems",
+    "label": "Quantity and Number Systems",
+    "definition": "Structures and representations used to count, compare, order, and operate on quantities and numbers.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:5b57eeee-e162-430c-ba9d-90ef2c57a6a9",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-region",
+    "assessable": false,
+    "slug": "algebraic-structure-symbolic-relations",
+    "label": "Algebraic Structure and Symbolic Relations",
+    "definition": "Symbolic relations, operations, and abstract structures through which mathematical regularity is expressed and transformed.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:65a97823-0cd0-4058-889f-1da87e07fcee",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-region",
+    "assessable": false,
+    "slug": "functions-variation-analysis",
+    "label": "Functions, Variation, and Analysis",
+    "definition": "Dependence, variation, limiting behavior, and analytic structures for describing change and infinite processes.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:e9980cba-ccca-4454-a5ad-4698c5ee58d9",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-region",
+    "assessable": false,
+    "slug": "space-shape-transformation",
+    "label": "Space, Shape, and Transformation",
+    "definition": "Geometric and topological structures used to describe form, position, invariance, dimension, and spatial change.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:5961ab3d-647d-40d1-9045-ba7f82d9765f",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-region",
+    "assessable": false,
+    "slug": "measurement-dimensional-reasoning",
+    "label": "Measurement and Dimensional Reasoning",
+    "definition": "The assignment, comparison, composition, and interpretation of quantities through attributes, units, scales, and dimensions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:686ca659-1a7c-4056-8713-94df74419852",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-region",
+    "assessable": false,
+    "slug": "data-statistics-inference",
+    "label": "Data, Statistics, and Inference",
+    "definition": "Methods for generating, representing, modeling, and drawing qualified conclusions from variable data.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:bd1591ab-0dd9-45bb-9d85-5a28e5c0c96f",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-region",
+    "assessable": false,
+    "slug": "probability-stochastic-structure",
+    "label": "Probability and Stochastic Structure",
+    "definition": "Mathematical structures for uncertainty, random variation, dependence, stochastic evolution, and risk.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:616a8a42-2b47-4b8e-8531-62dec9495a12",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-region",
+    "assessable": false,
+    "slug": "discrete-structures",
+    "label": "Discrete Structures",
+    "definition": "Finite, countable, relational, and algorithmic structures whose behavior is organized through discrete change.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:59080c02-cb1a-4256-a09a-29e6acde9da9",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-region",
+    "assessable": false,
+    "slug": "linear-multilinear-structure",
+    "label": "Linear and Multilinear Structure",
+    "definition": "Vector, matrix, transformation, spectral, and tensor structures governed by linearity and its extensions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:086d0a3f-e433-404c-ba0e-84eee4264259",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-region",
+    "assessable": false,
+    "slug": "logic-foundations",
+    "label": "Logic and Foundations",
+    "definition": "Formal languages, inference systems, foundational structures, and limits that underlie mathematical definition and proof.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:69e8f875-9408-4192-998d-f9e7b2385415",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-region",
+    "assessable": false,
+    "slug": "computation-approximation-optimization",
+    "label": "Computation, Approximation, and Optimization",
+    "definition": "Exact and approximate methods for calculating, simulating, analyzing algorithms, and selecting solutions under constraints.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:7b4261c4-2983-480c-818b-3ab042e598b5",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-region",
+    "assessable": false,
+    "slug": "modeling-application-interfaces",
+    "label": "Mathematical Modeling and Application Interfaces",
+    "definition": "Mathematical structures and methods organized around interfaces with physical, biological, engineered, informational, environmental, and social systems.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:5613fb3b-eba6-485a-9d52-85a24fb0368f",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "representation-translation",
+    "label": "Representation and Translation",
+    "definition": "The construction, interpretation, and conversion of mathematical meaning across symbolic, graphical, verbal, tabular, spatial, and computational forms.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:4e3af406-856e-44bf-8967-d7d0925eb98f",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "pattern-structure",
+    "label": "Pattern and Structure",
+    "definition": "Regularities, invariants, and organizing relationships that can be noticed, described, extended, or explained.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:c686a2f1-9583-463c-b33c-219822a370a9",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "abstraction-generalization",
+    "label": "Abstraction and Generalization",
+    "definition": "The formation of mathematical structures or claims by separating essential relationships from particular instances.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:d3952861-bde5-4ee1-bb51-6596d0fa0a58",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "problem-formulation-conjecture",
+    "label": "Problem Formulation and Conjecture",
+    "definition": "The posing of mathematical questions, specification of constraints, and formation of claims that invite investigation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:b35547fe-875f-4eff-a5f5-7fdfc18363e8",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "justification-proof",
+    "label": "Justification and Proof",
+    "definition": "Reasoned establishment, refutation, or qualification of mathematical claims using accepted forms of inference and evidence.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:5663694c-4ce4-4007-9de5-e8048f3343eb",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "estimation-bounding",
+    "label": "Estimation and Bounding",
+    "definition": "Approximate evaluation and the construction of upper, lower, or interval constraints on mathematical quantities.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:ef46286d-a69f-4a0c-8f97-0536a736ae89",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "mathematical-modeling",
+    "label": "Mathematical Modeling",
+    "definition": "The iterative construction, analysis, interpretation, and revision of mathematical representations of situations or systems.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:8d2aa761-fea5-4ed2-b1aa-c3140a3670f5",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "error-uncertainty-critique",
+    "label": "Error, Uncertainty, and Critique",
+    "definition": "The identification, propagation, interpretation, and critical evaluation of error, approximation, assumptions, and uncertainty.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:c314db6a-d2d4-45d0-93b7-4f22eab59de9",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "mathematical-communication",
+    "label": "Mathematical Communication",
+    "definition": "The precise expression, interpretation, and critique of mathematical objects, arguments, models, and results.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:0cab0be3-5531-474d-bc2b-d3dd90c78fa3",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "counting-numeration-cardinality",
+    "label": "Counting, Numeration, and Cardinality",
+    "definition": "Counting processes, written and spoken number representations, and the size of finite or infinite collections.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:4c83ed0c-3ed7-4554-b566-b937c04e3e37",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "magnitude-order-comparison",
+    "label": "Magnitude, Order, and Comparison",
+    "definition": "Relationships that locate, order, compare, and quantify relative size or position.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:f6e75f2e-d126-4500-bedd-aa3c3624544c",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "whole-numbers-integers",
+    "label": "Whole Numbers and Integers",
+    "definition": "The structures, representations, and operations of nonnegative and signed whole-number systems.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:3a6a6a58-944c-47b0-b31b-885d043bb733",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "rational-proportional-structure",
+    "label": "Rational and Proportional Structure",
+    "definition": "Fractions, ratios, rates, quotients, rational numbers, and multiplicative relationships among quantities.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:3f0eadb0-1111-43cc-9bfe-db02f4776e93",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "real-complex-number-systems",
+    "label": "Real and Complex Number Systems",
+    "definition": "The extensions, representations, order, topology, and algebraic behavior of real and complex numbers.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:8994155f-ccce-4906-a6d5-8fba0d4bcf41",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "arithmetic-operations-properties",
+    "label": "Arithmetic Operations and Properties",
+    "definition": "Addition, subtraction, multiplication, division, exponentiation, and the structural laws governing their use.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:0e63b46b-7ec0-4641-b8bf-14017474d82a",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "divisibility-number-theory",
+    "label": "Divisibility and Number Theory",
+    "definition": "Divisibility, primes, congruences, Diophantine relationships, and broader arithmetic structure.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:164c3d7c-a12e-4fe9-988d-5299b3ea2f29",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "equivalence-symbolic-transformation",
+    "label": "Equivalence and Symbolic Transformation",
+    "definition": "Preservation or controlled alteration of meaning while mathematical expressions and relations are rewritten.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:bb1b0330-6ee3-4e96-bdaa-5b36429d9aa8",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "variables-expressions",
+    "label": "Variables and Expressions",
+    "definition": "Symbols representing varying or unspecified objects and the well-formed expressions constructed from them.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:ff72e1fe-db8d-4f43-8108-e6ff56f965a1",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "equations-inequalities-systems",
+    "label": "Equations, Inequalities, and Systems",
+    "definition": "Constraints expressed through equality or order, including simultaneous relations and their solution sets.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:344d96fb-d7f4-48ff-9896-7b455896c020",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "polynomial-algebra",
+    "label": "Polynomial Algebra",
+    "definition": "Polynomial expressions, equations, factorization, roots, ideals, and their structural extensions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:42024327-5920-4875-8ac5-1cd78cebce5c",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "exponential-logarithmic-structure",
+    "label": "Exponential and Logarithmic Structure",
+    "definition": "Multiplicative growth, powers, logarithms, and the inverse relationships linking them.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:dec0e1cc-e42d-4cd4-ac04-9096fce32821",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "groups-rings-fields-modules",
+    "label": "Groups, Rings, Fields, and Modules",
+    "definition": "Algebraic systems organized by operations, identities, inverses, distributivity, scalar action, and related homomorphisms.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:c168151c-5f3a-479b-b349-234ad99d1120",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "order-lattices-general-algebra",
+    "label": "Order, Lattices, and General Algebra",
+    "definition": "Ordered and generalized algebraic systems, including lattices, universal constructions, and operation-based structures.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:8f7331e4-1374-4306-aa48-03aef45fe946",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "relations-functions-dependence",
+    "label": "Relations, Functions, and Dependence",
+    "definition": "Mappings and relations that associate inputs, outputs, variables, or objects under specified rules or constraints.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:5cc96e68-f0e8-4eca-b07d-b3056a265aa5",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "sequences-series-recurrence",
+    "label": "Sequences, Series, and Recurrence",
+    "definition": "Ordered families, accumulation through series, and relationships that define terms through earlier terms.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:676d8217-3356-4081-9a3b-3a45922c99f3",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "function-families-transformations",
+    "label": "Function Families and Transformations",
+    "definition": "Qualitative and quantitative behavior shared by families of functions and altered through parameter or coordinate transformations.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:db9e7778-3829-49c2-9998-1a8f104355fa",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "rates-change-local-behavior",
+    "label": "Rates of Change and Local Behavior",
+    "definition": "Average, instantaneous, and higher-order descriptions of how quantities vary locally.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:f5bed58e-448c-4db8-a672-5f98d77796d1",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "limits-continuity",
+    "label": "Limits and Continuity",
+    "definition": "Approach behavior, convergence, and the preservation of nearness under functions or processes.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:22b56d73-55c3-47f4-9468-901f304e6555",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "differentiation-integration",
+    "label": "Differentiation and Integration",
+    "definition": "Derivatives, integrals, accumulation, local linearization, and the relationships connecting change with total effect.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:18b61ff2-8aa1-4a9f-b3d8-e6e68f8328d4",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "differential-equations-dynamical-systems",
+    "label": "Differential Equations and Dynamical Systems",
+    "definition": "Systems whose evolution is specified through derivatives, differences, flows, iterations, or state transitions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:921ce5ef-565c-4e34-abbc-3a569226e533",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "measure-functional-complex-harmonic-analysis",
+    "label": "Measure, Functional, Complex, and Harmonic Analysis",
+    "definition": "Advanced analytic structures involving measure, infinite-dimensional spaces, complex variables, operators, frequencies, and transforms.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:be3c8b0f-dd6a-49a3-b9e0-59e3144c7e52",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "euclidean-synthetic-geometry",
+    "label": "Euclidean and Synthetic Geometry",
+    "definition": "Geometric objects and relations studied through axioms, constructions, incidence, distance, angle, and deductive argument.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:53c25a30-0b50-4d17-9e52-ceaa73728f8f",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "coordinate-analytic-geometry",
+    "label": "Coordinate and Analytic Geometry",
+    "definition": "The representation and investigation of geometric objects using coordinates, equations, vectors, and analytic methods.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:10838764-47a9-4c87-8f05-747f1dc05d22",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "congruence-similarity-symmetry",
+    "label": "Congruence, Similarity, and Symmetry",
+    "definition": "Transformational or relational invariance under rigid motion, scaling, reflection, rotation, and broader symmetries.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:2c96ba35-a841-4d8f-acc1-806b437b93b9",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "geometric-transformations",
+    "label": "Geometric Transformations",
+    "definition": "Mappings of spaces or figures and the properties preserved or altered under those mappings.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:a804d3d5-c27c-4bb2-8052-000cc5dad9a1",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "trigonometry",
+    "label": "Trigonometry",
+    "definition": "Angular, circular, periodic, and triangle relationships expressed through trigonometric functions and identities.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:32960293-70d7-4413-9230-99dc0d4dd424",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "differential-algebraic-geometry",
+    "label": "Differential and Algebraic Geometry",
+    "definition": "Geometric structures studied through calculus, smoothness, polynomials, varieties, curvature, and related invariants.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:f128be18-b96a-4b03-a840-556f95b84a99",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "topology-manifolds",
+    "label": "Topology and Manifolds",
+    "definition": "Properties of spaces preserved by continuous deformation, including connectivity, compactness, dimension, and manifold structure.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:798b2d05-3369-425f-9c8b-5b1b7300f636",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "convex-discrete-computational-geometry",
+    "label": "Convex, Discrete, and Computational Geometry",
+    "definition": "Geometric structures and problems involving convexity, finite configurations, algorithms, and computational representation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:2b72476f-74b2-4240-a508-7a83ddfe94df",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "measurable-attributes-units-scales",
+    "label": "Measurable Attributes, Units, and Scales",
+    "definition": "Attributes assigned quantities through comparison with units, reference systems, or measurement scales.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:d6674c91-a2d2-41aa-bbe6-b1a1bf916042",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "length-area-volume-angle",
+    "label": "Length, Area, Volume, and Angle",
+    "definition": "Core spatial measures and the relationships, formulas, and invariants used to determine them.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:6d2a1df6-fab8-42e2-8ff3-91314074a746",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "derived-measurement",
+    "label": "Derived Measurement",
+    "definition": "Quantities formed from combinations, ratios, or rates of more elementary measured attributes.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:053e52aa-0f0f-49e0-9994-520a9c1f58c7",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "dimensional-analysis",
+    "label": "Dimensional Analysis",
+    "definition": "Reasoning about dimensions, units, scaling, and physically meaningful combinations of quantities.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:bc8eedc5-5c1f-48a6-a003-d1e4a206f8a9",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "precision-tolerance-measurement-uncertainty",
+    "label": "Precision, Tolerance, and Measurement Uncertainty",
+    "definition": "Limits, intervals, resolution, repeatability, and uncertainty arising in measurement processes.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:f799bc32-265c-4b95-8ec8-385c5b1d267f",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "data-generation-study-design",
+    "label": "Data Generation and Study Design",
+    "definition": "Observation, measurement, sampling, experimentation, and design choices through which data are produced.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:b12cc5da-f9ec-4c5a-9459-5e1c1ce977e4",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "data-representation-visualization",
+    "label": "Data Representation and Visualization",
+    "definition": "Tabular, graphical, spatial, and computational forms used to encode and inspect data.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:5ff655ea-d3f2-4d82-8da3-a372d53061e3",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "descriptive-statistics",
+    "label": "Descriptive Statistics",
+    "definition": "Summaries of distributions, center, spread, shape, frequency, and other observed data features.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:75ad3a83-f3b6-4924-a2d5-86d6ca73f1fd",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "association-regression",
+    "label": "Association and Regression",
+    "definition": "Quantitative descriptions and models of relationships among variables, including dependence and prediction.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:f9c03c23-cc3a-41b3-a723-48eee030ffff",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "statistical-modeling",
+    "label": "Statistical Modeling",
+    "definition": "Probability-based representations of data-generating processes, variation, parameters, and model discrepancy.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:21ca64ce-13d4-4ac9-9ed2-41250d24f019",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "estimation-hypothesis-inference",
+    "label": "Estimation, Hypothesis, and Inference",
+    "definition": "Reasoning from data to uncertain conclusions about parameters, models, populations, or competing claims.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:77411999-33ee-403c-b09e-f79165832eca",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "causal-multivariate-computational-statistics",
+    "label": "Causal, Multivariate, and Computational Statistics",
+    "definition": "Statistical structures involving intervention, many variables, complex data, resampling, computation, or high-dimensional behavior.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:3822d5a3-ebac-4882-91b6-3f7625ccef5f",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "sample-spaces-events",
+    "label": "Sample Spaces and Events",
+    "definition": "Formal descriptions of possible outcomes and collections of outcomes to which probabilities may be assigned.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:2b5a234b-0ef4-47fa-900b-4188758d604e",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "combinatorics-counting-probability",
+    "label": "Combinatorics and Counting Probability",
+    "definition": "Enumeration, arrangement, selection, and finite counting structures, including their use in probability.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:ef99a75d-00c3-4991-a0b9-1299d7bcfdd1",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "conditional-probability-dependence",
+    "label": "Conditional Probability and Dependence",
+    "definition": "Probability under information or conditions and the structures of independence, dependence, and updating.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:04a0a2e0-eefb-4f5e-9e5f-a6632c4e2c8f",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "random-variables-distributions",
+    "label": "Random Variables and Distributions",
+    "definition": "Measurable numerical outcomes of random processes and the distributions that describe their behavior.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:05686f7f-4dee-4bd3-8161-b77a3e09133d",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "expectation-variability",
+    "label": "Expectation and Variability",
+    "definition": "Measures and structures describing average behavior, dispersion, moments, concentration, and risk.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:91b00c32-4004-479a-90b4-1cb6c5df6640",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "stochastic-processes-decision-risk",
+    "label": "Stochastic Processes, Decision, and Risk",
+    "definition": "Random evolution over an index such as time or space and decisions made under probabilistic uncertainty.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:b3ab04de-2580-470b-ad28-a34046e57525",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "sets-relations-finite-structures",
+    "label": "Sets, Relations, and Finite Structures",
+    "definition": "Discrete collections and the relations, operations, orderings, and incidence structures defined on them.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:6554260b-2e0c-41ac-b9b9-cdaa7109cffa",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "graphs-networks",
+    "label": "Graphs and Networks",
+    "definition": "Vertices, edges, paths, flows, connectivity, and relational structures modeled as networks.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:194a3600-e568-42b6-a4c4-e635a6775cef",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "coding-information-theory",
+    "label": "Coding and Information Theory",
+    "definition": "Quantification, representation, transmission, compression, protection, and recovery of information.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:e842fff4-2b60-4328-9386-8c6f7a5bda24",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "theoretical-computer-science-complexity",
+    "label": "Theoretical Computer Science and Complexity",
+    "definition": "Formal models of algorithms, languages, resources, tractability, and the inherent difficulty of computation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:7a1e2e34-46fb-4a29-9585-70cb4d929be5",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "discrete-optimization",
+    "label": "Discrete Optimization",
+    "definition": "Selection of best feasible solutions when decisions or structures are finite, integer-valued, or combinatorial.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:b95a03f3-93a8-4709-b5d3-d74e3cb13a09",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "vectors-vector-spaces",
+    "label": "Vectors and Vector Spaces",
+    "definition": "Objects and spaces governed by vector addition and scalar multiplication, including bases, dimension, and subspaces.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:5e93135e-be13-4a65-98c8-686318db26ce",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "matrices-linear-systems",
+    "label": "Matrices and Linear Systems",
+    "definition": "Array representations of linear relationships and methods for analyzing or solving simultaneous linear equations.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:d8f31787-941c-45dc-94e9-ca9e600ab4ec",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "linear-transformations",
+    "label": "Linear Transformations",
+    "definition": "Mappings that preserve vector addition and scalar multiplication, together with their kernels, images, and representations.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:2d5fe090-adbe-4824-991b-57329846a5ac",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "eigen-spectral-inner-product-structure",
+    "label": "Eigen, Spectral, and Inner-Product Structure",
+    "definition": "Invariant directions, spectra, orthogonality, norms, projections, and geometry within linear spaces.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:55f86545-9bab-46c9-80f2-79c3f17f3cef",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "tensors-multilinear-structure",
+    "label": "Tensors and Multilinear Structure",
+    "definition": "Objects and mappings that are linear in multiple arguments and encode higher-order relationships.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:b079694e-93de-442b-9b17-5e9828267aba",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "propositions-predicates-inference",
+    "label": "Propositions, Predicates, and Inference",
+    "definition": "Formal statements, quantification, logical connectives, semantic interpretation, and valid patterns of inference.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:57301c82-bc6a-45c4-8d3d-701bd69b1e74",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "set-theoretic-foundations",
+    "label": "Set-Theoretic Foundations",
+    "definition": "Axiomatic and structural accounts of sets, classes, ordinals, cardinals, and foundational construction.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:2b86a211-1be1-490c-a35c-4c7a749ff3d5",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "model-theory",
+    "label": "Model Theory",
+    "definition": "Relationships between formal languages, theories, interpretations, structures, and the truths they satisfy.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:51cb46fd-37cc-4fc4-9148-33fb10aa4588",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "computability-decidability",
+    "label": "Computability and Decidability",
+    "definition": "Formal limits and possibilities of effective procedure, algorithmic determination, and definability.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:1ddffc3d-bbbe-4d3a-9e56-3231255a907f",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "type-proof-category-foundations",
+    "label": "Type, Proof, and Category Foundations",
+    "definition": "Foundational perspectives based on types, constructive proof, categorical structure, and their formal correspondences.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:f5e4494a-1177-411e-8103-26220b2ee736",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "exact-symbolic-computation",
+    "label": "Exact and Symbolic Computation",
+    "definition": "Algorithms that manipulate mathematical objects or expressions while preserving exact structure.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:b3c80783-dd26-458e-aab0-f26daf282f0f",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "numerical-representation-error",
+    "label": "Numerical Representation and Error",
+    "definition": "Finite numerical encodings, rounding, conditioning, stability, and propagation of computational error.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:585c8112-102f-4c8f-b68c-55585074e49f",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "numerical-linear-algebra",
+    "label": "Numerical Linear Algebra",
+    "definition": "Computational methods for matrix and linear-operator problems, including accuracy, stability, and scale.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:e5adb154-f003-4dcf-85d2-459188862c9b",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "numerical-analysis-approximation",
+    "label": "Numerical Analysis and Approximation",
+    "definition": "Approximate algorithms for analytic problems together with convergence, stability, and error analysis.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:8471c304-6761-4f51-b8ad-e8a308617edc",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "continuous-convex-optimization",
+    "label": "Continuous and Convex Optimization",
+    "definition": "Selection of extrema over continuous feasible sets, especially where convexity provides structural guarantees.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:bfe67791-86a5-4700-9c7c-99f54ce9e474",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "simulation-computational-modeling",
+    "label": "Simulation and Computational Modeling",
+    "definition": "Computational execution and study of mathematical models when direct analytic treatment is unavailable or incomplete.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:22a97e52-0a7e-4700-ae5d-7494ac4fed2b",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "control-inverse-problems",
+    "label": "Control and Inverse Problems",
+    "definition": "Selection of inputs to influence systems and recovery of hidden causes or parameters from observed effects.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:7d804ff3-0faf-4ca6-8fa2-f0f0c5cec3da",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "mechanics-continuum-fluids",
+    "label": "Mechanics, Continua, and Fluids",
+    "definition": "Mathematical description of motion, force, deformation, continua, and fluid behavior.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:73008d58-e92d-43b9-9c5c-47d7115a72b0",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "mathematical-physics",
+    "label": "Mathematical Physics",
+    "definition": "Mathematical structures and methods developed for physical theories, including quantum, statistical, electromagnetic, thermal, and relativistic systems.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:b8882f8f-c6b6-46ba-a7f5-b93c326d7ca6",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "biological-medical-mathematics",
+    "label": "Biological and Medical Mathematics",
+    "definition": "Mathematical models and structures for living systems, populations, physiology, disease, and biomedical data.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:fa1944ef-f4a0-489d-85fb-8e2f673c3342",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "economics-finance-game-theory",
+    "label": "Economics, Finance, and Game Theory",
+    "definition": "Mathematical models of strategic interaction, markets, allocation, choice, pricing, and financial risk.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:2e58af24-2dcf-476c-94d4-7b6bb35a3ae1",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "earth-environment-space-sciences",
+    "label": "Earth, Environmental, and Space Sciences",
+    "definition": "Mathematical models and methods for geophysical, climatic, ecological, astronomical, and planetary systems.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  },
+  {
+    "id": "ola:n:35f2c3ac-3cb8-43a1-8257-816e76102c48",
+    "revision": 1,
+    "kind": "composite",
+    "subtype": "atlas-territory",
+    "assessable": false,
+    "slug": "operations-research-decision-science",
+    "label": "Operations Research and Decision Science",
+    "definition": "Mathematical formulation and analysis of decisions, allocation, scheduling, queues, networks, and system performance under constraints.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
+    ],
+    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+  }
+]

@@ -104,6 +104,8 @@ def check_source_refs(
     if not isinstance(refs, list):
         validation.error(f"{location}.source_ids", "must be an array")
         return
+    if not refs:
+        validation.error(f"{location}.source_ids", "must contain provenance")
     for ref in refs:
         if ref not in source_ids:
             validation.error(f"{location}.source_ids", f"unknown source ID: {ref!r}")
@@ -385,13 +387,47 @@ def validate_document(path: Path) -> Validation:
             validation.error(f"{location}.confidence", f"must be one of {sorted(CONFIDENCES)}")
         check_source_refs(validation, location, group, source_ids)
 
+    if path.parent.name == "releases":
+        roots = [
+            node["id"]
+            for node in nodes
+            if node.get("subtype") == "atlas-root" and isinstance(node.get("id"), str)
+        ]
+        if len(roots) != 1:
+            validation.error("nodes", "a release must contain exactly one atlas-root")
+        else:
+            adjacency: dict[str, set[str]] = defaultdict(set)
+            for edge in edges:
+                subject = edge.get("subject")
+                obj = edge.get("object")
+                if isinstance(subject, str) and isinstance(obj, str):
+                    adjacency[subject].add(obj)
+            reachable = {roots[0]}
+            pending = [roots[0]]
+            while pending:
+                subject = pending.pop()
+                for obj in adjacency.get(subject, set()):
+                    if obj not in reachable:
+                        reachable.add(obj)
+                        pending.append(obj)
+            unreachable = sorted(
+                node.get("slug", node.get("id", "<unknown>"))
+                for node in nodes
+                if node.get("status") != "deprecated" and node.get("id") not in reachable
+            )
+            if unreachable:
+                validation.error(
+                    "nodes",
+                    "release nodes unreachable from atlas-root: " + ", ".join(unreachable),
+                )
+
     return validation
 
 
 def default_paths() -> list[Path]:
     return sorted((ROOT / "map" / "examples").glob("*.json")) + sorted(
         (ROOT / "map" / "domains").glob("*.json")
-    )
+    ) + sorted((ROOT / "map" / "releases").glob("*.json"))
 
 
 def main(argv: list[str]) -> int:

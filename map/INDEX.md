@@ -13,8 +13,11 @@ learner paths.
 
 ## Mathematics
 
+- [`releases/mathematics-v0.1.0-alpha.json`](releases/mathematics-v0.1.0-alpha.json)
+  — current generated, connected mathematics snapshot. Its editable source is
+  [`../atlas/mathematics/`](../atlas/mathematics/).
 - [`domains/mathematics-macro-v0.1.json`](domains/mathematics-macro-v0.1.json)
-  — validated 99-node breadth-first atlas with 13 major regions, 85
+  — preserved initial 99-node breadth-first input with 13 major regions, 85
   second-level territories, and 15 explicitly shared territories.
 - [`domains/mathematics-topology.md`](domains/mathematics-topology.md) —
   human-readable guide to the macro atlas, its graph structure, and current
@@ -23,8 +26,8 @@ learner paths.
 ## Examples
 
 - [`examples/rational-proportional-v0.1.json`](examples/rational-proportional-v0.1.json)
-  — validated 18-node seed demonstrating concepts, representations, knowledge,
-  capabilities, a practice, a composite, typed claims, and an alternative-method
+  — preserved 18-node seed that first demonstrated concepts, representations,
+  knowledge, capabilities, a practice, typed claims, and an alternative-method
   requirement group.
 
 ## Validation
@@ -35,4 +38,6 @@ Run:
 tools/validate-map
 ```
 
-All example and domain JSON documents must pass before commit.
+All example, domain, and generated release JSON documents must pass before
+commit. `tools/build-atlas --check` must also confirm that a release is exactly
+reproducible from canonical authoring data.

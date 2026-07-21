@@ -1,0 +1,445 @@
+[
+  {
+    "id": "ola:n:d28b7537-d900-4d9d-a5a5-1466587ade9e",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "subtype": "mathematical-object",
+    "slug": "rational-number",
+    "label": "Rational number",
+    "definition": "A number expressible as a quotient a/b of integers where b is nonzero.",
+    "domains": [
+      "mathematics.number.rational"
+    ],
+    "scope": {
+      "excludes": [
+        "Irrational numbers"
+      ]
+    },
+    "status": "candidate",
+    "confidence": "high",
+    "source_ids": [
+      "ola:s:f23dcc20-7d37-49b5-9f6b-ef612acbf4e3"
+    ]
+  },
+  {
+    "id": "ola:n:2a6047a2-c36d-4d7c-a5d6-3a6d0adc991c",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "subtype": "relation",
+    "slug": "ratio",
+    "label": "Ratio",
+    "definition": "A multiplicative relationship between two quantities, with order and units interpreted from context.",
+    "domains": [
+      "mathematics.proportionality"
+    ],
+    "scope": {
+      "excludes": [
+        "Treating every ordered pair as a ratio",
+        "Additive difference by itself"
+      ]
+    },
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f23dcc20-7d37-49b5-9f6b-ef612acbf4e3"
+    ]
+  },
+  {
+    "id": "ola:n:d8caa2ef-2ebc-49e9-8534-bbce707fd856",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "subtype": "relation",
+    "slug": "proportional-relationship",
+    "label": "Proportional relationship",
+    "definition": "A relationship between two quantities expressible as y = kx over a stated domain for a constant k.",
+    "domains": [
+      "mathematics.proportionality",
+      "mathematics.functions"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f23dcc20-7d37-49b5-9f6b-ef612acbf4e3"
+    ]
+  },
+  {
+    "id": "ola:n:305a66a3-9e56-4b82-8530-1e0dc46a4a09",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "subtype": "notation",
+    "slug": "fraction-notation",
+    "label": "Fraction notation",
+    "definition": "The written form a/b. Context determines whether it expresses a number, quotient, ratio, rate, operator, or another related meaning.",
+    "domains": [
+      "mathematics.number.rational",
+      "mathematics.proportionality"
+    ],
+    "status": "candidate",
+    "confidence": "high",
+    "source_ids": [
+      "ola:s:f23dcc20-7d37-49b5-9f6b-ef612acbf4e3"
+    ]
+  },
+  {
+    "id": "ola:n:daea78b3-eff0-4883-bf76-628690669692",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "subtype": "table",
+    "slug": "paired-quantity-table",
+    "label": "Paired-quantity table",
+    "definition": "A table aligning values of two varying quantities. It may represent either a proportional or non-proportional relationship.",
+    "domains": [
+      "mathematics.proportionality",
+      "mathematics.functions",
+      "mathematics.data"
+    ],
+    "status": "candidate",
+    "confidence": "high",
+    "source_ids": [
+      "ola:s:f23dcc20-7d37-49b5-9f6b-ef612acbf4e3"
+    ]
+  },
+  {
+    "id": "ola:n:7218786d-06d5-458f-aa37-ca911d8d003e",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "subtype": "spatial-model",
+    "slug": "number-line",
+    "label": "Number line",
+    "definition": "A spatial representation in which positions on an oriented line correspond to numbers and their order and distance relationships.",
+    "domains": [
+      "mathematics.number",
+      "mathematics.geometry"
+    ],
+    "status": "candidate",
+    "confidence": "high",
+    "source_ids": [
+      "ola:s:f23dcc20-7d37-49b5-9f6b-ef612acbf4e3"
+    ]
+  },
+  {
+    "id": "ola:n:28e3bb5f-f028-4654-b48e-9e4ede18a9a6",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "subtype": "property",
+    "slug": "fraction-equivalence-invariance",
+    "label": "Fraction equivalence invariance",
+    "definition": "Multiplying or dividing a fraction's numerator and denominator by the same nonzero number preserves the represented rational number.",
+    "domains": [
+      "mathematics.number.rational"
+    ],
+    "status": "candidate",
+    "confidence": "high",
+    "source_ids": [
+      "ola:s:f23dcc20-7d37-49b5-9f6b-ef612acbf4e3"
+    ]
+  },
+  {
+    "id": "ola:n:504bd765-46a9-4d23-8a71-9236683aea84",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "subtype": "interpret",
+    "slug": "interpret-fraction-notation",
+    "label": "Interpret fraction notation",
+    "definition": "Interpret what a fraction-form expression denotes in a stated context without assuming that the notation has only one meaning.",
+    "capability_statement": "Given a/b in a bounded context, identify the represented quantity and explain its meaning as a quotient, magnitude, equal-part relationship, ratio, or rate as appropriate.",
+    "domains": [
+      "mathematics.number.rational",
+      "mathematics.proportionality"
+    ],
+    "scope": {
+      "excludes": [
+        "Operating on fractions as a separate procedure"
+      ]
+    },
+    "evidence_dimensions": [
+      "accuracy",
+      "independence",
+      "explanation",
+      "variation"
+    ],
+    "dependency_review": "partial",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f23dcc20-7d37-49b5-9f6b-ef612acbf4e3"
+    ]
+  },
+  {
+    "id": "ola:n:a070f052-40ff-4be4-810a-b9a8b47a38b9",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "subtype": "execute",
+    "slug": "compute-quotient",
+    "label": "Compute a quotient",
+    "definition": "Determine the result of division for a bounded class of numerical quantities while respecting stated precision and units.",
+    "capability_statement": "Given two numerical quantities and a nonzero divisor, determine their quotient to the precision appropriate to the stated task, preserving or deriving units when relevant.",
+    "domains": [
+      "mathematics.arithmetic",
+      "mathematics.measurement"
+    ],
+    "scope": {
+      "excludes": [
+        "Selecting division as the appropriate model"
+      ]
+    },
+    "evidence_dimensions": [
+      "accuracy",
+      "independence",
+      "variation"
+    ],
+    "dependency_review": "unreviewed",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f23dcc20-7d37-49b5-9f6b-ef612acbf4e3"
+    ]
+  },
+  {
+    "id": "ola:n:a0c1ba69-bcbb-464a-8c41-a35df1386359",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "subtype": "represent",
+    "slug": "locate-rational-on-number-line",
+    "label": "Locate a rational number on a number line",
+    "definition": "Place a point at the magnitude represented by a rational number on a suitably scaled number line.",
+    "capability_statement": "Given a rational number and a suitably partitioned number line, locate the corresponding point and explain how the scale determines its position.",
+    "domains": [
+      "mathematics.number.rational",
+      "mathematics.geometry"
+    ],
+    "evidence_dimensions": [
+      "accuracy",
+      "independence",
+      "representation",
+      "explanation",
+      "variation"
+    ],
+    "dependency_review": "partial",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f23dcc20-7d37-49b5-9f6b-ef612acbf4e3"
+    ]
+  },
+  {
+    "id": "ola:n:47ea4cdf-bd9a-4617-b68b-ffdf0436d4e1",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "subtype": "compare-and-justify",
+    "slug": "compare-nonnegative-rational-magnitudes",
+    "label": "Compare nonnegative rational magnitudes",
+    "definition": "Determine the order of two nonnegative rational numbers and justify the comparison using an admissible method.",
+    "capability_statement": "Given two nonnegative rational numbers in specified representations, determine their order and justify the conclusion using a benchmark, common representation, or magnitude model.",
+    "domains": [
+      "mathematics.number.rational"
+    ],
+    "evidence_dimensions": [
+      "accuracy",
+      "independence",
+      "representation",
+      "justification",
+      "variation"
+    ],
+    "dependency_review": "partial",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f23dcc20-7d37-49b5-9f6b-ef612acbf4e3"
+    ]
+  },
+  {
+    "id": "ola:n:588e1faf-e01b-436a-8426-75a3fe014d18",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "subtype": "interpret",
+    "slug": "interpret-ratio",
+    "label": "Interpret a ratio",
+    "definition": "State the multiplicative comparison or composed measure represented by a ratio, including the meaning of order and units.",
+    "capability_statement": "Given two quantities in context, state and explain the multiplicative comparison or composed measure expressed by their ratio, including the meaning of its order and units.",
+    "domains": [
+      "mathematics.proportionality"
+    ],
+    "evidence_dimensions": [
+      "accuracy",
+      "independence",
+      "explanation",
+      "variation",
+      "transfer"
+    ],
+    "dependency_review": "partial",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f23dcc20-7d37-49b5-9f6b-ef612acbf4e3"
+    ]
+  },
+  {
+    "id": "ola:n:4f6e553a-26c7-46a8-86e3-c3527f3fcb61",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "subtype": "construct-and-justify",
+    "slug": "construct-equivalent-ratio",
+    "label": "Construct an equivalent ratio",
+    "definition": "Produce another ratio that preserves the same multiplicative relationship and justify the equivalence.",
+    "capability_statement": "Given a ratio, construct another ratio expressing the same multiplicative relationship and justify why the relationship is preserved.",
+    "domains": [
+      "mathematics.proportionality"
+    ],
+    "evidence_dimensions": [
+      "accuracy",
+      "independence",
+      "explanation",
+      "justification",
+      "variation"
+    ],
+    "dependency_review": "partial",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f23dcc20-7d37-49b5-9f6b-ef612acbf4e3"
+    ]
+  },
+  {
+    "id": "ola:n:80dd02b4-f9af-416e-b6d0-9f2aa771f509",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "subtype": "calculate-and-interpret",
+    "slug": "determine-unit-rate",
+    "label": "Determine a unit rate",
+    "definition": "Determine and interpret the amount of one quantity corresponding to one unit of another quantity.",
+    "capability_statement": "Given a numerical ratio with a nonzero second quantity, determine and interpret the amount corresponding to one unit of that quantity, including appropriate units.",
+    "domains": [
+      "mathematics.proportionality",
+      "mathematics.measurement"
+    ],
+    "evidence_dimensions": [
+      "accuracy",
+      "independence",
+      "explanation",
+      "variation",
+      "transfer"
+    ],
+    "dependency_review": "partial",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f23dcc20-7d37-49b5-9f6b-ef612acbf4e3"
+    ]
+  },
+  {
+    "id": "ola:n:f4c1632f-8a30-4f73-88da-c3252eff7726",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "subtype": "classify-and-justify",
+    "slug": "identify-proportional-relationship",
+    "label": "Identify a proportional relationship",
+    "definition": "Determine whether two varying quantities exhibit a proportional relationship over a stated dataset or domain.",
+    "capability_statement": "Given information about two varying quantities, determine whether a proportional relationship holds over the stated data or domain and justify the determination.",
+    "domains": [
+      "mathematics.proportionality",
+      "mathematics.functions"
+    ],
+    "evidence_dimensions": [
+      "accuracy",
+      "independence",
+      "representation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "partial",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f23dcc20-7d37-49b5-9f6b-ef612acbf4e3"
+    ]
+  },
+  {
+    "id": "ola:n:0a9060ad-8834-4e50-8b94-44a52bddd0e8",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "subtype": "solve-and-justify",
+    "slug": "determine-missing-proportional-value",
+    "label": "Determine a missing proportional value",
+    "definition": "Find an unknown corresponding value in a proportional relationship using a valid method and state the reasoning.",
+    "capability_statement": "Given a proportional relationship and sufficient known values, determine an unknown corresponding value and state the reasoning used.",
+    "domains": [
+      "mathematics.proportionality"
+    ],
+    "evidence_dimensions": [
+      "accuracy",
+      "independence",
+      "explanation",
+      "variation",
+      "transfer"
+    ],
+    "dependency_review": "partial",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f23dcc20-7d37-49b5-9f6b-ef612acbf4e3"
+    ]
+  },
+  {
+    "id": "ola:n:fb2bc0b7-1f80-4d83-9663-a43a33794547",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "subtype": "justify",
+    "slug": "justify-multiplicative-reasoning",
+    "label": "Justify multiplicative reasoning",
+    "definition": "Support a multiplicative conclusion by selecting relevant quantities, representations, definitions, or invariants and explaining why the conclusion follows; calculation alone is insufficient.",
+    "capability_statement": "Given a multiplicative conclusion, select relevant quantities, representations, definitions, or invariants and explain why the conclusion follows rather than presenting calculation alone.",
+    "domains": [
+      "mathematics.practice",
+      "mathematics.proportionality"
+    ],
+    "evidence_dimensions": [
+      "independence",
+      "justification",
+      "variation",
+      "transfer"
+    ],
+    "dependency_review": "unreviewed",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f23dcc20-7d37-49b5-9f6b-ef612acbf4e3"
+    ]
+  },
+  {
+    "id": "ola:n:01763879-09da-4b19-b9be-b8cd54e3e0ab",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "subtype": "map-region",
+    "slug": "proportional-reasoning",
+    "label": "Proportional reasoning",
+    "definition": "A navigation-level grouping for interpreting ratios, recognizing proportionality, determining values, and justifying multiplicative conclusions. Membership does not by itself define mastery or sequence.",
+    "domains": [
+      "mathematics.proportionality"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f23dcc20-7d37-49b5-9f6b-ef612acbf4e3"
+    ]
+  }
+]

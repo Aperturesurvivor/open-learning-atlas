@@ -9,7 +9,7 @@ courses, projects, lessons, scores, or mastery algorithms.
 
 ## Canonical Artifact
 
-The canonical artifact is a versioned graph document:
+The logical canonical artifact is a versioned graph document:
 
 ```text
 map release
@@ -19,6 +19,12 @@ map release
 ├── typed edge claims
 └── conditional requirement groups
 ```
+
+For maintainable review, the editable source of truth is split into category
+arrays under [`atlas/mathematics/`](../atlas/mathematics/). The deterministic
+compiler at [`tools/build-atlas`](../tools/build-atlas) rejects conflicting IDs
+or slugs, sorts records, and generates the complete release document. Generated
+files under `map/releases/` must never be edited directly.
 
 The initial interchange format is JSON validated by
 [`map/schema/open-learning-atlas.schema.json`](../map/schema/open-learning-atlas.schema.json)
@@ -185,7 +191,8 @@ The validator currently enforces:
 
 Future validation should add immutable-revision checking across releases,
 schema-level migration checks, duplicate-candidate detection, and conditional
-cycle analysis.
+cycle analysis. Generated releases already require one atlas root, nonempty
+record provenance, and directed reachability from that root.
 
 ## Release Shape
 

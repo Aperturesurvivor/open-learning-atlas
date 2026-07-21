@@ -19,10 +19,13 @@ model, assessment product, or tutoring application.
 
 ## Current Canonical Artifacts
 
+- [`atlas/mathematics/`](atlas/mathematics/) — modular editable source of truth.
+- [`map/releases/mathematics-v0.1.0-alpha.json`](map/releases/mathematics-v0.1.0-alpha.json)
+  — generated connected snapshot with 117 nodes, 155 edge claims, and one
+  alternative-method requirement group.
 - [`map/domains/mathematics-macro-v0.1.json`](map/domains/mathematics-macro-v0.1.json)
-  — 99 nodes and 115 navigational composition claims.
-- [`map/examples/rational-proportional-v0.1.json`](map/examples/rational-proportional-v0.1.json)
-  — 18 typed nodes, 25 edge claims, and one alternative-method requirement group.
+  and [`map/examples/rational-proportional-v0.1.json`](map/examples/rational-proportional-v0.1.json)
+  — preserved historical inputs, not the editable source of truth.
 - [`map/domains/mathematics-topology.md`](map/domains/mathematics-topology.md)
   — human-readable macro view.
 - [`docs/v1-completion-contract.md`](docs/v1-completion-contract.md) — the
@@ -56,18 +59,22 @@ taxonomy positions must never be encoded in IDs.
 
 ## Machine Use
 
-Do not scrape the future visual site. Consume a pinned JSON release or the
-canonical JSON documents directly. Preserve IDs and revisions when caching.
+Do not scrape the future visual site. Consume a pinned generated JSON release
+directly. Preserve IDs and revisions when caching.
 Filter by record status and confidence explicitly; never silently treat
 `candidate` as `accepted`.
 
+To change data, edit a focused array under `atlas/mathematics/`, run
+`tools/build-atlas`, then run `tools/build-atlas --check` and
+`tools/validate-map`. Never hand-edit `map/releases/`.
+
 ## Current Development State
 
-The v0.1 constitution is ratified and the macro atlas validates. Most
-mathematical terrain is still represented only by broad composites. The main
-work toward v1 is consistent decomposition into concepts, representations,
-knowledge, practices, and bounded observable capabilities across every region,
-followed by a generated mobile viewer and versioned public releases.
+The v0.1 constitution is ratified and the connected alpha release validates.
+Most mathematical terrain is still represented only by broad composites. The
+main work toward v1 is consistent decomposition into concepts,
+representations, knowledge, practices, and bounded observable capabilities
+across every region, followed by a mobile viewer and complete release package.
 
 ## Licensing
 

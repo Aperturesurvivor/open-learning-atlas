@@ -12,16 +12,18 @@ jobs:
   map:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
       - name: Install JSON Schema validator
         run: python -m pip install --disable-pip-version-check check-jsonschema
       - name: Run semantic validation
         run: tools/validate-map
+      - name: Verify reproducible atlas release
+        run: tools/build-atlas --check
       - name: Run JSON Schema validation
         run: >-
           check-jsonschema
           --schemafile map/schema/open-learning-atlas.schema.json
-          map/domains/*.json map/examples/*.json
+          map/domains/*.json map/examples/*.json map/releases/*.json

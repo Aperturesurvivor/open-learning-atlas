@@ -1,0 +1,15 @@
+{
+  "format_version": "0.1",
+  "map": {
+    "id": "ola:m:71a7897f-806f-40fa-a88d-051a92562907",
+    "slug": "mathematics",
+    "title": "Open Learning Atlas: Mathematics",
+    "description": "A grade-, course-, curriculum-, and provider-independent map of mathematical knowledge and observable capability.",
+    "domain": "mathematics",
+    "version": "0.1.0-alpha",
+    "status": "candidate",
+    "license": "CC-BY-4.0",
+    "language": "en",
+    "last_updated": "2026-07-21"
+  }
+}

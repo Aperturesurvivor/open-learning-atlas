@@ -9,7 +9,9 @@ capability, beginning with mathematics.
 2. Read `methodology/map-constitution.md` before changing map semantics.
 3. Read `architecture/map-data-model.md` before creating records.
 4. Open the relevant index and source notes only.
-5. Run `tools/validate-map` after changing machine-readable map data.
+5. Edit canonical fragments under `atlas/mathematics/`, never generated releases.
+6. Run `tools/build-atlas`, `tools/build-atlas --check`, and
+   `tools/validate-map` after changing machine-readable map data.
 
 ## Map Rules
 
