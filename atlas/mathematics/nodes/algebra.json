@@ -1,0 +1,2263 @@
+[
+  {
+    "id": "ola:n:76b12621-fdab-4107-b46c-9014f7dc67b1",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "symbolic-equivalence",
+    "label": "Symbolic equivalence",
+    "definition": "Two expressions or statements having the same value or truth set on a declared domain and under declared interpretation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:6565bab6-70d1-45f4-9e77-0f949e578bcd",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "algebraic-identity",
+    "label": "Algebraic identity",
+    "definition": "An equality valid for every assignment in its stated domain, distinguished from an equation true only for selected values.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:2fdbc43f-8176-4839-9931-de5c7c1bcec1",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "equivalence-preserving-transformation",
+    "label": "Equivalence-preserving transformation",
+    "definition": "A symbolic step preserves equivalence only under its domain, reversibility, and operation conditions; some steps preserve implication in one direction only.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:81bdeebd-182b-47d4-96f1-39d6a368b547",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "symbolic-transformation-chain",
+    "label": "Symbolic transformation chain",
+    "definition": "A sequence of expressions or statements linked by equality, equivalence, implication, or annotated rewrite reasons.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:4fe8f246-b36a-4a47-a06d-2a4574c90e87",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "interpret-equivalence-family",
+    "label": "Interpret symbolic equivalence",
+    "definition": "A capability family within equivalence-symbolic-transformation grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:dc21a897-0cad-49df-88e2-69bee009aa7c",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "distinguish-expression-equation-identity",
+    "label": "Distinguish expression, equation, and identity",
+    "definition": "Given symbolic objects, classify their roles and state whether equality is asserted universally, conditionally, or for unknown solutions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given symbolic objects, classify their roles and state whether equality is asserted universally, conditionally, or for unknown solutions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:bdaf743e-621c-41b5-9192-ffcca9b17890",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "determine-domain-of-symbolic-form",
+    "label": "Determine a symbolic form's domain",
+    "definition": "Given a symbolic expression or transformation, identify restrictions arising from denominators, radicals, logarithms, inverse operations, or declared object types.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a symbolic expression or transformation, identify restrictions arising from denominators, radicals, logarithms, inverse operations, or declared object types.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:546a57e5-cec1-461d-a32e-3f1bda3bb25e",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "transform-equivalent-forms-family",
+    "label": "Transform equivalent forms",
+    "definition": "A capability family within equivalence-symbolic-transformation grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:71a52196-36e2-4222-881c-35810499b1b0",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "produce-equivalent-symbolic-form",
+    "label": "Produce an equivalent symbolic form",
+    "definition": "Given an expression and a requested purpose, apply valid rewrites to produce an equivalent form on the stated domain and annotate material steps.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given an expression and a requested purpose, apply valid rewrites to produce an equivalent form on the stated domain and annotate material steps.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:f1a8937a-ff53-4e03-81fc-1ee7358e6427",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "verify-symbolic-transformation",
+    "label": "Verify a symbolic transformation",
+    "definition": "Given two forms and a proposed rewrite chain, check value or solution-set preservation at each step and identify any required conditions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given two forms and a proposed rewrite chain, check value or solution-set preservation at each step and identify any required conditions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:be13cd84-f7ca-4dab-9c80-550ace002642",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "audit-symbolic-reasoning-family",
+    "label": "Audit symbolic reasoning",
+    "definition": "A capability family within equivalence-symbolic-transformation grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:d3a0b649-e736-4f70-beed-dd5dfb64ebda",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "detect-extraneous-or-lost-solutions",
+    "label": "Detect extraneous or lost solutions",
+    "definition": "Given a solved equation or inequality, compare candidate results with the original statement and explain how nonreversible steps may have added or removed solutions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a solved equation or inequality, compare candidate results with the original statement and explain how nonreversible steps may have added or removed solutions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:53620b5f-bc29-4c32-8eee-a53ec64c576e",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "refute-false-symbolic-identity",
+    "label": "Refute a false symbolic identity",
+    "definition": "Given a proposed universal identity that is false, produce an admissible counterexample and verify that both sides differ.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a proposed universal identity that is false, produce an admissible counterexample and verify that both sides differ.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:74161f05-1a35-425c-aa0c-991b9aadf215",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "mathematical-variable",
+    "label": "Mathematical variable",
+    "definition": "A symbol whose role may be unknown, varying input, parameter, bound placeholder, or generalized number within a declared scope.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:9ce71ba9-f5ac-4b19-b5b0-96951bbdbf63",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "algebraic-expression",
+    "label": "Algebraic expression",
+    "definition": "A well-formed combination of variables, constants, operations, and functions denoting a value when its variables are assigned admissibly.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:3c899306-56bc-4e4e-95cc-44d88fcffc01",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "substitution-and-expression-structure",
+    "label": "Substitution and expression structure",
+    "definition": "Substitution respects variable scope, grouping, and operation structure; structurally different expressions may define the same function on a domain.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:3e2f46aa-bcef-460b-8812-140b87460ea4",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "expression-tree-table-rule",
+    "label": "Expression tree, table, and rule",
+    "definition": "Tree, tabular, verbal, or symbolic representations exposing an expression's operations, inputs, outputs, or repeated structure.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:a83fea9b-03a6-416d-af6e-85644353e8da",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "interpret-evaluate-expressions-family",
+    "label": "Interpret and evaluate expressions",
+    "definition": "A capability family within variables-expressions grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:b829b2e3-cc50-4d6d-b8d6-8c79b9e0aca4",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "interpret-variable-role",
+    "label": "Interpret a variable's role",
+    "definition": "Given a bounded mathematical statement or model, identify each variable's role, domain, dependencies, and whether it is free, bound, fixed, or varying.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a bounded mathematical statement or model, identify each variable's role, domain, dependencies, and whether it is free, bound, fixed, or varying.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:b2cf9f89-5f01-49d0-ad1c-94a2a6c6ce19",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "evaluate-expression-by-substitution",
+    "label": "Evaluate an expression by substitution",
+    "definition": "Given a well-formed expression and admissible variable values, substitute with correct grouping and compute the resulting value or report undefined cases.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a well-formed expression and admissible variable values, substitute with correct grouping and compute the resulting value or report undefined cases.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:8935e919-7cac-4814-913e-c74bceca3289",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "construct-transform-expressions-family",
+    "label": "Construct and transform expressions",
+    "definition": "A capability family within variables-expressions grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:d54e468d-fca5-4414-b5f1-59f98ac543fd",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "translate-relation-to-expression",
+    "label": "Translate a relation into an expression",
+    "definition": "Given a verbal, tabular, geometric, or computational rule, construct a symbolic expression with declared variables and verify it on representative inputs.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a verbal, tabular, geometric, or computational rule, construct a symbolic expression with declared variables and verify it on representative inputs.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:0499af28-1bb5-41a7-b91e-8d95ff03bb2c",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compose-bounded-expressions",
+    "label": "Compose bounded expressions",
+    "definition": "Given compatible expressions or functions, substitute one into another while preserving variable scope and state the resulting domain restrictions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given compatible expressions or functions, substitute one into another while preserving variable scope and state the resulting domain restrictions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:31418f0d-96d2-402c-b07c-1f0e6380801d",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "analyze-expression-structure-family",
+    "label": "Analyze expression structure",
+    "definition": "A capability family within variables-expressions grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:2faaeb7b-ff8b-4a6c-9619-39db6401f551",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "identify-expression-substructure",
+    "label": "Identify expression substructure",
+    "definition": "Given a symbolic expression, identify its outer operation, constituent subexpressions, repeated patterns, and parameter-dependent parts without relying only on calculation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a symbolic expression, identify its outer operation, constituent subexpressions, repeated patterns, and parameter-dependent parts without relying only on calculation.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:773a02b0-afe1-4161-909d-412bde327901",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compare-expression-definitions",
+    "label": "Compare expression definitions",
+    "definition": "Given two expressions with stated domains, determine whether they agree everywhere, on a subset, or not at all, and justify with transformation or counterexample.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given two expressions with stated domains, determine whether they agree everywhere, on a subset, or not at all, and justify with transformation or counterexample.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:f4d77aa0-4d6f-4ab3-9cf8-1067f6f88d06",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "solution-set",
+    "label": "Solution set",
+    "definition": "The assignments in a declared domain that make an equation, inequality, or system true.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:ae8c60ba-71ee-4245-b1e1-d53cfe4e3208",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "simultaneous-constraint",
+    "label": "Simultaneous constraint",
+    "definition": "A collection of conditions required to hold together for the same assignment of variables.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:dab40c4a-592a-4b8b-8ff1-55d140843ecb",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "solution-set-preservation",
+    "label": "Solution-set preservation",
+    "definition": "Valid solving steps must preserve, deliberately narrow, or deliberately enlarge the solution set in a tracked way; inequalities additionally depend on order effects.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:a681d401-75a2-41df-84c8-6f32d9013164",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "equation-graph-solution-region",
+    "label": "Equation graph and solution region",
+    "definition": "Symbolic, graphical, tabular, or geometric representations of equalities, inequalities, intersections, and feasible sets.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:37da4e40-66ba-4365-91e5-9aa29f9f03fa",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "solve-single-constraints-family",
+    "label": "Solve single equations and inequalities",
+    "definition": "A capability family within equations-inequalities-systems grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:f3326240-385a-4365-8b23-04c48a563382",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "solve-bounded-equation",
+    "label": "Solve a bounded equation",
+    "definition": "Given an equation over a declared domain and method class, determine its solution set, retain domain restrictions, and verify solutions in the original equation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given an equation over a declared domain and method class, determine its solution set, retain domain restrictions, and verify solutions in the original equation.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:06e2626c-6139-4dad-b3e9-e500ffd959f5",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "solve-bounded-inequality",
+    "label": "Solve a bounded inequality",
+    "definition": "Given an inequality over an ordered domain, determine and represent its solution set while tracking transformations that reverse or otherwise alter order.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given an inequality over an ordered domain, determine and represent its solution set while tracking transformations that reverse or otherwise alter order.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:9e083d68-ee67-4d6e-90c2-0a103e50691a",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "solve-systems-family",
+    "label": "Solve simultaneous systems",
+    "definition": "A capability family within equations-inequalities-systems grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:c4417d9b-b26d-4f56-b198-29a096b751a9",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "solve-bounded-equation-system",
+    "label": "Solve a bounded equation system",
+    "definition": "Given a finite system of equations in a declared domain, determine all common solutions using an admissible symbolic, graphical, or numerical method and verify them.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a finite system of equations in a declared domain, determine all common solutions using an admissible symbolic, graphical, or numerical method and verify them.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:4469e0bf-3dda-418e-a5dd-2a182f5ff8c4",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "analyze-feasible-region",
+    "label": "Analyze a feasible region",
+    "definition": "Given finitely many compatible inequalities or constraints, construct or interpret their intersection and determine whether specified points or extrema are feasible.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given finitely many compatible inequalities or constraints, construct or interpret their intersection and determine whether specified points or extrema are feasible.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:37da6ef3-2dd8-4efa-be36-d205484d88b0",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "model-audit-solutions-family",
+    "label": "Model and audit solution sets",
+    "definition": "A capability family within equations-inequalities-systems grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:066281f0-3b64-4e3e-be1a-9f71845cee6a",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-equation-constraint-model",
+    "label": "Construct an equation or constraint model",
+    "definition": "Given a bounded relation or condition, define variables and construct equations or inequalities whose solution set corresponds to the stated possibilities, including units and exclusions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a bounded relation or condition, define variables and construct equations or inequalities whose solution set corresponds to the stated possibilities, including units and exclusions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:b2be2e05-a597-43ce-af6e-30acaeb410a6",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "audit-proposed-solution-set",
+    "label": "Audit a proposed solution set",
+    "definition": "Given a constraint problem and a proposed solution set, test completeness and validity against original conditions and identify extraneous, missing, or boundary cases.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a constraint problem and a proposed solution set, test completeness and validity against original conditions and identify extraneous, missing, or boundary cases.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:e58acee4-2b55-4b95-b0cf-5626a1cbe944",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "polynomial",
+    "label": "Polynomial",
+    "definition": "A finite sum of coefficient–monomial terms over a declared coefficient system, with nonnegative integer exponents in its indeterminates.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:5ba1f7ad-2e17-4254-80fd-c7483bcbff37",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "polynomial-root-factor",
+    "label": "Polynomial root and factor",
+    "definition": "A value where a polynomial evaluates to zero and a corresponding linear factor when the coefficient setting supports the factor theorem.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:88333f65-ccff-4cd0-a45e-31890b6dfa42",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "polynomial-division-factor-theorem",
+    "label": "Polynomial division and factor theorem",
+    "definition": "Division by a nonzero polynomial yields quotient and lower-degree remainder, and evaluation at a value is linked to the remainder on division by the corresponding linear factor.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:c556ad1c-454a-4b0a-8fc0-2e53e9d2de9e",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "polynomial-coefficient-factor-graph",
+    "label": "Polynomial coefficient, factor, and graph forms",
+    "definition": "Expanded, factored, tabular, and graphical representations exposing different polynomial structure.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:b9da1d6f-4b9d-45f8-a01f-24f09d290706",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "operate-transform-polynomials-family",
+    "label": "Operate on and transform polynomials",
+    "definition": "A capability family within polynomial-algebra grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:6bbe02a9-466c-4024-bd55-24450dd96fbb",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compute-polynomial-operations",
+    "label": "Compute polynomial operations",
+    "definition": "Given finite polynomials over a declared coefficient system, add, subtract, multiply, compose, or divide where specified and verify degree and leading-term behavior.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given finite polynomials over a declared coefficient system, add, subtract, multiply, compose, or divide where specified and verify degree and leading-term behavior.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:36aaaab3-41fb-42ff-8f40-e5efb163716e",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "factor-polynomial-in-scope",
+    "label": "Factor a polynomial in scope",
+    "definition": "Given a polynomial and declared coefficient domain or admissible methods, produce a factorization, state irreducible remainder factors, and verify by multiplication.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a polynomial and declared coefficient domain or admissible methods, produce a factorization, state irreducible remainder factors, and verify by multiplication.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:344759cc-45fe-4989-926c-6145aa802efa",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "analyze-roots-graphs-family",
+    "label": "Analyze polynomial roots and graphs",
+    "definition": "A capability family within polynomial-algebra grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:dc6cf92b-1bb7-4c89-9cdc-462b62844d0f",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "determine-polynomial-roots",
+    "label": "Determine polynomial roots",
+    "definition": "Given a polynomial at a declared degree and coefficient domain, determine requested roots with multiplicity and verify using evaluation or factorization.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a polynomial at a declared degree and coefficient domain, determine requested roots with multiplicity and verify using evaluation or factorization.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:1acd3a0c-f24e-41dd-a272-86176289a53e",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "analyze-polynomial-graph-structure",
+    "label": "Analyze polynomial graph structure",
+    "definition": "Given a polynomial in symbolic or graphical form, determine intercepts, multiplicity behavior, end behavior, and other requested features supported by the representation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a polynomial in symbolic or graphical form, determine intercepts, multiplicity behavior, end behavior, and other requested features supported by the representation.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:3471b6dd-aea7-408b-9178-601294b3d73f",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "justify-polynomial-claims-family",
+    "label": "Justify polynomial claims",
+    "definition": "A capability family within polynomial-algebra grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:50bb9eb1-fb18-43f1-843d-a08c2012d1dd",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "apply-polynomial-remainder-relation",
+    "label": "Apply the polynomial remainder relation",
+    "definition": "Given a polynomial and a linear divisor, determine or use the remainder and explain its connection to evaluation at the associated value.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a polynomial and a linear divisor, determine or use the remainder and explain its connection to evaluation at the associated value.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:d824c1ef-52bc-4482-9672-e3bce07f8b25",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "prove-bounded-polynomial-identity",
+    "label": "Prove a bounded polynomial identity",
+    "definition": "Given a proposed polynomial identity over a declared coefficient domain, prove it by coefficient, structural, or root-based reasoning, or refute it with a valid assignment.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a proposed polynomial identity over a declared coefficient domain, prove it by coefficient, structural, or root-based reasoning, or refute it with a valid assignment.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:e8eb0435-2844-4101-8628-2a00aab9c3eb",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "exponential-function",
+    "label": "Exponential function",
+    "definition": "A function in which a positive base not equal to one is raised to a varying exponent, together with compatible extensions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:a47dcb9c-7b47-41bb-b8c7-7b7148441dc7",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "logarithmic-function",
+    "label": "Logarithmic function",
+    "definition": "The inverse of an exponential function for a fixed admissible base, defined on positive inputs.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:f93bc2d7-f196-45b3-8f43-ee1322ce8b2d",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "exponent-logarithm-laws",
+    "label": "Exponent and logarithm laws",
+    "definition": "Exponent combination rules and their inverse logarithm rules hold under declared base and domain conditions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:f9a94404-ad37-4fc5-bfc0-771355360cf4",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "exponential-logarithmic-graph-scale",
+    "label": "Exponential, logarithmic, and transformed-scale graph",
+    "definition": "Linear, logarithmic, or semilog representations exposing multiplicative growth, decay, inversion, and scale.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:6e0d6606-baf7-4a29-bde0-84bf48e8e873",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "evaluate-transform-exponential-log-family",
+    "label": "Evaluate and transform exponential and logarithmic forms",
+    "definition": "A capability family within exponential-logarithmic-structure grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:ae73d2a3-7a48-4721-acee-4149bcfe3e1e",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "evaluate-exponential-logarithmic-expression",
+    "label": "Evaluate an exponential or logarithmic expression",
+    "definition": "Given an admissible exact or approximate expression, determine its value using definitions, inverse relations, or a declared computational tool and state domain restrictions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given an admissible exact or approximate expression, determine its value using definitions, inverse relations, or a declared computational tool and state domain restrictions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:b179606c-47e1-4256-a222-2b1aa74fb975",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "transform-exponential-logarithmic-form",
+    "label": "Transform exponential or logarithmic form",
+    "definition": "Given an equation or expression, apply valid exponent or logarithm laws to produce a requested equivalent form without extending beyond the valid domain.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given an equation or expression, apply valid exponent or logarithm laws to produce a requested equivalent form without extending beyond the valid domain.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:df0cf276-63a7-4db8-b8c9-979a21f045f1",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "solve-model-growth-family",
+    "label": "Solve and model multiplicative change",
+    "definition": "A capability family within exponential-logarithmic-structure grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:6dce82db-7fff-44c5-8078-d5d64b3c7979",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "solve-exponential-logarithmic-equation",
+    "label": "Solve an exponential or logarithmic equation",
+    "definition": "Given an equation in scope, determine all domain-valid solutions using inverse relations or justified numerical approximation and verify in the original equation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given an equation in scope, determine all domain-valid solutions using inverse relations or justified numerical approximation and verify in the original equation.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:5b29688e-afe7-4bcb-8df9-fa14b82e4fbb",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-exponential-growth-decay-model",
+    "label": "Construct an exponential growth or decay model",
+    "definition": "Given a process with a defensible constant multiplicative rate over equal intervals, determine model parameters, units, and domain, then interpret predictions and limitations.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a process with a defensible constant multiplicative rate over equal intervals, determine model parameters, units, and domain, then interpret predictions and limitations.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:1284c24e-fbb8-4b4a-90d7-699838ca6e08",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "analyze-justify-exponential-family",
+    "label": "Analyze and justify exponential structure",
+    "definition": "A capability family within exponential-logarithmic-structure grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:e81c4c61-aeb6-4caf-9aef-5b7d12d2d58e",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compare-multiplicative-growth-rates",
+    "label": "Compare multiplicative growth rates",
+    "definition": "Given exponential, polynomial, or logarithmic models on a declared domain, compare their growth or decay using ratios, transformations, graphs, or asymptotic reasoning appropriate to scope.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given exponential, polynomial, or logarithmic models on a declared domain, compare their growth or decay using ratios, transformations, graphs, or asymptotic reasoning appropriate to scope.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:06e9e3b0-b419-4e36-9b0e-c9d8cd96506a",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "audit-logarithmic-domain-reasoning",
+    "label": "Audit logarithmic domain reasoning",
+    "definition": "Given a logarithmic derivation or model, check positivity, base, inverse, and transformation conditions and identify invalid solutions or steps.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a logarithmic derivation or model, check positivity, base, inverse, and transformation conditions and identify invalid solutions or steps.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:5c84a86b-d8ae-4d6c-8223-48190bc63637",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "algebraic-structure-operation",
+    "label": "Algebraic structure with operations",
+    "definition": "A set equipped with declared operations satisfying selected axioms, such as a group, ring, field, or module.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:77e50153-9c32-48dc-9548-98f19de7b449",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "algebraic-homomorphism",
+    "label": "Algebraic homomorphism",
+    "definition": "A map between algebraic structures that preserves specified operations and associated identity structure.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:11db6d31-7b09-4819-9567-71521c5195ff",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "substructure-quotient-isomorphism-principles",
+    "label": "Substructure, quotient, and isomorphism principles",
+    "definition": "Closed subsets, congruence-compatible quotients, and structure-preserving maps organize algebraic comparison and decomposition.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:b1cc90ef-4de5-472e-8b31-879397d63c23",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "algebraic-operation-table-diagram",
+    "label": "Algebraic operation table and diagram",
+    "definition": "Tables, presentations, Cayley graphs, subgroup diagrams, or commutative diagrams representing operations and structure-preserving maps.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:37ee65cb-9958-41b5-b7cb-39b97d92d113",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "verify-compute-algebraic-structures-family",
+    "label": "Verify and compute in algebraic structures",
+    "definition": "A capability family within groups-rings-fields-modules grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:0e419de3-e715-41db-89b0-e29d1a518c18",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "verify-algebraic-axioms",
+    "label": "Verify algebraic axioms",
+    "definition": "Given a set, operations, and a claimed structure type, verify each required axiom or provide a valid counterexample, including closure and identity conditions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a set, operations, and a claimed structure type, verify each required axiom or provide a valid counterexample, including closure and identity conditions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:3e871a42-9e84-4920-bc58-6c393f10e714",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compute-finite-algebraic-structure",
+    "label": "Compute in a finite algebraic structure",
+    "definition": "Given a finite group, ring, field, or module representation, compute requested operations, inverses where applicable, generated substructures, or element orders and check consistency.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a finite group, ring, field, or module representation, compute requested operations, inverses where applicable, generated substructures, or element orders and check consistency.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:b47d3385-4040-4609-890f-1c7b674c4ced",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "analyze-maps-substructures-family",
+    "label": "Analyze maps and substructures",
+    "definition": "A capability family within groups-rings-fields-modules grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:222b247c-d3c3-4391-9870-a485ef5c08b7",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "determine-algebraic-substructure",
+    "label": "Determine an algebraic substructure",
+    "definition": "Given a candidate subset of an algebraic structure, determine whether it forms the requested substructure by checking the relevant closure and inherited axioms.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a candidate subset of an algebraic structure, determine whether it forms the requested substructure by checking the relevant closure and inherited axioms.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:b15e2128-849b-464c-b723-1b9d5278d1f3",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "analyze-algebraic-homomorphism",
+    "label": "Analyze an algebraic homomorphism",
+    "definition": "Given a map between declared algebraic structures, verify operation preservation and determine requested kernel, image, injectivity, surjectivity, or induced quotient information.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a map between declared algebraic structures, verify operation preservation and determine requested kernel, image, injectivity, surjectivity, or induced quotient information.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:564382e9-d592-495d-880a-87de20647314",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "prove-compare-algebraic-structures-family",
+    "label": "Prove and compare algebraic structures",
+    "definition": "A capability family within groups-rings-fields-modules grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:aa85ae5c-04a5-4d42-8af1-f48d4ddae2ce",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "prove-bounded-algebraic-claim",
+    "label": "Prove a bounded algebraic claim",
+    "definition": "Given a claim about groups, rings, fields, or modules and admissible prior results, construct a proof that explicitly uses the required axioms and preserves object type.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a claim about groups, rings, fields, or modules and admissible prior results, construct a proof that explicitly uses the required axioms and preserves object type.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:7bd8c8bf-1198-4cde-b4aa-998896cae92a",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-algebraic-counterexample",
+    "label": "Construct an algebraic counterexample",
+    "definition": "Given an overgeneralized algebraic claim, construct a structure satisfying the stated hypotheses but not the conclusion and verify both parts.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given an overgeneralized algebraic claim, construct a structure satisfying the stated hypotheses but not the conclusion and verify both parts.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:304217c5-b987-4a7c-8c5c-82c760b9df14",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "partially-ordered-set",
+    "label": "Partially ordered set",
+    "definition": "A set with a reflexive, antisymmetric, and transitive relation, not necessarily comparing every pair.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:0c8526b1-8ed5-4f1b-863f-d187c4610edd",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "lattice-order",
+    "label": "Lattice order",
+    "definition": "A partial order in which each relevant pair has a greatest lower bound and least upper bound, with variants under declared completeness conditions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:cc244794-de40-402b-bc79-fe624887684f",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "order-join-meet-duality",
+    "label": "Order, join, meet, and duality",
+    "definition": "Order relations and join–meet operations encode each other under lattice axioms, and many statements have order-dual forms.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:97a15496-806a-4fe5-8e9b-c13b70e8fe96",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "hasse-lattice-diagram",
+    "label": "Hasse and lattice diagram",
+    "definition": "A transitive-reduction-style diagram representing finite order coverage, bounds, joins, meets, and substructures.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:fa6a359b-7fe6-4549-b18b-4c4b8679f331",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "interpret-construct-orders-family",
+    "label": "Interpret and construct orders",
+    "definition": "A capability family within order-lattices-general-algebra grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:d0b0159a-d8e0-479c-a2b0-1f9b97c80324",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "verify-partial-or-total-order",
+    "label": "Verify a partial or total order",
+    "definition": "Given a set and binary relation, verify the order axioms, determine whether all pairs are comparable, or exhibit a failed axiom.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a set and binary relation, verify the order axioms, determine whether all pairs are comparable, or exhibit a failed axiom.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:783149d6-be6b-4d02-91e2-3a5f92ddce1e",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-interpret-hasse-diagram",
+    "label": "Construct or interpret a Hasse diagram",
+    "definition": "Given a finite poset or a valid Hasse diagram, translate between relation and diagram while distinguishing cover relations from all comparable pairs.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a finite poset or a valid Hasse diagram, translate between relation and diagram while distinguishing cover relations from all comparable pairs.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:cac0e01f-deb9-4e62-95dd-db9420c0c808",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "compute-lattice-structure-family",
+    "label": "Compute lattice structure",
+    "definition": "A capability family within order-lattices-general-algebra grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:ba44b1d4-4907-49c6-941a-0da375e36003",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "determine-bounds-join-meet",
+    "label": "Determine bounds, joins, and meets",
+    "definition": "Given elements or subsets of a finite or explicitly described poset, determine requested upper or lower bounds, least upper bounds, and greatest lower bounds or state nonexistence.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given elements or subsets of a finite or explicitly described poset, determine requested upper or lower bounds, least upper bounds, and greatest lower bounds or state nonexistence.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:bbf18bb7-684a-4d8e-a53d-46b3ebf05fb4",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "analyze-monotone-order-map",
+    "label": "Analyze a monotone order map",
+    "definition": "Given a map between ordered structures, determine whether it preserves or reverses order and analyze requested fixed points, images, or bound preservation within scope.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a map between ordered structures, determine whether it preserves or reverses order and analyze requested fixed points, images, or bound preservation within scope.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:6807ddcf-92d9-4c55-8174-c6d16e1786db",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "justify-general-algebra-family",
+    "label": "Justify general-algebra claims",
+    "definition": "A capability family within order-lattices-general-algebra grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:d20ea707-dd46-4f24-a0f3-62a86b776c29",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "prove-bounded-lattice-identity",
+    "label": "Prove a bounded lattice identity",
+    "definition": "Given a lattice identity and declared lattice assumptions, derive it from order or join–meet axioms, or identify an additional condition required.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a lattice identity and declared lattice assumptions, derive it from order or join–meet axioms, or identify an additional condition required.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:1b58e71e-b2e6-4c80-8e44-e607c2261a8e",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-order-counterexample",
+    "label": "Construct an order-theoretic counterexample",
+    "definition": "Given a false general claim about posets or lattices, construct a finite counterexample and verify the hypotheses and failed conclusion.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a false general claim about posets or lattices, construct a finite counterexample and verify the hypotheses and failed conclusion.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  }
+]

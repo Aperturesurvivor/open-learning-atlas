@@ -1,0 +1,108 @@
+[
+  {
+    "id": "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+    "revision": 1,
+    "title": "OpenStax Prealgebra 2e",
+    "source_type": "curriculum",
+    "citation": "Marecek, Lynn, MaryAnne Anthony-Smith, and Andrea Honeycutt Mathis. Prealgebra 2e. OpenStax, 2020.",
+    "url": "https://openstax.org/details/books/prealgebra-2e/",
+    "accessed_at": "2026-07-21",
+    "coverage_for": [
+      "ola:n:8994155f-ccce-4906-a6d5-8fba0d4bcf41",
+      "ola:n:0cab0be3-5531-474d-bc2b-d3dd90c78fa3",
+      "ola:n:0e63b46b-7ec0-4641-b8bf-14017474d82a",
+      "ola:n:4c83ed0c-3ed7-4554-b566-b937c04e3e37",
+      "ola:n:f6e75f2e-d126-4500-bedd-aa3c3624544c"
+    ],
+    "coverage_scope": "Whole numbers, integers, rational values, arithmetic operations, factors, exponents, measurement, basic algebra, and multiple representations.",
+    "coverage_gaps": [
+      "It is a course-oriented introductory text, not a complete number-theory or learning-dependency source.",
+      "The source audits coverage and terminology; its hierarchy is not treated as a dependency graph."
+    ],
+    "notes": "Coverage source only; no source prose or exercise content was imported."
+  },
+  {
+    "id": "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+    "revision": 1,
+    "title": "OpenStax Algebra and Trigonometry 2e",
+    "source_type": "curriculum",
+    "citation": "Abramson, Jay. Algebra and Trigonometry 2e. OpenStax, 2021.",
+    "url": "https://openstax.org/books/algebra-and-trigonometry-2e/pages/preface",
+    "accessed_at": "2026-07-21",
+    "coverage_for": [
+      "ola:n:ff72e1fe-db8d-4f43-8108-e6ff56f965a1",
+      "ola:n:164c3d7c-a12e-4fe9-988d-5299b3ea2f29",
+      "ola:n:42024327-5920-4875-8ac5-1cd78cebce5c",
+      "ola:n:676d8217-3356-4081-9a3b-3a45922c99f3",
+      "ola:n:344d96fb-d7f4-48ff-9896-7b455896c020",
+      "ola:n:3f0eadb0-1111-43cc-9bfe-db02f4776e93",
+      "ola:n:8f7331e4-1374-4306-aa48-03aef45fe946",
+      "ola:n:bb1b0330-6ee3-4e96-bdaa-5b36429d9aa8"
+    ],
+    "coverage_scope": "Expressions, equations, inequalities, functions, polynomial, rational, exponential, logarithmic, trigonometric, systems, analytic geometry, sequences, probability, and counting.",
+    "coverage_gaps": [
+      "The text's course sequence is not imported, and it does not cover abstract algebra or advanced analysis at territory breadth.",
+      "The source audits coverage and terminology; its hierarchy is not treated as a dependency graph."
+    ],
+    "notes": "Coverage source only; no source prose or exercise content was imported."
+  },
+  {
+    "id": "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+    "revision": 1,
+    "title": "OpenStax Calculus Volumes 1–3",
+    "source_type": "curriculum",
+    "citation": "Strang, Gilbert, and Edwin Herman. Calculus, Volumes 1–3. OpenStax, 2016.",
+    "url": "https://openstax.org/details/books/calculus-volume-1/",
+    "accessed_at": "2026-07-21",
+    "coverage_for": [
+      "ola:n:18b61ff2-8aa1-4a9f-b3d8-e6e68f8328d4",
+      "ola:n:22b56d73-55c3-47f4-9468-901f304e6555",
+      "ola:n:f5bed58e-448c-4db8-a672-5f98d77796d1",
+      "ola:n:db9e7778-3829-49c2-9998-1a8f104355fa",
+      "ola:n:5cc96e68-f0e8-4eca-b07d-b3056a265aa5"
+    ],
+    "coverage_scope": "Functions, limits, differentiation, integration, sequences and series, differential equations, multivariable calculus, and vector calculus.",
+    "coverage_gaps": [
+      "The source is a calculus sequence and does not exhaust rigorous, measure-theoretic, functional, complex, or harmonic analysis.",
+      "The source audits coverage and terminology; its hierarchy is not treated as a dependency graph."
+    ],
+    "notes": "Coverage source only; no source prose or exercise content was imported."
+  },
+  {
+    "id": "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+    "revision": 1,
+    "title": "MIT OpenCourseWare 18.703 Modern Algebra",
+    "source_type": "curriculum",
+    "citation": "McKernan, James. 18.703 Modern Algebra. MIT OpenCourseWare, Spring 2013.",
+    "url": "https://www.ocw.mit.edu/courses/18-703-modern-algebra-spring-2013/",
+    "accessed_at": "2026-07-21",
+    "coverage_for": [
+      "ola:n:dec0e1cc-e42d-4cd4-ac04-9096fce32821",
+      "ola:n:c168151c-5f3a-479b-b349-234ad99d1120"
+    ],
+    "coverage_scope": "Undergraduate groups, rings, fields, substructures, homomorphisms, quotients, and related abstract-algebra methods.",
+    "coverage_gaps": [
+      "General algebra, order, lattices, modules, and advanced categorical interfaces extend beyond the course's coverage.",
+      "The source audits coverage and terminology; its hierarchy is not treated as a dependency graph."
+    ],
+    "notes": "Coverage source only; no source prose or exercise content was imported."
+  },
+  {
+    "id": "ola:s:a90ff663-4b01-4140-9a78-b9751666e72a",
+    "revision": 1,
+    "title": "MIT OpenCourseWare analysis courses",
+    "source_type": "curriculum",
+    "citation": "MIT OpenCourseWare. 18.100B Real Analysis and 18.125 Measure and Integration.",
+    "url": "https://ocw.mit.edu/courses/18-100b-real-analysis-spring-2025/",
+    "accessed_at": "2026-07-21",
+    "coverage_for": [
+      "ola:n:921ce5ef-565c-4e34-abbc-3a569226e533"
+    ],
+    "coverage_scope": "Real analysis, proof-based convergence, continuity, differentiation, integration, measure, Lebesgue integration, and function spaces.",
+    "coverage_gaps": [
+      "Complex, functional, and harmonic analysis require additional specialist sources; the combined macro territory remains over-aggregated and needs future splitting.",
+      "The source audits coverage and terminology; its hierarchy is not treated as a dependency graph."
+    ],
+    "notes": "Coverage source only; no source prose or exercise content was imported."
+  }
+]

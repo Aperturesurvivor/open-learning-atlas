@@ -1,0 +1,3962 @@
+[
+  {
+    "id": "ola:e:04ba9fa4-17e8-42f4-b994-1106ab4de33e",
+    "revision": 1,
+    "subject": "ola:n:0cab0be3-5531-474d-bc2b-d3dd90c78fa3",
+    "relation": "composed_of",
+    "object": "ola:n:ad093cd1-cb01-40ba-bd30-e56294298485",
+    "rationale": "Finite cardinality is material terrain within counting-numeration-cardinality; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:de59ca58-cb90-4add-b7ba-94e57cad040a",
+    "revision": 1,
+    "subject": "ola:n:0cab0be3-5531-474d-bc2b-d3dd90c78fa3",
+    "relation": "composed_of",
+    "object": "ola:n:1a9a9cd8-52e7-445f-9d2e-64382a095b3a",
+    "rationale": "Place-value numeration is material terrain within counting-numeration-cardinality; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:39c932e9-2755-4ec9-849e-291788a9c13b",
+    "revision": 1,
+    "subject": "ola:n:0cab0be3-5531-474d-bc2b-d3dd90c78fa3",
+    "relation": "composed_of",
+    "object": "ola:n:c6bf9bd2-7a98-4db0-9547-ede62c3c5bfc",
+    "rationale": "Fundamental counting principles is material terrain within counting-numeration-cardinality; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:e54fac23-9c95-4599-b172-4777dc2e4e89",
+    "revision": 1,
+    "subject": "ola:n:0cab0be3-5531-474d-bc2b-d3dd90c78fa3",
+    "relation": "composed_of",
+    "object": "ola:n:9c60f74e-4417-4ee2-a9a1-2f6e79c9e5cb",
+    "rationale": "Numeral and collection representation is material terrain within counting-numeration-cardinality; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:dff89fb0-a86a-4e51-995b-effd1075ee2e",
+    "revision": 1,
+    "subject": "ola:n:0cab0be3-5531-474d-bc2b-d3dd90c78fa3",
+    "relation": "composed_of",
+    "object": "ola:n:651af2b1-ce4e-4d3e-8aad-7202814b8af2",
+    "rationale": "Count and compare finite collections is a navigational capability family within counting-numeration-cardinality.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:3e459d83-6a7a-4e1c-b667-5a14af23a9e6",
+    "revision": 1,
+    "subject": "ola:n:651af2b1-ce4e-4d3e-8aad-7202814b8af2",
+    "relation": "composed_of",
+    "object": "ola:n:58bc3aaf-4993-4bf2-bb94-ee88684856c7",
+    "rationale": "Count a finite collection is one bounded performance within Count and compare finite collections.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:8cc86f85-a465-4eea-80c2-510461e14571",
+    "revision": 1,
+    "subject": "ola:n:58bc3aaf-4993-4bf2-bb94-ee88684856c7",
+    "relation": "uses_concept",
+    "object": "ola:n:ad093cd1-cb01-40ba-bd30-e56294298485",
+    "rationale": "Demonstrating Count a finite collection materially invokes Finite cardinality at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:d45965aa-05d8-4cd2-98ec-a131b833d3ee",
+    "revision": 1,
+    "subject": "ola:n:58bc3aaf-4993-4bf2-bb94-ee88684856c7",
+    "relation": "uses_knowledge",
+    "object": "ola:n:c6bf9bd2-7a98-4db0-9547-ede62c3c5bfc",
+    "rationale": "Demonstrating Count a finite collection materially invokes Fundamental counting principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:b60f5387-cff8-4e01-aa08-742b51a44656",
+    "revision": 1,
+    "subject": "ola:n:58bc3aaf-4993-4bf2-bb94-ee88684856c7",
+    "relation": "uses_representation",
+    "object": "ola:n:9c60f74e-4417-4ee2-a9a1-2f6e79c9e5cb",
+    "rationale": "Demonstrating Count a finite collection materially invokes Numeral and collection representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:71d1bc91-9f06-4a31-84e5-45c665b078a8",
+    "revision": 1,
+    "subject": "ola:n:651af2b1-ce4e-4d3e-8aad-7202814b8af2",
+    "relation": "composed_of",
+    "object": "ola:n:ac102a52-f21f-47c4-8221-e4bc7cc2f7ec",
+    "rationale": "Compare finite cardinalities is one bounded performance within Count and compare finite collections.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:da3bdb72-66d6-4de1-afbf-bb7589d72979",
+    "revision": 1,
+    "subject": "ola:n:ac102a52-f21f-47c4-8221-e4bc7cc2f7ec",
+    "relation": "uses_concept",
+    "object": "ola:n:ad093cd1-cb01-40ba-bd30-e56294298485",
+    "rationale": "Demonstrating Compare finite cardinalities materially invokes Finite cardinality at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:d87ad61b-93ee-447e-9b05-0a707eacfe4e",
+    "revision": 1,
+    "subject": "ola:n:ac102a52-f21f-47c4-8221-e4bc7cc2f7ec",
+    "relation": "uses_knowledge",
+    "object": "ola:n:c6bf9bd2-7a98-4db0-9547-ede62c3c5bfc",
+    "rationale": "Demonstrating Compare finite cardinalities materially invokes Fundamental counting principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:e9e39031-1b19-4e6e-ad01-88947a8b8c15",
+    "revision": 1,
+    "subject": "ola:n:ac102a52-f21f-47c4-8221-e4bc7cc2f7ec",
+    "relation": "uses_representation",
+    "object": "ola:n:9c60f74e-4417-4ee2-a9a1-2f6e79c9e5cb",
+    "rationale": "Demonstrating Compare finite cardinalities materially invokes Numeral and collection representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:fc94e5b1-a4a1-4307-ad22-54bdb86cbbd4",
+    "revision": 1,
+    "subject": "ola:n:0cab0be3-5531-474d-bc2b-d3dd90c78fa3",
+    "relation": "composed_of",
+    "object": "ola:n:ec870665-0aa7-4692-bc81-30d1f42dd6bf",
+    "rationale": "Interpret and construct numerals is a navigational capability family within counting-numeration-cardinality.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:be64dda1-a213-49ad-b893-a066ec4fdabf",
+    "revision": 1,
+    "subject": "ola:n:ec870665-0aa7-4692-bc81-30d1f42dd6bf",
+    "relation": "composed_of",
+    "object": "ola:n:61f5605a-3e46-443b-ac47-eeea35e34ffd",
+    "rationale": "Interpret a place-value numeral is one bounded performance within Interpret and construct numerals.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:7923c248-3903-4f35-839e-b4dd6c7d1c43",
+    "revision": 1,
+    "subject": "ola:n:61f5605a-3e46-443b-ac47-eeea35e34ffd",
+    "relation": "uses_concept",
+    "object": "ola:n:1a9a9cd8-52e7-445f-9d2e-64382a095b3a",
+    "rationale": "Demonstrating Interpret a place-value numeral materially invokes Place-value numeration at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:82090fd5-9aff-4dcc-aa70-62413a1f1350",
+    "revision": 1,
+    "subject": "ola:n:61f5605a-3e46-443b-ac47-eeea35e34ffd",
+    "relation": "uses_knowledge",
+    "object": "ola:n:c6bf9bd2-7a98-4db0-9547-ede62c3c5bfc",
+    "rationale": "Demonstrating Interpret a place-value numeral materially invokes Fundamental counting principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:304de0db-020f-429c-92ce-abe23e5a2a01",
+    "revision": 1,
+    "subject": "ola:n:61f5605a-3e46-443b-ac47-eeea35e34ffd",
+    "relation": "uses_representation",
+    "object": "ola:n:9c60f74e-4417-4ee2-a9a1-2f6e79c9e5cb",
+    "rationale": "Demonstrating Interpret a place-value numeral materially invokes Numeral and collection representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:2f0ffc1a-a888-44b3-bc00-d699e4b6c1fd",
+    "revision": 1,
+    "subject": "ola:n:ec870665-0aa7-4692-bc81-30d1f42dd6bf",
+    "relation": "composed_of",
+    "object": "ola:n:a0ecc9e0-4b54-4847-b0f4-ee9635dfca81",
+    "rationale": "Compose and decompose by place value is one bounded performance within Interpret and construct numerals.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:e3e1956d-3792-4c3d-9da8-cfb2575dc4cf",
+    "revision": 1,
+    "subject": "ola:n:a0ecc9e0-4b54-4847-b0f4-ee9635dfca81",
+    "relation": "uses_concept",
+    "object": "ola:n:1a9a9cd8-52e7-445f-9d2e-64382a095b3a",
+    "rationale": "Demonstrating Compose and decompose by place value materially invokes Place-value numeration at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:891acf1a-3d32-4415-ba22-86506ea0b899",
+    "revision": 1,
+    "subject": "ola:n:a0ecc9e0-4b54-4847-b0f4-ee9635dfca81",
+    "relation": "uses_knowledge",
+    "object": "ola:n:c6bf9bd2-7a98-4db0-9547-ede62c3c5bfc",
+    "rationale": "Demonstrating Compose and decompose by place value materially invokes Fundamental counting principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:ced52036-b8b4-40b9-a402-ac38590b51a5",
+    "revision": 1,
+    "subject": "ola:n:a0ecc9e0-4b54-4847-b0f4-ee9635dfca81",
+    "relation": "uses_representation",
+    "object": "ola:n:9c60f74e-4417-4ee2-a9a1-2f6e79c9e5cb",
+    "rationale": "Demonstrating Compose and decompose by place value materially invokes Numeral and collection representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:dffbc370-4f38-4d64-b7b4-9b3079aed177",
+    "revision": 1,
+    "subject": "ola:n:0cab0be3-5531-474d-bc2b-d3dd90c78fa3",
+    "relation": "composed_of",
+    "object": "ola:n:adf4d733-c470-40c2-b762-af77a11fa684",
+    "rationale": "Reason about counting and cardinality is a navigational capability family within counting-numeration-cardinality.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:3d337e62-0403-4450-a0fa-fed24f81c0cd",
+    "revision": 1,
+    "subject": "ola:n:adf4d733-c470-40c2-b762-af77a11fa684",
+    "relation": "composed_of",
+    "object": "ola:n:53ff9dd1-8f1e-43e7-bed9-82d1f2ecf62f",
+    "rationale": "Establish a one-to-one correspondence is one bounded performance within Reason about counting and cardinality.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:601bcc5f-ad0b-4c37-a676-6e9873cc416d",
+    "revision": 1,
+    "subject": "ola:n:53ff9dd1-8f1e-43e7-bed9-82d1f2ecf62f",
+    "relation": "uses_concept",
+    "object": "ola:n:ad093cd1-cb01-40ba-bd30-e56294298485",
+    "rationale": "Demonstrating Establish a one-to-one correspondence materially invokes Finite cardinality at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:7319ce90-ac23-4199-95e5-f6832cf85da3",
+    "revision": 1,
+    "subject": "ola:n:53ff9dd1-8f1e-43e7-bed9-82d1f2ecf62f",
+    "relation": "uses_concept",
+    "object": "ola:n:1a9a9cd8-52e7-445f-9d2e-64382a095b3a",
+    "rationale": "Demonstrating Establish a one-to-one correspondence materially invokes Place-value numeration at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:4c54fe8a-15a6-4f65-9236-a587e73f53b2",
+    "revision": 1,
+    "subject": "ola:n:53ff9dd1-8f1e-43e7-bed9-82d1f2ecf62f",
+    "relation": "uses_knowledge",
+    "object": "ola:n:c6bf9bd2-7a98-4db0-9547-ede62c3c5bfc",
+    "rationale": "Demonstrating Establish a one-to-one correspondence materially invokes Fundamental counting principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:6c0343fd-ea6a-4b76-804a-1c64bc87bc3b",
+    "revision": 1,
+    "subject": "ola:n:53ff9dd1-8f1e-43e7-bed9-82d1f2ecf62f",
+    "relation": "uses_representation",
+    "object": "ola:n:9c60f74e-4417-4ee2-a9a1-2f6e79c9e5cb",
+    "rationale": "Demonstrating Establish a one-to-one correspondence materially invokes Numeral and collection representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:ff5ec128-bda7-4c61-bfe0-b1ada4794931",
+    "revision": 1,
+    "subject": "ola:n:adf4d733-c470-40c2-b762-af77a11fa684",
+    "relation": "composed_of",
+    "object": "ola:n:b345d3c6-c4a4-47ae-8ffc-30e541940386",
+    "rationale": "Justify counting invariance is one bounded performance within Reason about counting and cardinality.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:264ebf93-20b0-41c4-8b01-33872fad29f4",
+    "revision": 1,
+    "subject": "ola:n:b345d3c6-c4a4-47ae-8ffc-30e541940386",
+    "relation": "uses_concept",
+    "object": "ola:n:ad093cd1-cb01-40ba-bd30-e56294298485",
+    "rationale": "Demonstrating Justify counting invariance materially invokes Finite cardinality at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:7445d0b9-fb54-4d3b-89e5-a99283e74826",
+    "revision": 1,
+    "subject": "ola:n:b345d3c6-c4a4-47ae-8ffc-30e541940386",
+    "relation": "uses_concept",
+    "object": "ola:n:1a9a9cd8-52e7-445f-9d2e-64382a095b3a",
+    "rationale": "Demonstrating Justify counting invariance materially invokes Place-value numeration at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:b1ce96d4-4543-4cbb-9b59-07ce708ad401",
+    "revision": 1,
+    "subject": "ola:n:b345d3c6-c4a4-47ae-8ffc-30e541940386",
+    "relation": "uses_knowledge",
+    "object": "ola:n:c6bf9bd2-7a98-4db0-9547-ede62c3c5bfc",
+    "rationale": "Demonstrating Justify counting invariance materially invokes Fundamental counting principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:f1e73fd7-870c-420f-bd59-092eb3c2a549",
+    "revision": 1,
+    "subject": "ola:n:b345d3c6-c4a4-47ae-8ffc-30e541940386",
+    "relation": "uses_representation",
+    "object": "ola:n:9c60f74e-4417-4ee2-a9a1-2f6e79c9e5cb",
+    "rationale": "Demonstrating Justify counting invariance materially invokes Numeral and collection representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:eb6167fc-8d37-46bc-9479-0cd4ae58bdac",
+    "revision": 1,
+    "subject": "ola:n:4c83ed0c-3ed7-4554-b566-b937c04e3e37",
+    "relation": "composed_of",
+    "object": "ola:n:94f35708-fc86-4301-a996-57bde4dda53f",
+    "rationale": "Ordered magnitude is material terrain within magnitude-order-comparison; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:7054f4e4-1b6f-49e1-8844-835bde5e9c53",
+    "revision": 1,
+    "subject": "ola:n:4c83ed0c-3ed7-4554-b566-b937c04e3e37",
+    "relation": "composed_of",
+    "object": "ola:n:34d2f43a-ab33-4368-ac29-697da5c141b0",
+    "rationale": "Absolute difference is material terrain within magnitude-order-comparison; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:f76e7b7f-8c62-4a0a-b2a6-65fb921964b7",
+    "revision": 1,
+    "subject": "ola:n:4c83ed0c-3ed7-4554-b566-b937c04e3e37",
+    "relation": "composed_of",
+    "object": "ola:n:d6787fde-6969-4281-bb27-1b62b3c0d5ed",
+    "rationale": "Order compatibility properties is material terrain within magnitude-order-comparison; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:d44736dd-b3ab-4972-a17c-7577f02a36cc",
+    "revision": 1,
+    "subject": "ola:n:4c83ed0c-3ed7-4554-b566-b937c04e3e37",
+    "relation": "composed_of",
+    "object": "ola:n:de27b03c-d555-4df5-95bd-53eef6a8cc4b",
+    "rationale": "Ordered number line is material terrain within magnitude-order-comparison; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:954c6972-1f01-4d80-a21b-3207e45aaab9",
+    "revision": 1,
+    "subject": "ola:n:4c83ed0c-3ed7-4554-b566-b937c04e3e37",
+    "relation": "composed_of",
+    "object": "ola:n:856c73a3-45e0-471a-8610-6055e5406941",
+    "rationale": "Locate and order values is a navigational capability family within magnitude-order-comparison.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:1b5ed162-3bd9-4da3-b6a4-2ba65d2afdfb",
+    "revision": 1,
+    "subject": "ola:n:856c73a3-45e0-471a-8610-6055e5406941",
+    "relation": "composed_of",
+    "object": "ola:n:4bc8e23b-a885-4530-806f-28c0c50ef677",
+    "rationale": "Locate a value on a number line is one bounded performance within Locate and order values.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:4122554a-6f7f-4b12-b48b-c83a388cc00a",
+    "revision": 1,
+    "subject": "ola:n:4bc8e23b-a885-4530-806f-28c0c50ef677",
+    "relation": "uses_concept",
+    "object": "ola:n:94f35708-fc86-4301-a996-57bde4dda53f",
+    "rationale": "Demonstrating Locate a value on a number line materially invokes Ordered magnitude at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:940dad0c-360c-45e6-a6d6-45c0063a8add",
+    "revision": 1,
+    "subject": "ola:n:4bc8e23b-a885-4530-806f-28c0c50ef677",
+    "relation": "uses_knowledge",
+    "object": "ola:n:d6787fde-6969-4281-bb27-1b62b3c0d5ed",
+    "rationale": "Demonstrating Locate a value on a number line materially invokes Order compatibility properties at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:d448fc26-594d-4ffa-a9fd-1af47956c597",
+    "revision": 1,
+    "subject": "ola:n:4bc8e23b-a885-4530-806f-28c0c50ef677",
+    "relation": "uses_representation",
+    "object": "ola:n:de27b03c-d555-4df5-95bd-53eef6a8cc4b",
+    "rationale": "Demonstrating Locate a value on a number line materially invokes Ordered number line at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:bfc197b3-d7c4-4ec1-9f83-95687d16deab",
+    "revision": 1,
+    "subject": "ola:n:856c73a3-45e0-471a-8610-6055e5406941",
+    "relation": "composed_of",
+    "object": "ola:n:1a3f8b6d-d634-4b6f-bf13-04fc453242e9",
+    "rationale": "Order a finite set of values is one bounded performance within Locate and order values.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:be5bcdb0-1b93-4948-88f6-b5cdb5437879",
+    "revision": 1,
+    "subject": "ola:n:1a3f8b6d-d634-4b6f-bf13-04fc453242e9",
+    "relation": "uses_concept",
+    "object": "ola:n:94f35708-fc86-4301-a996-57bde4dda53f",
+    "rationale": "Demonstrating Order a finite set of values materially invokes Ordered magnitude at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:368cb57e-b003-4233-b1a9-f73de0673c1c",
+    "revision": 1,
+    "subject": "ola:n:1a3f8b6d-d634-4b6f-bf13-04fc453242e9",
+    "relation": "uses_knowledge",
+    "object": "ola:n:d6787fde-6969-4281-bb27-1b62b3c0d5ed",
+    "rationale": "Demonstrating Order a finite set of values materially invokes Order compatibility properties at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:f63cb98b-8436-44d7-a1ca-f57771d9cd20",
+    "revision": 1,
+    "subject": "ola:n:1a3f8b6d-d634-4b6f-bf13-04fc453242e9",
+    "relation": "uses_representation",
+    "object": "ola:n:de27b03c-d555-4df5-95bd-53eef6a8cc4b",
+    "rationale": "Demonstrating Order a finite set of values materially invokes Ordered number line at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:cefa7d0f-054a-4ee7-b000-94480ac5810f",
+    "revision": 1,
+    "subject": "ola:n:4c83ed0c-3ed7-4554-b566-b937c04e3e37",
+    "relation": "composed_of",
+    "object": "ola:n:dc2de92b-876a-43fb-aee9-4837dda9997c",
+    "rationale": "Bound and quantify differences is a navigational capability family within magnitude-order-comparison.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:f29ab10f-1cdf-4c75-9f29-167dd21693b7",
+    "revision": 1,
+    "subject": "ola:n:dc2de92b-876a-43fb-aee9-4837dda9997c",
+    "relation": "composed_of",
+    "object": "ola:n:eb25a0d3-c7b2-45c6-99e5-51356a227ced",
+    "rationale": "Bound a value with an interval is one bounded performance within Bound and quantify differences.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:27c43e36-8d48-4366-b9fd-eff05cd69407",
+    "revision": 1,
+    "subject": "ola:n:eb25a0d3-c7b2-45c6-99e5-51356a227ced",
+    "relation": "uses_concept",
+    "object": "ola:n:34d2f43a-ab33-4368-ac29-697da5c141b0",
+    "rationale": "Demonstrating Bound a value with an interval materially invokes Absolute difference at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:b2ebbbe0-9c05-40cf-bcfe-30c3e69a74ea",
+    "revision": 1,
+    "subject": "ola:n:eb25a0d3-c7b2-45c6-99e5-51356a227ced",
+    "relation": "uses_knowledge",
+    "object": "ola:n:d6787fde-6969-4281-bb27-1b62b3c0d5ed",
+    "rationale": "Demonstrating Bound a value with an interval materially invokes Order compatibility properties at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:79487bb6-8112-4abd-be1b-2859bc413277",
+    "revision": 1,
+    "subject": "ola:n:eb25a0d3-c7b2-45c6-99e5-51356a227ced",
+    "relation": "uses_representation",
+    "object": "ola:n:de27b03c-d555-4df5-95bd-53eef6a8cc4b",
+    "rationale": "Demonstrating Bound a value with an interval materially invokes Ordered number line at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:7657e583-b197-4606-8a7f-33d9cceedb84",
+    "revision": 1,
+    "subject": "ola:n:dc2de92b-876a-43fb-aee9-4837dda9997c",
+    "relation": "composed_of",
+    "object": "ola:n:01a6eac6-6885-4e10-9aa3-d4c3c197f391",
+    "rationale": "Determine an absolute difference is one bounded performance within Bound and quantify differences.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:af69e100-a9cd-457a-a709-01d374f735bc",
+    "revision": 1,
+    "subject": "ola:n:01a6eac6-6885-4e10-9aa3-d4c3c197f391",
+    "relation": "uses_concept",
+    "object": "ola:n:34d2f43a-ab33-4368-ac29-697da5c141b0",
+    "rationale": "Demonstrating Determine an absolute difference materially invokes Absolute difference at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:db0fea7d-3583-4e97-aaac-00c5a5d758e5",
+    "revision": 1,
+    "subject": "ola:n:01a6eac6-6885-4e10-9aa3-d4c3c197f391",
+    "relation": "uses_knowledge",
+    "object": "ola:n:d6787fde-6969-4281-bb27-1b62b3c0d5ed",
+    "rationale": "Demonstrating Determine an absolute difference materially invokes Order compatibility properties at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:30f29a1a-d2c7-4baf-a48a-b769577aa06c",
+    "revision": 1,
+    "subject": "ola:n:01a6eac6-6885-4e10-9aa3-d4c3c197f391",
+    "relation": "uses_representation",
+    "object": "ola:n:de27b03c-d555-4df5-95bd-53eef6a8cc4b",
+    "rationale": "Demonstrating Determine an absolute difference materially invokes Ordered number line at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:bb79f5f0-f4d5-411d-8662-971933cb1c39",
+    "revision": 1,
+    "subject": "ola:n:4c83ed0c-3ed7-4554-b566-b937c04e3e37",
+    "relation": "composed_of",
+    "object": "ola:n:9b7ee315-c4ea-47a6-8294-1424e77e1d42",
+    "rationale": "Justify order claims is a navigational capability family within magnitude-order-comparison.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:4ca660e4-ebb7-4b00-a2d3-8eb8cae82847",
+    "revision": 1,
+    "subject": "ola:n:9b7ee315-c4ea-47a6-8294-1424e77e1d42",
+    "relation": "composed_of",
+    "object": "ola:n:bdd6e9b2-7ccb-42f8-8323-c95468411838",
+    "rationale": "Compare equivalent number representations is one bounded performance within Justify order claims.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:7eeb9070-8186-4541-a444-8f62b2256c47",
+    "revision": 1,
+    "subject": "ola:n:bdd6e9b2-7ccb-42f8-8323-c95468411838",
+    "relation": "uses_concept",
+    "object": "ola:n:94f35708-fc86-4301-a996-57bde4dda53f",
+    "rationale": "Demonstrating Compare equivalent number representations materially invokes Ordered magnitude at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:2c36af24-a6be-402c-aa5b-e3f04c322d96",
+    "revision": 1,
+    "subject": "ola:n:bdd6e9b2-7ccb-42f8-8323-c95468411838",
+    "relation": "uses_concept",
+    "object": "ola:n:34d2f43a-ab33-4368-ac29-697da5c141b0",
+    "rationale": "Demonstrating Compare equivalent number representations materially invokes Absolute difference at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:41ea7bfa-c5fe-47ca-93e8-9712e462b8e0",
+    "revision": 1,
+    "subject": "ola:n:bdd6e9b2-7ccb-42f8-8323-c95468411838",
+    "relation": "uses_knowledge",
+    "object": "ola:n:d6787fde-6969-4281-bb27-1b62b3c0d5ed",
+    "rationale": "Demonstrating Compare equivalent number representations materially invokes Order compatibility properties at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:31bdc751-a6b4-4043-9191-4399d3f585e6",
+    "revision": 1,
+    "subject": "ola:n:bdd6e9b2-7ccb-42f8-8323-c95468411838",
+    "relation": "uses_representation",
+    "object": "ola:n:de27b03c-d555-4df5-95bd-53eef6a8cc4b",
+    "rationale": "Demonstrating Compare equivalent number representations materially invokes Ordered number line at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:6abb215a-209e-43ee-8ccb-e7a918dd712f",
+    "revision": 1,
+    "subject": "ola:n:9b7ee315-c4ea-47a6-8294-1424e77e1d42",
+    "relation": "composed_of",
+    "object": "ola:n:110ccc38-bd8e-4706-b959-5161da2424af",
+    "rationale": "Audit inequality reasoning is one bounded performance within Justify order claims.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:6195cd73-2a55-4110-8e13-310b96cf0e1c",
+    "revision": 1,
+    "subject": "ola:n:110ccc38-bd8e-4706-b959-5161da2424af",
+    "relation": "uses_concept",
+    "object": "ola:n:94f35708-fc86-4301-a996-57bde4dda53f",
+    "rationale": "Demonstrating Audit inequality reasoning materially invokes Ordered magnitude at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:f08f7bc0-81ca-4bca-a4b7-d9b943cff102",
+    "revision": 1,
+    "subject": "ola:n:110ccc38-bd8e-4706-b959-5161da2424af",
+    "relation": "uses_concept",
+    "object": "ola:n:34d2f43a-ab33-4368-ac29-697da5c141b0",
+    "rationale": "Demonstrating Audit inequality reasoning materially invokes Absolute difference at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:509e1b61-f78a-427a-9cb8-3d4995b65ced",
+    "revision": 1,
+    "subject": "ola:n:110ccc38-bd8e-4706-b959-5161da2424af",
+    "relation": "uses_knowledge",
+    "object": "ola:n:d6787fde-6969-4281-bb27-1b62b3c0d5ed",
+    "rationale": "Demonstrating Audit inequality reasoning materially invokes Order compatibility properties at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:8ca6f16a-06bd-4dff-9235-8bc233b77be5",
+    "revision": 1,
+    "subject": "ola:n:110ccc38-bd8e-4706-b959-5161da2424af",
+    "relation": "uses_representation",
+    "object": "ola:n:de27b03c-d555-4df5-95bd-53eef6a8cc4b",
+    "rationale": "Demonstrating Audit inequality reasoning materially invokes Ordered number line at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:3891da2a-da31-40fb-b53d-9084848d9860",
+    "revision": 1,
+    "subject": "ola:n:f6e75f2e-d126-4500-bedd-aa3c3624544c",
+    "relation": "composed_of",
+    "object": "ola:n:b45099e8-1378-4f52-8d07-d4b680d2af52",
+    "rationale": "Integer is material terrain within whole-numbers-integers; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:ddc355f5-0358-4ecd-bcfb-3a0e6bf23c24",
+    "revision": 1,
+    "subject": "ola:n:f6e75f2e-d126-4500-bedd-aa3c3624544c",
+    "relation": "composed_of",
+    "object": "ola:n:1859fbb2-6ea2-47ea-a2a1-2e2519f7c27e",
+    "rationale": "Additive inverse is material terrain within whole-numbers-integers; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:ad81c0db-9a34-46bc-8abe-f00bc32c07f6",
+    "revision": 1,
+    "subject": "ola:n:f6e75f2e-d126-4500-bedd-aa3c3624544c",
+    "relation": "composed_of",
+    "object": "ola:n:1c8edef1-c0f3-47f9-88a5-bb145078cee6",
+    "rationale": "Integer operation structure is material terrain within whole-numbers-integers; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:aae64051-9549-4f57-b525-c76e58b45569",
+    "revision": 1,
+    "subject": "ola:n:f6e75f2e-d126-4500-bedd-aa3c3624544c",
+    "relation": "composed_of",
+    "object": "ola:n:4ee9cd19-55da-46e0-b728-5aaa961f9bf3",
+    "rationale": "Signed number-line and chip model is material terrain within whole-numbers-integers; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:c1c8abdb-7da0-4aaf-bc07-cec7fa3bc2be",
+    "revision": 1,
+    "subject": "ola:n:f6e75f2e-d126-4500-bedd-aa3c3624544c",
+    "relation": "composed_of",
+    "object": "ola:n:bdd2c932-a9dd-45c6-9d15-0a04c91c2997",
+    "rationale": "Represent and classify integers is a navigational capability family within whole-numbers-integers.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:f7b60753-447b-4737-b5b9-72b53d6ec427",
+    "revision": 1,
+    "subject": "ola:n:bdd2c932-a9dd-45c6-9d15-0a04c91c2997",
+    "relation": "composed_of",
+    "object": "ola:n:1a15d4fa-9377-4ac8-ac99-efc5c1e35f47",
+    "rationale": "Classify integer representations is one bounded performance within Represent and classify integers.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:5fe4971e-2238-470f-a882-16e7a7830607",
+    "revision": 1,
+    "subject": "ola:n:1a15d4fa-9377-4ac8-ac99-efc5c1e35f47",
+    "relation": "uses_concept",
+    "object": "ola:n:b45099e8-1378-4f52-8d07-d4b680d2af52",
+    "rationale": "Demonstrating Classify integer representations materially invokes Integer at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:5d23619d-e86a-4a37-99e6-0218cf6238fe",
+    "revision": 1,
+    "subject": "ola:n:1a15d4fa-9377-4ac8-ac99-efc5c1e35f47",
+    "relation": "uses_knowledge",
+    "object": "ola:n:1c8edef1-c0f3-47f9-88a5-bb145078cee6",
+    "rationale": "Demonstrating Classify integer representations materially invokes Integer operation structure at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:389a429e-335f-4429-8e58-7bb4d53ac289",
+    "revision": 1,
+    "subject": "ola:n:1a15d4fa-9377-4ac8-ac99-efc5c1e35f47",
+    "relation": "uses_representation",
+    "object": "ola:n:4ee9cd19-55da-46e0-b728-5aaa961f9bf3",
+    "rationale": "Demonstrating Classify integer representations materially invokes Signed number-line and chip model at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:9abc1629-7ce7-4b3e-b81b-1e0541532da6",
+    "revision": 1,
+    "subject": "ola:n:bdd2c932-a9dd-45c6-9d15-0a04c91c2997",
+    "relation": "composed_of",
+    "object": "ola:n:03673344-cf39-4e19-aacb-b03022d0ac6a",
+    "rationale": "Represent a signed change is one bounded performance within Represent and classify integers.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:eb50beac-0572-4f91-a72a-4879ad6dec69",
+    "revision": 1,
+    "subject": "ola:n:03673344-cf39-4e19-aacb-b03022d0ac6a",
+    "relation": "uses_concept",
+    "object": "ola:n:b45099e8-1378-4f52-8d07-d4b680d2af52",
+    "rationale": "Demonstrating Represent a signed change materially invokes Integer at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:e7cb09bf-23b7-4457-9c6a-f3a6f8a4de8f",
+    "revision": 1,
+    "subject": "ola:n:03673344-cf39-4e19-aacb-b03022d0ac6a",
+    "relation": "uses_knowledge",
+    "object": "ola:n:1c8edef1-c0f3-47f9-88a5-bb145078cee6",
+    "rationale": "Demonstrating Represent a signed change materially invokes Integer operation structure at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:94738503-11fd-47d2-82d9-1c4d056edf62",
+    "revision": 1,
+    "subject": "ola:n:03673344-cf39-4e19-aacb-b03022d0ac6a",
+    "relation": "uses_representation",
+    "object": "ola:n:4ee9cd19-55da-46e0-b728-5aaa961f9bf3",
+    "rationale": "Demonstrating Represent a signed change materially invokes Signed number-line and chip model at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:c6aa9e51-0458-4a4f-85b3-c6a02ceac246",
+    "revision": 1,
+    "subject": "ola:n:f6e75f2e-d126-4500-bedd-aa3c3624544c",
+    "relation": "composed_of",
+    "object": "ola:n:255fe287-f185-4fc5-a48a-cb74b671a09a",
+    "rationale": "Operate and solve with integers is a navigational capability family within whole-numbers-integers.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:dae8f3df-9494-4d10-995d-8f4b3f452d2f",
+    "revision": 1,
+    "subject": "ola:n:255fe287-f185-4fc5-a48a-cb74b671a09a",
+    "relation": "composed_of",
+    "object": "ola:n:9c167971-2e79-437a-929f-f79a8ae34a9b",
+    "rationale": "Compute with integers is one bounded performance within Operate and solve with integers.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:9e978db5-c24c-477f-b3ec-75dbd3b316a9",
+    "revision": 1,
+    "subject": "ola:n:9c167971-2e79-437a-929f-f79a8ae34a9b",
+    "relation": "uses_concept",
+    "object": "ola:n:1859fbb2-6ea2-47ea-a2a1-2e2519f7c27e",
+    "rationale": "Demonstrating Compute with integers materially invokes Additive inverse at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:8bb35a5b-4147-41f7-b19b-3c853698fdae",
+    "revision": 1,
+    "subject": "ola:n:9c167971-2e79-437a-929f-f79a8ae34a9b",
+    "relation": "uses_knowledge",
+    "object": "ola:n:1c8edef1-c0f3-47f9-88a5-bb145078cee6",
+    "rationale": "Demonstrating Compute with integers materially invokes Integer operation structure at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:0ebe55d4-803f-4e33-8035-e6ba7ab63242",
+    "revision": 1,
+    "subject": "ola:n:9c167971-2e79-437a-929f-f79a8ae34a9b",
+    "relation": "uses_representation",
+    "object": "ola:n:4ee9cd19-55da-46e0-b728-5aaa961f9bf3",
+    "rationale": "Demonstrating Compute with integers materially invokes Signed number-line and chip model at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:624e2e4d-0797-45fd-a975-515296fa55bb",
+    "revision": 1,
+    "subject": "ola:n:255fe287-f185-4fc5-a48a-cb74b671a09a",
+    "relation": "composed_of",
+    "object": "ola:n:4f410b14-79ba-4f7e-8365-0670cf317005",
+    "rationale": "Solve a bounded integer equation is one bounded performance within Operate and solve with integers.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:9cb58b86-b7a8-456c-9641-f0c9b0bd163c",
+    "revision": 1,
+    "subject": "ola:n:4f410b14-79ba-4f7e-8365-0670cf317005",
+    "relation": "uses_concept",
+    "object": "ola:n:1859fbb2-6ea2-47ea-a2a1-2e2519f7c27e",
+    "rationale": "Demonstrating Solve a bounded integer equation materially invokes Additive inverse at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:bc8f8260-ea3a-4a41-a38f-78a4c8b00405",
+    "revision": 1,
+    "subject": "ola:n:4f410b14-79ba-4f7e-8365-0670cf317005",
+    "relation": "uses_knowledge",
+    "object": "ola:n:1c8edef1-c0f3-47f9-88a5-bb145078cee6",
+    "rationale": "Demonstrating Solve a bounded integer equation materially invokes Integer operation structure at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:bcaf2163-ca58-4fb4-b9b7-4a695babc513",
+    "revision": 1,
+    "subject": "ola:n:4f410b14-79ba-4f7e-8365-0670cf317005",
+    "relation": "uses_representation",
+    "object": "ola:n:4ee9cd19-55da-46e0-b728-5aaa961f9bf3",
+    "rationale": "Demonstrating Solve a bounded integer equation materially invokes Signed number-line and chip model at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:5cdd62f6-e7c1-49c0-83b0-e7f1da2a4d8d",
+    "revision": 1,
+    "subject": "ola:n:f6e75f2e-d126-4500-bedd-aa3c3624544c",
+    "relation": "composed_of",
+    "object": "ola:n:54b9c8ba-e9fb-40ab-9795-464bc85d8da4",
+    "rationale": "Reason about integer structure is a navigational capability family within whole-numbers-integers.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:4b7b6089-72f6-4439-b24d-c567f554f18f",
+    "revision": 1,
+    "subject": "ola:n:54b9c8ba-e9fb-40ab-9795-464bc85d8da4",
+    "relation": "composed_of",
+    "object": "ola:n:3c5d5348-b5f8-43fe-a058-bd66a61d197a",
+    "rationale": "Analyze parity and sign is one bounded performance within Reason about integer structure.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:23589174-e44e-4727-ad44-fdd3741ad358",
+    "revision": 1,
+    "subject": "ola:n:3c5d5348-b5f8-43fe-a058-bd66a61d197a",
+    "relation": "uses_concept",
+    "object": "ola:n:b45099e8-1378-4f52-8d07-d4b680d2af52",
+    "rationale": "Demonstrating Analyze parity and sign materially invokes Integer at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:ce1e0a59-424a-445d-849a-39644c152ee7",
+    "revision": 1,
+    "subject": "ola:n:3c5d5348-b5f8-43fe-a058-bd66a61d197a",
+    "relation": "uses_concept",
+    "object": "ola:n:1859fbb2-6ea2-47ea-a2a1-2e2519f7c27e",
+    "rationale": "Demonstrating Analyze parity and sign materially invokes Additive inverse at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:9259d403-0a7f-422d-8294-c38f5072f344",
+    "revision": 1,
+    "subject": "ola:n:3c5d5348-b5f8-43fe-a058-bd66a61d197a",
+    "relation": "uses_knowledge",
+    "object": "ola:n:1c8edef1-c0f3-47f9-88a5-bb145078cee6",
+    "rationale": "Demonstrating Analyze parity and sign materially invokes Integer operation structure at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:9ce8cd3e-6bc7-4aa6-8937-1d3e4ae49461",
+    "revision": 1,
+    "subject": "ola:n:3c5d5348-b5f8-43fe-a058-bd66a61d197a",
+    "relation": "uses_representation",
+    "object": "ola:n:4ee9cd19-55da-46e0-b728-5aaa961f9bf3",
+    "rationale": "Demonstrating Analyze parity and sign materially invokes Signed number-line and chip model at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:9649b6f5-e9eb-4c8f-97a4-e6d397561eb8",
+    "revision": 1,
+    "subject": "ola:n:54b9c8ba-e9fb-40ab-9795-464bc85d8da4",
+    "relation": "composed_of",
+    "object": "ola:n:c2a6c693-35dd-4783-95fb-05ebe1dda102",
+    "rationale": "Justify integer-operation equivalence is one bounded performance within Reason about integer structure.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:04d7c233-6f1f-4ced-9cf5-a5f0c5209bc0",
+    "revision": 1,
+    "subject": "ola:n:c2a6c693-35dd-4783-95fb-05ebe1dda102",
+    "relation": "uses_concept",
+    "object": "ola:n:b45099e8-1378-4f52-8d07-d4b680d2af52",
+    "rationale": "Demonstrating Justify integer-operation equivalence materially invokes Integer at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:5de85dc0-bab8-4436-8bbd-f6dd1f7bba9a",
+    "revision": 1,
+    "subject": "ola:n:c2a6c693-35dd-4783-95fb-05ebe1dda102",
+    "relation": "uses_concept",
+    "object": "ola:n:1859fbb2-6ea2-47ea-a2a1-2e2519f7c27e",
+    "rationale": "Demonstrating Justify integer-operation equivalence materially invokes Additive inverse at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:bd9a9fe6-8926-4dcb-89ab-8bc45f232480",
+    "revision": 1,
+    "subject": "ola:n:c2a6c693-35dd-4783-95fb-05ebe1dda102",
+    "relation": "uses_knowledge",
+    "object": "ola:n:1c8edef1-c0f3-47f9-88a5-bb145078cee6",
+    "rationale": "Demonstrating Justify integer-operation equivalence materially invokes Integer operation structure at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:b1892e6a-a0a7-4967-972d-124031523a74",
+    "revision": 1,
+    "subject": "ola:n:c2a6c693-35dd-4783-95fb-05ebe1dda102",
+    "relation": "uses_representation",
+    "object": "ola:n:4ee9cd19-55da-46e0-b728-5aaa961f9bf3",
+    "rationale": "Demonstrating Justify integer-operation equivalence materially invokes Signed number-line and chip model at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:dbe6b195-4e2a-46f8-8cba-1b3ad6f3f397",
+    "revision": 1,
+    "subject": "ola:n:3f0eadb0-1111-43cc-9bfe-db02f4776e93",
+    "relation": "composed_of",
+    "object": "ola:n:8ddc6ca2-ed2d-4662-b3dc-cdbcf77bfb3f",
+    "rationale": "Real number system is material terrain within real-complex-number-systems; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:c866c19c-9f3c-4906-866e-d9bbb22d5410",
+    "revision": 1,
+    "subject": "ola:n:3f0eadb0-1111-43cc-9bfe-db02f4776e93",
+    "relation": "composed_of",
+    "object": "ola:n:9c04dea0-f414-4f15-9a3a-7dbf3f733462",
+    "rationale": "Complex number system is material terrain within real-complex-number-systems; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:e4050f8a-b921-4517-a264-84c6ecab41c8",
+    "revision": 1,
+    "subject": "ola:n:3f0eadb0-1111-43cc-9bfe-db02f4776e93",
+    "relation": "composed_of",
+    "object": "ola:n:13ddff0e-f1ab-4c94-a7e7-6b2dd9fce78c",
+    "rationale": "Real–complex structural distinction is material terrain within real-complex-number-systems; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:5696d784-c6c9-4160-b025-54f64c32d24d",
+    "revision": 1,
+    "subject": "ola:n:3f0eadb0-1111-43cc-9bfe-db02f4776e93",
+    "relation": "composed_of",
+    "object": "ola:n:2dd9b11d-4b45-4ade-b835-a1857286723a",
+    "rationale": "Complex plane and number form is material terrain within real-complex-number-systems; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:04bace89-be6b-4685-9698-59aaff03147e",
+    "revision": 1,
+    "subject": "ola:n:3f0eadb0-1111-43cc-9bfe-db02f4776e93",
+    "relation": "composed_of",
+    "object": "ola:n:877f31ad-5580-42e9-9e07-6dfd1c3c5a34",
+    "rationale": "Classify and represent real and complex numbers is a navigational capability family within real-complex-number-systems.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:b222db2b-2bf8-4a1c-ba3e-cc082bcd4e98",
+    "revision": 1,
+    "subject": "ola:n:877f31ad-5580-42e9-9e07-6dfd1c3c5a34",
+    "relation": "composed_of",
+    "object": "ola:n:318fe36a-ec7e-4095-b35e-c969e204667e",
+    "rationale": "Classify real and complex values is one bounded performance within Classify and represent real and complex numbers.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:9d1e89b8-4af0-4c25-8b3a-2bf8b920e63d",
+    "revision": 1,
+    "subject": "ola:n:318fe36a-ec7e-4095-b35e-c969e204667e",
+    "relation": "uses_concept",
+    "object": "ola:n:8ddc6ca2-ed2d-4662-b3dc-cdbcf77bfb3f",
+    "rationale": "Demonstrating Classify real and complex values materially invokes Real number system at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:8d3c13af-6e16-458f-b187-a14a5e541d0a",
+    "revision": 1,
+    "subject": "ola:n:318fe36a-ec7e-4095-b35e-c969e204667e",
+    "relation": "uses_knowledge",
+    "object": "ola:n:13ddff0e-f1ab-4c94-a7e7-6b2dd9fce78c",
+    "rationale": "Demonstrating Classify real and complex values materially invokes Real–complex structural distinction at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:d01d177b-de2f-4511-bf4d-65d26749ae70",
+    "revision": 1,
+    "subject": "ola:n:318fe36a-ec7e-4095-b35e-c969e204667e",
+    "relation": "uses_representation",
+    "object": "ola:n:2dd9b11d-4b45-4ade-b835-a1857286723a",
+    "rationale": "Demonstrating Classify real and complex values materially invokes Complex plane and number form at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:7075204d-8c08-420c-9728-7b8d8d199b2d",
+    "revision": 1,
+    "subject": "ola:n:877f31ad-5580-42e9-9e07-6dfd1c3c5a34",
+    "relation": "composed_of",
+    "object": "ola:n:1cb250fc-eb0f-4e1c-a262-b1e4308749b5",
+    "rationale": "Translate complex-number forms is one bounded performance within Classify and represent real and complex numbers.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:cc070ba1-90d0-4785-8969-535428a20f90",
+    "revision": 1,
+    "subject": "ola:n:1cb250fc-eb0f-4e1c-a262-b1e4308749b5",
+    "relation": "uses_concept",
+    "object": "ola:n:8ddc6ca2-ed2d-4662-b3dc-cdbcf77bfb3f",
+    "rationale": "Demonstrating Translate complex-number forms materially invokes Real number system at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:a3d61548-6046-4dce-bed2-36f8b1a8dea7",
+    "revision": 1,
+    "subject": "ola:n:1cb250fc-eb0f-4e1c-a262-b1e4308749b5",
+    "relation": "uses_knowledge",
+    "object": "ola:n:13ddff0e-f1ab-4c94-a7e7-6b2dd9fce78c",
+    "rationale": "Demonstrating Translate complex-number forms materially invokes Real–complex structural distinction at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:4b731485-6de4-4f9e-9cce-b353c65c7b09",
+    "revision": 1,
+    "subject": "ola:n:1cb250fc-eb0f-4e1c-a262-b1e4308749b5",
+    "relation": "uses_representation",
+    "object": "ola:n:2dd9b11d-4b45-4ade-b835-a1857286723a",
+    "rationale": "Demonstrating Translate complex-number forms materially invokes Complex plane and number form at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:f77567c5-4f98-4f94-bc68-e47c1333e3d9",
+    "revision": 1,
+    "subject": "ola:n:3f0eadb0-1111-43cc-9bfe-db02f4776e93",
+    "relation": "composed_of",
+    "object": "ola:n:b2d20598-d97f-48e5-9fd6-55791d35b396",
+    "rationale": "Compute and solve in real and complex systems is a navigational capability family within real-complex-number-systems.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:4061514e-03dc-4901-a67f-9faf32ab9cc4",
+    "revision": 1,
+    "subject": "ola:n:b2d20598-d97f-48e5-9fd6-55791d35b396",
+    "relation": "composed_of",
+    "object": "ola:n:528d5945-87d0-413a-99ce-3a9d0d1a6f1c",
+    "rationale": "Compute complex arithmetic is one bounded performance within Compute and solve in real and complex systems.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:a1e23baa-b279-42f5-98ce-53145070e8c7",
+    "revision": 1,
+    "subject": "ola:n:528d5945-87d0-413a-99ce-3a9d0d1a6f1c",
+    "relation": "uses_concept",
+    "object": "ola:n:9c04dea0-f414-4f15-9a3a-7dbf3f733462",
+    "rationale": "Demonstrating Compute complex arithmetic materially invokes Complex number system at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:34cdaf08-ed60-47ce-8436-10ead1c61a43",
+    "revision": 1,
+    "subject": "ola:n:528d5945-87d0-413a-99ce-3a9d0d1a6f1c",
+    "relation": "uses_knowledge",
+    "object": "ola:n:13ddff0e-f1ab-4c94-a7e7-6b2dd9fce78c",
+    "rationale": "Demonstrating Compute complex arithmetic materially invokes Real–complex structural distinction at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:18c132a6-caa9-4fed-a7f0-de2c5ac6188b",
+    "revision": 1,
+    "subject": "ola:n:528d5945-87d0-413a-99ce-3a9d0d1a6f1c",
+    "relation": "uses_representation",
+    "object": "ola:n:2dd9b11d-4b45-4ade-b835-a1857286723a",
+    "rationale": "Demonstrating Compute complex arithmetic materially invokes Complex plane and number form at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:e60840d2-acf9-4338-ae0e-c4741bb2d86b",
+    "revision": 1,
+    "subject": "ola:n:b2d20598-d97f-48e5-9fd6-55791d35b396",
+    "relation": "composed_of",
+    "object": "ola:n:2bda6129-ca59-4eb0-9bd4-884ec1b30387",
+    "rationale": "Solve a bounded polynomial over the complex numbers is one bounded performance within Compute and solve in real and complex systems.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:a8a23548-ff1e-46dd-b976-7d4483887cb1",
+    "revision": 1,
+    "subject": "ola:n:2bda6129-ca59-4eb0-9bd4-884ec1b30387",
+    "relation": "uses_concept",
+    "object": "ola:n:9c04dea0-f414-4f15-9a3a-7dbf3f733462",
+    "rationale": "Demonstrating Solve a bounded polynomial over the complex numbers materially invokes Complex number system at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:e0e3b711-5895-4dab-8fe4-c11dd7253567",
+    "revision": 1,
+    "subject": "ola:n:2bda6129-ca59-4eb0-9bd4-884ec1b30387",
+    "relation": "uses_knowledge",
+    "object": "ola:n:13ddff0e-f1ab-4c94-a7e7-6b2dd9fce78c",
+    "rationale": "Demonstrating Solve a bounded polynomial over the complex numbers materially invokes Real–complex structural distinction at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:01ae4c40-c46e-43a7-ad4c-eb097344e9ad",
+    "revision": 1,
+    "subject": "ola:n:2bda6129-ca59-4eb0-9bd4-884ec1b30387",
+    "relation": "uses_representation",
+    "object": "ola:n:2dd9b11d-4b45-4ade-b835-a1857286723a",
+    "rationale": "Demonstrating Solve a bounded polynomial over the complex numbers materially invokes Complex plane and number form at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:d8ba8964-e5c8-44f0-bc9a-28f3ed83f5b7",
+    "revision": 1,
+    "subject": "ola:n:3f0eadb0-1111-43cc-9bfe-db02f4776e93",
+    "relation": "composed_of",
+    "object": "ola:n:a2c48bba-984c-4f7a-bc90-38661fcb2b67",
+    "rationale": "Reason about number-system extensions is a navigational capability family within real-complex-number-systems.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:8bb4ed33-3e40-4a0d-88b3-d7e05d90b30a",
+    "revision": 1,
+    "subject": "ola:n:a2c48bba-984c-4f7a-bc90-38661fcb2b67",
+    "relation": "composed_of",
+    "object": "ola:n:63e9716d-1e25-4187-9060-8ab62650ad08",
+    "rationale": "Bound an irrational real value is one bounded performance within Reason about number-system extensions.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:1e9830d2-0a4d-4105-a38b-a87d584f2cd2",
+    "revision": 1,
+    "subject": "ola:n:63e9716d-1e25-4187-9060-8ab62650ad08",
+    "relation": "uses_concept",
+    "object": "ola:n:8ddc6ca2-ed2d-4662-b3dc-cdbcf77bfb3f",
+    "rationale": "Demonstrating Bound an irrational real value materially invokes Real number system at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:e9f081b5-c7dd-4d6f-92f3-e2de522f687b",
+    "revision": 1,
+    "subject": "ola:n:63e9716d-1e25-4187-9060-8ab62650ad08",
+    "relation": "uses_concept",
+    "object": "ola:n:9c04dea0-f414-4f15-9a3a-7dbf3f733462",
+    "rationale": "Demonstrating Bound an irrational real value materially invokes Complex number system at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:8c5ca402-c336-400d-b18e-4964f2f3791a",
+    "revision": 1,
+    "subject": "ola:n:63e9716d-1e25-4187-9060-8ab62650ad08",
+    "relation": "uses_knowledge",
+    "object": "ola:n:13ddff0e-f1ab-4c94-a7e7-6b2dd9fce78c",
+    "rationale": "Demonstrating Bound an irrational real value materially invokes Real–complex structural distinction at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:f877adce-850d-479e-9773-e224a0820c11",
+    "revision": 1,
+    "subject": "ola:n:63e9716d-1e25-4187-9060-8ab62650ad08",
+    "relation": "uses_representation",
+    "object": "ola:n:2dd9b11d-4b45-4ade-b835-a1857286723a",
+    "rationale": "Demonstrating Bound an irrational real value materially invokes Complex plane and number form at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:10011ac6-f6ae-4ca1-8b8e-3206f2bbb30e",
+    "revision": 1,
+    "subject": "ola:n:a2c48bba-984c-4f7a-bc90-38661fcb2b67",
+    "relation": "composed_of",
+    "object": "ola:n:a8e62cef-9166-4b14-808b-ad4e4198f008",
+    "rationale": "Justify a real or complex identity is one bounded performance within Reason about number-system extensions.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:c57db635-210a-4ce7-96dd-576fcbb5733b",
+    "revision": 1,
+    "subject": "ola:n:a8e62cef-9166-4b14-808b-ad4e4198f008",
+    "relation": "uses_concept",
+    "object": "ola:n:8ddc6ca2-ed2d-4662-b3dc-cdbcf77bfb3f",
+    "rationale": "Demonstrating Justify a real or complex identity materially invokes Real number system at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:37cc398a-3ef0-4e2e-b506-ffb6bee174be",
+    "revision": 1,
+    "subject": "ola:n:a8e62cef-9166-4b14-808b-ad4e4198f008",
+    "relation": "uses_concept",
+    "object": "ola:n:9c04dea0-f414-4f15-9a3a-7dbf3f733462",
+    "rationale": "Demonstrating Justify a real or complex identity materially invokes Complex number system at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:a58c77c0-edf6-498e-815a-d62f82019633",
+    "revision": 1,
+    "subject": "ola:n:a8e62cef-9166-4b14-808b-ad4e4198f008",
+    "relation": "uses_knowledge",
+    "object": "ola:n:13ddff0e-f1ab-4c94-a7e7-6b2dd9fce78c",
+    "rationale": "Demonstrating Justify a real or complex identity materially invokes Real–complex structural distinction at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:9b5dcfdc-5caa-4869-8ac5-516d9f439790",
+    "revision": 1,
+    "subject": "ola:n:a8e62cef-9166-4b14-808b-ad4e4198f008",
+    "relation": "uses_representation",
+    "object": "ola:n:2dd9b11d-4b45-4ade-b835-a1857286723a",
+    "rationale": "Demonstrating Justify a real or complex identity materially invokes Complex plane and number form at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:60e8b108-affd-4614-9f9d-c27c8872bbf0",
+    "revision": 1,
+    "subject": "ola:n:8994155f-ccce-4906-a6d5-8fba0d4bcf41",
+    "relation": "composed_of",
+    "object": "ola:n:83984aed-b705-437d-85fa-e21706168908",
+    "rationale": "Arithmetic operation is material terrain within arithmetic-operations-properties; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:d63e9733-02df-41d4-ac4b-67a46fd54fdf",
+    "revision": 1,
+    "subject": "ola:n:8994155f-ccce-4906-a6d5-8fba0d4bcf41",
+    "relation": "composed_of",
+    "object": "ola:n:2e172eaa-b8f5-4841-8025-6374f0194ec1",
+    "rationale": "Inverse operation is material terrain within arithmetic-operations-properties; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:9b46e39b-230d-48da-bfb6-8a5716b9340a",
+    "revision": 1,
+    "subject": "ola:n:8994155f-ccce-4906-a6d5-8fba0d4bcf41",
+    "relation": "composed_of",
+    "object": "ola:n:9fdd4100-ef85-4d5d-bc2f-876d1d3ce567",
+    "rationale": "Arithmetic operation laws is material terrain within arithmetic-operations-properties; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:14e42af3-a33f-43d8-8c1f-d0211b53b9ad",
+    "revision": 1,
+    "subject": "ola:n:8994155f-ccce-4906-a6d5-8fba0d4bcf41",
+    "relation": "composed_of",
+    "object": "ola:n:31698d69-2f7b-4c1c-a95d-1007b8539d1a",
+    "rationale": "Arithmetic expression model is material terrain within arithmetic-operations-properties; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:84a8cc70-6ac6-499b-b72e-87eb49d45c3b",
+    "revision": 1,
+    "subject": "ola:n:8994155f-ccce-4906-a6d5-8fba0d4bcf41",
+    "relation": "composed_of",
+    "object": "ola:n:ed699fe4-4174-4942-86a9-522d3fec5f8a",
+    "rationale": "Interpret and compute arithmetic is a navigational capability family within arithmetic-operations-properties.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:1a64116a-83e8-4b90-bac0-9d9d166787e2",
+    "revision": 1,
+    "subject": "ola:n:ed699fe4-4174-4942-86a9-522d3fec5f8a",
+    "relation": "composed_of",
+    "object": "ola:n:b5499a1b-7863-4f66-b7f9-55655fad87f3",
+    "rationale": "Interpret an arithmetic expression is one bounded performance within Interpret and compute arithmetic.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:44d5abca-0736-4da8-a5ce-ebcde7d66ba9",
+    "revision": 1,
+    "subject": "ola:n:b5499a1b-7863-4f66-b7f9-55655fad87f3",
+    "relation": "uses_concept",
+    "object": "ola:n:83984aed-b705-437d-85fa-e21706168908",
+    "rationale": "Demonstrating Interpret an arithmetic expression materially invokes Arithmetic operation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:25646efe-3622-4da8-b70e-beb00fccf71f",
+    "revision": 1,
+    "subject": "ola:n:b5499a1b-7863-4f66-b7f9-55655fad87f3",
+    "relation": "uses_knowledge",
+    "object": "ola:n:9fdd4100-ef85-4d5d-bc2f-876d1d3ce567",
+    "rationale": "Demonstrating Interpret an arithmetic expression materially invokes Arithmetic operation laws at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:ccd8a577-6d76-4e36-81fb-b11a51efb25e",
+    "revision": 1,
+    "subject": "ola:n:b5499a1b-7863-4f66-b7f9-55655fad87f3",
+    "relation": "uses_representation",
+    "object": "ola:n:31698d69-2f7b-4c1c-a95d-1007b8539d1a",
+    "rationale": "Demonstrating Interpret an arithmetic expression materially invokes Arithmetic expression model at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:89e7b923-c890-4672-b0be-ff0aea044b25",
+    "revision": 1,
+    "subject": "ola:n:ed699fe4-4174-4942-86a9-522d3fec5f8a",
+    "relation": "composed_of",
+    "object": "ola:n:1c769ea3-cabd-4d05-a6b3-a87716bde381",
+    "rationale": "Compute a bounded arithmetic expression is one bounded performance within Interpret and compute arithmetic.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:023c2a39-fbb8-44f1-9906-e3981762e3e5",
+    "revision": 1,
+    "subject": "ola:n:1c769ea3-cabd-4d05-a6b3-a87716bde381",
+    "relation": "uses_concept",
+    "object": "ola:n:83984aed-b705-437d-85fa-e21706168908",
+    "rationale": "Demonstrating Compute a bounded arithmetic expression materially invokes Arithmetic operation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:b3b067dd-59bd-46ae-aad3-72fe80d47943",
+    "revision": 1,
+    "subject": "ola:n:1c769ea3-cabd-4d05-a6b3-a87716bde381",
+    "relation": "uses_knowledge",
+    "object": "ola:n:9fdd4100-ef85-4d5d-bc2f-876d1d3ce567",
+    "rationale": "Demonstrating Compute a bounded arithmetic expression materially invokes Arithmetic operation laws at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:19cb5083-1ac2-4880-a135-2ae6bbad36f6",
+    "revision": 1,
+    "subject": "ola:n:1c769ea3-cabd-4d05-a6b3-a87716bde381",
+    "relation": "uses_representation",
+    "object": "ola:n:31698d69-2f7b-4c1c-a95d-1007b8539d1a",
+    "rationale": "Demonstrating Compute a bounded arithmetic expression materially invokes Arithmetic expression model at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:af546920-6b58-4d6d-a8b9-ff22410efeb1",
+    "revision": 1,
+    "subject": "ola:n:8994155f-ccce-4906-a6d5-8fba0d4bcf41",
+    "relation": "composed_of",
+    "object": "ola:n:83018455-95c2-481f-861d-10c68b6bc6d6",
+    "rationale": "Select and check operations is a navigational capability family within arithmetic-operations-properties.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:d3d00d83-d3ab-4eea-845f-91abe8c174c2",
+    "revision": 1,
+    "subject": "ola:n:83018455-95c2-481f-861d-10c68b6bc6d6",
+    "relation": "composed_of",
+    "object": "ola:n:ed55e7e4-dd54-43b9-a3bd-82fbb54dca41",
+    "rationale": "Select an arithmetic operation for a relation is one bounded performance within Select and check operations.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:6b4baa5d-5b8b-412d-9abb-09590f1cd56f",
+    "revision": 1,
+    "subject": "ola:n:ed55e7e4-dd54-43b9-a3bd-82fbb54dca41",
+    "relation": "uses_concept",
+    "object": "ola:n:2e172eaa-b8f5-4841-8025-6374f0194ec1",
+    "rationale": "Demonstrating Select an arithmetic operation for a relation materially invokes Inverse operation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:714fa015-041e-439a-b511-80b307c22542",
+    "revision": 1,
+    "subject": "ola:n:ed55e7e4-dd54-43b9-a3bd-82fbb54dca41",
+    "relation": "uses_knowledge",
+    "object": "ola:n:9fdd4100-ef85-4d5d-bc2f-876d1d3ce567",
+    "rationale": "Demonstrating Select an arithmetic operation for a relation materially invokes Arithmetic operation laws at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:ce341f9f-be7a-48de-9572-c86622ab2349",
+    "revision": 1,
+    "subject": "ola:n:ed55e7e4-dd54-43b9-a3bd-82fbb54dca41",
+    "relation": "uses_representation",
+    "object": "ola:n:31698d69-2f7b-4c1c-a95d-1007b8539d1a",
+    "rationale": "Demonstrating Select an arithmetic operation for a relation materially invokes Arithmetic expression model at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:7b10ff50-5a6f-450a-9af0-d1600bda9423",
+    "revision": 1,
+    "subject": "ola:n:83018455-95c2-481f-861d-10c68b6bc6d6",
+    "relation": "composed_of",
+    "object": "ola:n:843ae57f-5ea7-4005-aabb-f74c16a1d443",
+    "rationale": "Estimate and check an arithmetic result is one bounded performance within Select and check operations.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:596575ef-7da9-46f7-b37e-bee5d9ab3dfb",
+    "revision": 1,
+    "subject": "ola:n:843ae57f-5ea7-4005-aabb-f74c16a1d443",
+    "relation": "uses_concept",
+    "object": "ola:n:2e172eaa-b8f5-4841-8025-6374f0194ec1",
+    "rationale": "Demonstrating Estimate and check an arithmetic result materially invokes Inverse operation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:920a65f1-0204-41e3-b3fe-87a84b41b700",
+    "revision": 1,
+    "subject": "ola:n:843ae57f-5ea7-4005-aabb-f74c16a1d443",
+    "relation": "uses_knowledge",
+    "object": "ola:n:9fdd4100-ef85-4d5d-bc2f-876d1d3ce567",
+    "rationale": "Demonstrating Estimate and check an arithmetic result materially invokes Arithmetic operation laws at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:ce7602c4-01d9-4c72-b461-1424b1be09a8",
+    "revision": 1,
+    "subject": "ola:n:843ae57f-5ea7-4005-aabb-f74c16a1d443",
+    "relation": "uses_representation",
+    "object": "ola:n:31698d69-2f7b-4c1c-a95d-1007b8539d1a",
+    "rationale": "Demonstrating Estimate and check an arithmetic result materially invokes Arithmetic expression model at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:4aab333f-e798-40fd-a186-4334b3c4dfed",
+    "revision": 1,
+    "subject": "ola:n:8994155f-ccce-4906-a6d5-8fba0d4bcf41",
+    "relation": "composed_of",
+    "object": "ola:n:91fd629b-7db1-4ced-b612-a7b378e1bc00",
+    "rationale": "Justify operation transformations is a navigational capability family within arithmetic-operations-properties.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:8b5e2845-61e1-4e7d-8ace-de2040ffcb86",
+    "revision": 1,
+    "subject": "ola:n:91fd629b-7db1-4ced-b612-a7b378e1bc00",
+    "relation": "composed_of",
+    "object": "ola:n:781e699a-0aa7-4d46-acd6-f4121e96b42a",
+    "rationale": "Transform an expression with operation laws is one bounded performance within Justify operation transformations.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:e11e59b5-14c2-4cb5-9916-ef98878656f0",
+    "revision": 1,
+    "subject": "ola:n:781e699a-0aa7-4d46-acd6-f4121e96b42a",
+    "relation": "uses_concept",
+    "object": "ola:n:83984aed-b705-437d-85fa-e21706168908",
+    "rationale": "Demonstrating Transform an expression with operation laws materially invokes Arithmetic operation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:a59fb4a7-26d6-40d7-aa9e-c7456846119e",
+    "revision": 1,
+    "subject": "ola:n:781e699a-0aa7-4d46-acd6-f4121e96b42a",
+    "relation": "uses_concept",
+    "object": "ola:n:2e172eaa-b8f5-4841-8025-6374f0194ec1",
+    "rationale": "Demonstrating Transform an expression with operation laws materially invokes Inverse operation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:6122e9a0-a41b-4e1d-bcbe-13f7b4918a95",
+    "revision": 1,
+    "subject": "ola:n:781e699a-0aa7-4d46-acd6-f4121e96b42a",
+    "relation": "uses_knowledge",
+    "object": "ola:n:9fdd4100-ef85-4d5d-bc2f-876d1d3ce567",
+    "rationale": "Demonstrating Transform an expression with operation laws materially invokes Arithmetic operation laws at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:dc29144c-ba37-43f1-b99c-986c77d648b9",
+    "revision": 1,
+    "subject": "ola:n:781e699a-0aa7-4d46-acd6-f4121e96b42a",
+    "relation": "uses_representation",
+    "object": "ola:n:31698d69-2f7b-4c1c-a95d-1007b8539d1a",
+    "rationale": "Demonstrating Transform an expression with operation laws materially invokes Arithmetic expression model at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:6d53d000-7073-458d-834d-8b04a59e9060",
+    "revision": 1,
+    "subject": "ola:n:91fd629b-7db1-4ced-b612-a7b378e1bc00",
+    "relation": "composed_of",
+    "object": "ola:n:6cb678d8-878b-40ca-ab1b-77744827958c",
+    "rationale": "Explain arithmetic-procedure equivalence is one bounded performance within Justify operation transformations.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:2fcb0bd5-1a54-48f3-a43f-3a61492df2e4",
+    "revision": 1,
+    "subject": "ola:n:6cb678d8-878b-40ca-ab1b-77744827958c",
+    "relation": "uses_concept",
+    "object": "ola:n:83984aed-b705-437d-85fa-e21706168908",
+    "rationale": "Demonstrating Explain arithmetic-procedure equivalence materially invokes Arithmetic operation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:8ce50ad3-54bc-48cb-a481-5005afcfdd45",
+    "revision": 1,
+    "subject": "ola:n:6cb678d8-878b-40ca-ab1b-77744827958c",
+    "relation": "uses_concept",
+    "object": "ola:n:2e172eaa-b8f5-4841-8025-6374f0194ec1",
+    "rationale": "Demonstrating Explain arithmetic-procedure equivalence materially invokes Inverse operation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:5c6d96f7-559e-4a9f-9972-b1998c2f85a0",
+    "revision": 1,
+    "subject": "ola:n:6cb678d8-878b-40ca-ab1b-77744827958c",
+    "relation": "uses_knowledge",
+    "object": "ola:n:9fdd4100-ef85-4d5d-bc2f-876d1d3ce567",
+    "rationale": "Demonstrating Explain arithmetic-procedure equivalence materially invokes Arithmetic operation laws at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:ea4649b5-6c46-4266-b52d-63e61b5a9208",
+    "revision": 1,
+    "subject": "ola:n:6cb678d8-878b-40ca-ab1b-77744827958c",
+    "relation": "uses_representation",
+    "object": "ola:n:31698d69-2f7b-4c1c-a95d-1007b8539d1a",
+    "rationale": "Demonstrating Explain arithmetic-procedure equivalence materially invokes Arithmetic expression model at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:b497dfbf-53ba-4424-ae7b-6407fe50b748",
+    "revision": 1,
+    "subject": "ola:n:0e63b46b-7ec0-4641-b8bf-14017474d82a",
+    "relation": "composed_of",
+    "object": "ola:n:49170afc-e1e9-41a4-aefe-aa78aa5cea5c",
+    "rationale": "Integer divisibility is material terrain within divisibility-number-theory; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:879cb8be-4f75-468e-ba45-dfa3ba769d67",
+    "revision": 1,
+    "subject": "ola:n:0e63b46b-7ec0-4641-b8bf-14017474d82a",
+    "relation": "composed_of",
+    "object": "ola:n:28aa07a6-035f-4634-9a9e-fe8c87028a9e",
+    "rationale": "Prime factorization is material terrain within divisibility-number-theory; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:4c36b38c-bb73-47bc-a135-8c79ec7d3611",
+    "revision": 1,
+    "subject": "ola:n:0e63b46b-7ec0-4641-b8bf-14017474d82a",
+    "relation": "composed_of",
+    "object": "ola:n:fde96ef4-a4e1-4543-8423-17d2f4975ce9",
+    "rationale": "Division algorithm and unique factorization is material terrain within divisibility-number-theory; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:51951903-0d82-40c3-8e7f-38f26d1d982e",
+    "revision": 1,
+    "subject": "ola:n:0e63b46b-7ec0-4641-b8bf-14017474d82a",
+    "relation": "composed_of",
+    "object": "ola:n:320bed64-837c-4114-be8b-9e27bff6af1c",
+    "rationale": "Factor and congruence representation is material terrain within divisibility-number-theory; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:1f270969-73cb-45c8-be21-9f176e7ec651",
+    "revision": 1,
+    "subject": "ola:n:0e63b46b-7ec0-4641-b8bf-14017474d82a",
+    "relation": "composed_of",
+    "object": "ola:n:a8369832-3377-4855-a21f-1c1e35a264f0",
+    "rationale": "Analyze factors and multiples is a navigational capability family within divisibility-number-theory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:771fc61a-62d0-42bd-bec9-9cd6d6c83fb0",
+    "revision": 1,
+    "subject": "ola:n:a8369832-3377-4855-a21f-1c1e35a264f0",
+    "relation": "composed_of",
+    "object": "ola:n:2368ed8a-b91d-4c0c-b61d-e1dd56a4b377",
+    "rationale": "Determine factors and multiples is one bounded performance within Analyze factors and multiples.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:35a01821-4284-41f0-9724-2b8917b73b83",
+    "revision": 1,
+    "subject": "ola:n:2368ed8a-b91d-4c0c-b61d-e1dd56a4b377",
+    "relation": "uses_concept",
+    "object": "ola:n:49170afc-e1e9-41a4-aefe-aa78aa5cea5c",
+    "rationale": "Demonstrating Determine factors and multiples materially invokes Integer divisibility at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:eba247b4-d127-4c07-92b2-6d6fe42ec8f5",
+    "revision": 1,
+    "subject": "ola:n:2368ed8a-b91d-4c0c-b61d-e1dd56a4b377",
+    "relation": "uses_knowledge",
+    "object": "ola:n:fde96ef4-a4e1-4543-8423-17d2f4975ce9",
+    "rationale": "Demonstrating Determine factors and multiples materially invokes Division algorithm and unique factorization at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:6f325f5e-7a5f-45f6-b913-7047f3984862",
+    "revision": 1,
+    "subject": "ola:n:2368ed8a-b91d-4c0c-b61d-e1dd56a4b377",
+    "relation": "uses_representation",
+    "object": "ola:n:320bed64-837c-4114-be8b-9e27bff6af1c",
+    "rationale": "Demonstrating Determine factors and multiples materially invokes Factor and congruence representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:62f44263-e1df-45ea-b0df-7994ca3bcfb4",
+    "revision": 1,
+    "subject": "ola:n:a8369832-3377-4855-a21f-1c1e35a264f0",
+    "relation": "composed_of",
+    "object": "ola:n:f459db4d-e909-4271-9b31-7755f0ba0ca8",
+    "rationale": "Construct a prime factorization is one bounded performance within Analyze factors and multiples.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:b1237af1-6565-4219-b160-10defd839836",
+    "revision": 1,
+    "subject": "ola:n:f459db4d-e909-4271-9b31-7755f0ba0ca8",
+    "relation": "uses_concept",
+    "object": "ola:n:49170afc-e1e9-41a4-aefe-aa78aa5cea5c",
+    "rationale": "Demonstrating Construct a prime factorization materially invokes Integer divisibility at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:03c6c79b-00d9-4dc5-a52a-629f1e4fde83",
+    "revision": 1,
+    "subject": "ola:n:f459db4d-e909-4271-9b31-7755f0ba0ca8",
+    "relation": "uses_knowledge",
+    "object": "ola:n:fde96ef4-a4e1-4543-8423-17d2f4975ce9",
+    "rationale": "Demonstrating Construct a prime factorization materially invokes Division algorithm and unique factorization at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:dee90b2b-b470-4322-9dad-906ba7e809db",
+    "revision": 1,
+    "subject": "ola:n:f459db4d-e909-4271-9b31-7755f0ba0ca8",
+    "relation": "uses_representation",
+    "object": "ola:n:320bed64-837c-4114-be8b-9e27bff6af1c",
+    "rationale": "Demonstrating Construct a prime factorization materially invokes Factor and congruence representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:6e2f57d3-04ef-4889-8441-ca1ff330ad0e",
+    "revision": 1,
+    "subject": "ola:n:0e63b46b-7ec0-4641-b8bf-14017474d82a",
+    "relation": "composed_of",
+    "object": "ola:n:1683a547-58d3-429f-8082-e645e839f876",
+    "rationale": "Compute divisibility invariants is a navigational capability family within divisibility-number-theory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:43d96ce1-f7af-45ef-b41b-577941327053",
+    "revision": 1,
+    "subject": "ola:n:1683a547-58d3-429f-8082-e645e839f876",
+    "relation": "composed_of",
+    "object": "ola:n:0cb9be4c-18e5-4ae5-9f21-c63430ab0554",
+    "rationale": "Determine a greatest common divisor or least common multiple is one bounded performance within Compute divisibility invariants.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:abb9b56e-a54f-4500-9dbe-662ae0584e65",
+    "revision": 1,
+    "subject": "ola:n:0cb9be4c-18e5-4ae5-9f21-c63430ab0554",
+    "relation": "uses_concept",
+    "object": "ola:n:28aa07a6-035f-4634-9a9e-fe8c87028a9e",
+    "rationale": "Demonstrating Determine a greatest common divisor or least common multiple materially invokes Prime factorization at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:73bd5246-d25d-45b9-abc9-3aec8cad5346",
+    "revision": 1,
+    "subject": "ola:n:0cb9be4c-18e5-4ae5-9f21-c63430ab0554",
+    "relation": "uses_knowledge",
+    "object": "ola:n:fde96ef4-a4e1-4543-8423-17d2f4975ce9",
+    "rationale": "Demonstrating Determine a greatest common divisor or least common multiple materially invokes Division algorithm and unique factorization at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:a1d0f031-b02f-4048-85f7-7494644f1387",
+    "revision": 1,
+    "subject": "ola:n:0cb9be4c-18e5-4ae5-9f21-c63430ab0554",
+    "relation": "uses_representation",
+    "object": "ola:n:320bed64-837c-4114-be8b-9e27bff6af1c",
+    "rationale": "Demonstrating Determine a greatest common divisor or least common multiple materially invokes Factor and congruence representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:f6915c85-aad5-41c8-b315-d2c88458e590",
+    "revision": 1,
+    "subject": "ola:n:1683a547-58d3-429f-8082-e645e839f876",
+    "relation": "composed_of",
+    "object": "ola:n:b1e99d64-cada-4256-9f60-6772cc45c9d2",
+    "rationale": "Compute and use modular remainders is one bounded performance within Compute divisibility invariants.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:7d476e08-6ca7-48f7-84cf-67d0ef30c73e",
+    "revision": 1,
+    "subject": "ola:n:b1e99d64-cada-4256-9f60-6772cc45c9d2",
+    "relation": "uses_concept",
+    "object": "ola:n:28aa07a6-035f-4634-9a9e-fe8c87028a9e",
+    "rationale": "Demonstrating Compute and use modular remainders materially invokes Prime factorization at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:f93e83b2-65a6-4af5-be3b-3c343ff156db",
+    "revision": 1,
+    "subject": "ola:n:b1e99d64-cada-4256-9f60-6772cc45c9d2",
+    "relation": "uses_knowledge",
+    "object": "ola:n:fde96ef4-a4e1-4543-8423-17d2f4975ce9",
+    "rationale": "Demonstrating Compute and use modular remainders materially invokes Division algorithm and unique factorization at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:01662577-3488-4d9d-90aa-450589ba67fb",
+    "revision": 1,
+    "subject": "ola:n:b1e99d64-cada-4256-9f60-6772cc45c9d2",
+    "relation": "uses_representation",
+    "object": "ola:n:320bed64-837c-4114-be8b-9e27bff6af1c",
+    "rationale": "Demonstrating Compute and use modular remainders materially invokes Factor and congruence representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:7e30480c-6553-4ec8-9133-716b33a92acb",
+    "revision": 1,
+    "subject": "ola:n:0e63b46b-7ec0-4641-b8bf-14017474d82a",
+    "relation": "composed_of",
+    "object": "ola:n:053bd53f-78c1-499c-b426-3aff124c67c7",
+    "rationale": "Justify number-theoretic claims is a navigational capability family within divisibility-number-theory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:664988c9-672c-48d9-9b58-1af796c40571",
+    "revision": 1,
+    "subject": "ola:n:053bd53f-78c1-499c-b426-3aff124c67c7",
+    "relation": "composed_of",
+    "object": "ola:n:9eadf81d-b7f9-43ae-b9a4-81528f9da234",
+    "rationale": "Prove a bounded divisibility claim is one bounded performance within Justify number-theoretic claims.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:f3dbf862-726f-45b1-a5cd-840b81b03398",
+    "revision": 1,
+    "subject": "ola:n:9eadf81d-b7f9-43ae-b9a4-81528f9da234",
+    "relation": "uses_concept",
+    "object": "ola:n:49170afc-e1e9-41a4-aefe-aa78aa5cea5c",
+    "rationale": "Demonstrating Prove a bounded divisibility claim materially invokes Integer divisibility at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:bdef1028-35db-4d43-b21b-5a96656c6e39",
+    "revision": 1,
+    "subject": "ola:n:9eadf81d-b7f9-43ae-b9a4-81528f9da234",
+    "relation": "uses_concept",
+    "object": "ola:n:28aa07a6-035f-4634-9a9e-fe8c87028a9e",
+    "rationale": "Demonstrating Prove a bounded divisibility claim materially invokes Prime factorization at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:ccb37789-ecbe-4604-a6d2-12de249182d8",
+    "revision": 1,
+    "subject": "ola:n:9eadf81d-b7f9-43ae-b9a4-81528f9da234",
+    "relation": "uses_knowledge",
+    "object": "ola:n:fde96ef4-a4e1-4543-8423-17d2f4975ce9",
+    "rationale": "Demonstrating Prove a bounded divisibility claim materially invokes Division algorithm and unique factorization at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:6852e509-647f-4e36-a395-805c1fcc7ae5",
+    "revision": 1,
+    "subject": "ola:n:9eadf81d-b7f9-43ae-b9a4-81528f9da234",
+    "relation": "uses_representation",
+    "object": "ola:n:320bed64-837c-4114-be8b-9e27bff6af1c",
+    "rationale": "Demonstrating Prove a bounded divisibility claim materially invokes Factor and congruence representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:fc036b0f-a933-49fd-854f-3a1f993a9af9",
+    "revision": 1,
+    "subject": "ola:n:053bd53f-78c1-499c-b426-3aff124c67c7",
+    "relation": "composed_of",
+    "object": "ola:n:3755baec-05fe-429f-a9cd-9441988a7bca",
+    "rationale": "Solve a linear Diophantine condition is one bounded performance within Justify number-theoretic claims.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:8208b935-e10e-41a7-8610-1a783b626d82",
+    "revision": 1,
+    "subject": "ola:n:3755baec-05fe-429f-a9cd-9441988a7bca",
+    "relation": "uses_concept",
+    "object": "ola:n:49170afc-e1e9-41a4-aefe-aa78aa5cea5c",
+    "rationale": "Demonstrating Solve a linear Diophantine condition materially invokes Integer divisibility at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:0ae59839-feff-4523-b79c-a7ca0afb0f29",
+    "revision": 1,
+    "subject": "ola:n:3755baec-05fe-429f-a9cd-9441988a7bca",
+    "relation": "uses_concept",
+    "object": "ola:n:28aa07a6-035f-4634-9a9e-fe8c87028a9e",
+    "rationale": "Demonstrating Solve a linear Diophantine condition materially invokes Prime factorization at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:d6d15754-6a79-4785-9de8-f2d4c5a8d88f",
+    "revision": 1,
+    "subject": "ola:n:3755baec-05fe-429f-a9cd-9441988a7bca",
+    "relation": "uses_knowledge",
+    "object": "ola:n:fde96ef4-a4e1-4543-8423-17d2f4975ce9",
+    "rationale": "Demonstrating Solve a linear Diophantine condition materially invokes Division algorithm and unique factorization at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:c80b347b-d117-457b-be88-c599d86207b2",
+    "revision": 1,
+    "subject": "ola:n:3755baec-05fe-429f-a9cd-9441988a7bca",
+    "relation": "uses_representation",
+    "object": "ola:n:320bed64-837c-4114-be8b-9e27bff6af1c",
+    "rationale": "Demonstrating Solve a linear Diophantine condition materially invokes Factor and congruence representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  }
+]

@@ -1,0 +1,4622 @@
+[
+  {
+    "id": "ola:e:8870b2af-9146-4c44-97f0-88287f73b225",
+    "revision": 1,
+    "subject": "ola:n:164c3d7c-a12e-4fe9-988d-5299b3ea2f29",
+    "relation": "composed_of",
+    "object": "ola:n:76b12621-fdab-4107-b46c-9014f7dc67b1",
+    "rationale": "Symbolic equivalence is material terrain within equivalence-symbolic-transformation; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:fbe3202a-f8ed-499f-aed8-e07f6dcf0a21",
+    "revision": 1,
+    "subject": "ola:n:164c3d7c-a12e-4fe9-988d-5299b3ea2f29",
+    "relation": "composed_of",
+    "object": "ola:n:6565bab6-70d1-45f4-9e77-0f949e578bcd",
+    "rationale": "Algebraic identity is material terrain within equivalence-symbolic-transformation; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:5c023603-8484-4077-a172-88ad1a49cbab",
+    "revision": 1,
+    "subject": "ola:n:164c3d7c-a12e-4fe9-988d-5299b3ea2f29",
+    "relation": "composed_of",
+    "object": "ola:n:2fdbc43f-8176-4839-9931-de5c7c1bcec1",
+    "rationale": "Equivalence-preserving transformation is material terrain within equivalence-symbolic-transformation; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:74053a3a-8c6c-419a-a893-53265d1a5f5e",
+    "revision": 1,
+    "subject": "ola:n:164c3d7c-a12e-4fe9-988d-5299b3ea2f29",
+    "relation": "composed_of",
+    "object": "ola:n:81bdeebd-182b-47d4-96f1-39d6a368b547",
+    "rationale": "Symbolic transformation chain is material terrain within equivalence-symbolic-transformation; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:2177e0d2-3f0c-4e91-bb71-dfccea8649e6",
+    "revision": 1,
+    "subject": "ola:n:164c3d7c-a12e-4fe9-988d-5299b3ea2f29",
+    "relation": "composed_of",
+    "object": "ola:n:4fe8f246-b36a-4a47-a06d-2a4574c90e87",
+    "rationale": "Interpret symbolic equivalence is a navigational capability family within equivalence-symbolic-transformation.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:50dfb579-7cf6-430f-aa50-2937f7702111",
+    "revision": 1,
+    "subject": "ola:n:4fe8f246-b36a-4a47-a06d-2a4574c90e87",
+    "relation": "composed_of",
+    "object": "ola:n:dc21a897-0cad-49df-88e2-69bee009aa7c",
+    "rationale": "Distinguish expression, equation, and identity is one bounded performance within Interpret symbolic equivalence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:f50f2481-387a-44b6-b599-8c986d306142",
+    "revision": 1,
+    "subject": "ola:n:dc21a897-0cad-49df-88e2-69bee009aa7c",
+    "relation": "uses_concept",
+    "object": "ola:n:76b12621-fdab-4107-b46c-9014f7dc67b1",
+    "rationale": "Demonstrating Distinguish expression, equation, and identity materially invokes Symbolic equivalence at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:a31a7bfb-1aef-4ae4-a5dc-8432f1998788",
+    "revision": 1,
+    "subject": "ola:n:dc21a897-0cad-49df-88e2-69bee009aa7c",
+    "relation": "uses_knowledge",
+    "object": "ola:n:2fdbc43f-8176-4839-9931-de5c7c1bcec1",
+    "rationale": "Demonstrating Distinguish expression, equation, and identity materially invokes Equivalence-preserving transformation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:94e4b324-9427-45a0-801e-75026fe859b0",
+    "revision": 1,
+    "subject": "ola:n:dc21a897-0cad-49df-88e2-69bee009aa7c",
+    "relation": "uses_representation",
+    "object": "ola:n:81bdeebd-182b-47d4-96f1-39d6a368b547",
+    "rationale": "Demonstrating Distinguish expression, equation, and identity materially invokes Symbolic transformation chain at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:b7b10449-02f7-4209-8444-6ea7380bb534",
+    "revision": 1,
+    "subject": "ola:n:4fe8f246-b36a-4a47-a06d-2a4574c90e87",
+    "relation": "composed_of",
+    "object": "ola:n:bdaf743e-621c-41b5-9192-ffcca9b17890",
+    "rationale": "Determine a symbolic form's domain is one bounded performance within Interpret symbolic equivalence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:12dfbc71-60d6-4fd3-93d1-f6f38a01afb1",
+    "revision": 1,
+    "subject": "ola:n:bdaf743e-621c-41b5-9192-ffcca9b17890",
+    "relation": "uses_concept",
+    "object": "ola:n:76b12621-fdab-4107-b46c-9014f7dc67b1",
+    "rationale": "Demonstrating Determine a symbolic form's domain materially invokes Symbolic equivalence at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:46ca9bc0-922d-40b9-89d0-0e18538a7f99",
+    "revision": 1,
+    "subject": "ola:n:bdaf743e-621c-41b5-9192-ffcca9b17890",
+    "relation": "uses_knowledge",
+    "object": "ola:n:2fdbc43f-8176-4839-9931-de5c7c1bcec1",
+    "rationale": "Demonstrating Determine a symbolic form's domain materially invokes Equivalence-preserving transformation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:48bf0598-ff9d-41cc-a92c-81a4de527f81",
+    "revision": 1,
+    "subject": "ola:n:bdaf743e-621c-41b5-9192-ffcca9b17890",
+    "relation": "uses_representation",
+    "object": "ola:n:81bdeebd-182b-47d4-96f1-39d6a368b547",
+    "rationale": "Demonstrating Determine a symbolic form's domain materially invokes Symbolic transformation chain at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:b07f38ab-088c-4e19-a498-5f78107ccdcf",
+    "revision": 1,
+    "subject": "ola:n:164c3d7c-a12e-4fe9-988d-5299b3ea2f29",
+    "relation": "composed_of",
+    "object": "ola:n:546a57e5-cec1-461d-a32e-3f1bda3bb25e",
+    "rationale": "Transform equivalent forms is a navigational capability family within equivalence-symbolic-transformation.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:11ed76a3-7bee-4104-b053-6f4eaf7369c7",
+    "revision": 1,
+    "subject": "ola:n:546a57e5-cec1-461d-a32e-3f1bda3bb25e",
+    "relation": "composed_of",
+    "object": "ola:n:71a52196-36e2-4222-881c-35810499b1b0",
+    "rationale": "Produce an equivalent symbolic form is one bounded performance within Transform equivalent forms.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:6c2f61e9-4797-4230-bb0a-217b04364dcf",
+    "revision": 1,
+    "subject": "ola:n:71a52196-36e2-4222-881c-35810499b1b0",
+    "relation": "uses_concept",
+    "object": "ola:n:6565bab6-70d1-45f4-9e77-0f949e578bcd",
+    "rationale": "Demonstrating Produce an equivalent symbolic form materially invokes Algebraic identity at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:944a3d6f-015e-4d5f-9efe-e2addcdd6faf",
+    "revision": 1,
+    "subject": "ola:n:71a52196-36e2-4222-881c-35810499b1b0",
+    "relation": "uses_knowledge",
+    "object": "ola:n:2fdbc43f-8176-4839-9931-de5c7c1bcec1",
+    "rationale": "Demonstrating Produce an equivalent symbolic form materially invokes Equivalence-preserving transformation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:2f4714a1-3b4b-46dd-bd82-cf8e26780935",
+    "revision": 1,
+    "subject": "ola:n:71a52196-36e2-4222-881c-35810499b1b0",
+    "relation": "uses_representation",
+    "object": "ola:n:81bdeebd-182b-47d4-96f1-39d6a368b547",
+    "rationale": "Demonstrating Produce an equivalent symbolic form materially invokes Symbolic transformation chain at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:5d494e73-a3ed-4ae7-810c-878f538f7d9f",
+    "revision": 1,
+    "subject": "ola:n:546a57e5-cec1-461d-a32e-3f1bda3bb25e",
+    "relation": "composed_of",
+    "object": "ola:n:f1a8937a-ff53-4e03-81fc-1ee7358e6427",
+    "rationale": "Verify a symbolic transformation is one bounded performance within Transform equivalent forms.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:32a41526-6abd-42e2-9886-26897317e04a",
+    "revision": 1,
+    "subject": "ola:n:f1a8937a-ff53-4e03-81fc-1ee7358e6427",
+    "relation": "uses_concept",
+    "object": "ola:n:6565bab6-70d1-45f4-9e77-0f949e578bcd",
+    "rationale": "Demonstrating Verify a symbolic transformation materially invokes Algebraic identity at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:8560d3d0-ed09-475b-9c94-d09d0354e37a",
+    "revision": 1,
+    "subject": "ola:n:f1a8937a-ff53-4e03-81fc-1ee7358e6427",
+    "relation": "uses_knowledge",
+    "object": "ola:n:2fdbc43f-8176-4839-9931-de5c7c1bcec1",
+    "rationale": "Demonstrating Verify a symbolic transformation materially invokes Equivalence-preserving transformation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:9ec6d2e6-7379-48ee-82c6-87f86f6ed211",
+    "revision": 1,
+    "subject": "ola:n:f1a8937a-ff53-4e03-81fc-1ee7358e6427",
+    "relation": "uses_representation",
+    "object": "ola:n:81bdeebd-182b-47d4-96f1-39d6a368b547",
+    "rationale": "Demonstrating Verify a symbolic transformation materially invokes Symbolic transformation chain at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:39304320-7f5e-4b39-84d5-700256b568b7",
+    "revision": 1,
+    "subject": "ola:n:164c3d7c-a12e-4fe9-988d-5299b3ea2f29",
+    "relation": "composed_of",
+    "object": "ola:n:be13cd84-f7ca-4dab-9c80-550ace002642",
+    "rationale": "Audit symbolic reasoning is a navigational capability family within equivalence-symbolic-transformation.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:2388592f-a02e-486d-b001-17a19a857cdb",
+    "revision": 1,
+    "subject": "ola:n:be13cd84-f7ca-4dab-9c80-550ace002642",
+    "relation": "composed_of",
+    "object": "ola:n:d3a0b649-e736-4f70-beed-dd5dfb64ebda",
+    "rationale": "Detect extraneous or lost solutions is one bounded performance within Audit symbolic reasoning.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:69ee7716-2d1f-4147-9978-c651a9aa5dae",
+    "revision": 1,
+    "subject": "ola:n:d3a0b649-e736-4f70-beed-dd5dfb64ebda",
+    "relation": "uses_concept",
+    "object": "ola:n:76b12621-fdab-4107-b46c-9014f7dc67b1",
+    "rationale": "Demonstrating Detect extraneous or lost solutions materially invokes Symbolic equivalence at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:13e6cd78-3962-45a8-9204-f9f02ca92e0d",
+    "revision": 1,
+    "subject": "ola:n:d3a0b649-e736-4f70-beed-dd5dfb64ebda",
+    "relation": "uses_concept",
+    "object": "ola:n:6565bab6-70d1-45f4-9e77-0f949e578bcd",
+    "rationale": "Demonstrating Detect extraneous or lost solutions materially invokes Algebraic identity at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:8358f850-a199-4e13-9cdd-1bdecc2139ee",
+    "revision": 1,
+    "subject": "ola:n:d3a0b649-e736-4f70-beed-dd5dfb64ebda",
+    "relation": "uses_knowledge",
+    "object": "ola:n:2fdbc43f-8176-4839-9931-de5c7c1bcec1",
+    "rationale": "Demonstrating Detect extraneous or lost solutions materially invokes Equivalence-preserving transformation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:311c8d0f-acd9-41df-8684-1a20cf59940b",
+    "revision": 1,
+    "subject": "ola:n:d3a0b649-e736-4f70-beed-dd5dfb64ebda",
+    "relation": "uses_representation",
+    "object": "ola:n:81bdeebd-182b-47d4-96f1-39d6a368b547",
+    "rationale": "Demonstrating Detect extraneous or lost solutions materially invokes Symbolic transformation chain at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:ea64101e-8484-4230-85f9-28dfb32fdc06",
+    "revision": 1,
+    "subject": "ola:n:be13cd84-f7ca-4dab-9c80-550ace002642",
+    "relation": "composed_of",
+    "object": "ola:n:53620b5f-bc29-4c32-8eee-a53ec64c576e",
+    "rationale": "Refute a false symbolic identity is one bounded performance within Audit symbolic reasoning.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:13d875c6-b3a4-4601-ac07-6f2349987d97",
+    "revision": 1,
+    "subject": "ola:n:53620b5f-bc29-4c32-8eee-a53ec64c576e",
+    "relation": "uses_concept",
+    "object": "ola:n:76b12621-fdab-4107-b46c-9014f7dc67b1",
+    "rationale": "Demonstrating Refute a false symbolic identity materially invokes Symbolic equivalence at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:8994f0f2-3769-4f90-be5b-a980d609afa3",
+    "revision": 1,
+    "subject": "ola:n:53620b5f-bc29-4c32-8eee-a53ec64c576e",
+    "relation": "uses_concept",
+    "object": "ola:n:6565bab6-70d1-45f4-9e77-0f949e578bcd",
+    "rationale": "Demonstrating Refute a false symbolic identity materially invokes Algebraic identity at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:538e8467-736e-4924-94fe-a28f6645a160",
+    "revision": 1,
+    "subject": "ola:n:53620b5f-bc29-4c32-8eee-a53ec64c576e",
+    "relation": "uses_knowledge",
+    "object": "ola:n:2fdbc43f-8176-4839-9931-de5c7c1bcec1",
+    "rationale": "Demonstrating Refute a false symbolic identity materially invokes Equivalence-preserving transformation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:4ea7e856-c20d-4b52-ad09-74a84ef1ac5f",
+    "revision": 1,
+    "subject": "ola:n:53620b5f-bc29-4c32-8eee-a53ec64c576e",
+    "relation": "uses_representation",
+    "object": "ola:n:81bdeebd-182b-47d4-96f1-39d6a368b547",
+    "rationale": "Demonstrating Refute a false symbolic identity materially invokes Symbolic transformation chain at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:3a45ebfa-5284-4115-8723-a2b78ae1eca9",
+    "revision": 1,
+    "subject": "ola:n:bb1b0330-6ee3-4e96-bdaa-5b36429d9aa8",
+    "relation": "composed_of",
+    "object": "ola:n:74161f05-1a35-425c-aa0c-991b9aadf215",
+    "rationale": "Mathematical variable is material terrain within variables-expressions; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:bdcd334b-42c1-4b99-8d02-a803c67087f1",
+    "revision": 1,
+    "subject": "ola:n:bb1b0330-6ee3-4e96-bdaa-5b36429d9aa8",
+    "relation": "composed_of",
+    "object": "ola:n:9ce71ba9-f5ac-4b19-b5b0-96951bbdbf63",
+    "rationale": "Algebraic expression is material terrain within variables-expressions; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:3e569049-47f4-4b34-9581-78f5a75012f6",
+    "revision": 1,
+    "subject": "ola:n:bb1b0330-6ee3-4e96-bdaa-5b36429d9aa8",
+    "relation": "composed_of",
+    "object": "ola:n:3c899306-56bc-4e4e-95cc-44d88fcffc01",
+    "rationale": "Substitution and expression structure is material terrain within variables-expressions; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:0ed23e4a-bd1e-4964-a125-1a6561bef91f",
+    "revision": 1,
+    "subject": "ola:n:bb1b0330-6ee3-4e96-bdaa-5b36429d9aa8",
+    "relation": "composed_of",
+    "object": "ola:n:3e2f46aa-bcef-460b-8812-140b87460ea4",
+    "rationale": "Expression tree, table, and rule is material terrain within variables-expressions; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:4da5ab2e-a066-4271-820b-f7f6c225329f",
+    "revision": 1,
+    "subject": "ola:n:bb1b0330-6ee3-4e96-bdaa-5b36429d9aa8",
+    "relation": "composed_of",
+    "object": "ola:n:a83fea9b-03a6-416d-af6e-85644353e8da",
+    "rationale": "Interpret and evaluate expressions is a navigational capability family within variables-expressions.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:1977ccba-5067-4a3f-81e5-414b7d7fa661",
+    "revision": 1,
+    "subject": "ola:n:a83fea9b-03a6-416d-af6e-85644353e8da",
+    "relation": "composed_of",
+    "object": "ola:n:b829b2e3-cc50-4d6d-b8d6-8c79b9e0aca4",
+    "rationale": "Interpret a variable's role is one bounded performance within Interpret and evaluate expressions.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:e2326c86-2e22-49a1-bd98-e94a8df193db",
+    "revision": 1,
+    "subject": "ola:n:b829b2e3-cc50-4d6d-b8d6-8c79b9e0aca4",
+    "relation": "uses_concept",
+    "object": "ola:n:74161f05-1a35-425c-aa0c-991b9aadf215",
+    "rationale": "Demonstrating Interpret a variable's role materially invokes Mathematical variable at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:345f6203-ed35-43fd-b091-c606fe4800e7",
+    "revision": 1,
+    "subject": "ola:n:b829b2e3-cc50-4d6d-b8d6-8c79b9e0aca4",
+    "relation": "uses_knowledge",
+    "object": "ola:n:3c899306-56bc-4e4e-95cc-44d88fcffc01",
+    "rationale": "Demonstrating Interpret a variable's role materially invokes Substitution and expression structure at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:80db3576-c62b-448f-b0e8-a5bcdc84db28",
+    "revision": 1,
+    "subject": "ola:n:b829b2e3-cc50-4d6d-b8d6-8c79b9e0aca4",
+    "relation": "uses_representation",
+    "object": "ola:n:3e2f46aa-bcef-460b-8812-140b87460ea4",
+    "rationale": "Demonstrating Interpret a variable's role materially invokes Expression tree, table, and rule at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:a31d5926-b447-4b49-b372-c10cc08657d5",
+    "revision": 1,
+    "subject": "ola:n:a83fea9b-03a6-416d-af6e-85644353e8da",
+    "relation": "composed_of",
+    "object": "ola:n:b2cf9f89-5f01-49d0-ad1c-94a2a6c6ce19",
+    "rationale": "Evaluate an expression by substitution is one bounded performance within Interpret and evaluate expressions.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:bcfa9fc7-5f46-4416-85ba-fe36b97ceb1b",
+    "revision": 1,
+    "subject": "ola:n:b2cf9f89-5f01-49d0-ad1c-94a2a6c6ce19",
+    "relation": "uses_concept",
+    "object": "ola:n:74161f05-1a35-425c-aa0c-991b9aadf215",
+    "rationale": "Demonstrating Evaluate an expression by substitution materially invokes Mathematical variable at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:7195e9d1-4b94-468b-b42e-3ca5a8f380ae",
+    "revision": 1,
+    "subject": "ola:n:b2cf9f89-5f01-49d0-ad1c-94a2a6c6ce19",
+    "relation": "uses_knowledge",
+    "object": "ola:n:3c899306-56bc-4e4e-95cc-44d88fcffc01",
+    "rationale": "Demonstrating Evaluate an expression by substitution materially invokes Substitution and expression structure at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:13f1ca3d-36ad-4db7-866f-6c6e62241561",
+    "revision": 1,
+    "subject": "ola:n:b2cf9f89-5f01-49d0-ad1c-94a2a6c6ce19",
+    "relation": "uses_representation",
+    "object": "ola:n:3e2f46aa-bcef-460b-8812-140b87460ea4",
+    "rationale": "Demonstrating Evaluate an expression by substitution materially invokes Expression tree, table, and rule at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:b51e00e5-320f-40ba-9223-e505d5a93e9c",
+    "revision": 1,
+    "subject": "ola:n:bb1b0330-6ee3-4e96-bdaa-5b36429d9aa8",
+    "relation": "composed_of",
+    "object": "ola:n:8935e919-7cac-4814-913e-c74bceca3289",
+    "rationale": "Construct and transform expressions is a navigational capability family within variables-expressions.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:51b7005f-e73e-4ede-9b91-f4383b6f527c",
+    "revision": 1,
+    "subject": "ola:n:8935e919-7cac-4814-913e-c74bceca3289",
+    "relation": "composed_of",
+    "object": "ola:n:d54e468d-fca5-4414-b5f1-59f98ac543fd",
+    "rationale": "Translate a relation into an expression is one bounded performance within Construct and transform expressions.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:34d6ac92-8136-4ca4-bd5c-fefae5c3039c",
+    "revision": 1,
+    "subject": "ola:n:d54e468d-fca5-4414-b5f1-59f98ac543fd",
+    "relation": "uses_concept",
+    "object": "ola:n:9ce71ba9-f5ac-4b19-b5b0-96951bbdbf63",
+    "rationale": "Demonstrating Translate a relation into an expression materially invokes Algebraic expression at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:c183423e-c399-4d46-be57-669c678b0fc2",
+    "revision": 1,
+    "subject": "ola:n:d54e468d-fca5-4414-b5f1-59f98ac543fd",
+    "relation": "uses_knowledge",
+    "object": "ola:n:3c899306-56bc-4e4e-95cc-44d88fcffc01",
+    "rationale": "Demonstrating Translate a relation into an expression materially invokes Substitution and expression structure at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:80005719-6c5d-4b1d-9769-215c0cb1d7f8",
+    "revision": 1,
+    "subject": "ola:n:d54e468d-fca5-4414-b5f1-59f98ac543fd",
+    "relation": "uses_representation",
+    "object": "ola:n:3e2f46aa-bcef-460b-8812-140b87460ea4",
+    "rationale": "Demonstrating Translate a relation into an expression materially invokes Expression tree, table, and rule at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:41a99424-5363-4efb-8339-2d35304b16f0",
+    "revision": 1,
+    "subject": "ola:n:8935e919-7cac-4814-913e-c74bceca3289",
+    "relation": "composed_of",
+    "object": "ola:n:0499af28-1bb5-41a7-b91e-8d95ff03bb2c",
+    "rationale": "Compose bounded expressions is one bounded performance within Construct and transform expressions.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:ca774f92-bab0-4ba0-8b0c-73d23ce58af4",
+    "revision": 1,
+    "subject": "ola:n:0499af28-1bb5-41a7-b91e-8d95ff03bb2c",
+    "relation": "uses_concept",
+    "object": "ola:n:9ce71ba9-f5ac-4b19-b5b0-96951bbdbf63",
+    "rationale": "Demonstrating Compose bounded expressions materially invokes Algebraic expression at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:a6cc018c-8eb3-423d-8c65-c8802733a4c2",
+    "revision": 1,
+    "subject": "ola:n:0499af28-1bb5-41a7-b91e-8d95ff03bb2c",
+    "relation": "uses_knowledge",
+    "object": "ola:n:3c899306-56bc-4e4e-95cc-44d88fcffc01",
+    "rationale": "Demonstrating Compose bounded expressions materially invokes Substitution and expression structure at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:fafc5c36-90e3-439b-9135-855d42322013",
+    "revision": 1,
+    "subject": "ola:n:0499af28-1bb5-41a7-b91e-8d95ff03bb2c",
+    "relation": "uses_representation",
+    "object": "ola:n:3e2f46aa-bcef-460b-8812-140b87460ea4",
+    "rationale": "Demonstrating Compose bounded expressions materially invokes Expression tree, table, and rule at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:3cfc194c-3ea2-49b5-8971-5a4addd5e733",
+    "revision": 1,
+    "subject": "ola:n:bb1b0330-6ee3-4e96-bdaa-5b36429d9aa8",
+    "relation": "composed_of",
+    "object": "ola:n:31418f0d-96d2-402c-b07c-1f0e6380801d",
+    "rationale": "Analyze expression structure is a navigational capability family within variables-expressions.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:b056fca7-0298-4f2b-8546-edcd8bd57409",
+    "revision": 1,
+    "subject": "ola:n:31418f0d-96d2-402c-b07c-1f0e6380801d",
+    "relation": "composed_of",
+    "object": "ola:n:2faaeb7b-ff8b-4a6c-9619-39db6401f551",
+    "rationale": "Identify expression substructure is one bounded performance within Analyze expression structure.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:1376d43c-41a1-4c34-adac-8920079294df",
+    "revision": 1,
+    "subject": "ola:n:2faaeb7b-ff8b-4a6c-9619-39db6401f551",
+    "relation": "uses_concept",
+    "object": "ola:n:74161f05-1a35-425c-aa0c-991b9aadf215",
+    "rationale": "Demonstrating Identify expression substructure materially invokes Mathematical variable at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:9ca32844-be93-4aac-8a0a-f2009e215799",
+    "revision": 1,
+    "subject": "ola:n:2faaeb7b-ff8b-4a6c-9619-39db6401f551",
+    "relation": "uses_concept",
+    "object": "ola:n:9ce71ba9-f5ac-4b19-b5b0-96951bbdbf63",
+    "rationale": "Demonstrating Identify expression substructure materially invokes Algebraic expression at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:c2f7014e-a3fd-429f-ac6d-b2e8964fd83f",
+    "revision": 1,
+    "subject": "ola:n:2faaeb7b-ff8b-4a6c-9619-39db6401f551",
+    "relation": "uses_knowledge",
+    "object": "ola:n:3c899306-56bc-4e4e-95cc-44d88fcffc01",
+    "rationale": "Demonstrating Identify expression substructure materially invokes Substitution and expression structure at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:1950b73d-b780-4e4a-8441-da8bcc25947e",
+    "revision": 1,
+    "subject": "ola:n:2faaeb7b-ff8b-4a6c-9619-39db6401f551",
+    "relation": "uses_representation",
+    "object": "ola:n:3e2f46aa-bcef-460b-8812-140b87460ea4",
+    "rationale": "Demonstrating Identify expression substructure materially invokes Expression tree, table, and rule at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:4c5d77ab-7517-4b11-933f-afaae60655d1",
+    "revision": 1,
+    "subject": "ola:n:31418f0d-96d2-402c-b07c-1f0e6380801d",
+    "relation": "composed_of",
+    "object": "ola:n:773a02b0-afe1-4161-909d-412bde327901",
+    "rationale": "Compare expression definitions is one bounded performance within Analyze expression structure.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:5e6b89dc-bf78-4a34-bf9e-6dfab886eac2",
+    "revision": 1,
+    "subject": "ola:n:773a02b0-afe1-4161-909d-412bde327901",
+    "relation": "uses_concept",
+    "object": "ola:n:74161f05-1a35-425c-aa0c-991b9aadf215",
+    "rationale": "Demonstrating Compare expression definitions materially invokes Mathematical variable at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:963dda56-284b-4c8c-a1ac-aa3fd69ee71e",
+    "revision": 1,
+    "subject": "ola:n:773a02b0-afe1-4161-909d-412bde327901",
+    "relation": "uses_concept",
+    "object": "ola:n:9ce71ba9-f5ac-4b19-b5b0-96951bbdbf63",
+    "rationale": "Demonstrating Compare expression definitions materially invokes Algebraic expression at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:f291691d-f475-45a5-a7c9-8d9567083a77",
+    "revision": 1,
+    "subject": "ola:n:773a02b0-afe1-4161-909d-412bde327901",
+    "relation": "uses_knowledge",
+    "object": "ola:n:3c899306-56bc-4e4e-95cc-44d88fcffc01",
+    "rationale": "Demonstrating Compare expression definitions materially invokes Substitution and expression structure at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:ca3220bc-1298-478c-82f4-68307528b0ed",
+    "revision": 1,
+    "subject": "ola:n:773a02b0-afe1-4161-909d-412bde327901",
+    "relation": "uses_representation",
+    "object": "ola:n:3e2f46aa-bcef-460b-8812-140b87460ea4",
+    "rationale": "Demonstrating Compare expression definitions materially invokes Expression tree, table, and rule at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:5b79032a-430b-45b1-8b7c-f6d41fe466c7",
+    "revision": 1,
+    "subject": "ola:n:ff72e1fe-db8d-4f43-8108-e6ff56f965a1",
+    "relation": "composed_of",
+    "object": "ola:n:f4d77aa0-4d6f-4ab3-9cf8-1067f6f88d06",
+    "rationale": "Solution set is material terrain within equations-inequalities-systems; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:628a8c3d-5796-4fa5-90bd-3a202a65b203",
+    "revision": 1,
+    "subject": "ola:n:ff72e1fe-db8d-4f43-8108-e6ff56f965a1",
+    "relation": "composed_of",
+    "object": "ola:n:ae8c60ba-71ee-4245-b1e1-d53cfe4e3208",
+    "rationale": "Simultaneous constraint is material terrain within equations-inequalities-systems; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:5d68f38d-7572-486c-908a-9977ff7b9640",
+    "revision": 1,
+    "subject": "ola:n:ff72e1fe-db8d-4f43-8108-e6ff56f965a1",
+    "relation": "composed_of",
+    "object": "ola:n:dab40c4a-592a-4b8b-8ff1-55d140843ecb",
+    "rationale": "Solution-set preservation is material terrain within equations-inequalities-systems; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:8cfa4da1-656b-40f6-a01d-f1f7b02a6b32",
+    "revision": 1,
+    "subject": "ola:n:ff72e1fe-db8d-4f43-8108-e6ff56f965a1",
+    "relation": "composed_of",
+    "object": "ola:n:a681d401-75a2-41df-84c8-6f32d9013164",
+    "rationale": "Equation graph and solution region is material terrain within equations-inequalities-systems; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:a2cac61a-9c7a-456a-85f6-de8acddf3e5e",
+    "revision": 1,
+    "subject": "ola:n:ff72e1fe-db8d-4f43-8108-e6ff56f965a1",
+    "relation": "composed_of",
+    "object": "ola:n:37da4e40-66ba-4365-91e5-9aa29f9f03fa",
+    "rationale": "Solve single equations and inequalities is a navigational capability family within equations-inequalities-systems.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:6e59292d-08da-412f-9dd6-17c42e16f7c6",
+    "revision": 1,
+    "subject": "ola:n:37da4e40-66ba-4365-91e5-9aa29f9f03fa",
+    "relation": "composed_of",
+    "object": "ola:n:f3326240-385a-4365-8b23-04c48a563382",
+    "rationale": "Solve a bounded equation is one bounded performance within Solve single equations and inequalities.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:efcc15bb-114a-40b7-b501-19902b0f4560",
+    "revision": 1,
+    "subject": "ola:n:f3326240-385a-4365-8b23-04c48a563382",
+    "relation": "uses_concept",
+    "object": "ola:n:f4d77aa0-4d6f-4ab3-9cf8-1067f6f88d06",
+    "rationale": "Demonstrating Solve a bounded equation materially invokes Solution set at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:b837d93b-f55e-453a-9175-fb823ce5b45a",
+    "revision": 1,
+    "subject": "ola:n:f3326240-385a-4365-8b23-04c48a563382",
+    "relation": "uses_knowledge",
+    "object": "ola:n:dab40c4a-592a-4b8b-8ff1-55d140843ecb",
+    "rationale": "Demonstrating Solve a bounded equation materially invokes Solution-set preservation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:e743d796-a373-4957-86b6-ac5d4789ef9e",
+    "revision": 1,
+    "subject": "ola:n:f3326240-385a-4365-8b23-04c48a563382",
+    "relation": "uses_representation",
+    "object": "ola:n:a681d401-75a2-41df-84c8-6f32d9013164",
+    "rationale": "Demonstrating Solve a bounded equation materially invokes Equation graph and solution region at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:f9ff58a4-8c9d-4287-a8bb-a6e288300b1c",
+    "revision": 1,
+    "subject": "ola:n:37da4e40-66ba-4365-91e5-9aa29f9f03fa",
+    "relation": "composed_of",
+    "object": "ola:n:06e2626c-6139-4dad-b3e9-e500ffd959f5",
+    "rationale": "Solve a bounded inequality is one bounded performance within Solve single equations and inequalities.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:d50376d2-6d92-417e-b3af-e7164587f319",
+    "revision": 1,
+    "subject": "ola:n:06e2626c-6139-4dad-b3e9-e500ffd959f5",
+    "relation": "uses_concept",
+    "object": "ola:n:f4d77aa0-4d6f-4ab3-9cf8-1067f6f88d06",
+    "rationale": "Demonstrating Solve a bounded inequality materially invokes Solution set at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:16a15dd5-6e76-4f78-abd3-9b3896cf17c3",
+    "revision": 1,
+    "subject": "ola:n:06e2626c-6139-4dad-b3e9-e500ffd959f5",
+    "relation": "uses_knowledge",
+    "object": "ola:n:dab40c4a-592a-4b8b-8ff1-55d140843ecb",
+    "rationale": "Demonstrating Solve a bounded inequality materially invokes Solution-set preservation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:7b6002a6-7047-46ec-add4-f88ee1018528",
+    "revision": 1,
+    "subject": "ola:n:06e2626c-6139-4dad-b3e9-e500ffd959f5",
+    "relation": "uses_representation",
+    "object": "ola:n:a681d401-75a2-41df-84c8-6f32d9013164",
+    "rationale": "Demonstrating Solve a bounded inequality materially invokes Equation graph and solution region at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:895bd040-6262-419c-ba5f-75763cb7f59a",
+    "revision": 1,
+    "subject": "ola:n:ff72e1fe-db8d-4f43-8108-e6ff56f965a1",
+    "relation": "composed_of",
+    "object": "ola:n:9e083d68-ee67-4d6e-90c2-0a103e50691a",
+    "rationale": "Solve simultaneous systems is a navigational capability family within equations-inequalities-systems.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:cd846464-faa0-49b1-a0e6-ddfd1eb4fddc",
+    "revision": 1,
+    "subject": "ola:n:9e083d68-ee67-4d6e-90c2-0a103e50691a",
+    "relation": "composed_of",
+    "object": "ola:n:c4417d9b-b26d-4f56-b198-29a096b751a9",
+    "rationale": "Solve a bounded equation system is one bounded performance within Solve simultaneous systems.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:ec980046-3934-456e-a569-f7cd10794ae3",
+    "revision": 1,
+    "subject": "ola:n:c4417d9b-b26d-4f56-b198-29a096b751a9",
+    "relation": "uses_concept",
+    "object": "ola:n:ae8c60ba-71ee-4245-b1e1-d53cfe4e3208",
+    "rationale": "Demonstrating Solve a bounded equation system materially invokes Simultaneous constraint at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:315b4fa9-834c-40ff-beac-3a49669b5525",
+    "revision": 1,
+    "subject": "ola:n:c4417d9b-b26d-4f56-b198-29a096b751a9",
+    "relation": "uses_knowledge",
+    "object": "ola:n:dab40c4a-592a-4b8b-8ff1-55d140843ecb",
+    "rationale": "Demonstrating Solve a bounded equation system materially invokes Solution-set preservation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:424652e8-fcbd-45ca-b623-e94db71ac1af",
+    "revision": 1,
+    "subject": "ola:n:c4417d9b-b26d-4f56-b198-29a096b751a9",
+    "relation": "uses_representation",
+    "object": "ola:n:a681d401-75a2-41df-84c8-6f32d9013164",
+    "rationale": "Demonstrating Solve a bounded equation system materially invokes Equation graph and solution region at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:3e6cc3ed-2aa8-4823-b376-53c0f27f14db",
+    "revision": 1,
+    "subject": "ola:n:9e083d68-ee67-4d6e-90c2-0a103e50691a",
+    "relation": "composed_of",
+    "object": "ola:n:4469e0bf-3dda-418e-a5dd-2a182f5ff8c4",
+    "rationale": "Analyze a feasible region is one bounded performance within Solve simultaneous systems.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:63b246a5-111b-407b-8440-fb59888ac807",
+    "revision": 1,
+    "subject": "ola:n:4469e0bf-3dda-418e-a5dd-2a182f5ff8c4",
+    "relation": "uses_concept",
+    "object": "ola:n:ae8c60ba-71ee-4245-b1e1-d53cfe4e3208",
+    "rationale": "Demonstrating Analyze a feasible region materially invokes Simultaneous constraint at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:5915b76d-6b8a-451b-a42c-0e33cbe88d96",
+    "revision": 1,
+    "subject": "ola:n:4469e0bf-3dda-418e-a5dd-2a182f5ff8c4",
+    "relation": "uses_knowledge",
+    "object": "ola:n:dab40c4a-592a-4b8b-8ff1-55d140843ecb",
+    "rationale": "Demonstrating Analyze a feasible region materially invokes Solution-set preservation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:034601a4-088b-4817-bae1-69eb9564ae57",
+    "revision": 1,
+    "subject": "ola:n:4469e0bf-3dda-418e-a5dd-2a182f5ff8c4",
+    "relation": "uses_representation",
+    "object": "ola:n:a681d401-75a2-41df-84c8-6f32d9013164",
+    "rationale": "Demonstrating Analyze a feasible region materially invokes Equation graph and solution region at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:a5c7ba14-76e5-4e5d-8cc7-407a683e3fb2",
+    "revision": 1,
+    "subject": "ola:n:ff72e1fe-db8d-4f43-8108-e6ff56f965a1",
+    "relation": "composed_of",
+    "object": "ola:n:37da6ef3-2dd8-4efa-be36-d205484d88b0",
+    "rationale": "Model and audit solution sets is a navigational capability family within equations-inequalities-systems.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:8fdc459b-8f62-4c6a-8653-558f8a71e461",
+    "revision": 1,
+    "subject": "ola:n:37da6ef3-2dd8-4efa-be36-d205484d88b0",
+    "relation": "composed_of",
+    "object": "ola:n:066281f0-3b64-4e3e-be1a-9f71845cee6a",
+    "rationale": "Construct an equation or constraint model is one bounded performance within Model and audit solution sets.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:72ed13e9-a024-47c4-bc52-6f22478662d8",
+    "revision": 1,
+    "subject": "ola:n:066281f0-3b64-4e3e-be1a-9f71845cee6a",
+    "relation": "uses_concept",
+    "object": "ola:n:f4d77aa0-4d6f-4ab3-9cf8-1067f6f88d06",
+    "rationale": "Demonstrating Construct an equation or constraint model materially invokes Solution set at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:b29a1939-17c5-47e2-9947-5b1777f648ed",
+    "revision": 1,
+    "subject": "ola:n:066281f0-3b64-4e3e-be1a-9f71845cee6a",
+    "relation": "uses_concept",
+    "object": "ola:n:ae8c60ba-71ee-4245-b1e1-d53cfe4e3208",
+    "rationale": "Demonstrating Construct an equation or constraint model materially invokes Simultaneous constraint at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:ffdf7fdf-6604-4a49-a95e-30365fc4af42",
+    "revision": 1,
+    "subject": "ola:n:066281f0-3b64-4e3e-be1a-9f71845cee6a",
+    "relation": "uses_knowledge",
+    "object": "ola:n:dab40c4a-592a-4b8b-8ff1-55d140843ecb",
+    "rationale": "Demonstrating Construct an equation or constraint model materially invokes Solution-set preservation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:f8639181-61a7-4b08-9338-5a50f2c59cc6",
+    "revision": 1,
+    "subject": "ola:n:066281f0-3b64-4e3e-be1a-9f71845cee6a",
+    "relation": "uses_representation",
+    "object": "ola:n:a681d401-75a2-41df-84c8-6f32d9013164",
+    "rationale": "Demonstrating Construct an equation or constraint model materially invokes Equation graph and solution region at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:366a6109-5f7d-4b4c-ade6-bae7b7034dc8",
+    "revision": 1,
+    "subject": "ola:n:37da6ef3-2dd8-4efa-be36-d205484d88b0",
+    "relation": "composed_of",
+    "object": "ola:n:b2be2e05-a597-43ce-af6e-30acaeb410a6",
+    "rationale": "Audit a proposed solution set is one bounded performance within Model and audit solution sets.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:5cc0dc4b-6403-4688-b9aa-7ae89be82607",
+    "revision": 1,
+    "subject": "ola:n:b2be2e05-a597-43ce-af6e-30acaeb410a6",
+    "relation": "uses_concept",
+    "object": "ola:n:f4d77aa0-4d6f-4ab3-9cf8-1067f6f88d06",
+    "rationale": "Demonstrating Audit a proposed solution set materially invokes Solution set at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:f320dbce-7c86-48bc-bd95-0355488757b3",
+    "revision": 1,
+    "subject": "ola:n:b2be2e05-a597-43ce-af6e-30acaeb410a6",
+    "relation": "uses_concept",
+    "object": "ola:n:ae8c60ba-71ee-4245-b1e1-d53cfe4e3208",
+    "rationale": "Demonstrating Audit a proposed solution set materially invokes Simultaneous constraint at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:750cde50-ac81-4f30-9ce6-23d124c1a2a4",
+    "revision": 1,
+    "subject": "ola:n:b2be2e05-a597-43ce-af6e-30acaeb410a6",
+    "relation": "uses_knowledge",
+    "object": "ola:n:dab40c4a-592a-4b8b-8ff1-55d140843ecb",
+    "rationale": "Demonstrating Audit a proposed solution set materially invokes Solution-set preservation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:ad98f44c-9b34-4794-80ef-8d8806f608a1",
+    "revision": 1,
+    "subject": "ola:n:b2be2e05-a597-43ce-af6e-30acaeb410a6",
+    "relation": "uses_representation",
+    "object": "ola:n:a681d401-75a2-41df-84c8-6f32d9013164",
+    "rationale": "Demonstrating Audit a proposed solution set materially invokes Equation graph and solution region at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:4d32481f-0343-4c49-add1-faf0763d76c0",
+    "revision": 1,
+    "subject": "ola:n:344d96fb-d7f4-48ff-9896-7b455896c020",
+    "relation": "composed_of",
+    "object": "ola:n:e58acee4-2b55-4b95-b0cf-5626a1cbe944",
+    "rationale": "Polynomial is material terrain within polynomial-algebra; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:71df9136-2daa-44b0-b979-af05d117de56",
+    "revision": 1,
+    "subject": "ola:n:344d96fb-d7f4-48ff-9896-7b455896c020",
+    "relation": "composed_of",
+    "object": "ola:n:5ba1f7ad-2e17-4254-80fd-c7483bcbff37",
+    "rationale": "Polynomial root and factor is material terrain within polynomial-algebra; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:a59b51af-dc54-4352-aeb1-6c001101cbe2",
+    "revision": 1,
+    "subject": "ola:n:344d96fb-d7f4-48ff-9896-7b455896c020",
+    "relation": "composed_of",
+    "object": "ola:n:88333f65-ccff-4cd0-a45e-31890b6dfa42",
+    "rationale": "Polynomial division and factor theorem is material terrain within polynomial-algebra; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:ed70cabf-5235-4008-8879-eac493d280ac",
+    "revision": 1,
+    "subject": "ola:n:344d96fb-d7f4-48ff-9896-7b455896c020",
+    "relation": "composed_of",
+    "object": "ola:n:c556ad1c-454a-4b0a-8fc0-2e53e9d2de9e",
+    "rationale": "Polynomial coefficient, factor, and graph forms is material terrain within polynomial-algebra; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:7203deb2-1e0b-4c3c-b4d6-46af9df78bed",
+    "revision": 1,
+    "subject": "ola:n:344d96fb-d7f4-48ff-9896-7b455896c020",
+    "relation": "composed_of",
+    "object": "ola:n:b9da1d6f-4b9d-45f8-a01f-24f09d290706",
+    "rationale": "Operate on and transform polynomials is a navigational capability family within polynomial-algebra.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:19da10a3-4bd1-42ad-8b7b-75d4a82dc905",
+    "revision": 1,
+    "subject": "ola:n:b9da1d6f-4b9d-45f8-a01f-24f09d290706",
+    "relation": "composed_of",
+    "object": "ola:n:6bbe02a9-466c-4024-bd55-24450dd96fbb",
+    "rationale": "Compute polynomial operations is one bounded performance within Operate on and transform polynomials.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:44c57223-3446-4135-8e89-8164b73fc214",
+    "revision": 1,
+    "subject": "ola:n:6bbe02a9-466c-4024-bd55-24450dd96fbb",
+    "relation": "uses_concept",
+    "object": "ola:n:e58acee4-2b55-4b95-b0cf-5626a1cbe944",
+    "rationale": "Demonstrating Compute polynomial operations materially invokes Polynomial at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:421a5c3b-41db-41d3-939d-97b2f625ba15",
+    "revision": 1,
+    "subject": "ola:n:6bbe02a9-466c-4024-bd55-24450dd96fbb",
+    "relation": "uses_knowledge",
+    "object": "ola:n:88333f65-ccff-4cd0-a45e-31890b6dfa42",
+    "rationale": "Demonstrating Compute polynomial operations materially invokes Polynomial division and factor theorem at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:08a19d03-abf0-47ec-91a5-7ee42d19546c",
+    "revision": 1,
+    "subject": "ola:n:6bbe02a9-466c-4024-bd55-24450dd96fbb",
+    "relation": "uses_representation",
+    "object": "ola:n:c556ad1c-454a-4b0a-8fc0-2e53e9d2de9e",
+    "rationale": "Demonstrating Compute polynomial operations materially invokes Polynomial coefficient, factor, and graph forms at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:95731ea9-6b48-495c-aa8b-7d516fcf992d",
+    "revision": 1,
+    "subject": "ola:n:b9da1d6f-4b9d-45f8-a01f-24f09d290706",
+    "relation": "composed_of",
+    "object": "ola:n:36aaaab3-41fb-42ff-8f40-e5efb163716e",
+    "rationale": "Factor a polynomial in scope is one bounded performance within Operate on and transform polynomials.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:14f936b2-f6ad-4637-938f-517b0c023bdb",
+    "revision": 1,
+    "subject": "ola:n:36aaaab3-41fb-42ff-8f40-e5efb163716e",
+    "relation": "uses_concept",
+    "object": "ola:n:e58acee4-2b55-4b95-b0cf-5626a1cbe944",
+    "rationale": "Demonstrating Factor a polynomial in scope materially invokes Polynomial at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:2e2631d9-14a7-408a-95b0-edd7acf9287e",
+    "revision": 1,
+    "subject": "ola:n:36aaaab3-41fb-42ff-8f40-e5efb163716e",
+    "relation": "uses_knowledge",
+    "object": "ola:n:88333f65-ccff-4cd0-a45e-31890b6dfa42",
+    "rationale": "Demonstrating Factor a polynomial in scope materially invokes Polynomial division and factor theorem at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:e14d44d0-bcee-4d19-b821-46e91bdb1a00",
+    "revision": 1,
+    "subject": "ola:n:36aaaab3-41fb-42ff-8f40-e5efb163716e",
+    "relation": "uses_representation",
+    "object": "ola:n:c556ad1c-454a-4b0a-8fc0-2e53e9d2de9e",
+    "rationale": "Demonstrating Factor a polynomial in scope materially invokes Polynomial coefficient, factor, and graph forms at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:27f19997-cad6-4d12-8aea-121e351580f7",
+    "revision": 1,
+    "subject": "ola:n:344d96fb-d7f4-48ff-9896-7b455896c020",
+    "relation": "composed_of",
+    "object": "ola:n:344759cc-45fe-4989-926c-6145aa802efa",
+    "rationale": "Analyze polynomial roots and graphs is a navigational capability family within polynomial-algebra.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:870c2fdb-354b-4d6f-8c0d-6b0f5fdf5185",
+    "revision": 1,
+    "subject": "ola:n:344759cc-45fe-4989-926c-6145aa802efa",
+    "relation": "composed_of",
+    "object": "ola:n:dc6cf92b-1bb7-4c89-9cdc-462b62844d0f",
+    "rationale": "Determine polynomial roots is one bounded performance within Analyze polynomial roots and graphs.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:03c39ed2-98a5-45f8-b970-fcda432dbd50",
+    "revision": 1,
+    "subject": "ola:n:dc6cf92b-1bb7-4c89-9cdc-462b62844d0f",
+    "relation": "uses_concept",
+    "object": "ola:n:5ba1f7ad-2e17-4254-80fd-c7483bcbff37",
+    "rationale": "Demonstrating Determine polynomial roots materially invokes Polynomial root and factor at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:ec9a09a6-1ae8-4ae7-a6b0-62699a5a143d",
+    "revision": 1,
+    "subject": "ola:n:dc6cf92b-1bb7-4c89-9cdc-462b62844d0f",
+    "relation": "uses_knowledge",
+    "object": "ola:n:88333f65-ccff-4cd0-a45e-31890b6dfa42",
+    "rationale": "Demonstrating Determine polynomial roots materially invokes Polynomial division and factor theorem at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:037f8c9c-a1a9-448a-8626-5cfed7e423ec",
+    "revision": 1,
+    "subject": "ola:n:dc6cf92b-1bb7-4c89-9cdc-462b62844d0f",
+    "relation": "uses_representation",
+    "object": "ola:n:c556ad1c-454a-4b0a-8fc0-2e53e9d2de9e",
+    "rationale": "Demonstrating Determine polynomial roots materially invokes Polynomial coefficient, factor, and graph forms at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:167d8fec-6809-423c-82c0-961a8c50a6d4",
+    "revision": 1,
+    "subject": "ola:n:344759cc-45fe-4989-926c-6145aa802efa",
+    "relation": "composed_of",
+    "object": "ola:n:1acd3a0c-f24e-41dd-a272-86176289a53e",
+    "rationale": "Analyze polynomial graph structure is one bounded performance within Analyze polynomial roots and graphs.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:d09053e5-d58f-40ff-ac3b-21e82e7169d7",
+    "revision": 1,
+    "subject": "ola:n:1acd3a0c-f24e-41dd-a272-86176289a53e",
+    "relation": "uses_concept",
+    "object": "ola:n:5ba1f7ad-2e17-4254-80fd-c7483bcbff37",
+    "rationale": "Demonstrating Analyze polynomial graph structure materially invokes Polynomial root and factor at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:9fa7a5e7-66c6-4c0b-ad67-60fb6dbfdb90",
+    "revision": 1,
+    "subject": "ola:n:1acd3a0c-f24e-41dd-a272-86176289a53e",
+    "relation": "uses_knowledge",
+    "object": "ola:n:88333f65-ccff-4cd0-a45e-31890b6dfa42",
+    "rationale": "Demonstrating Analyze polynomial graph structure materially invokes Polynomial division and factor theorem at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:e5124780-0f72-4a22-a2c0-fbce32d7a220",
+    "revision": 1,
+    "subject": "ola:n:1acd3a0c-f24e-41dd-a272-86176289a53e",
+    "relation": "uses_representation",
+    "object": "ola:n:c556ad1c-454a-4b0a-8fc0-2e53e9d2de9e",
+    "rationale": "Demonstrating Analyze polynomial graph structure materially invokes Polynomial coefficient, factor, and graph forms at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:2c03b0ed-9bad-4893-bb94-44d6cf7d7837",
+    "revision": 1,
+    "subject": "ola:n:344d96fb-d7f4-48ff-9896-7b455896c020",
+    "relation": "composed_of",
+    "object": "ola:n:3471b6dd-aea7-408b-9178-601294b3d73f",
+    "rationale": "Justify polynomial claims is a navigational capability family within polynomial-algebra.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:5c0e2696-25c9-4cfa-90ba-6ceae6faf1a2",
+    "revision": 1,
+    "subject": "ola:n:3471b6dd-aea7-408b-9178-601294b3d73f",
+    "relation": "composed_of",
+    "object": "ola:n:50bb9eb1-fb18-43f1-843d-a08c2012d1dd",
+    "rationale": "Apply the polynomial remainder relation is one bounded performance within Justify polynomial claims.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:12c85a69-a70a-4736-9493-aa1df5ae20f8",
+    "revision": 1,
+    "subject": "ola:n:50bb9eb1-fb18-43f1-843d-a08c2012d1dd",
+    "relation": "uses_concept",
+    "object": "ola:n:e58acee4-2b55-4b95-b0cf-5626a1cbe944",
+    "rationale": "Demonstrating Apply the polynomial remainder relation materially invokes Polynomial at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:71acc7f5-fe46-41bd-8a3f-3db1c5c64079",
+    "revision": 1,
+    "subject": "ola:n:50bb9eb1-fb18-43f1-843d-a08c2012d1dd",
+    "relation": "uses_concept",
+    "object": "ola:n:5ba1f7ad-2e17-4254-80fd-c7483bcbff37",
+    "rationale": "Demonstrating Apply the polynomial remainder relation materially invokes Polynomial root and factor at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:a0667819-d10a-4426-a291-c4452017ba71",
+    "revision": 1,
+    "subject": "ola:n:50bb9eb1-fb18-43f1-843d-a08c2012d1dd",
+    "relation": "uses_knowledge",
+    "object": "ola:n:88333f65-ccff-4cd0-a45e-31890b6dfa42",
+    "rationale": "Demonstrating Apply the polynomial remainder relation materially invokes Polynomial division and factor theorem at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:f33ff331-d991-4807-8506-dc552f6cff17",
+    "revision": 1,
+    "subject": "ola:n:50bb9eb1-fb18-43f1-843d-a08c2012d1dd",
+    "relation": "uses_representation",
+    "object": "ola:n:c556ad1c-454a-4b0a-8fc0-2e53e9d2de9e",
+    "rationale": "Demonstrating Apply the polynomial remainder relation materially invokes Polynomial coefficient, factor, and graph forms at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:034329b1-f2b3-40f8-af95-27a670d0245e",
+    "revision": 1,
+    "subject": "ola:n:3471b6dd-aea7-408b-9178-601294b3d73f",
+    "relation": "composed_of",
+    "object": "ola:n:d824c1ef-52bc-4482-9672-e3bce07f8b25",
+    "rationale": "Prove a bounded polynomial identity is one bounded performance within Justify polynomial claims.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:8569c186-9ad2-49bf-aae5-c2cade51ab76",
+    "revision": 1,
+    "subject": "ola:n:d824c1ef-52bc-4482-9672-e3bce07f8b25",
+    "relation": "uses_concept",
+    "object": "ola:n:e58acee4-2b55-4b95-b0cf-5626a1cbe944",
+    "rationale": "Demonstrating Prove a bounded polynomial identity materially invokes Polynomial at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:d79cf7a6-dfe9-400d-b3c5-4a6c4089e158",
+    "revision": 1,
+    "subject": "ola:n:d824c1ef-52bc-4482-9672-e3bce07f8b25",
+    "relation": "uses_concept",
+    "object": "ola:n:5ba1f7ad-2e17-4254-80fd-c7483bcbff37",
+    "rationale": "Demonstrating Prove a bounded polynomial identity materially invokes Polynomial root and factor at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:1a0e862c-7f05-45de-8081-b8ed26b7d8de",
+    "revision": 1,
+    "subject": "ola:n:d824c1ef-52bc-4482-9672-e3bce07f8b25",
+    "relation": "uses_knowledge",
+    "object": "ola:n:88333f65-ccff-4cd0-a45e-31890b6dfa42",
+    "rationale": "Demonstrating Prove a bounded polynomial identity materially invokes Polynomial division and factor theorem at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:991d3080-0036-435e-a078-8693c9a7d419",
+    "revision": 1,
+    "subject": "ola:n:d824c1ef-52bc-4482-9672-e3bce07f8b25",
+    "relation": "uses_representation",
+    "object": "ola:n:c556ad1c-454a-4b0a-8fc0-2e53e9d2de9e",
+    "rationale": "Demonstrating Prove a bounded polynomial identity materially invokes Polynomial coefficient, factor, and graph forms at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:7f7c3c67-9ba0-4f89-8270-4b25b07763f9",
+    "revision": 1,
+    "subject": "ola:n:42024327-5920-4875-8ac5-1cd78cebce5c",
+    "relation": "composed_of",
+    "object": "ola:n:e8eb0435-2844-4101-8628-2a00aab9c3eb",
+    "rationale": "Exponential function is material terrain within exponential-logarithmic-structure; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:c74a6413-230c-4e6b-82e3-e03b91f943ac",
+    "revision": 1,
+    "subject": "ola:n:42024327-5920-4875-8ac5-1cd78cebce5c",
+    "relation": "composed_of",
+    "object": "ola:n:a47dcb9c-7b47-41bb-b8c7-7b7148441dc7",
+    "rationale": "Logarithmic function is material terrain within exponential-logarithmic-structure; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:9955f4d1-2c52-41eb-b549-06b811b21133",
+    "revision": 1,
+    "subject": "ola:n:42024327-5920-4875-8ac5-1cd78cebce5c",
+    "relation": "composed_of",
+    "object": "ola:n:f93bc2d7-f196-45b3-8f43-ee1322ce8b2d",
+    "rationale": "Exponent and logarithm laws is material terrain within exponential-logarithmic-structure; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:73ce8197-579c-4884-af7f-22c6be82b035",
+    "revision": 1,
+    "subject": "ola:n:42024327-5920-4875-8ac5-1cd78cebce5c",
+    "relation": "composed_of",
+    "object": "ola:n:f9a94404-ad37-4fc5-bfc0-771355360cf4",
+    "rationale": "Exponential, logarithmic, and transformed-scale graph is material terrain within exponential-logarithmic-structure; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:1cbca950-839e-4595-98a2-dfbba82bb920",
+    "revision": 1,
+    "subject": "ola:n:42024327-5920-4875-8ac5-1cd78cebce5c",
+    "relation": "composed_of",
+    "object": "ola:n:6e0d6606-baf7-4a29-bde0-84bf48e8e873",
+    "rationale": "Evaluate and transform exponential and logarithmic forms is a navigational capability family within exponential-logarithmic-structure.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:c6436416-f2ff-418a-8f2d-293c44b25bdb",
+    "revision": 1,
+    "subject": "ola:n:6e0d6606-baf7-4a29-bde0-84bf48e8e873",
+    "relation": "composed_of",
+    "object": "ola:n:ae73d2a3-7a48-4721-acee-4149bcfe3e1e",
+    "rationale": "Evaluate an exponential or logarithmic expression is one bounded performance within Evaluate and transform exponential and logarithmic forms.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:41cfa7ce-b4eb-44bd-b2be-c7924da5358d",
+    "revision": 1,
+    "subject": "ola:n:ae73d2a3-7a48-4721-acee-4149bcfe3e1e",
+    "relation": "uses_concept",
+    "object": "ola:n:e8eb0435-2844-4101-8628-2a00aab9c3eb",
+    "rationale": "Demonstrating Evaluate an exponential or logarithmic expression materially invokes Exponential function at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:8c1a845a-eb27-4225-848e-0525cd33bedd",
+    "revision": 1,
+    "subject": "ola:n:ae73d2a3-7a48-4721-acee-4149bcfe3e1e",
+    "relation": "uses_knowledge",
+    "object": "ola:n:f93bc2d7-f196-45b3-8f43-ee1322ce8b2d",
+    "rationale": "Demonstrating Evaluate an exponential or logarithmic expression materially invokes Exponent and logarithm laws at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:0035bbe7-d8ad-4678-bdd7-af2e0fd8cb32",
+    "revision": 1,
+    "subject": "ola:n:ae73d2a3-7a48-4721-acee-4149bcfe3e1e",
+    "relation": "uses_representation",
+    "object": "ola:n:f9a94404-ad37-4fc5-bfc0-771355360cf4",
+    "rationale": "Demonstrating Evaluate an exponential or logarithmic expression materially invokes Exponential, logarithmic, and transformed-scale graph at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:1947bc0c-b487-4860-aadb-95402fa05039",
+    "revision": 1,
+    "subject": "ola:n:6e0d6606-baf7-4a29-bde0-84bf48e8e873",
+    "relation": "composed_of",
+    "object": "ola:n:b179606c-47e1-4256-a222-2b1aa74fb975",
+    "rationale": "Transform exponential or logarithmic form is one bounded performance within Evaluate and transform exponential and logarithmic forms.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:8d13b04f-32e6-44eb-9f7b-753b0120e161",
+    "revision": 1,
+    "subject": "ola:n:b179606c-47e1-4256-a222-2b1aa74fb975",
+    "relation": "uses_concept",
+    "object": "ola:n:e8eb0435-2844-4101-8628-2a00aab9c3eb",
+    "rationale": "Demonstrating Transform exponential or logarithmic form materially invokes Exponential function at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:30831c1b-2f85-49af-b85d-2646dc97d14e",
+    "revision": 1,
+    "subject": "ola:n:b179606c-47e1-4256-a222-2b1aa74fb975",
+    "relation": "uses_knowledge",
+    "object": "ola:n:f93bc2d7-f196-45b3-8f43-ee1322ce8b2d",
+    "rationale": "Demonstrating Transform exponential or logarithmic form materially invokes Exponent and logarithm laws at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:c7131d89-32a3-4e52-8eea-593f7d2fe01d",
+    "revision": 1,
+    "subject": "ola:n:b179606c-47e1-4256-a222-2b1aa74fb975",
+    "relation": "uses_representation",
+    "object": "ola:n:f9a94404-ad37-4fc5-bfc0-771355360cf4",
+    "rationale": "Demonstrating Transform exponential or logarithmic form materially invokes Exponential, logarithmic, and transformed-scale graph at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:5b2958f5-ffd1-46c4-8e41-2182f9dbd210",
+    "revision": 1,
+    "subject": "ola:n:42024327-5920-4875-8ac5-1cd78cebce5c",
+    "relation": "composed_of",
+    "object": "ola:n:df0cf276-63a7-4db8-b8c9-979a21f045f1",
+    "rationale": "Solve and model multiplicative change is a navigational capability family within exponential-logarithmic-structure.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:5dda15e0-aed1-4e53-9ae4-c1ac45c855f6",
+    "revision": 1,
+    "subject": "ola:n:df0cf276-63a7-4db8-b8c9-979a21f045f1",
+    "relation": "composed_of",
+    "object": "ola:n:6dce82db-7fff-44c5-8078-d5d64b3c7979",
+    "rationale": "Solve an exponential or logarithmic equation is one bounded performance within Solve and model multiplicative change.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:c4f4738b-a795-4fad-a739-59b1a3c4cc08",
+    "revision": 1,
+    "subject": "ola:n:6dce82db-7fff-44c5-8078-d5d64b3c7979",
+    "relation": "uses_concept",
+    "object": "ola:n:a47dcb9c-7b47-41bb-b8c7-7b7148441dc7",
+    "rationale": "Demonstrating Solve an exponential or logarithmic equation materially invokes Logarithmic function at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:6aaf172a-ccae-4d51-a7be-726546e350eb",
+    "revision": 1,
+    "subject": "ola:n:6dce82db-7fff-44c5-8078-d5d64b3c7979",
+    "relation": "uses_knowledge",
+    "object": "ola:n:f93bc2d7-f196-45b3-8f43-ee1322ce8b2d",
+    "rationale": "Demonstrating Solve an exponential or logarithmic equation materially invokes Exponent and logarithm laws at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:05b81d20-a4c7-411e-81b0-040d43a1a3f1",
+    "revision": 1,
+    "subject": "ola:n:6dce82db-7fff-44c5-8078-d5d64b3c7979",
+    "relation": "uses_representation",
+    "object": "ola:n:f9a94404-ad37-4fc5-bfc0-771355360cf4",
+    "rationale": "Demonstrating Solve an exponential or logarithmic equation materially invokes Exponential, logarithmic, and transformed-scale graph at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:770aa70e-75ea-457f-b312-746641745940",
+    "revision": 1,
+    "subject": "ola:n:df0cf276-63a7-4db8-b8c9-979a21f045f1",
+    "relation": "composed_of",
+    "object": "ola:n:5b29688e-afe7-4bcb-8df9-fa14b82e4fbb",
+    "rationale": "Construct an exponential growth or decay model is one bounded performance within Solve and model multiplicative change.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:5337320b-c6da-44c2-834e-7decac828b35",
+    "revision": 1,
+    "subject": "ola:n:5b29688e-afe7-4bcb-8df9-fa14b82e4fbb",
+    "relation": "uses_concept",
+    "object": "ola:n:a47dcb9c-7b47-41bb-b8c7-7b7148441dc7",
+    "rationale": "Demonstrating Construct an exponential growth or decay model materially invokes Logarithmic function at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:c5764d4c-7102-4ad1-a65e-a3cb8884e24c",
+    "revision": 1,
+    "subject": "ola:n:5b29688e-afe7-4bcb-8df9-fa14b82e4fbb",
+    "relation": "uses_knowledge",
+    "object": "ola:n:f93bc2d7-f196-45b3-8f43-ee1322ce8b2d",
+    "rationale": "Demonstrating Construct an exponential growth or decay model materially invokes Exponent and logarithm laws at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:e5a56aa5-c711-4735-aa7e-aaafd1c956cc",
+    "revision": 1,
+    "subject": "ola:n:5b29688e-afe7-4bcb-8df9-fa14b82e4fbb",
+    "relation": "uses_representation",
+    "object": "ola:n:f9a94404-ad37-4fc5-bfc0-771355360cf4",
+    "rationale": "Demonstrating Construct an exponential growth or decay model materially invokes Exponential, logarithmic, and transformed-scale graph at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:4672a8e5-5420-49fe-a93a-ca08e96fe123",
+    "revision": 1,
+    "subject": "ola:n:42024327-5920-4875-8ac5-1cd78cebce5c",
+    "relation": "composed_of",
+    "object": "ola:n:1284c24e-fbb8-4b4a-90d7-699838ca6e08",
+    "rationale": "Analyze and justify exponential structure is a navigational capability family within exponential-logarithmic-structure.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:5c3c06b4-178a-4129-aed9-18e427abc5c5",
+    "revision": 1,
+    "subject": "ola:n:1284c24e-fbb8-4b4a-90d7-699838ca6e08",
+    "relation": "composed_of",
+    "object": "ola:n:e81c4c61-aeb6-4caf-9aef-5b7d12d2d58e",
+    "rationale": "Compare multiplicative growth rates is one bounded performance within Analyze and justify exponential structure.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:2c75e071-6b44-4c8f-9594-c1c1cffebf0c",
+    "revision": 1,
+    "subject": "ola:n:e81c4c61-aeb6-4caf-9aef-5b7d12d2d58e",
+    "relation": "uses_concept",
+    "object": "ola:n:e8eb0435-2844-4101-8628-2a00aab9c3eb",
+    "rationale": "Demonstrating Compare multiplicative growth rates materially invokes Exponential function at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:15119e50-8a62-4f42-8962-fe0344a428c5",
+    "revision": 1,
+    "subject": "ola:n:e81c4c61-aeb6-4caf-9aef-5b7d12d2d58e",
+    "relation": "uses_concept",
+    "object": "ola:n:a47dcb9c-7b47-41bb-b8c7-7b7148441dc7",
+    "rationale": "Demonstrating Compare multiplicative growth rates materially invokes Logarithmic function at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:371a6a8c-df06-4022-9acf-7d179f26cf5e",
+    "revision": 1,
+    "subject": "ola:n:e81c4c61-aeb6-4caf-9aef-5b7d12d2d58e",
+    "relation": "uses_knowledge",
+    "object": "ola:n:f93bc2d7-f196-45b3-8f43-ee1322ce8b2d",
+    "rationale": "Demonstrating Compare multiplicative growth rates materially invokes Exponent and logarithm laws at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:bc997ba9-790c-4ec0-86be-386d2d4cc57c",
+    "revision": 1,
+    "subject": "ola:n:e81c4c61-aeb6-4caf-9aef-5b7d12d2d58e",
+    "relation": "uses_representation",
+    "object": "ola:n:f9a94404-ad37-4fc5-bfc0-771355360cf4",
+    "rationale": "Demonstrating Compare multiplicative growth rates materially invokes Exponential, logarithmic, and transformed-scale graph at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:f430c85b-8179-4bac-b5ee-6cdac3a3a057",
+    "revision": 1,
+    "subject": "ola:n:1284c24e-fbb8-4b4a-90d7-699838ca6e08",
+    "relation": "composed_of",
+    "object": "ola:n:06e9e3b0-b419-4e36-9b0e-c9d8cd96506a",
+    "rationale": "Audit logarithmic domain reasoning is one bounded performance within Analyze and justify exponential structure.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:7c7f8e87-87a6-4220-8ca0-e038d7a2a7e0",
+    "revision": 1,
+    "subject": "ola:n:06e9e3b0-b419-4e36-9b0e-c9d8cd96506a",
+    "relation": "uses_concept",
+    "object": "ola:n:e8eb0435-2844-4101-8628-2a00aab9c3eb",
+    "rationale": "Demonstrating Audit logarithmic domain reasoning materially invokes Exponential function at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:4cb54eb2-1e1f-497b-aa60-03bf5b69903b",
+    "revision": 1,
+    "subject": "ola:n:06e9e3b0-b419-4e36-9b0e-c9d8cd96506a",
+    "relation": "uses_concept",
+    "object": "ola:n:a47dcb9c-7b47-41bb-b8c7-7b7148441dc7",
+    "rationale": "Demonstrating Audit logarithmic domain reasoning materially invokes Logarithmic function at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:3f25e15e-58be-4aed-9d2a-338d280f06b2",
+    "revision": 1,
+    "subject": "ola:n:06e9e3b0-b419-4e36-9b0e-c9d8cd96506a",
+    "relation": "uses_knowledge",
+    "object": "ola:n:f93bc2d7-f196-45b3-8f43-ee1322ce8b2d",
+    "rationale": "Demonstrating Audit logarithmic domain reasoning materially invokes Exponent and logarithm laws at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:2fc96f38-fb7a-498b-b507-cf2366782ff1",
+    "revision": 1,
+    "subject": "ola:n:06e9e3b0-b419-4e36-9b0e-c9d8cd96506a",
+    "relation": "uses_representation",
+    "object": "ola:n:f9a94404-ad37-4fc5-bfc0-771355360cf4",
+    "rationale": "Demonstrating Audit logarithmic domain reasoning materially invokes Exponential, logarithmic, and transformed-scale graph at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:ccd5ffd8-5f52-4153-b96c-ea3b1334c3e7",
+    "revision": 1,
+    "subject": "ola:n:dec0e1cc-e42d-4cd4-ac04-9096fce32821",
+    "relation": "composed_of",
+    "object": "ola:n:5c84a86b-d8ae-4d6c-8223-48190bc63637",
+    "rationale": "Algebraic structure with operations is material terrain within groups-rings-fields-modules; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:41d5c5bc-bd89-4ecf-9166-a369e8e433a5",
+    "revision": 1,
+    "subject": "ola:n:dec0e1cc-e42d-4cd4-ac04-9096fce32821",
+    "relation": "composed_of",
+    "object": "ola:n:77e50153-9c32-48dc-9548-98f19de7b449",
+    "rationale": "Algebraic homomorphism is material terrain within groups-rings-fields-modules; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:d1da83df-984e-459c-a70f-804d86f7b386",
+    "revision": 1,
+    "subject": "ola:n:dec0e1cc-e42d-4cd4-ac04-9096fce32821",
+    "relation": "composed_of",
+    "object": "ola:n:11db6d31-7b09-4819-9567-71521c5195ff",
+    "rationale": "Substructure, quotient, and isomorphism principles is material terrain within groups-rings-fields-modules; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:d68eef2e-984f-4396-b351-b077d14721d2",
+    "revision": 1,
+    "subject": "ola:n:dec0e1cc-e42d-4cd4-ac04-9096fce32821",
+    "relation": "composed_of",
+    "object": "ola:n:b1cc90ef-4de5-472e-8b31-879397d63c23",
+    "rationale": "Algebraic operation table and diagram is material terrain within groups-rings-fields-modules; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:7b32a468-3d1c-49f5-854d-1c9c28bb42a1",
+    "revision": 1,
+    "subject": "ola:n:dec0e1cc-e42d-4cd4-ac04-9096fce32821",
+    "relation": "composed_of",
+    "object": "ola:n:37ee65cb-9958-41b5-b7cb-39b97d92d113",
+    "rationale": "Verify and compute in algebraic structures is a navigational capability family within groups-rings-fields-modules.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:0d583a41-3f8c-42d2-af85-adf5647ea7c1",
+    "revision": 1,
+    "subject": "ola:n:37ee65cb-9958-41b5-b7cb-39b97d92d113",
+    "relation": "composed_of",
+    "object": "ola:n:0e419de3-e715-41db-89b0-e29d1a518c18",
+    "rationale": "Verify algebraic axioms is one bounded performance within Verify and compute in algebraic structures.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:5223a5f7-ab99-4454-9adf-3ddb1537d897",
+    "revision": 1,
+    "subject": "ola:n:0e419de3-e715-41db-89b0-e29d1a518c18",
+    "relation": "uses_concept",
+    "object": "ola:n:5c84a86b-d8ae-4d6c-8223-48190bc63637",
+    "rationale": "Demonstrating Verify algebraic axioms materially invokes Algebraic structure with operations at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:a519a8bc-1ce5-4330-8660-515a6f0fa2e3",
+    "revision": 1,
+    "subject": "ola:n:0e419de3-e715-41db-89b0-e29d1a518c18",
+    "relation": "uses_knowledge",
+    "object": "ola:n:11db6d31-7b09-4819-9567-71521c5195ff",
+    "rationale": "Demonstrating Verify algebraic axioms materially invokes Substructure, quotient, and isomorphism principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:32befbee-cfe7-4a8a-bae5-1d30d2be34b6",
+    "revision": 1,
+    "subject": "ola:n:0e419de3-e715-41db-89b0-e29d1a518c18",
+    "relation": "uses_representation",
+    "object": "ola:n:b1cc90ef-4de5-472e-8b31-879397d63c23",
+    "rationale": "Demonstrating Verify algebraic axioms materially invokes Algebraic operation table and diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:6e05cdcd-8e41-41fb-b83e-c3fb79ffecdd",
+    "revision": 1,
+    "subject": "ola:n:37ee65cb-9958-41b5-b7cb-39b97d92d113",
+    "relation": "composed_of",
+    "object": "ola:n:3e871a42-9e84-4920-bc58-6c393f10e714",
+    "rationale": "Compute in a finite algebraic structure is one bounded performance within Verify and compute in algebraic structures.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:c4e0beab-c758-4200-aa6b-1c1b70c03b9c",
+    "revision": 1,
+    "subject": "ola:n:3e871a42-9e84-4920-bc58-6c393f10e714",
+    "relation": "uses_concept",
+    "object": "ola:n:5c84a86b-d8ae-4d6c-8223-48190bc63637",
+    "rationale": "Demonstrating Compute in a finite algebraic structure materially invokes Algebraic structure with operations at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:eafa4031-fd2b-406b-914f-0f232f6ff8ba",
+    "revision": 1,
+    "subject": "ola:n:3e871a42-9e84-4920-bc58-6c393f10e714",
+    "relation": "uses_knowledge",
+    "object": "ola:n:11db6d31-7b09-4819-9567-71521c5195ff",
+    "rationale": "Demonstrating Compute in a finite algebraic structure materially invokes Substructure, quotient, and isomorphism principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:39a0b0db-ceb6-4c8a-9d7c-ab8cbb65c253",
+    "revision": 1,
+    "subject": "ola:n:3e871a42-9e84-4920-bc58-6c393f10e714",
+    "relation": "uses_representation",
+    "object": "ola:n:b1cc90ef-4de5-472e-8b31-879397d63c23",
+    "rationale": "Demonstrating Compute in a finite algebraic structure materially invokes Algebraic operation table and diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:d9d603f5-5797-4135-8a53-b7706761653f",
+    "revision": 1,
+    "subject": "ola:n:dec0e1cc-e42d-4cd4-ac04-9096fce32821",
+    "relation": "composed_of",
+    "object": "ola:n:b47d3385-4040-4609-890f-1c7b674c4ced",
+    "rationale": "Analyze maps and substructures is a navigational capability family within groups-rings-fields-modules.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:226cd7e4-88c9-4ed4-b361-57083e5bfd64",
+    "revision": 1,
+    "subject": "ola:n:b47d3385-4040-4609-890f-1c7b674c4ced",
+    "relation": "composed_of",
+    "object": "ola:n:222b247c-d3c3-4391-9870-a485ef5c08b7",
+    "rationale": "Determine an algebraic substructure is one bounded performance within Analyze maps and substructures.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:98155c46-7ee4-41bf-8a3d-6ca974271e2f",
+    "revision": 1,
+    "subject": "ola:n:222b247c-d3c3-4391-9870-a485ef5c08b7",
+    "relation": "uses_concept",
+    "object": "ola:n:77e50153-9c32-48dc-9548-98f19de7b449",
+    "rationale": "Demonstrating Determine an algebraic substructure materially invokes Algebraic homomorphism at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:9c0b4fac-97df-434c-a316-b83e70edaf45",
+    "revision": 1,
+    "subject": "ola:n:222b247c-d3c3-4391-9870-a485ef5c08b7",
+    "relation": "uses_knowledge",
+    "object": "ola:n:11db6d31-7b09-4819-9567-71521c5195ff",
+    "rationale": "Demonstrating Determine an algebraic substructure materially invokes Substructure, quotient, and isomorphism principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:d4f25eab-c215-4a8c-a09c-a2b27b719ce8",
+    "revision": 1,
+    "subject": "ola:n:222b247c-d3c3-4391-9870-a485ef5c08b7",
+    "relation": "uses_representation",
+    "object": "ola:n:b1cc90ef-4de5-472e-8b31-879397d63c23",
+    "rationale": "Demonstrating Determine an algebraic substructure materially invokes Algebraic operation table and diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:a17752cb-f859-4a43-bcc7-e6e978d46f04",
+    "revision": 1,
+    "subject": "ola:n:b47d3385-4040-4609-890f-1c7b674c4ced",
+    "relation": "composed_of",
+    "object": "ola:n:b15e2128-849b-464c-b723-1b9d5278d1f3",
+    "rationale": "Analyze an algebraic homomorphism is one bounded performance within Analyze maps and substructures.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:84efd5e2-63d7-4486-8e86-2e1c737c1e29",
+    "revision": 1,
+    "subject": "ola:n:b15e2128-849b-464c-b723-1b9d5278d1f3",
+    "relation": "uses_concept",
+    "object": "ola:n:77e50153-9c32-48dc-9548-98f19de7b449",
+    "rationale": "Demonstrating Analyze an algebraic homomorphism materially invokes Algebraic homomorphism at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:ea91e707-e182-48c9-9824-cdc1efe3e2e1",
+    "revision": 1,
+    "subject": "ola:n:b15e2128-849b-464c-b723-1b9d5278d1f3",
+    "relation": "uses_knowledge",
+    "object": "ola:n:11db6d31-7b09-4819-9567-71521c5195ff",
+    "rationale": "Demonstrating Analyze an algebraic homomorphism materially invokes Substructure, quotient, and isomorphism principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:b19a9e0e-f976-46a9-9748-9e2e1239123a",
+    "revision": 1,
+    "subject": "ola:n:b15e2128-849b-464c-b723-1b9d5278d1f3",
+    "relation": "uses_representation",
+    "object": "ola:n:b1cc90ef-4de5-472e-8b31-879397d63c23",
+    "rationale": "Demonstrating Analyze an algebraic homomorphism materially invokes Algebraic operation table and diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:1203a522-96cc-499b-af1f-4c0e9740a4eb",
+    "revision": 1,
+    "subject": "ola:n:dec0e1cc-e42d-4cd4-ac04-9096fce32821",
+    "relation": "composed_of",
+    "object": "ola:n:564382e9-d592-495d-880a-87de20647314",
+    "rationale": "Prove and compare algebraic structures is a navigational capability family within groups-rings-fields-modules.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:19969bc4-1b02-48bc-843d-e19c7ccbb2e0",
+    "revision": 1,
+    "subject": "ola:n:564382e9-d592-495d-880a-87de20647314",
+    "relation": "composed_of",
+    "object": "ola:n:aa85ae5c-04a5-4d42-8af1-f48d4ddae2ce",
+    "rationale": "Prove a bounded algebraic claim is one bounded performance within Prove and compare algebraic structures.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:97784adb-4fc3-42e3-acb9-2ce4ad4627bb",
+    "revision": 1,
+    "subject": "ola:n:aa85ae5c-04a5-4d42-8af1-f48d4ddae2ce",
+    "relation": "uses_concept",
+    "object": "ola:n:5c84a86b-d8ae-4d6c-8223-48190bc63637",
+    "rationale": "Demonstrating Prove a bounded algebraic claim materially invokes Algebraic structure with operations at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:5d064a2a-18d8-4ee9-bff0-a5eb085e5065",
+    "revision": 1,
+    "subject": "ola:n:aa85ae5c-04a5-4d42-8af1-f48d4ddae2ce",
+    "relation": "uses_concept",
+    "object": "ola:n:77e50153-9c32-48dc-9548-98f19de7b449",
+    "rationale": "Demonstrating Prove a bounded algebraic claim materially invokes Algebraic homomorphism at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:543f9552-dbf5-44be-adb6-86a6325ad847",
+    "revision": 1,
+    "subject": "ola:n:aa85ae5c-04a5-4d42-8af1-f48d4ddae2ce",
+    "relation": "uses_knowledge",
+    "object": "ola:n:11db6d31-7b09-4819-9567-71521c5195ff",
+    "rationale": "Demonstrating Prove a bounded algebraic claim materially invokes Substructure, quotient, and isomorphism principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:2744a9c0-4ac8-4f45-bdc6-eed2f4e051cb",
+    "revision": 1,
+    "subject": "ola:n:aa85ae5c-04a5-4d42-8af1-f48d4ddae2ce",
+    "relation": "uses_representation",
+    "object": "ola:n:b1cc90ef-4de5-472e-8b31-879397d63c23",
+    "rationale": "Demonstrating Prove a bounded algebraic claim materially invokes Algebraic operation table and diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:8f3f8bb6-c78b-4da9-abaf-75b0ac2abc92",
+    "revision": 1,
+    "subject": "ola:n:564382e9-d592-495d-880a-87de20647314",
+    "relation": "composed_of",
+    "object": "ola:n:7bd8c8bf-1198-4cde-b4aa-998896cae92a",
+    "rationale": "Construct an algebraic counterexample is one bounded performance within Prove and compare algebraic structures.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:7cb1c9df-b44a-4690-a80e-81aa444f3c50",
+    "revision": 1,
+    "subject": "ola:n:7bd8c8bf-1198-4cde-b4aa-998896cae92a",
+    "relation": "uses_concept",
+    "object": "ola:n:5c84a86b-d8ae-4d6c-8223-48190bc63637",
+    "rationale": "Demonstrating Construct an algebraic counterexample materially invokes Algebraic structure with operations at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:01ea1b68-ec45-4de7-b293-b2cb3b37dd4c",
+    "revision": 1,
+    "subject": "ola:n:7bd8c8bf-1198-4cde-b4aa-998896cae92a",
+    "relation": "uses_concept",
+    "object": "ola:n:77e50153-9c32-48dc-9548-98f19de7b449",
+    "rationale": "Demonstrating Construct an algebraic counterexample materially invokes Algebraic homomorphism at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:a76bf70f-7256-4732-92d7-ed25ae162f2f",
+    "revision": 1,
+    "subject": "ola:n:7bd8c8bf-1198-4cde-b4aa-998896cae92a",
+    "relation": "uses_knowledge",
+    "object": "ola:n:11db6d31-7b09-4819-9567-71521c5195ff",
+    "rationale": "Demonstrating Construct an algebraic counterexample materially invokes Substructure, quotient, and isomorphism principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:6e7415c5-5853-4d91-b503-cfab852d2634",
+    "revision": 1,
+    "subject": "ola:n:7bd8c8bf-1198-4cde-b4aa-998896cae92a",
+    "relation": "uses_representation",
+    "object": "ola:n:b1cc90ef-4de5-472e-8b31-879397d63c23",
+    "rationale": "Demonstrating Construct an algebraic counterexample materially invokes Algebraic operation table and diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:edcec940-fe1a-43c5-aac1-54edcac59e71",
+    "revision": 1,
+    "subject": "ola:n:c168151c-5f3a-479b-b349-234ad99d1120",
+    "relation": "composed_of",
+    "object": "ola:n:304217c5-b987-4a7c-8c5c-82c760b9df14",
+    "rationale": "Partially ordered set is material terrain within order-lattices-general-algebra; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:d75bec03-d3a0-4776-b090-8a0d995561a8",
+    "revision": 1,
+    "subject": "ola:n:c168151c-5f3a-479b-b349-234ad99d1120",
+    "relation": "composed_of",
+    "object": "ola:n:0c8526b1-8ed5-4f1b-863f-d187c4610edd",
+    "rationale": "Lattice order is material terrain within order-lattices-general-algebra; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:c8da87e8-71ec-467d-b54f-0314dd9f7343",
+    "revision": 1,
+    "subject": "ola:n:c168151c-5f3a-479b-b349-234ad99d1120",
+    "relation": "composed_of",
+    "object": "ola:n:cc244794-de40-402b-bc79-fe624887684f",
+    "rationale": "Order, join, meet, and duality is material terrain within order-lattices-general-algebra; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:d0d7f962-7e15-4b9e-86ac-6114923d85a6",
+    "revision": 1,
+    "subject": "ola:n:c168151c-5f3a-479b-b349-234ad99d1120",
+    "relation": "composed_of",
+    "object": "ola:n:97a15496-806a-4fe5-8e9b-c13b70e8fe96",
+    "rationale": "Hasse and lattice diagram is material terrain within order-lattices-general-algebra; membership does not imply instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:5375d8a1-1cab-4a72-b1f8-7e7cc4a4a37c",
+    "revision": 1,
+    "subject": "ola:n:c168151c-5f3a-479b-b349-234ad99d1120",
+    "relation": "composed_of",
+    "object": "ola:n:fa6a359b-7fe6-4549-b18b-4c4b8679f331",
+    "rationale": "Interpret and construct orders is a navigational capability family within order-lattices-general-algebra.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:1dc803b0-ecce-4e78-b331-9eb660ab43e6",
+    "revision": 1,
+    "subject": "ola:n:fa6a359b-7fe6-4549-b18b-4c4b8679f331",
+    "relation": "composed_of",
+    "object": "ola:n:d0b0159a-d8e0-479c-a2b0-1f9b97c80324",
+    "rationale": "Verify a partial or total order is one bounded performance within Interpret and construct orders.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:f70544f4-a8ab-45be-9478-fc402dc31694",
+    "revision": 1,
+    "subject": "ola:n:d0b0159a-d8e0-479c-a2b0-1f9b97c80324",
+    "relation": "uses_concept",
+    "object": "ola:n:304217c5-b987-4a7c-8c5c-82c760b9df14",
+    "rationale": "Demonstrating Verify a partial or total order materially invokes Partially ordered set at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:5d9ba24f-1e13-4c2e-b4bd-424d601e319f",
+    "revision": 1,
+    "subject": "ola:n:d0b0159a-d8e0-479c-a2b0-1f9b97c80324",
+    "relation": "uses_knowledge",
+    "object": "ola:n:cc244794-de40-402b-bc79-fe624887684f",
+    "rationale": "Demonstrating Verify a partial or total order materially invokes Order, join, meet, and duality at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:e0d57866-9a04-46fe-9ef6-d600a97b0262",
+    "revision": 1,
+    "subject": "ola:n:d0b0159a-d8e0-479c-a2b0-1f9b97c80324",
+    "relation": "uses_representation",
+    "object": "ola:n:97a15496-806a-4fe5-8e9b-c13b70e8fe96",
+    "rationale": "Demonstrating Verify a partial or total order materially invokes Hasse and lattice diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:fc87f314-79ae-4061-ab04-9b7ba23664a6",
+    "revision": 1,
+    "subject": "ola:n:fa6a359b-7fe6-4549-b18b-4c4b8679f331",
+    "relation": "composed_of",
+    "object": "ola:n:783149d6-be6b-4d02-91e2-3a5f92ddce1e",
+    "rationale": "Construct or interpret a Hasse diagram is one bounded performance within Interpret and construct orders.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:30a778a7-710f-426b-b415-faa138a4ae2b",
+    "revision": 1,
+    "subject": "ola:n:783149d6-be6b-4d02-91e2-3a5f92ddce1e",
+    "relation": "uses_concept",
+    "object": "ola:n:304217c5-b987-4a7c-8c5c-82c760b9df14",
+    "rationale": "Demonstrating Construct or interpret a Hasse diagram materially invokes Partially ordered set at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:cbe6b003-65ff-4db9-939b-6061e728c661",
+    "revision": 1,
+    "subject": "ola:n:783149d6-be6b-4d02-91e2-3a5f92ddce1e",
+    "relation": "uses_knowledge",
+    "object": "ola:n:cc244794-de40-402b-bc79-fe624887684f",
+    "rationale": "Demonstrating Construct or interpret a Hasse diagram materially invokes Order, join, meet, and duality at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:2b248138-ef07-4796-a50f-f8e4b91e1775",
+    "revision": 1,
+    "subject": "ola:n:783149d6-be6b-4d02-91e2-3a5f92ddce1e",
+    "relation": "uses_representation",
+    "object": "ola:n:97a15496-806a-4fe5-8e9b-c13b70e8fe96",
+    "rationale": "Demonstrating Construct or interpret a Hasse diagram materially invokes Hasse and lattice diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:6b5d520b-fe04-4711-b41f-b5ceeec5c445",
+    "revision": 1,
+    "subject": "ola:n:c168151c-5f3a-479b-b349-234ad99d1120",
+    "relation": "composed_of",
+    "object": "ola:n:cac0e01f-deb9-4e62-95dd-db9420c0c808",
+    "rationale": "Compute lattice structure is a navigational capability family within order-lattices-general-algebra.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:1351d6b4-e86b-41f4-a785-92d948b2eb92",
+    "revision": 1,
+    "subject": "ola:n:cac0e01f-deb9-4e62-95dd-db9420c0c808",
+    "relation": "composed_of",
+    "object": "ola:n:ba44b1d4-4907-49c6-941a-0da375e36003",
+    "rationale": "Determine bounds, joins, and meets is one bounded performance within Compute lattice structure.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:86c4b14f-7bf8-48ff-9aec-04b30b79c3e8",
+    "revision": 1,
+    "subject": "ola:n:ba44b1d4-4907-49c6-941a-0da375e36003",
+    "relation": "uses_concept",
+    "object": "ola:n:0c8526b1-8ed5-4f1b-863f-d187c4610edd",
+    "rationale": "Demonstrating Determine bounds, joins, and meets materially invokes Lattice order at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:402a20c5-fd9e-41be-80fc-3a985178c569",
+    "revision": 1,
+    "subject": "ola:n:ba44b1d4-4907-49c6-941a-0da375e36003",
+    "relation": "uses_knowledge",
+    "object": "ola:n:cc244794-de40-402b-bc79-fe624887684f",
+    "rationale": "Demonstrating Determine bounds, joins, and meets materially invokes Order, join, meet, and duality at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:73922ca1-6c2a-4e39-885a-d553b3cafe8f",
+    "revision": 1,
+    "subject": "ola:n:ba44b1d4-4907-49c6-941a-0da375e36003",
+    "relation": "uses_representation",
+    "object": "ola:n:97a15496-806a-4fe5-8e9b-c13b70e8fe96",
+    "rationale": "Demonstrating Determine bounds, joins, and meets materially invokes Hasse and lattice diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:eaf0f71e-2b29-48e5-938c-a388d337658e",
+    "revision": 1,
+    "subject": "ola:n:cac0e01f-deb9-4e62-95dd-db9420c0c808",
+    "relation": "composed_of",
+    "object": "ola:n:bbf18bb7-684a-4d8e-a53d-46b3ebf05fb4",
+    "rationale": "Analyze a monotone order map is one bounded performance within Compute lattice structure.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:644ca163-e3d6-4a27-97bd-4e79a4b8ea22",
+    "revision": 1,
+    "subject": "ola:n:bbf18bb7-684a-4d8e-a53d-46b3ebf05fb4",
+    "relation": "uses_concept",
+    "object": "ola:n:0c8526b1-8ed5-4f1b-863f-d187c4610edd",
+    "rationale": "Demonstrating Analyze a monotone order map materially invokes Lattice order at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:cdb098f3-c07d-45a5-bbed-d2891062e3f9",
+    "revision": 1,
+    "subject": "ola:n:bbf18bb7-684a-4d8e-a53d-46b3ebf05fb4",
+    "relation": "uses_knowledge",
+    "object": "ola:n:cc244794-de40-402b-bc79-fe624887684f",
+    "rationale": "Demonstrating Analyze a monotone order map materially invokes Order, join, meet, and duality at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:42cd884e-e1d2-44d1-a742-d8c67cd43e18",
+    "revision": 1,
+    "subject": "ola:n:bbf18bb7-684a-4d8e-a53d-46b3ebf05fb4",
+    "relation": "uses_representation",
+    "object": "ola:n:97a15496-806a-4fe5-8e9b-c13b70e8fe96",
+    "rationale": "Demonstrating Analyze a monotone order map materially invokes Hasse and lattice diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:a54449f2-65d1-4db7-82f5-428b2e2ecb32",
+    "revision": 1,
+    "subject": "ola:n:c168151c-5f3a-479b-b349-234ad99d1120",
+    "relation": "composed_of",
+    "object": "ola:n:6807ddcf-92d9-4c55-8174-c6d16e1786db",
+    "rationale": "Justify general-algebra claims is a navigational capability family within order-lattices-general-algebra.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:ad6c112b-7d48-45d0-a711-b504ea70ab4e",
+    "revision": 1,
+    "subject": "ola:n:6807ddcf-92d9-4c55-8174-c6d16e1786db",
+    "relation": "composed_of",
+    "object": "ola:n:d20ea707-dd46-4f24-a0f3-62a86b776c29",
+    "rationale": "Prove a bounded lattice identity is one bounded performance within Justify general-algebra claims.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:a87610ec-0950-483b-93f3-71f34181dc1b",
+    "revision": 1,
+    "subject": "ola:n:d20ea707-dd46-4f24-a0f3-62a86b776c29",
+    "relation": "uses_concept",
+    "object": "ola:n:304217c5-b987-4a7c-8c5c-82c760b9df14",
+    "rationale": "Demonstrating Prove a bounded lattice identity materially invokes Partially ordered set at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:5987b45c-da8c-4223-84d8-ef55e589ab05",
+    "revision": 1,
+    "subject": "ola:n:d20ea707-dd46-4f24-a0f3-62a86b776c29",
+    "relation": "uses_concept",
+    "object": "ola:n:0c8526b1-8ed5-4f1b-863f-d187c4610edd",
+    "rationale": "Demonstrating Prove a bounded lattice identity materially invokes Lattice order at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:4235f7e7-588e-433a-b878-f97ce619d8b0",
+    "revision": 1,
+    "subject": "ola:n:d20ea707-dd46-4f24-a0f3-62a86b776c29",
+    "relation": "uses_knowledge",
+    "object": "ola:n:cc244794-de40-402b-bc79-fe624887684f",
+    "rationale": "Demonstrating Prove a bounded lattice identity materially invokes Order, join, meet, and duality at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:bea8a79c-3766-44d3-9eab-e3f8de6439d8",
+    "revision": 1,
+    "subject": "ola:n:d20ea707-dd46-4f24-a0f3-62a86b776c29",
+    "relation": "uses_representation",
+    "object": "ola:n:97a15496-806a-4fe5-8e9b-c13b70e8fe96",
+    "rationale": "Demonstrating Prove a bounded lattice identity materially invokes Hasse and lattice diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:5ce964b8-39a0-43b4-a0c4-913794a62e2a",
+    "revision": 1,
+    "subject": "ola:n:6807ddcf-92d9-4c55-8174-c6d16e1786db",
+    "relation": "composed_of",
+    "object": "ola:n:1b58e71e-b2e6-4c80-8e44-e607c2261a8e",
+    "rationale": "Construct an order-theoretic counterexample is one bounded performance within Justify general-algebra claims.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:1f1f4a70-2d92-41b0-b88f-8f97f31fec44",
+    "revision": 1,
+    "subject": "ola:n:1b58e71e-b2e6-4c80-8e44-e607c2261a8e",
+    "relation": "uses_concept",
+    "object": "ola:n:304217c5-b987-4a7c-8c5c-82c760b9df14",
+    "rationale": "Demonstrating Construct an order-theoretic counterexample materially invokes Partially ordered set at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:e2a7ad65-0f47-4e84-84da-9e2058b64809",
+    "revision": 1,
+    "subject": "ola:n:1b58e71e-b2e6-4c80-8e44-e607c2261a8e",
+    "relation": "uses_concept",
+    "object": "ola:n:0c8526b1-8ed5-4f1b-863f-d187c4610edd",
+    "rationale": "Demonstrating Construct an order-theoretic counterexample materially invokes Lattice order at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:8f3ce134-1a1e-4b39-bd80-b651d165a32d",
+    "revision": 1,
+    "subject": "ola:n:1b58e71e-b2e6-4c80-8e44-e607c2261a8e",
+    "relation": "uses_knowledge",
+    "object": "ola:n:cc244794-de40-402b-bc79-fe624887684f",
+    "rationale": "Demonstrating Construct an order-theoretic counterexample materially invokes Order, join, meet, and duality at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  },
+  {
+    "id": "ola:e:33a7a5f0-e25a-464f-9ac1-85d30b635fb2",
+    "revision": 1,
+    "subject": "ola:n:1b58e71e-b2e6-4c80-8e44-e607c2261a8e",
+    "relation": "uses_representation",
+    "object": "ola:n:97a15496-806a-4fe5-8e9b-c13b70e8fe96",
+    "rationale": "Demonstrating Construct an order-theoretic counterexample materially invokes Hasse and lattice diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:ca02406f-efb0-487b-8fa0-a0e012ee0bc4",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+  }
+]

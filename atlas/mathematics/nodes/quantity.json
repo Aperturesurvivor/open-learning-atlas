@@ -1,0 +1,1940 @@
+[
+  {
+    "id": "ola:n:ad093cd1-cb01-40ba-bd30-e56294298485",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "finite-cardinality",
+    "label": "Finite cardinality",
+    "definition": "The number of elements in a finite collection, independent of their order or arrangement.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:1a9a9cd8-52e7-445f-9d2e-64382a095b3a",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "place-value-numeration",
+    "label": "Place-value numeration",
+    "definition": "A positional representation in which a digit's contribution depends on its value and place in a declared base.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:c6bf9bd2-7a98-4db0-9547-ede62c3c5bfc",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "fundamental-counting-principles",
+    "label": "Fundamental counting principles",
+    "definition": "Stable counting coordinates one count word with each item, uses a fixed sequence, and treats the final count as the collection's cardinality.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:9c60f74e-4417-4ee2-a9a1-2f6e79c9e5cb",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "numeral-and-collection-representation",
+    "label": "Numeral and collection representation",
+    "definition": "A numeral, spoken number name, tally, structured collection, or place-value model representing a finite quantity.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:651af2b1-ce4e-4d3e-8aad-7202814b8af2",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "count-compare-finite-collections-family",
+    "label": "Count and compare finite collections",
+    "definition": "A capability family within counting-numeration-cardinality grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:58bc3aaf-4993-4bf2-bb94-ee88684856c7",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "count-finite-collection",
+    "label": "Count a finite collection",
+    "definition": "Given a finite collection with a declared inclusion rule, coordinate one count per item and state its cardinality without omission or duplication.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a finite collection with a declared inclusion rule, coordinate one count per item and state its cardinality without omission or duplication.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:ac102a52-f21f-47c4-8221-e4bc7cc2f7ec",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compare-finite-cardinalities",
+    "label": "Compare finite cardinalities",
+    "definition": "Given two finite collections or reliable counts, determine whether one has fewer, the same number, or more elements and justify the comparison by correspondence or number order.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given two finite collections or reliable counts, determine whether one has fewer, the same number, or more elements and justify the comparison by correspondence or number order.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:ec870665-0aa7-4692-bc81-30d1f42dd6bf",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "interpret-construct-numerals-family",
+    "label": "Interpret and construct numerals",
+    "definition": "A capability family within counting-numeration-cardinality grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:61f5605a-3e46-443b-ac47-eeea35e34ffd",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "interpret-place-value-numeral",
+    "label": "Interpret a place-value numeral",
+    "definition": "Given a numeral in a stated base, identify each digit's place contribution and determine the represented whole-number value.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a numeral in a stated base, identify each digit's place contribution and determine the represented whole-number value.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:a0ecc9e0-4b54-4847-b0f4-ee9635dfca81",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compose-decompose-place-value",
+    "label": "Compose and decompose by place value",
+    "definition": "Given a nonnegative whole number and a stated base, express it in equivalent expanded, bundled, and standard numeral forms and verify equivalence.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a nonnegative whole number and a stated base, express it in equivalent expanded, bundled, and standard numeral forms and verify equivalence.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:adf4d733-c470-40c2-b762-af77a11fa684",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "reason-about-counting-family",
+    "label": "Reason about counting and cardinality",
+    "definition": "A capability family within counting-numeration-cardinality grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:53ff9dd1-8f1e-43e7-bed9-82d1f2ecf62f",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "establish-one-to-one-correspondence",
+    "label": "Establish a one-to-one correspondence",
+    "definition": "Given two finite collections, construct or rule out a one-to-one correspondence and use it to compare cardinality.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given two finite collections, construct or rule out a one-to-one correspondence and use it to compare cardinality.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:b345d3c6-c4a4-47ae-8ffc-30e541940386",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "justify-counting-invariance",
+    "label": "Justify counting invariance",
+    "definition": "Given rearrangements or different valid counting orders of the same finite collection, explain why its cardinality remains unchanged.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given rearrangements or different valid counting orders of the same finite collection, explain why its cardinality remains unchanged.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:94f35708-fc86-4301-a996-57bde4dda53f",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "ordered-magnitude",
+    "label": "Ordered magnitude",
+    "definition": "A quantity or number considered with respect to less than, equal to, and greater than relations.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:34d2f43a-ab33-4368-ac29-697da5c141b0",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "absolute-difference",
+    "label": "Absolute difference",
+    "definition": "The nonnegative distance between two values on an ordered numerical scale.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:d6787fde-6969-4281-bb27-1b62b3c0d5ed",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "order-compatibility-properties",
+    "label": "Order compatibility properties",
+    "definition": "An ordered number system links transitivity and trichotomy with declared effects of addition, multiplication, and sign on inequalities.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:de27b03c-d555-4df5-95bd-53eef6a8cc4b",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "ordered-number-line",
+    "label": "Ordered number line",
+    "definition": "A spatial representation of ordered numerical magnitude, intervals, bounds, and distance.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:856c73a3-45e0-471a-8610-6055e5406941",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "locate-order-values-family",
+    "label": "Locate and order values",
+    "definition": "A capability family within magnitude-order-comparison grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:4bc8e23b-a885-4530-806f-28c0c50ef677",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "locate-value-on-number-line",
+    "label": "Locate a value on a number line",
+    "definition": "Given a calibrated number line and a value in a compatible representation, place or identify the value with scale-appropriate accuracy.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a calibrated number line and a value in a compatible representation, place or identify the value with scale-appropriate accuracy.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:1a3f8b6d-d634-4b6f-bf13-04fc453242e9",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "order-finite-value-set",
+    "label": "Order a finite set of values",
+    "definition": "Given finitely many comparable real values in mixed admissible forms, arrange them by magnitude and justify critical comparisons.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given finitely many comparable real values in mixed admissible forms, arrange them by magnitude and justify critical comparisons.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:dc2de92b-876a-43fb-aee9-4837dda9997c",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "bound-quantify-difference-family",
+    "label": "Bound and quantify differences",
+    "definition": "A capability family within magnitude-order-comparison grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:eb25a0d3-c7b2-45c6-99e5-51356a227ced",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "bound-value-with-interval",
+    "label": "Bound a value with an interval",
+    "definition": "Given partial numerical information or an approximation tolerance, produce valid lower and upper bounds and state endpoint inclusion.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given partial numerical information or an approximation tolerance, produce valid lower and upper bounds and state endpoint inclusion.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:01a6eac6-6885-4e10-9aa3-d4c3c197f391",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "determine-absolute-difference",
+    "label": "Determine an absolute difference",
+    "definition": "Given two values on a common scale, determine their nonnegative distance and interpret it in the scale's units or context.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given two values on a common scale, determine their nonnegative distance and interpret it in the scale's units or context.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:9b7ee315-c4ea-47a6-8294-1424e77e1d42",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "justify-order-claims-family",
+    "label": "Justify order claims",
+    "definition": "A capability family within magnitude-order-comparison grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:bdd6e9b2-7ccb-42f8-8323-c95468411838",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compare-equivalent-number-representations",
+    "label": "Compare equivalent number representations",
+    "definition": "Given values expressed as fractions, decimals, radicals, or locations, translate as needed and justify their relative order without assuming surface form determines size.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given values expressed as fractions, decimals, radicals, or locations, translate as needed and justify their relative order without assuming surface form determines size.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:110ccc38-bd8e-4706-b959-5161da2424af",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "audit-inequality-reasoning",
+    "label": "Audit inequality reasoning",
+    "definition": "Given a bounded chain of inequalities, identify whether each transformation preserves, reverses, or fails to preserve order and locate the first invalid step.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a bounded chain of inequalities, identify whether each transformation preserves, reverses, or fails to preserve order and locate the first invalid step.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:b45099e8-1378-4f52-8d07-d4b680d2af52",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "integer",
+    "label": "Integer",
+    "definition": "A whole number, its additive inverse, or zero within the discrete ordered ring of integers.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:1859fbb2-6ea2-47ea-a2a1-2e2519f7c27e",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "additive-inverse",
+    "label": "Additive inverse",
+    "definition": "For a number, the number whose sum with it is the additive identity zero.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:1c8edef1-c0f3-47f9-88a5-bb145078cee6",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "integer-operation-structure",
+    "label": "Integer operation structure",
+    "definition": "Integer addition and multiplication are closed and obey associative, commutative, distributive, identity, and inverse-related properties with an order compatible with addition.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:4ee9cd19-55da-46e0-b728-5aaa961f9bf3",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "signed-number-line-and-chip-model",
+    "label": "Signed number-line and chip model",
+    "definition": "Number-line displacement or paired positive–negative objects used to represent integer values and operations.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:bdd2c932-a9dd-45c6-9d15-0a04c91c2997",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "represent-classify-integers-family",
+    "label": "Represent and classify integers",
+    "definition": "A capability family within whole-numbers-integers grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:1a15d4fa-9377-4ac8-ac99-efc5c1e35f47",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "classify-integer-representations",
+    "label": "Classify integer representations",
+    "definition": "Given numerical representations, determine which denote integers and identify sign, zero, magnitude, and additive inverse.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given numerical representations, determine which denote integers and identify sign, zero, magnitude, and additive inverse.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:03673344-cf39-4e19-aacb-b03022d0ac6a",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "represent-signed-change",
+    "label": "Represent a signed change",
+    "definition": "Given a bounded change or displacement situation with a stated reference and orientation, represent states and changes using integers and explain the sign convention.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a bounded change or displacement situation with a stated reference and orientation, represent states and changes using integers and explain the sign convention.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:255fe287-f185-4fc5-a48a-cb74b671a09a",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "operate-solve-with-integers-family",
+    "label": "Operate and solve with integers",
+    "definition": "A capability family within whole-numbers-integers grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:9c167971-2e79-437a-929f-f79a8ae34a9b",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compute-integer-operations",
+    "label": "Compute with integers",
+    "definition": "Given a finite integer expression using addition, subtraction, multiplication, division where defined, and grouping, compute its value and check sign and magnitude.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a finite integer expression using addition, subtraction, multiplication, division where defined, and grouping, compute its value and check sign and magnitude.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:4f410b14-79ba-4f7e-8365-0670cf317005",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "solve-bounded-integer-equation",
+    "label": "Solve a bounded integer equation",
+    "definition": "Given an equation or constraint over integers at a declared complexity, determine its integer solutions and verify each against the original condition.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given an equation or constraint over integers at a declared complexity, determine its integer solutions and verify each against the original condition.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:54b9c8ba-e9fb-40ab-9795-464bc85d8da4",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "reason-about-integer-structure-family",
+    "label": "Reason about integer structure",
+    "definition": "A capability family within whole-numbers-integers grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:3c5d5348-b5f8-43fe-a058-bd66a61d197a",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "analyze-integer-parity-sign",
+    "label": "Analyze parity and sign",
+    "definition": "Given integer expressions under stated conditions, determine possible parity or sign and justify the conclusion using structural properties rather than enumeration alone.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given integer expressions under stated conditions, determine possible parity or sign and justify the conclusion using structural properties rather than enumeration alone.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:c2a6c693-35dd-4783-95fb-05ebe1dda102",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "justify-integer-operation-equivalence",
+    "label": "Justify integer-operation equivalence",
+    "definition": "Given two integer expressions or procedures, establish or refute their equivalence using operation properties, a derivation, or a counterexample.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given two integer expressions or procedures, establish or refute their equivalence using operation properties, a derivation, or a counterexample.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:8ddc6ca2-ed2d-4662-b3dc-cdbcf77bfb3f",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "real-number-system",
+    "label": "Real number system",
+    "definition": "The complete ordered field containing rational and irrational numbers represented along a continuous line.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:9c04dea0-f414-4f15-9a3a-7dbf3f733462",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "complex-number-system",
+    "label": "Complex number system",
+    "definition": "The field of values a+bi with real a and b and an element i satisfying i squared equals negative one.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:13ddff0e-f1ab-4c94-a7e7-6b2dd9fce78c",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "real-complex-structural-distinction",
+    "label": "Real–complex structural distinction",
+    "definition": "Complex numbers extend real arithmetic and algebra but do not admit an order compatible with field operations in the same way as the reals.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:2dd9b11d-4b45-4ade-b835-a1857286723a",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "complex-plane-and-number-form",
+    "label": "Complex plane and number form",
+    "definition": "Rectangular, polar, or plane representations that coordinate the real and imaginary parts, magnitude, and argument of a complex number.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:877f31ad-5580-42e9-9e07-6dfd1c3c5a34",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "classify-represent-number-systems-family",
+    "label": "Classify and represent real and complex numbers",
+    "definition": "A capability family within real-complex-number-systems grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:318fe36a-ec7e-4095-b35e-c969e204667e",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "classify-real-complex-values",
+    "label": "Classify real and complex values",
+    "definition": "Given exact or symbolic values, determine membership in relevant nested number systems and justify classifications from definitions or established properties.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given exact or symbolic values, determine membership in relevant nested number systems and justify classifications from definitions or established properties.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:1cb250fc-eb0f-4e1c-a262-b1e4308749b5",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "translate-complex-number-forms",
+    "label": "Translate complex-number forms",
+    "definition": "Given a complex number in rectangular, polar, exponential, or plane form under declared angle conventions, convert to another form and verify the represented value.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a complex number in rectangular, polar, exponential, or plane form under declared angle conventions, convert to another form and verify the represented value.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:b2d20598-d97f-48e5-9fd6-55791d35b396",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "compute-solve-complex-family",
+    "label": "Compute and solve in real and complex systems",
+    "definition": "A capability family within real-complex-number-systems grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:528d5945-87d0-413a-99ce-3a9d0d1a6f1c",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compute-complex-arithmetic",
+    "label": "Compute complex arithmetic",
+    "definition": "Given finite complex expressions, perform declared arithmetic operations, simplify using i squared equals negative one, and verify by an alternate form when practical.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given finite complex expressions, perform declared arithmetic operations, simplify using i squared equals negative one, and verify by an alternate form when practical.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:2bda6129-ca59-4eb0-9bd4-884ec1b30387",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "solve-polynomial-over-complex",
+    "label": "Solve a bounded polynomial over the complex numbers",
+    "definition": "Given a polynomial equation at a declared degree and admissible method, determine all requested complex roots with multiplicity and verify by substitution or factorization.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a polynomial equation at a declared degree and admissible method, determine all requested complex roots with multiplicity and verify by substitution or factorization.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:a2c48bba-984c-4f7a-bc90-38661fcb2b67",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "reason-about-number-extensions-family",
+    "label": "Reason about number-system extensions",
+    "definition": "A capability family within real-complex-number-systems grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:63e9716d-1e25-4187-9060-8ab62650ad08",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "bound-irrational-real-value",
+    "label": "Bound an irrational real value",
+    "definition": "Given an irrational value defined by a radical, limit, or equation and a requested tolerance, produce justified rational bounds or an approximation interval.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given an irrational value defined by a radical, limit, or equation and a requested tolerance, produce justified rational bounds or an approximation interval.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:a8e62cef-9166-4b14-808b-ad4e4198f008",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "justify-real-complex-identity",
+    "label": "Justify a real or complex identity",
+    "definition": "Given a scoped identity over real or complex values, derive it under correct domain conditions or provide a value showing it is not universally valid.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a scoped identity over real or complex values, derive it under correct domain conditions or provide a value showing it is not universally valid.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:83984aed-b705-437d-85fa-e21706168908",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "arithmetic-operation",
+    "label": "Arithmetic operation",
+    "definition": "A declared binary or unary process such as addition, subtraction, multiplication, division, or exponentiation on compatible numerical objects.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:2e172eaa-b8f5-4841-8025-6374f0194ec1",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "inverse-operation",
+    "label": "Inverse operation",
+    "definition": "An operation that reverses another operation on a declared domain, subject to existence and uniqueness conditions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:9fdd4100-ef85-4d5d-bc2f-876d1d3ce567",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "arithmetic-operation-laws",
+    "label": "Arithmetic operation laws",
+    "definition": "Identity, inverse, commutative, associative, and distributive properties govern which numerical transformations preserve value on a declared domain.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:31698d69-2f7b-4c1c-a95d-1007b8539d1a",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "arithmetic-expression-model",
+    "label": "Arithmetic expression model",
+    "definition": "A symbolic expression, array, area model, number-line action, or equation representing numerical operations and grouping.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:ed699fe4-4174-4942-86a9-522d3fec5f8a",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "interpret-compute-arithmetic-family",
+    "label": "Interpret and compute arithmetic",
+    "definition": "A capability family within arithmetic-operations-properties grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:b5499a1b-7863-4f66-b7f9-55655fad87f3",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "interpret-arithmetic-expression",
+    "label": "Interpret an arithmetic expression",
+    "definition": "Given a finite numerical expression with stated notation, identify its operations, operands, grouping, and value-producing structure.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a finite numerical expression with stated notation, identify its operations, operands, grouping, and value-producing structure.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:1c769ea3-cabd-4d05-a6b3-a87716bde381",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compute-bounded-arithmetic-expression",
+    "label": "Compute a bounded arithmetic expression",
+    "definition": "Given a finite expression over a declared number system, compute accurately using valid operation order and report undefined cases rather than forcing a value.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a finite expression over a declared number system, compute accurately using valid operation order and report undefined cases rather than forcing a value.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:83018455-95c2-481f-861d-10c68b6bc6d6",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "select-check-operation-family",
+    "label": "Select and check operations",
+    "definition": "A capability family within arithmetic-operations-properties grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:ed55e7e4-dd54-43b9-a3bd-82fbb54dca41",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "select-arithmetic-operation-for-relation",
+    "label": "Select an arithmetic operation for a relation",
+    "definition": "Given a bounded quantitative relation, select operations that represent the relation, state units or domain restrictions, and explain the correspondence.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a bounded quantitative relation, select operations that represent the relation, state units or domain restrictions, and explain the correspondence.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:843ae57f-5ea7-4005-aabb-f74c16a1d443",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "estimate-check-arithmetic-result",
+    "label": "Estimate and check an arithmetic result",
+    "definition": "Given an arithmetic computation, produce a scale-appropriate estimate or inverse-operation check and use it to detect implausible magnitude, sign, or unit errors.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given an arithmetic computation, produce a scale-appropriate estimate or inverse-operation check and use it to detect implausible magnitude, sign, or unit errors.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:91fd629b-7db1-4ced-b612-a7b378e1bc00",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "justify-operation-transformations-family",
+    "label": "Justify operation transformations",
+    "definition": "A capability family within arithmetic-operations-properties grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:781e699a-0aa7-4d46-acd6-f4121e96b42a",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "transform-expression-with-operation-laws",
+    "label": "Transform an expression with operation laws",
+    "definition": "Given a numerical expression, produce an equivalent form using named operation properties while preserving domain and grouping.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a numerical expression, produce an equivalent form using named operation properties while preserving domain and grouping.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:6cb678d8-878b-40ca-ab1b-77744827958c",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "explain-arithmetic-procedure-equivalence",
+    "label": "Explain arithmetic-procedure equivalence",
+    "definition": "Given two bounded arithmetic procedures, determine whether they are equivalent on the stated domain and justify the judgment by structure or counterexample.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given two bounded arithmetic procedures, determine whether they are equivalent on the stated domain and justify the judgment by structure or counterexample.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:49170afc-e1e9-41a4-aefe-aa78aa5cea5c",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "integer-divisibility",
+    "label": "Integer divisibility",
+    "definition": "For integers a and b, the relation that b equals a times an integer, with conventions declared for zero and sign.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:28aa07a6-035f-4634-9a9e-fe8c87028a9e",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "prime-factorization",
+    "label": "Prime factorization",
+    "definition": "An expression of a nonzero integer magnitude greater than one as a product of primes, unique up to order.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:fde96ef4-a4e1-4543-8423-17d2f4975ce9",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "division-algorithm-and-unique-factorization",
+    "label": "Division algorithm and unique factorization",
+    "definition": "Integer division yields a unique quotient and bounded remainder for a positive divisor, while positive integers above one factor uniquely into primes up to order.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:320bed64-837c-4114-be8b-9e27bff6af1c",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "factor-congruence-representation",
+    "label": "Factor and congruence representation",
+    "definition": "Factor trees, divisor lattices, residue classes, and modular notation used to display divisibility structure.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:a8369832-3377-4855-a21f-1c1e35a264f0",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "analyze-factors-family",
+    "label": "Analyze factors and multiples",
+    "definition": "A capability family within divisibility-number-theory grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:2368ed8a-b91d-4c0c-b61d-e1dd56a4b377",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "determine-factors-multiples",
+    "label": "Determine factors and multiples",
+    "definition": "Given bounded integers, determine requested divisors or multiples and verify each using the definition of divisibility.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given bounded integers, determine requested divisors or multiples and verify each using the definition of divisibility.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:f459db4d-e909-4271-9b31-7755f0ba0ca8",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-prime-factorization",
+    "label": "Construct a prime factorization",
+    "definition": "Given a nonzero integer magnitude greater than one, produce its prime factorization and check that the product reconstructs the original value.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a nonzero integer magnitude greater than one, produce its prime factorization and check that the product reconstructs the original value.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:1683a547-58d3-429f-8082-e645e839f876",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "compute-divisibility-invariants-family",
+    "label": "Compute divisibility invariants",
+    "definition": "A capability family within divisibility-number-theory grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:0cb9be4c-18e5-4ae5-9f21-c63430ab0554",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "determine-gcd-lcm",
+    "label": "Determine a greatest common divisor or least common multiple",
+    "definition": "Given finitely many nonzero integers under stated sign conventions, determine a gcd or lcm by an admissible method and verify its defining divisibility properties.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given finitely many nonzero integers under stated sign conventions, determine a gcd or lcm by an admissible method and verify its defining divisibility properties.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:b1e99d64-cada-4256-9f60-6772cc45c9d2",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compute-modular-remainder",
+    "label": "Compute and use modular remainders",
+    "definition": "Given integers and a positive modulus, compute congruence classes or remainders and use valid modular operations to answer a bounded question.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given integers and a positive modulus, compute congruence classes or remainders and use valid modular operations to answer a bounded question.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:053bd53f-78c1-499c-b426-3aff124c67c7",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "justify-number-theoretic-claims-family",
+    "label": "Justify number-theoretic claims",
+    "definition": "A capability family within divisibility-number-theory grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:9eadf81d-b7f9-43ae-b9a4-81528f9da234",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "prove-bounded-divisibility-claim",
+    "label": "Prove a bounded divisibility claim",
+    "definition": "Given an integer claim involving parity, divisibility, gcd, or congruence, construct a valid proof from definitions and established results under the stated conditions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given an integer claim involving parity, divisibility, gcd, or congruence, construct a valid proof from definitions and established results under the stated conditions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:3755baec-05fe-429f-a9cd-9441988a7bca",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "solve-linear-diophantine-condition",
+    "label": "Solve a linear Diophantine condition",
+    "definition": "Given a linear integer equation in two variables, determine whether solutions exist, construct the integer solution family when in scope, and verify the gcd condition.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a linear integer equation in two variables, determine whether solutions exist, construct the integer solution family when in scope, and verify the gcd condition.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  }
+]

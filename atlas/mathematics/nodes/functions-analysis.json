@@ -1,0 +1,2586 @@
+[
+  {
+    "id": "ola:n:81ba77ae-82cb-4967-ae01-e1a2663bb459",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "mathematical-relation",
+    "label": "Mathematical relation",
+    "definition": "A set of ordered tuples connecting elements from declared source sets.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:6878594b-43fc-41d0-af70-a7088e8ac13c",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "mathematical-function",
+    "label": "Mathematical function",
+    "definition": "A relation assigning each element of a declared domain exactly one element of a declared codomain.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:db131590-c051-4b65-a7fc-13abc992ef8f",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "function-domain-composition-inverse",
+    "label": "Function domain, composition, and inverse conditions",
+    "definition": "Function evaluation, composition, and inversion depend on explicit domains, codomains, ranges, and uniqueness conditions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:a494cfed-3916-480d-94b2-e0063740e08c",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "function-table-graph-rule",
+    "label": "Function table, graph, mapping, and rule",
+    "definition": "Tabular, graphical, mapping-diagram, verbal, or symbolic representations of input–output dependence.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:fc081d5f-95bb-43ba-b4d3-8649882b7351",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "interpret-evaluate-functions-family",
+    "label": "Interpret and evaluate functions",
+    "definition": "A capability family within relations-functions-dependence grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:16ce3361-6e9a-4251-b895-ab6cda2fc5f3",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "determine-whether-relation-is-function",
+    "label": "Determine whether a relation is a function",
+    "definition": "Given a relation in a finite, graphical, symbolic, or verbal representation, determine whether each domain input has exactly one output under stated conventions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a relation in a finite, graphical, symbolic, or verbal representation, determine whether each domain input has exactly one output under stated conventions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:66cf1336-90bb-4804-8eae-eb8883021023",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "evaluate-function-with-domain",
+    "label": "Evaluate a function with domain",
+    "definition": "Given a function and an admissible input in a declared representation, determine the output while respecting domain, units, and piecewise conditions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a function and an admissible input in a declared representation, determine the output while respecting domain, units, and piecewise conditions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:1f320ff1-928d-404f-bb62-2815de9cb4b5",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "compose-invert-functions-family",
+    "label": "Compose and invert functions",
+    "definition": "A capability family within relations-functions-dependence grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:aa4b48f5-4a7d-4f2b-9e86-3945e7fed4f6",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compose-compatible-functions",
+    "label": "Compose compatible functions",
+    "definition": "Given functions with compatible range and domain conditions, construct and evaluate their composition and state the effective domain.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given functions with compatible range and domain conditions, construct and evaluate their composition and state the effective domain.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:d831c61f-ea16-4fa1-aabb-b1e0594501d7",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-restricted-function-inverse",
+    "label": "Construct a restricted function inverse",
+    "definition": "Given a one-to-one function or a justified restriction, construct an inverse representation and verify both inverse compositions on their proper domains.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a one-to-one function or a justified restriction, construct an inverse representation and verify both inverse compositions on their proper domains.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:21a84346-3ccc-4125-befa-27cd59589d71",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "analyze-model-dependence-family",
+    "label": "Analyze and model dependence",
+    "definition": "A capability family within relations-functions-dependence grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:48929fea-28f1-4eb8-9c32-54208b1a60be",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "analyze-function-injectivity-surjectivity",
+    "label": "Analyze injectivity or surjectivity",
+    "definition": "Given a function with declared domain and codomain, establish or refute injectivity and surjectivity using definitions, structure, or counterexamples.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a function with declared domain and codomain, establish or refute injectivity and surjectivity using definitions, structure, or counterexamples.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:355ad9b4-1219-44dc-9c7c-40608dc73df0",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-function-dependence-model",
+    "label": "Construct a function dependence model",
+    "definition": "Given a bounded deterministic dependence, define input and output quantities, domain, units, and a function representation, then explain modeling limits.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a bounded deterministic dependence, define input and output quantities, domain, units, and a function representation, then explain modeling limits.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:cce7fde5-276c-4296-819d-ad77a6188058",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "mathematical-sequence",
+    "label": "Mathematical sequence",
+    "definition": "A function on an ordered discrete index set, commonly the nonnegative or positive integers.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:75f3dc0c-ae5e-43c6-85b4-1b72db1ebee2",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "series-and-recurrence",
+    "label": "Series and recurrence",
+    "definition": "A series aggregates sequence terms through partial sums, while a recurrence defines terms from earlier terms and initial data.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:d31cfc7a-d3fa-4e12-9040-70c68aeb1cde",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "sequence-convergence-partial-sum",
+    "label": "Sequence convergence and partial sums",
+    "definition": "Convergence concerns eventual closeness to a limit; an infinite series converges when its sequence of partial sums converges.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:5f8daa64-a31f-4e53-aab3-ea805bfaad05",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "sequence-term-partial-sum-plot",
+    "label": "Sequence, term, and partial-sum representation",
+    "definition": "Indexed lists, recurrence diagrams, term plots, sigma notation, and partial-sum tables representing discrete variation and accumulation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:a50d128d-421b-4f45-b687-994485f563cc",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "generate-represent-sequences-family",
+    "label": "Generate and represent sequences",
+    "definition": "A capability family within sequences-series-recurrence grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:75ba3761-a567-40f1-b5a4-a907a1df0d11",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "generate-sequence-from-rule",
+    "label": "Generate a sequence from a rule",
+    "definition": "Given an explicit or recursive rule with domain and initial conditions, generate requested terms and represent the index–term relationship accurately.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given an explicit or recursive rule with domain and initial conditions, generate requested terms and represent the index–term relationship accurately.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:198c6c3d-d892-4643-8377-0fb26262b2cd",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "translate-sequence-representations",
+    "label": "Translate sequence representations",
+    "definition": "Given a sequence in verbal, tabular, recursive, explicit, or graphical form, construct an equivalent requested representation on the stated index domain.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a sequence in verbal, tabular, recursive, explicit, or graphical form, construct an equivalent requested representation on the stated index domain.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:757b356c-41aa-47aa-893d-730cb87bddd1",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "analyze-recurrence-convergence-family",
+    "label": "Analyze recurrence and convergence",
+    "definition": "A capability family within sequences-series-recurrence grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:689af960-3414-4f2d-8b16-bb4581741c0f",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "solve-bounded-recurrence",
+    "label": "Solve a bounded recurrence",
+    "definition": "Given a first-order or otherwise declared recurrence with initial conditions and admissible method, determine an explicit form or sufficient behavior description and verify it.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a first-order or otherwise declared recurrence with initial conditions and admissible method, determine an explicit form or sufficient behavior description and verify it.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:f27b15f1-e72f-4cc8-af4c-48a4bf1fa640",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "determine-sequence-or-series-convergence",
+    "label": "Determine sequence or series convergence",
+    "definition": "Given a sequence or series within a declared test class, determine convergence or divergence and justify the selected criterion and its conditions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a sequence or series within a declared test class, determine convergence or divergence and justify the selected criterion and its conditions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:549f642d-ed43-4d07-8514-48948a0258e1",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "sum-approximate-justify-series-family",
+    "label": "Sum, approximate, and justify series",
+    "definition": "A capability family within sequences-series-recurrence grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:44d2ca65-40cc-46a2-ae24-65c73cacf234",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "determine-series-sum-or-approximation",
+    "label": "Determine a series sum or approximation",
+    "definition": "Given a convergent series in scope and a requested tolerance or form, determine its sum or a partial-sum approximation with a justified error bound.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a convergent series in scope and a requested tolerance or form, determine its sum or a partial-sum approximation with a justified error bound.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:24092880-9a24-4d8b-948c-6649d87dab66",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "audit-convergence-argument",
+    "label": "Audit a convergence argument",
+    "definition": "Given a bounded sequence or series argument, verify definitions, comparison directions, test conditions, and limit steps, identifying the first unsupported inference if present.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a bounded sequence or series argument, verify definitions, comparison directions, test conditions, and limit steps, identifying the first unsupported inference if present.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:5f747549-1c10-44bf-b4fc-ab0c46df1a2f",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "function-family",
+    "label": "Function family",
+    "definition": "A collection of functions sharing structural form and indexed by parameters that control features.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:fd24fa3a-dc44-43f2-a856-49b406783e85",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "function-transformation",
+    "label": "Function transformation",
+    "definition": "A change to inputs, outputs, or parameters producing translations, scalings, reflections, compositions, or other structured variation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:b3f9ef17-cfa7-484b-9ec4-a64cf3533e41",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "parameter-feature-correspondence",
+    "label": "Parameter–feature correspondence",
+    "definition": "Parameters in a chosen function form control identifiable features only relative to that form, domain, and representation conventions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:3c3f4d81-5744-42a9-9134-16efd4ef0494",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "parameterized-function-graph",
+    "label": "Parameterized function graph",
+    "definition": "Coordinated symbolic, graphical, and tabular views used to track how parameter changes alter a function.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:594c618c-6142-4daa-856c-f9284fd3c688",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "identify-represent-function-families-family",
+    "label": "Identify and represent function families",
+    "definition": "A capability family within function-families-transformations grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:a9d1a80b-b8e0-45ca-974c-58ff9a9e35ad",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "classify-function-family",
+    "label": "Classify a function family",
+    "definition": "Given symbolic, graphical, tabular, or verbal information, identify a defensible function family and cite structural features rather than surface resemblance alone.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given symbolic, graphical, tabular, or verbal information, identify a defensible function family and cite structural features rather than surface resemblance alone.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:5ad8506f-f37e-438e-9638-1f605ef1b37f",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "translate-function-family-representations",
+    "label": "Translate function-family representations",
+    "definition": "Given a function from a declared family, construct equivalent symbolic, graphical, or tabular information while preserving domain and key parameters.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a function from a declared family, construct equivalent symbolic, graphical, or tabular information while preserving domain and key parameters.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:a3fa9e7c-c40e-451f-a433-fd0f3ae90de0",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "transform-fit-family-parameters-family",
+    "label": "Transform and fit family parameters",
+    "definition": "A capability family within function-families-transformations grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:e718b130-b525-47cf-962d-ba8bc3c5b906",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "apply-function-graph-transformation",
+    "label": "Apply a function transformation",
+    "definition": "Given a base function and declared input or output transformations, construct the transformed rule or graph and predict effects on domain, range, intercepts, and invariant features.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a base function and declared input or output transformations, construct the transformed rule or graph and predict effects on domain, range, intercepts, and invariant features.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:76994d7f-aa48-488e-9d90-3806bfab9c6d",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "determine-function-family-parameters",
+    "label": "Determine function-family parameters",
+    "definition": "Given sufficient exact or approximate feature information and a declared family, determine compatible parameter values and verify the resulting function against the evidence.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given sufficient exact or approximate feature information and a declared family, determine compatible parameter values and verify the resulting function against the evidence.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:88f685f1-1bd0-4a64-b5ae-d7e7ef9218d6",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "analyze-function-family-structure-family",
+    "label": "Analyze function-family structure",
+    "definition": "A capability family within function-families-transformations grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:0c5b6a52-967e-4e5c-810b-cc750b17423c",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "analyze-function-symmetry-asymptotes",
+    "label": "Analyze symmetry and asymptotes",
+    "definition": "Given a function in scope, determine requested symmetry, periodicity, asymptotic, intercept, or end-behavior features and justify them from structure.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a function in scope, determine requested symmetry, periodicity, asymptotic, intercept, or end-behavior features and justify them from structure.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:96505bc7-4653-46f9-ac7c-2fd87f3201d4",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compare-function-model-families",
+    "label": "Compare function-model families",
+    "definition": "Given data or a bounded dependence and candidate function families, compare structural fit and extrapolation behavior, state assumptions, and avoid claiming uniqueness without evidence.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given data or a bounded dependence and candidate function families, compare structural fit and extrapolation behavior, state assumptions, and avoid claiming uniqueness without evidence.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:94a5ab8c-db5a-4ee2-8e00-39fc7b7099aa",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "average-rate-of-change",
+    "label": "Average rate of change",
+    "definition": "The ratio of output change to nonzero input change over a specified interval.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:f4c88f7a-f196-48a3-af26-cefe62dc01fe",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "instantaneous-rate-local-linearity",
+    "label": "Instantaneous rate and local linearity",
+    "definition": "A limiting rate at a point and the associated local approximation by a tangent or linear map when differentiability holds.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:50af2562-78ce-4061-be96-dcd21c6d44da",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "secant-tangent-limit-relation",
+    "label": "Secant–tangent limit relation",
+    "definition": "Instantaneous rate is obtained, when it exists, as a limit of average rates over shrinking intervals and determines a local linear approximation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:9fa86983-1f71-4d4d-9e25-f62407d4ce93",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "secant-tangent-rate-graph",
+    "label": "Secant, tangent, and rate graph",
+    "definition": "Graphical and tabular representations coordinating change in input, change in output, secant slopes, tangent behavior, and units.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:bb498f94-4a4b-4d56-90fc-43e518b5845c",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "determine-interpret-rates-family",
+    "label": "Determine and interpret rates",
+    "definition": "A capability family within rates-change-local-behavior grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:c921fa09-c5ea-4405-9896-d729bab728eb",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compute-average-rate-of-change",
+    "label": "Compute an average rate of change",
+    "definition": "Given a function or paired values and a nonzero input interval, determine the average rate of change with correct sign, units, and interval interpretation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a function or paired values and a nonzero input interval, determine the average rate of change with correct sign, units, and interval interpretation.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:acf9ce9e-d377-432b-9b33-8ce961280b32",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "estimate-instantaneous-rate",
+    "label": "Estimate an instantaneous rate",
+    "definition": "Given local tabular, graphical, or functional data near a point, estimate the instantaneous rate using justified secant or tangent information and state approximation limits.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given local tabular, graphical, or functional data near a point, estimate the instantaneous rate using justified secant or tangent information and state approximation limits.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:02998641-dec8-4029-bc19-68722f501b56",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "analyze-local-behavior-family",
+    "label": "Analyze local behavior",
+    "definition": "A capability family within rates-change-local-behavior grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:8b6a44e0-afb2-48fd-9972-f2f630f6c952",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "determine-local-increase-decrease",
+    "label": "Determine local increase or decrease",
+    "definition": "Given a function and derivative or local rate information, determine intervals or neighborhoods of increase, decrease, or stationarity under stated regularity conditions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a function and derivative or local rate information, determine intervals or neighborhoods of increase, decrease, or stationarity under stated regularity conditions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:f9b99f66-0c08-4eb8-a240-0137ff3e4480",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-local-linear-approximation",
+    "label": "Construct a local linear approximation",
+    "definition": "Given a differentiable function value and derivative at a point, construct the local linear model and use it only within a justified neighborhood.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a differentiable function value and derivative at a point, construct the local linear model and use it only within a justified neighborhood.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:c4e21064-3d0f-4abc-b244-8139357744e2",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "reason-critique-rates-family",
+    "label": "Reason about and critique rates",
+    "definition": "A capability family within rates-change-local-behavior grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:e12561a3-45c2-4f8d-b443-0d5694e7deac",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "interpret-rate-units-context",
+    "label": "Interpret rate units in context",
+    "definition": "Given a rate from a mathematical or applied model, explain numerator and denominator quantities, sign, scale, and whether it is average, marginal, or instantaneous.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a rate from a mathematical or applied model, explain numerator and denominator quantities, sign, scale, and whether it is average, marginal, or instantaneous.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:71882b17-41e6-4319-842e-85895cd96355",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "audit-rate-of-change-claim",
+    "label": "Audit a rate-of-change claim",
+    "definition": "Given a claim based on a graph, table, formula, or model, check interval, units, sign, local-versus-global scope, and whether the evidence supports the conclusion.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a claim based on a graph, table, formula, or model, check interval, units, sign, local-versus-global scope, and whether the evidence supports the conclusion.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:b9da7066-2756-4cf7-b2ff-d964ac1ed489",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "function-limit",
+    "label": "Function limit",
+    "definition": "A value approached by function outputs as inputs approach a specified point or infinity, independent of the function's value at the point when defined.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:44e4abc3-b02d-4390-8581-60880ad76475",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "function-continuity",
+    "label": "Function continuity",
+    "definition": "Agreement of a function's value with its limit at a point, or the corresponding local or setwise condition under a declared topology.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:46dd70e5-0d1c-4240-9940-b3eedffe26ae",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "limit-laws-continuity-theorems",
+    "label": "Limit laws and continuity theorems",
+    "definition": "Algebraic limit laws and continuity results apply only when component limits and domain conditions exist as required.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:72087718-e836-4a5b-93dd-59a186091c8c",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "limit-table-graph-neighborhood",
+    "label": "Limit table, graph, and neighborhood",
+    "definition": "Numerical, graphical, symbolic, and neighborhood representations of approach, one-sided behavior, and discontinuity.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:22e06531-4c06-4f65-8176-c5989904dc0e",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "estimate-evaluate-limits-family",
+    "label": "Estimate and evaluate limits",
+    "definition": "A capability family within limits-continuity grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:b0a73965-8a73-4f19-a9eb-1ab8edbea11f",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "estimate-limit-from-representation",
+    "label": "Estimate a limit from a representation",
+    "definition": "Given a graph or table sampled on appropriate sides of a target, estimate a finite or infinite limit and distinguish it from the point value.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a graph or table sampled on appropriate sides of a target, estimate a finite or infinite limit and distinguish it from the point value.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:3f6590b0-116c-474e-9976-e6fef4f78ed4",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "evaluate-limit-with-laws",
+    "label": "Evaluate a limit with valid laws",
+    "definition": "Given a limit expression in a declared class, apply algebraic, order, or standard limits with their conditions to determine the limit or show nonexistence.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a limit expression in a declared class, apply algebraic, order, or standard limits with their conditions to determine the limit or show nonexistence.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:e7499372-8de1-4ee0-a7e5-d9aade50d489",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "analyze-continuity-family",
+    "label": "Analyze continuity",
+    "definition": "A capability family within limits-continuity grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:18173f9e-587f-457a-bc91-88adedcebb1a",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "determine-continuity-at-point",
+    "label": "Determine continuity at a point",
+    "definition": "Given a function representation and target point, check domain membership, existence of the relevant limit, and equality with the function value.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a function representation and target point, check domain membership, existence of the relevant limit, and equality with the function value.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:6a244469-dbeb-4de9-a38a-21712543c988",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "classify-discontinuity",
+    "label": "Classify a discontinuity",
+    "definition": "Given local function behavior, identify removable, jump, infinite, oscillatory, or other declared discontinuity types and support the classification from limits.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given local function behavior, identify removable, jump, infinite, oscillatory, or other declared discontinuity types and support the classification from limits.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:f3c3b412-3b23-47d5-9677-885383990c2d",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "justify-limit-claims-family",
+    "label": "Justify limit claims",
+    "definition": "A capability family within limits-continuity grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:7b115a8a-bbc3-43bb-8866-1eebb4c671bc",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "prove-bounded-limit-claim",
+    "label": "Prove a bounded limit claim",
+    "definition": "Given a limit claim within an admitted proof framework, construct an epsilon–delta, sequence, order, or theorem-based argument with explicit quantifier scope.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a limit claim within an admitted proof framework, construct an epsilon–delta, sequence, order, or theorem-based argument with explicit quantifier scope.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:c3a51e56-d873-4b65-ad31-973d97c16bf5",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-continuity-counterexample",
+    "label": "Construct a continuity counterexample",
+    "definition": "Given an overgeneralized claim about limits or continuity, construct a function satisfying the hypotheses but failing the conclusion and verify both behaviors.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given an overgeneralized claim about limits or continuity, construct a function satisfying the hypotheses but failing the conclusion and verify both behaviors.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:69cc53f9-cc0d-4fb4-b057-5821746525a7",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "derivative",
+    "label": "Derivative",
+    "definition": "The local linear rate of change of a function, represented by a difference-quotient limit when it exists.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:81f9a512-2928-46ff-903c-eba3e1e66603",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "definite-integral",
+    "label": "Definite integral",
+    "definition": "A limit-defined accumulation over a domain, interpreted through signed aggregation under a declared integration theory.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:148189a6-8bd4-482f-8389-7cff64c729e0",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "fundamental-theorem-of-calculus",
+    "label": "Fundamental theorem of calculus",
+    "definition": "Under appropriate continuity or integrability conditions, differentiation and integration connect accumulation functions, antiderivatives, and definite integrals.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:7e9af404-7c2d-4bb7-8e1e-7c8d5f526806",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "derivative-integral-multiple-representation",
+    "label": "Derivative and integral representations",
+    "definition": "Symbolic, graphical, numerical, geometric, and accumulation representations of local change and aggregated quantity.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:7454094d-f27f-4afc-9987-cc820ab77d98",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "differentiate-integrate-functions-family",
+    "label": "Differentiate and integrate functions",
+    "definition": "A capability family within differentiation-integration grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:3e9725a3-6653-433f-bf9d-bd4e652b6a56",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "differentiate-function-in-scope",
+    "label": "Differentiate a function in scope",
+    "definition": "Given a function and declared domain, determine its derivative using a definition, valid rule, or computational method and state points where the result does not apply.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a function and declared domain, determine its derivative using a definition, valid rule, or computational method and state points where the result does not apply.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:ce5d43ff-5052-41f8-a7ec-fdc237d23bfa",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "evaluate-definite-or-indefinite-integral",
+    "label": "Evaluate an integral in scope",
+    "definition": "Given an integrand and bounds or antiderivative request in a declared class, determine the integral using valid techniques and verify by differentiation, estimation, or numerical check.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given an integrand and bounds or antiderivative request in a declared class, determine the integral using valid techniques and verify by differentiation, estimation, or numerical check.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:06d02116-c7f3-4f2e-84b3-805069d1460a",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "apply-calculus-structure-family",
+    "label": "Apply calculus structure",
+    "definition": "A capability family within differentiation-integration grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:a506454f-0d34-4a48-bdee-4168b4a15882",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "solve-bounded-optimization-problem",
+    "label": "Solve a bounded optimization problem",
+    "definition": "Given an objective and feasible domain, identify candidates using derivative or structural information, evaluate boundary cases, and justify the reported optimum.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given an objective and feasible domain, identify candidates using derivative or structural information, evaluate boundary cases, and justify the reported optimum.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:57534606-b926-4780-987a-44d505d8d7a2",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "model-accumulation-from-rate",
+    "label": "Model accumulation from a rate",
+    "definition": "Given a rate function, initial amount, and compatible units, construct an accumulation function or definite integral and interpret sign, bounds, and resulting quantity.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a rate function, initial amount, and compatible units, construct an accumulation function or definite integral and interpret sign, bounds, and resulting quantity.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:90faa4b3-b7e8-4631-8210-4d314447e898",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "connect-verify-calculus-family",
+    "label": "Connect and verify differentiation and integration",
+    "definition": "A capability family within differentiation-integration grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:79105315-2292-44f0-b827-d85ea5878e91",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "apply-fundamental-theorem-calculus",
+    "label": "Apply the fundamental theorem of calculus",
+    "definition": "Given conditions under which the theorem applies, connect a derivative, accumulation function, antiderivative, and definite integral to compute or justify a requested result.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given conditions under which the theorem applies, connect a derivative, accumulation function, antiderivative, and definite integral to compute or justify a requested result.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:8fa7fbcc-c347-4283-857c-4941abe8e2da",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "audit-calculus-solution",
+    "label": "Audit a differentiation or integration solution",
+    "definition": "Given a bounded calculus solution, check domain, rule conditions, constants, bounds, units, and verification evidence, and identify the first material error if present.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a bounded calculus solution, check domain, rule conditions, constants, bounds, units, and verification evidence, and identify the first material error if present.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:7b8f687c-9695-4228-81b3-568254ebb945",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "differential-equation-state",
+    "label": "Differential equation and state",
+    "definition": "A relation constraining a state and one or more of its derivatives with respect to independent variables.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:14b6cfdf-d727-4849-b61f-60164c87956d",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "dynamical-equilibrium-stability",
+    "label": "Dynamical equilibrium and stability",
+    "definition": "A state unchanged by the dynamics and the local or global tendency of nearby states to remain near or approach it.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:7e0d0235-7ddc-487e-8e63-286e90079bf8",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "solution-initial-condition-qualitative-structure",
+    "label": "Solution, initial condition, and qualitative structure",
+    "definition": "A differential-equation solution must satisfy both the equation and imposed data; existence, uniqueness, stability, and long-run behavior depend on stated conditions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:e73ad677-b9b9-4c28-9d08-37862b30f060",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "slope-field-phase-trajectory",
+    "label": "Slope field, phase portrait, and trajectory",
+    "definition": "Visual and computational representations of local derivatives, state-space flow, solution curves, and equilibria.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:ced782ef-a645-450c-bfce-9afa61a08010",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "formulate-solve-differential-equations-family",
+    "label": "Formulate and solve differential equations",
+    "definition": "A capability family within differential-equations-dynamical-systems grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:a3e721a1-019d-4f74-ad4a-5d08cbe874cd",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "formulate-bounded-differential-equation",
+    "label": "Formulate a bounded differential equation",
+    "definition": "Given a process described by local rates and state variables, construct a differential equation with parameters, units, initial or boundary data, and stated assumptions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a process described by local rates and state variables, construct a differential equation with parameters, units, initial or boundary data, and stated assumptions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:ba660c2b-c789-400c-af0e-c0e7b65efea2",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "solve-elementary-differential-equation",
+    "label": "Solve an elementary differential equation",
+    "definition": "Given a separable, first-order linear, or other declared equation with data, determine a solution family or particular solution and verify it in the original equation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a separable, first-order linear, or other declared equation with data, determine a solution family or particular solution and verify it in the original equation.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:1fa1b8ca-9400-435b-a4ab-3a08978092da",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "analyze-dynamics-family",
+    "label": "Analyze dynamical behavior",
+    "definition": "A capability family within differential-equations-dynamical-systems grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:ef62c3d7-cf73-4f78-ab4f-2c15c39cb789",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "analyze-equilibrium-stability",
+    "label": "Analyze an equilibrium's stability",
+    "definition": "Given an autonomous system in a declared class, identify equilibria and use sign, linearization, Lyapunov, or phase information within its conditions to classify local behavior.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given an autonomous system in a declared class, identify equilibria and use sign, linearization, Lyapunov, or phase information within its conditions to classify local behavior.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:4fd545da-8aa4-4398-b963-91cf475e51fb",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "interpret-phase-portrait-trajectory",
+    "label": "Interpret a phase portrait or trajectory",
+    "definition": "Given a slope field, phase portrait, or simulated trajectory, infer direction, invariant behavior, equilibria, and plausible long-run patterns without exceeding the representation's evidence.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a slope field, phase portrait, or simulated trajectory, infer direction, invariant behavior, equilibria, and plausible long-run patterns without exceeding the representation's evidence.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:939df08d-cea9-40df-9b08-07b36c7a186d",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "simulate-validate-dynamics-family",
+    "label": "Simulate and validate dynamics",
+    "definition": "A capability family within differential-equations-dynamical-systems grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:0af8a01b-e86d-4540-a39b-e3236eda47b7",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "simulate-dynamical-system",
+    "label": "Simulate a dynamical system",
+    "definition": "Given a specified dynamical system, initial state, numerical method, step settings, and time interval, generate an approximate trajectory and report settings and stability limitations.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a specified dynamical system, initial state, numerical method, step settings, and time interval, generate an approximate trajectory and report settings and stability limitations.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:a1358627-d249-41e7-93d6-f6f06c48a395",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "validate-differential-equation-model",
+    "label": "Validate a differential-equation model",
+    "definition": "Given a model and empirical or qualitative constraints, check units, initial conditions, solution behavior, sensitivity, and mismatch, and state what the validation does not establish.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f814c8e5-8a5d-4c79-b854-d4c8ce9d5967",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a model and empirical or qualitative constraints, check units, initial conditions, solution behavior, sensitivity, and mismatch, and state what the validation does not establish.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:32594cce-0b88-401b-bbff-d520c82f9095",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "measure-norm-analytic-structure",
+    "label": "Measure, norm, and analytic structure",
+    "definition": "Measure spaces, normed function spaces, and complex-analytic structures used to formalize size, convergence, transformation, and regularity.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a90ff663-4b01-4140-9a78-b9751666e72a",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:8299633f-151e-47ab-bf62-b59487835a87",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "linear-operator-transform",
+    "label": "Linear operator and transform",
+    "definition": "A structure-preserving map on function spaces, including integral and frequency transforms under declared domains.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a90ff663-4b01-4140-9a78-b9751666e72a",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:d4209ab2-6b76-44d1-8a2b-45e83ac62d56",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "analysis-convergence-representation-theorems",
+    "label": "Analysis convergence and representation theorems",
+    "definition": "Limit interchange, completeness, operator, analytic-continuation, and transform results depend on distinct hypotheses that cannot be transferred automatically between analysis settings.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a90ff663-4b01-4140-9a78-b9751666e72a",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:04f5d136-37f7-4e32-ac66-81927ecafc31",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "function-space-contour-spectrum-representation",
+    "label": "Function-space, contour, and spectrum representation",
+    "definition": "Norm diagrams, convergence modes, complex contours, and frequency-domain representations used across advanced analysis.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a90ff663-4b01-4140-9a78-b9751666e72a",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition."
+  },
+  {
+    "id": "ola:n:21aa5cde-6be6-4d0e-9e55-29cd97b6faae",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "measure-functional-analysis-family",
+    "label": "Work with measure and function-space structure",
+    "definition": "A capability family within measure-functional-complex-harmonic-analysis grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a90ff663-4b01-4140-9a78-b9751666e72a",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:df0c8cea-2880-4827-b763-604d64815afa",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compute-measure-or-lebesgue-integral",
+    "label": "Compute a measure or Lebesgue integral in scope",
+    "definition": "Given a measurable set or function in a declared elementary class, determine its measure or integral using valid decomposition or convergence results and state relevant almost-everywhere conditions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a90ff663-4b01-4140-9a78-b9751666e72a",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a measurable set or function in a declared elementary class, determine its measure or integral using valid decomposition or convergence results and state relevant almost-everywhere conditions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:0400e33f-e549-49fb-84d6-0cea45adf9cb",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "analyze-function-space-convergence",
+    "label": "Analyze function-space convergence",
+    "definition": "Given a function sequence and declared norm or convergence mode, establish or refute convergence and distinguish pointwise, uniform, norm, and almost-everywhere conclusions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a90ff663-4b01-4140-9a78-b9751666e72a",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a function sequence and declared norm or convergence mode, establish or refute convergence and distinguish pointwise, uniform, norm, and almost-everywhere conclusions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:96b09fed-7cca-4094-ae57-e39cc68bd8c9",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "complex-analysis-family",
+    "label": "Analyze complex functions",
+    "definition": "A capability family within measure-functional-complex-harmonic-analysis grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a90ff663-4b01-4140-9a78-b9751666e72a",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:a045bf6a-40b0-455d-86eb-1a1182e88bb8",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "analyze-complex-differentiability",
+    "label": "Analyze complex differentiability",
+    "definition": "Given a complex-valued function on a declared domain, determine analyticity or locate singularities using valid derivative, Cauchy–Riemann, or theorem-based conditions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a90ff663-4b01-4140-9a78-b9751666e72a",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a complex-valued function on a declared domain, determine analyticity or locate singularities using valid derivative, Cauchy–Riemann, or theorem-based conditions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:6de0131a-6d80-43f1-bc37-3c0106a618c2",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "evaluate-bounded-contour-integral",
+    "label": "Evaluate a bounded contour integral",
+    "definition": "Given an oriented contour and admissible integrand, evaluate or transform the integral using parameterization or a valid complex-analysis theorem and state singularity conditions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a90ff663-4b01-4140-9a78-b9751666e72a",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given an oriented contour and admissible integrand, evaluate or transform the integral using parameterization or a valid complex-analysis theorem and state singularity conditions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:bc2a8064-df39-4856-990b-b92f5b68c20e",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "harmonic-operator-analysis-family",
+    "label": "Use operators and harmonic representations",
+    "definition": "A capability family within measure-functional-complex-harmonic-analysis grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a90ff663-4b01-4140-9a78-b9751666e72a",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:3c5ee761-5222-40f9-a8a2-a8cd06926a8e",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "apply-bounded-linear-operator",
+    "label": "Apply and analyze a bounded linear operator",
+    "definition": "Given a linear operator between declared normed spaces, compute its action on specified elements and establish requested boundedness, kernel, range, or spectral information within scope.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a90ff663-4b01-4140-9a78-b9751666e72a",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a linear operator between declared normed spaces, compute its action on specified elements and establish requested boundedness, kernel, range, or spectral information within scope.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:b7d9775b-6410-48f7-88f9-984e5b6b7099",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "analyze-fourier-representation",
+    "label": "Analyze a Fourier representation",
+    "definition": "Given a function or signal satisfying declared conditions, determine or interpret Fourier coefficients or transform information and distinguish pointwise, norm, and distributional reconstruction claims.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a90ff663-4b01-4140-9a78-b9751666e72a",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis; source used for coverage audit and terminology, not as direct evidence for this exact decomposition.",
+    "capability_statement": "Given a function or signal satisfying declared conditions, determine or interpret Fourier coefficients or transform information and distinguish pointwise, norm, and distributional reconstruction claims.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  }
+]
