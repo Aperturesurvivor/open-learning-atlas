@@ -1,0 +1,2018 @@
+[
+  {
+    "id": "ola:n:3252c330-3c66-4bab-a6c4-44c47036f75f",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "observational-unit-variable-population",
+    "label": "Observational unit, variable, and population",
+    "definition": "Units on which variables are measured and the target population or process to which a statistical question refers.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:cd464b87-a14e-4b54-8150-6a469f7bfc3f",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "sampling-experiment-assignment",
+    "label": "Sampling and experimental assignment",
+    "definition": "Mechanisms selecting units, assigning conditions, and generating observations, including randomness, blocking, clustering, and repeated measures.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:bb075aff-ae40-49d0-8c9c-67db0d76f55c",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "bias-confounding-randomization",
+    "label": "Bias, confounding, and randomization",
+    "definition": "Selection, measurement, nonresponse, and assignment mechanisms affect what comparisons support; randomization can support design-based inference under explicit conditions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:3c2b2f66-413e-4551-9ea9-4b57a0f32b9b",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "study-design-sampling-diagram",
+    "label": "Study-design and sampling diagram",
+    "definition": "Flow, sampling-frame, assignment, and data-collection diagrams linking population, sample, conditions, measurements, and exclusions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:cdf437d0-3458-4b64-98f2-f0354067d527",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "formulate-data-study-family",
+    "label": "Formulate a data study",
+    "definition": "A capability family within data-generation-study-design grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:161c3128-7b38-4f0f-b3cc-afa216eb5766",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "formulate-statistical-investigation-question",
+    "label": "Formulate a statistical investigation question",
+    "definition": "Given a context involving variability, formulate an answerable statistical question and identify target population or process, observational units, variables, and intended comparisons.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given a context involving variability, formulate an answerable statistical question and identify target population or process, observational units, variables, and intended comparisons.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:f3b7aad8-d5cf-4be7-9596-a3963bf52d78",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "operationalize-study-variables",
+    "label": "Operationalize study variables",
+    "definition": "Given constructs or questions, define measurable variables, units, coding, timing, missing-value conventions, and foreseeable validity limitations.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given constructs or questions, define measurable variables, units, coding, timing, missing-value conventions, and foreseeable validity limitations.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:60cc7b04-8a99-4df4-bfac-510f7045f27b",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "design-sampling-experiment-family",
+    "label": "Design sampling or experiments",
+    "definition": "A capability family within data-generation-study-design grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:623959d5-773f-425d-8cda-6dfa212a7567",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "design-bounded-sampling-plan",
+    "label": "Design a bounded sampling plan",
+    "definition": "Given a target population and feasible frame, propose a probability or purpose-specific sampling plan, explain inclusion probabilities or selection rules, and identify coverage limitations.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given a target population and feasible frame, propose a probability or purpose-specific sampling plan, explain inclusion probabilities or selection rules, and identify coverage limitations.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:deb4452a-de61-427c-9534-f937786bfb3b",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "design-randomized-comparison",
+    "label": "Design a randomized comparison",
+    "definition": "Given units, treatments, and outcome variables, specify random assignment, replication, controls, blocking when relevant, and an analysis-aligned data structure.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given units, treatments, and outcome variables, specify random assignment, replication, controls, blocking when relevant, and an analysis-aligned data structure.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:2626daa5-e4bf-41a2-a7da-5eca20b08322",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "audit-study-validity-family",
+    "label": "Audit study validity",
+    "definition": "A capability family within data-generation-study-design grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:d9647e9d-8d4e-4e0c-ade1-d09906303e25",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "identify-study-bias-confounding",
+    "label": "Identify bias and confounding",
+    "definition": "Given a study description, identify material selection, measurement, nonresponse, assignment, temporal, or confounding mechanisms and explain their likely direction or uncertainty.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given a study description, identify material selection, measurement, nonresponse, assignment, temporal, or confounding mechanisms and explain their likely direction or uncertainty.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:a43021b5-003d-480b-975a-a101961a0eee",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "audit-study-scope-ethics",
+    "label": "Audit study scope and ethics",
+    "definition": "Given a proposed or reported study, assess consent, risk, privacy, data provenance, exclusions, population scope, and whether the design supports the stated descriptive, predictive, or causal claim.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given a proposed or reported study, assess consent, risk, privacy, data provenance, exclusions, population scope, and whether the design supports the stated descriptive, predictive, or causal claim.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:ea6a0373-b6e7-4817-8630-d337b86e984a",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "data-variable-distribution",
+    "label": "Data variable and distribution",
+    "definition": "Observed values of a variable across units, including type, missingness, frequency, and distributional structure.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:705d4e50-179e-4dc7-9f71-8504d2d174ef",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "visual-encoding-scale",
+    "label": "Visual encoding and scale",
+    "definition": "A mapping from data values or groups to position, length, angle, area, color, shape, or other marks under chosen axes and transformations.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:747a9280-584e-420e-94d3-91c2b2cedbf0",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "visualization-integrity-principles",
+    "label": "Visualization integrity principles",
+    "definition": "Readable statistical graphics align encodings with data type, preserve scale meaning, expose relevant variability, and disclose aggregation, transformation, and omission.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:665168ff-b0b9-4de7-95bf-c0275b9b4b7a",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "data-table-statistical-graphic",
+    "label": "Data table and statistical graphic",
+    "definition": "Tables, dotplots, histograms, boxplots, scatterplots, maps, and interactive views representing values, distributions, or relations.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:6491c14f-bbe8-415f-873f-bf27c4f902fe",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "construct-data-representations-family",
+    "label": "Construct data representations",
+    "definition": "A capability family within data-representation-visualization grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:b06ce765-ccb4-475f-affe-bd01b0df4d71",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-data-table",
+    "label": "Construct a data table",
+    "definition": "Given observations and a question, construct a tidy or otherwise declared table with units, variable types, coding, missingness, and identifiers sufficient for the intended analysis.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given observations and a question, construct a tidy or otherwise declared table with units, variable types, coding, missingness, and identifiers sufficient for the intended analysis.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:b9e4128c-5c3f-47bf-bef4-acdec52f1ead",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "select-statistical-graphic",
+    "label": "Select a statistical graphic",
+    "definition": "Given variables and an analytic purpose, select a graphic whose marks, aggregation, and scale are compatible with data type and the comparison of interest.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given variables and an analytic purpose, select a graphic whose marks, aggregation, and scale are compatible with data type and the comparison of interest.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:f0aa327a-9c1a-4471-a518-2fc31787840e",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "create-interpret-visualizations-family",
+    "label": "Create and interpret visualizations",
+    "definition": "A capability family within data-representation-visualization grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:937f7d49-d6ab-408b-852b-ad6afcf0be46",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "create-statistical-visualization",
+    "label": "Create a statistical visualization",
+    "definition": "Given data and a declared question, construct a labeled visualization with defensible encodings, scales, transformations, uncertainty displays, and accessibility choices.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given data and a declared question, construct a labeled visualization with defensible encodings, scales, transformations, uncertainty displays, and accessibility choices.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:f9257a48-1055-4c3f-ba07-978d64809f68",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "interpret-statistical-visualization",
+    "label": "Interpret a statistical visualization",
+    "definition": "Given a statistical graphic, identify patterns, variation, exceptions, and uncertainty supported by the display while distinguishing observations from explanations.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given a statistical graphic, identify patterns, variation, exceptions, and uncertainty supported by the display while distinguishing observations from explanations.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:52909bb4-e94c-4073-b634-cb0aa9cd1027",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "compare-critique-visualizations-family",
+    "label": "Compare and critique visualizations",
+    "definition": "A capability family within data-representation-visualization grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:3e10c4b0-2121-4b97-9d7a-caf54464aa61",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compare-distributions-visually",
+    "label": "Compare distributions visually",
+    "definition": "Given compatible displays for two or more groups, compare location, spread, shape, overlap, and unusual observations using the same scale and context.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given compatible displays for two or more groups, compare location, spread, shape, overlap, and unusual observations using the same scale and context.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:c90b8cea-dda3-42eb-b638-8031f61ebaa0",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "audit-data-visualization",
+    "label": "Audit a data visualization",
+    "definition": "Given a visualization, check source, denominator, aggregation, axis and color scales, encoding proportionality, omitted data, uncertainty, and whether annotations support the claim.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given a visualization, check source, denominator, aggregation, axis and color scales, encoding proportionality, omitted data, uncertainty, and whether annotations support the claim.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:c35b211a-6e7a-4ddf-8353-f45da702ba84",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "distribution-center-spread",
+    "label": "Distribution center and spread",
+    "definition": "Features describing typical location and variability of a univariate distribution, with summaries sensitive to shape and outliers.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:f8ccf76b-8a20-4461-a6c3-b06483fac9f4",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "distribution-shape-outlier",
+    "label": "Distribution shape and unusual observation",
+    "definition": "Modality, skewness, tails, gaps, clusters, and observations unusual relative to a declared distribution or rule.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:c18b14eb-d24f-4d32-bef6-05de1f7690d5",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "summary-sensitivity-robustness",
+    "label": "Summary sensitivity and robustness",
+    "definition": "Means and standard deviations respond strongly to magnitude, while medians and quantile-based summaries resist some extremes; no summary replaces the full distribution.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:50773a98-963c-4e79-ac78-1d85f65c93aa",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "histogram-boxplot-summary-table",
+    "label": "Histogram, boxplot, and summary table",
+    "definition": "Frequency displays, quantile graphics, and numerical summaries coordinating distribution shape, center, spread, and outliers.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:88091f05-aae1-471b-ba91-13125bab14ae",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "compute-descriptive-summaries-family",
+    "label": "Compute descriptive summaries",
+    "definition": "A capability family within descriptive-statistics grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:d4e61dd0-39c5-4cc7-83c4-9a2dd5e47765",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compute-center-quantile-summary",
+    "label": "Compute center and quantile summaries",
+    "definition": "Given finite univariate data and declared missingness and weighting conventions, compute requested mean, median, mode, quantiles, and five-number summaries accurately.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given finite univariate data and declared missingness and weighting conventions, compute requested mean, median, mode, quantiles, and five-number summaries accurately.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:4bce2060-2dcd-405a-9d8c-067be37381e9",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compute-variability-summary",
+    "label": "Compute a variability summary",
+    "definition": "Given finite univariate data and population or sample convention, compute requested range, interquartile range, variance, standard deviation, or robust spread and retain units.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given finite univariate data and population or sample convention, compute requested range, interquartile range, variance, standard deviation, or robust spread and retain units.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:657526ff-43db-49f8-9c7c-9882e73c80c8",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "describe-compare-distributions-family",
+    "label": "Describe and compare distributions",
+    "definition": "A capability family within descriptive-statistics grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:b62fcaa7-0417-4d0c-bdd9-4a3d13bb4a5f",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "describe-univariate-distribution",
+    "label": "Describe a univariate distribution",
+    "definition": "Given data or an honest display, describe shape, center, spread, unusual observations, and relevant context without claiming an underlying process from description alone.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given data or an honest display, describe shape, center, spread, unusual observations, and relevant context without claiming an underlying process from description alone.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:2427931e-bbae-4cd9-a924-2cc080d98ea0",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compare-groups-descriptively",
+    "label": "Compare groups descriptively",
+    "definition": "Given compatible grouped data, compare distributions using aligned summaries and displays, quantifying differences while noting overlap, sample size, and within-group variability.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given compatible grouped data, compare distributions using aligned summaries and displays, quantifying differences while noting overlap, sample size, and within-group variability.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:6f77e11a-c1e1-41f7-88c1-6bac75b1b257",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "select-audit-summaries-family",
+    "label": "Select and audit summaries",
+    "definition": "A capability family within descriptive-statistics grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:e6c845ad-5eb8-4c02-86f2-4cd8b535482d",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "select-appropriate-descriptive-summary",
+    "label": "Select an appropriate descriptive summary",
+    "definition": "Given a distribution and communication purpose, select center and spread summaries suited to scale, skew, outliers, and weights, and explain what they omit.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given a distribution and communication purpose, select center and spread summaries suited to scale, skew, outliers, and weights, and explain what they omit.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:ebd997fc-5f63-4885-ac78-99c432845f46",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "audit-descriptive-statistical-claim",
+    "label": "Audit a descriptive statistical claim",
+    "definition": "Given a claim and data summary, check population, denominator, weighting, missingness, aggregation, units, and whether the summary supports the stated magnitude and comparison.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given a claim and data summary, check population, denominator, weighting, missingness, aggregation, units, and whether the summary supports the stated magnitude and comparison.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:2a9edd9e-852c-4b71-94e6-d4c7e5331998",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "statistical-association",
+    "label": "Statistical association",
+    "definition": "A dependence in the joint distribution of variables, distinct from a causal relation unless supported by design and assumptions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:8b9a8d1b-fe46-4768-85b7-b83a23307f4a",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "regression-function-residual",
+    "label": "Regression function and residual",
+    "definition": "A conditional mean or other response model together with discrepancies between observations and fitted values.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:42a19bfb-5635-414c-846e-d80abc4ac2fb",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "correlation-regression-scope",
+    "label": "Correlation and regression scope",
+    "definition": "Correlation standardizes linear association; regression coefficients are model- and scale-dependent, and neither by itself establishes causation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:b123219e-6418-4271-b944-fea9f3bf222d",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "scatterplot-fitted-line-residual-plot",
+    "label": "Scatterplot, fitted relation, and residual plot",
+    "definition": "Coordinated displays of paired observations, fitted values, conditional structure, leverage, and model discrepancies.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:75346cc3-6a52-43b1-be8a-f8add63f4e58",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "describe-quantify-association-family",
+    "label": "Describe and quantify association",
+    "definition": "A capability family within association-regression grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:59c3b895-ddf6-4b91-9d1c-d4f5aa4e3aaa",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "describe-bivariate-association",
+    "label": "Describe a bivariate association",
+    "definition": "Given paired data or a scatterplot, describe direction, form, strength, clusters, influential observations, and range without extrapolating beyond the evidence.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given paired data or a scatterplot, describe direction, form, strength, clusters, influential observations, and range without extrapolating beyond the evidence.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:3645e343-5f59-4b77-98e6-a91751c58197",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compute-interpret-correlation",
+    "label": "Compute and interpret correlation",
+    "definition": "Given paired quantitative data and stated conventions, compute or interpret a correlation coefficient, relate sign and magnitude to linear association, and note sensitivity and range restrictions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given paired quantitative data and stated conventions, compute or interpret a correlation coefficient, relate sign and magnitude to linear association, and note sensitivity and range restrictions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:09b1b923-9b88-4fee-9544-911dab161b5f",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "fit-interpret-regression-family",
+    "label": "Fit and interpret regression",
+    "definition": "A capability family within association-regression grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:a3b1995b-1b72-4d95-b050-f0a74cb10802",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "fit-simple-regression-model",
+    "label": "Fit a simple regression model",
+    "definition": "Given paired data and a specified simple regression class, estimate model coefficients, generate fitted values and residuals, and record method and assumptions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given paired data and a specified simple regression class, estimate model coefficients, generate fitted values and residuals, and record method and assumptions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:83489fb4-2be8-433b-96e4-d8a2a1e4f1a4",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "interpret-regression-coefficient",
+    "label": "Interpret a regression coefficient",
+    "definition": "Given a fitted model, interpret intercept or slope in context with units, conditioning, uncertainty, and feasible range, avoiding unsupported causal language.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given a fitted model, interpret intercept or slope in context with units, conditioning, uncertainty, and feasible range, avoiding unsupported causal language.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:86c768a0-7c03-4bb2-b83e-0a8619b2b45c",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "predict-diagnose-regression-family",
+    "label": "Predict and diagnose regression",
+    "definition": "A capability family within association-regression grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:6a7d1a3c-0f25-4f37-9a7a-5932ceb59d44",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "make-regression-prediction",
+    "label": "Make a regression prediction",
+    "definition": "Given a fitted model and an in-scope predictor value, compute a point prediction and, when available, distinguish uncertainty for mean response from individual prediction.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given a fitted model and an in-scope predictor value, compute a point prediction and, when available, distinguish uncertainty for mean response from individual prediction.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:c6d9966b-a9a8-4917-a327-14a5279f012d",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "audit-association-causation-claim",
+    "label": "Audit an association or regression claim",
+    "definition": "Given a reported analysis, check design, variables, scale, nonlinearity, outliers, residuals, uncertainty, extrapolation, multiplicity, and whether a causal interpretation is justified.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given a reported analysis, check design, variables, scale, nonlinearity, outliers, residuals, uncertainty, extrapolation, multiplicity, and whether a causal interpretation is justified.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:83dbabb4-247c-4507-b841-69d9e7a5d1e2",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "estimator-estimand",
+    "label": "Estimator and estimand",
+    "definition": "A data-derived rule and the population or model quantity it is intended to estimate under a declared sampling or modeling framework.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:6e412708-a20d-4ddc-9557-ef39beaa0d2e",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "null-alternative-inferential-decision",
+    "label": "Null, alternative, and inferential decision",
+    "definition": "Competing scoped claims evaluated through a test statistic, reference distribution, error rates, and a decision or graded evidence statement.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:8b52ae7f-74d3-4675-8c68-5a4178ac47b6",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "sampling-distribution-error-control",
+    "label": "Sampling distribution and error control",
+    "definition": "Repeated-sampling behavior links estimators and tests to standard error, interval coverage, Type I error, power, and assumptions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:831b0e76-906e-4db9-a231-49dde676c281",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "confidence-interval-test-output",
+    "label": "Confidence interval and test output",
+    "definition": "Intervals, test statistics, reference distributions, p-values, error rates, and simulation outputs representing inferential uncertainty.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:3cf85f0a-49c4-4a45-9067-7609072169d8",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "estimate-with-intervals-family",
+    "label": "Estimate with intervals",
+    "definition": "A capability family within estimation-hypothesis-inference grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:1ff1fbca-5b61-4810-aca7-9efaf2344b99",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-confidence-interval",
+    "label": "Construct a confidence interval",
+    "definition": "Given data, estimand, sampling or model conditions, and an admissible method, compute an interval estimate and report level, units, and assumption checks.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given data, estimand, sampling or model conditions, and an admissible method, compute an interval estimate and report level, units, and assumption checks.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:4f2adc0b-6ff5-4d80-8793-0cba800ac8ac",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "interpret-confidence-interval",
+    "label": "Interpret a confidence interval",
+    "definition": "Given an interval procedure and result, state its parameter, population, confidence procedure meaning, and practical range without assigning repeated-sampling coverage directly to a fixed parameter.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given an interval procedure and result, state its parameter, population, confidence procedure meaning, and practical range without assigning repeated-sampling coverage directly to a fixed parameter.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:4bf81b35-8a9e-4884-b9ce-5ed9cdcc33b6",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "conduct-interpret-tests-family",
+    "label": "Conduct and interpret hypothesis tests",
+    "definition": "A capability family within estimation-hypothesis-inference grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:d4b78705-2305-4b5a-8b1b-d4f9fd7846f3",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "conduct-bounded-hypothesis-test",
+    "label": "Conduct a bounded hypothesis test",
+    "definition": "Given data, null and alternative, test statistic, significance rule, and valid reference method, compute evidence, make the declared decision, and report assumptions and effect magnitude.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given data, null and alternative, test statistic, significance rule, and valid reference method, compute evidence, make the declared decision, and report assumptions and effect magnitude.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:3fef616f-38bf-4eb7-89d2-23f0b8635be2",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "interpret-p-value-evidence",
+    "label": "Interpret a p-value",
+    "definition": "Given a valid test and p-value, interpret it as null-conditional extremeness under the specified procedure, not as the probability the null is true or the effect is important.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given a valid test and p-value, interpret it as null-conditional extremeness under the specified procedure, not as the probability the null is true or the effect is important.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:670cd6e8-db99-4d8a-8381-f7ae6e890ef7",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "analyze-audit-inference-family",
+    "label": "Analyze and audit inference",
+    "definition": "A capability family within estimation-hypothesis-inference grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:c11f4fc1-74ae-483e-935b-89032a3ad6cc",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "analyze-error-power-sample-size",
+    "label": "Analyze error, power, and sample size",
+    "definition": "Given effect, variability, test design, and error targets in a declared model, determine or interpret power or sample size and explain tradeoffs and sensitivity.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given effect, variability, test design, and error targets in a declared model, determine or interpret power or sample size and explain tradeoffs and sensitivity.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:10f90061-53e4-4626-98ef-6bf570214ab6",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "audit-inferential-claim",
+    "label": "Audit an inferential claim",
+    "definition": "Given a reported interval or test, check design, target, assumptions, multiplicity, stopping, effect size, uncertainty, practical importance, and whether the conclusion matches the method.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given a reported interval or test, check design, target, assumptions, multiplicity, stopping, effect size, uncertainty, practical importance, and whether the conclusion matches the method.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:d526c1d8-1a10-4b89-8e08-4a0ae800802e",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "causal-estimand-graph",
+    "label": "Causal estimand and graph",
+    "definition": "A precisely defined intervention contrast and a directed structural representation of hypothesized causal relations.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:f4573b7d-45a7-438c-b129-998ad1d2f7dc",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "multivariate-computational-statistical-method",
+    "label": "Multivariate and computational statistical method",
+    "definition": "A method operating on several variables or using resampling, simulation, optimization, regularization, or algorithmic prediction.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:63320df2-f3cf-4933-ada3-c1363ff0d444",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "identifiability-validation-computation",
+    "label": "Identifiability, validation, and computation",
+    "definition": "Causal and multivariate conclusions depend on design and assumptions; computational accuracy, out-of-sample validation, and sensitivity are distinct from identifiability.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:752214cd-8e05-415e-bb8e-2a4483f55d9f",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "causal-dag-matrix-computational-output",
+    "label": "Causal DAG, matrix, and computational output",
+    "definition": "Directed acyclic graphs, design matrices, resampling distributions, tuning curves, and algorithm diagnostics representing complex analyses.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:1eb438da-6717-4e18-a65f-323e817210cd",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "analyze-causal-structure-family",
+    "label": "Analyze causal structure",
+    "definition": "A capability family within causal-multivariate-computational-statistics grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:b2e1ec6b-7827-4b0f-9b74-daeb4fecf2df",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "define-causal-estimand",
+    "label": "Define a causal estimand",
+    "definition": "Given a causal question, define treatment or intervention, outcome, target population, comparison, time horizon, and assumptions separating the estimand from an estimator.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given a causal question, define treatment or intervention, outcome, target population, comparison, time horizon, and assumptions separating the estimand from an estimator.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:d2aeb6a6-8e34-477b-844e-c0c0742332bf",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "analyze-confounding-adjustment",
+    "label": "Analyze confounding and adjustment",
+    "definition": "Given a causal graph or design assumptions, identify candidate confounders, mediators, colliders, and adjustment sets and explain the causal logic and untestable assumptions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given a causal graph or design assumptions, identify candidate confounders, mediators, colliders, and adjustment sets and explain the causal logic and untestable assumptions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:c6501363-1c95-47d6-9828-6ee14bd84aec",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "fit-evaluate-multivariate-methods-family",
+    "label": "Fit and evaluate multivariate methods",
+    "definition": "A capability family within causal-multivariate-computational-statistics grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:ac47ea78-c7ca-4299-8faa-93dcb3b41098",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "fit-interpret-multivariate-model",
+    "label": "Fit and interpret a multivariate model",
+    "definition": "Given multivariable data and a specified model, estimate parameters or predictions, interpret conditional quantities, and examine collinearity, scaling, interactions, and uncertainty.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given multivariable data and a specified model, estimate parameters or predictions, interpret conditional quantities, and examine collinearity, scaling, interactions, and uncertainty.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:7ba6bcf1-ac10-4b6e-b749-914a2d829d11",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "evaluate-statistical-learning-procedure",
+    "label": "Evaluate a statistical learning procedure",
+    "definition": "Given a prediction procedure and data, design honest training and validation, select metrics aligned with the task, quantify variability, and detect leakage or distribution shift.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given a prediction procedure and data, design honest training and validation, select metrics aligned with the task, quantify variability, and detect leakage or distribution shift.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:c534c9e1-b0fa-4907-9e99-cb0948696baa",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "compute-simulate-audit-complex-analysis-family",
+    "label": "Compute, simulate, and audit complex analyses",
+    "definition": "A capability family within causal-multivariate-computational-statistics grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:541599d8-a535-497a-bfe6-3247655a630a",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "perform-resampling-or-simulation-inference",
+    "label": "Perform resampling or simulation inference",
+    "definition": "Given data, statistic, and a valid resampling or simulation scheme, generate a reference or sampling distribution, quantify Monte Carlo error, and interpret the result within assumptions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given data, statistic, and a valid resampling or simulation scheme, generate a reference or sampling distribution, quantify Monte Carlo error, and interpret the result within assumptions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:bddaa714-c22e-47fb-8799-034dbb1eeaa1",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "audit-causal-computational-claim",
+    "label": "Audit a causal or computational claim",
+    "definition": "Given a complex statistical report, check estimand, design, adjustment, leakage, tuning, validation, uncertainty, multiplicity, robustness, and whether causal or generalization claims follow.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given a complex statistical report, check estimand, design, adjustment, leakage, tuning, validation, uncertainty, multiplicity, robustness, and whether causal or generalization claims follow.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  }
+]

@@ -1,0 +1,4160 @@
+[
+  {
+    "id": "ola:e:72af4004-0848-46ff-b614-f358a62ad1f4",
+    "revision": 1,
+    "subject": "ola:n:f799bc32-265c-4b95-8ec8-385c5b1d267f",
+    "relation": "composed_of",
+    "object": "ola:n:3252c330-3c66-4bab-a6c4-44c47036f75f",
+    "rationale": "Observational unit, variable, and population is material terrain within data-generation-study-design; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:27cb8339-fcbe-4fce-90cf-d971a7b91e38",
+    "revision": 1,
+    "subject": "ola:n:f799bc32-265c-4b95-8ec8-385c5b1d267f",
+    "relation": "composed_of",
+    "object": "ola:n:cd464b87-a14e-4b54-8150-6a469f7bfc3f",
+    "rationale": "Sampling and experimental assignment is material terrain within data-generation-study-design; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2938d473-379f-4499-80f6-85b9aaa28962",
+    "revision": 1,
+    "subject": "ola:n:f799bc32-265c-4b95-8ec8-385c5b1d267f",
+    "relation": "composed_of",
+    "object": "ola:n:bb075aff-ae40-49d0-8c9c-67db0d76f55c",
+    "rationale": "Bias, confounding, and randomization is material terrain within data-generation-study-design; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:953d5bf2-26ff-4f0c-9fff-3a85e015c6dd",
+    "revision": 1,
+    "subject": "ola:n:f799bc32-265c-4b95-8ec8-385c5b1d267f",
+    "relation": "composed_of",
+    "object": "ola:n:3c2b2f66-413e-4551-9ea9-4b57a0f32b9b",
+    "rationale": "Study-design and sampling diagram is material terrain within data-generation-study-design; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e94a291f-4bfc-46d7-be36-d4734cfcf0af",
+    "revision": 1,
+    "subject": "ola:n:f799bc32-265c-4b95-8ec8-385c5b1d267f",
+    "relation": "composed_of",
+    "object": "ola:n:cdf437d0-3458-4b64-98f2-f0354067d527",
+    "rationale": "Formulate a data study is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:fadcf6ba-ad14-46c9-b956-b7ad6cf5fc86",
+    "revision": 1,
+    "subject": "ola:n:cdf437d0-3458-4b64-98f2-f0354067d527",
+    "relation": "composed_of",
+    "object": "ola:n:161c3128-7b38-4f0f-b3cc-afa216eb5766",
+    "rationale": "Formulate a statistical investigation question is a bounded performance within Formulate a data study.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d321c913-bcf2-4ab7-b2d7-fffebd914f3a",
+    "revision": 1,
+    "subject": "ola:n:161c3128-7b38-4f0f-b3cc-afa216eb5766",
+    "relation": "uses_concept",
+    "object": "ola:n:3252c330-3c66-4bab-a6c4-44c47036f75f",
+    "rationale": "Demonstrating Formulate a statistical investigation question materially invokes Observational unit, variable, and population at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:495d84d3-9ea2-453c-9e71-2226999d420a",
+    "revision": 1,
+    "subject": "ola:n:161c3128-7b38-4f0f-b3cc-afa216eb5766",
+    "relation": "uses_knowledge",
+    "object": "ola:n:bb075aff-ae40-49d0-8c9c-67db0d76f55c",
+    "rationale": "Demonstrating Formulate a statistical investigation question materially invokes Bias, confounding, and randomization at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:daed4af8-2afc-445d-bd31-53310d4c29ee",
+    "revision": 1,
+    "subject": "ola:n:161c3128-7b38-4f0f-b3cc-afa216eb5766",
+    "relation": "uses_representation",
+    "object": "ola:n:3c2b2f66-413e-4551-9ea9-4b57a0f32b9b",
+    "rationale": "Demonstrating Formulate a statistical investigation question materially invokes Study-design and sampling diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:dadeff3e-b03a-4a5a-bf05-4f5d44e8acb2",
+    "revision": 1,
+    "subject": "ola:n:cdf437d0-3458-4b64-98f2-f0354067d527",
+    "relation": "composed_of",
+    "object": "ola:n:f3b7aad8-d5cf-4be7-9596-a3963bf52d78",
+    "rationale": "Operationalize study variables is a bounded performance within Formulate a data study.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:dd88df7d-5aa6-4833-987d-2036644d9dbc",
+    "revision": 1,
+    "subject": "ola:n:f3b7aad8-d5cf-4be7-9596-a3963bf52d78",
+    "relation": "uses_concept",
+    "object": "ola:n:3252c330-3c66-4bab-a6c4-44c47036f75f",
+    "rationale": "Demonstrating Operationalize study variables materially invokes Observational unit, variable, and population at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e121d3cb-11f2-470c-b250-81f43ebfe73c",
+    "revision": 1,
+    "subject": "ola:n:f3b7aad8-d5cf-4be7-9596-a3963bf52d78",
+    "relation": "uses_knowledge",
+    "object": "ola:n:bb075aff-ae40-49d0-8c9c-67db0d76f55c",
+    "rationale": "Demonstrating Operationalize study variables materially invokes Bias, confounding, and randomization at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:60e3822d-fb68-47e7-8f9c-09179eb3b662",
+    "revision": 1,
+    "subject": "ola:n:f3b7aad8-d5cf-4be7-9596-a3963bf52d78",
+    "relation": "uses_representation",
+    "object": "ola:n:3c2b2f66-413e-4551-9ea9-4b57a0f32b9b",
+    "rationale": "Demonstrating Operationalize study variables materially invokes Study-design and sampling diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:305d5d56-b3fc-4069-bcd7-05211cf99bf4",
+    "revision": 1,
+    "subject": "ola:n:f799bc32-265c-4b95-8ec8-385c5b1d267f",
+    "relation": "composed_of",
+    "object": "ola:n:60cc7b04-8a99-4df4-bfac-510f7045f27b",
+    "rationale": "Design sampling or experiments is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:82c24e8d-ed28-4cb6-a83b-139951c9d1be",
+    "revision": 1,
+    "subject": "ola:n:60cc7b04-8a99-4df4-bfac-510f7045f27b",
+    "relation": "composed_of",
+    "object": "ola:n:623959d5-773f-425d-8cda-6dfa212a7567",
+    "rationale": "Design a bounded sampling plan is a bounded performance within Design sampling or experiments.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:03e21f4b-549b-454f-97b5-d254d63b688f",
+    "revision": 1,
+    "subject": "ola:n:623959d5-773f-425d-8cda-6dfa212a7567",
+    "relation": "uses_concept",
+    "object": "ola:n:cd464b87-a14e-4b54-8150-6a469f7bfc3f",
+    "rationale": "Demonstrating Design a bounded sampling plan materially invokes Sampling and experimental assignment at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b6ffcfdd-2cea-456d-9699-dac456b84f6b",
+    "revision": 1,
+    "subject": "ola:n:623959d5-773f-425d-8cda-6dfa212a7567",
+    "relation": "uses_knowledge",
+    "object": "ola:n:bb075aff-ae40-49d0-8c9c-67db0d76f55c",
+    "rationale": "Demonstrating Design a bounded sampling plan materially invokes Bias, confounding, and randomization at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d4f65f19-8d9f-4e2f-818f-30bd397556e1",
+    "revision": 1,
+    "subject": "ola:n:623959d5-773f-425d-8cda-6dfa212a7567",
+    "relation": "uses_representation",
+    "object": "ola:n:3c2b2f66-413e-4551-9ea9-4b57a0f32b9b",
+    "rationale": "Demonstrating Design a bounded sampling plan materially invokes Study-design and sampling diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c65af3b1-6935-420c-8172-ea692d1bab3b",
+    "revision": 1,
+    "subject": "ola:n:60cc7b04-8a99-4df4-bfac-510f7045f27b",
+    "relation": "composed_of",
+    "object": "ola:n:deb4452a-de61-427c-9534-f937786bfb3b",
+    "rationale": "Design a randomized comparison is a bounded performance within Design sampling or experiments.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:04daf25d-7a48-49d1-b651-a7fc3e45258d",
+    "revision": 1,
+    "subject": "ola:n:deb4452a-de61-427c-9534-f937786bfb3b",
+    "relation": "uses_concept",
+    "object": "ola:n:cd464b87-a14e-4b54-8150-6a469f7bfc3f",
+    "rationale": "Demonstrating Design a randomized comparison materially invokes Sampling and experimental assignment at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:6ae6a374-c85d-46c3-8ec4-d855ca1b72d7",
+    "revision": 1,
+    "subject": "ola:n:deb4452a-de61-427c-9534-f937786bfb3b",
+    "relation": "uses_knowledge",
+    "object": "ola:n:bb075aff-ae40-49d0-8c9c-67db0d76f55c",
+    "rationale": "Demonstrating Design a randomized comparison materially invokes Bias, confounding, and randomization at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:5b4e6d68-ca8d-499f-a9d4-2c6d3dfb6fa9",
+    "revision": 1,
+    "subject": "ola:n:deb4452a-de61-427c-9534-f937786bfb3b",
+    "relation": "uses_representation",
+    "object": "ola:n:3c2b2f66-413e-4551-9ea9-4b57a0f32b9b",
+    "rationale": "Demonstrating Design a randomized comparison materially invokes Study-design and sampling diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:60b97041-15bc-4781-8b04-ecc69cafff0f",
+    "revision": 1,
+    "subject": "ola:n:f799bc32-265c-4b95-8ec8-385c5b1d267f",
+    "relation": "composed_of",
+    "object": "ola:n:2626daa5-e4bf-41a2-a7da-5eca20b08322",
+    "rationale": "Audit study validity is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d5d14ef0-285b-42fd-8001-9e73ddbbb63d",
+    "revision": 1,
+    "subject": "ola:n:2626daa5-e4bf-41a2-a7da-5eca20b08322",
+    "relation": "composed_of",
+    "object": "ola:n:d9647e9d-8d4e-4e0c-ade1-d09906303e25",
+    "rationale": "Identify bias and confounding is a bounded performance within Audit study validity.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:630d9c43-db04-4c67-8a95-061331689ef2",
+    "revision": 1,
+    "subject": "ola:n:d9647e9d-8d4e-4e0c-ade1-d09906303e25",
+    "relation": "uses_concept",
+    "object": "ola:n:3252c330-3c66-4bab-a6c4-44c47036f75f",
+    "rationale": "Demonstrating Identify bias and confounding materially invokes Observational unit, variable, and population at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7e956647-0460-4b2b-956b-1f035b90994a",
+    "revision": 1,
+    "subject": "ola:n:d9647e9d-8d4e-4e0c-ade1-d09906303e25",
+    "relation": "uses_concept",
+    "object": "ola:n:cd464b87-a14e-4b54-8150-6a469f7bfc3f",
+    "rationale": "Demonstrating Identify bias and confounding materially invokes Sampling and experimental assignment at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:48af1b5f-6e0c-4a3d-8728-aa40ee952284",
+    "revision": 1,
+    "subject": "ola:n:d9647e9d-8d4e-4e0c-ade1-d09906303e25",
+    "relation": "uses_knowledge",
+    "object": "ola:n:bb075aff-ae40-49d0-8c9c-67db0d76f55c",
+    "rationale": "Demonstrating Identify bias and confounding materially invokes Bias, confounding, and randomization at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:5ef31995-759c-4358-936d-bf0b08282b4a",
+    "revision": 1,
+    "subject": "ola:n:d9647e9d-8d4e-4e0c-ade1-d09906303e25",
+    "relation": "uses_representation",
+    "object": "ola:n:3c2b2f66-413e-4551-9ea9-4b57a0f32b9b",
+    "rationale": "Demonstrating Identify bias and confounding materially invokes Study-design and sampling diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:3e6e68fc-ea8d-4a1e-936a-ea6fdd656bc7",
+    "revision": 1,
+    "subject": "ola:n:2626daa5-e4bf-41a2-a7da-5eca20b08322",
+    "relation": "composed_of",
+    "object": "ola:n:a43021b5-003d-480b-975a-a101961a0eee",
+    "rationale": "Audit study scope and ethics is a bounded performance within Audit study validity.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:33702c89-8e8e-4256-b4ba-6879aaa50f95",
+    "revision": 1,
+    "subject": "ola:n:a43021b5-003d-480b-975a-a101961a0eee",
+    "relation": "uses_concept",
+    "object": "ola:n:3252c330-3c66-4bab-a6c4-44c47036f75f",
+    "rationale": "Demonstrating Audit study scope and ethics materially invokes Observational unit, variable, and population at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:fb565cb6-3eba-46c8-93ea-59859914e8f8",
+    "revision": 1,
+    "subject": "ola:n:a43021b5-003d-480b-975a-a101961a0eee",
+    "relation": "uses_concept",
+    "object": "ola:n:cd464b87-a14e-4b54-8150-6a469f7bfc3f",
+    "rationale": "Demonstrating Audit study scope and ethics materially invokes Sampling and experimental assignment at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:eb37546a-b9f5-49cf-bbce-31a2aacff3b6",
+    "revision": 1,
+    "subject": "ola:n:a43021b5-003d-480b-975a-a101961a0eee",
+    "relation": "uses_knowledge",
+    "object": "ola:n:bb075aff-ae40-49d0-8c9c-67db0d76f55c",
+    "rationale": "Demonstrating Audit study scope and ethics materially invokes Bias, confounding, and randomization at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:fc188982-77b9-40fa-9a4f-77e5a587a1bb",
+    "revision": 1,
+    "subject": "ola:n:a43021b5-003d-480b-975a-a101961a0eee",
+    "relation": "uses_representation",
+    "object": "ola:n:3c2b2f66-413e-4551-9ea9-4b57a0f32b9b",
+    "rationale": "Demonstrating Audit study scope and ethics materially invokes Study-design and sampling diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:56f72803-e10e-45a3-bbe4-1d69863df33f",
+    "revision": 1,
+    "subject": "ola:n:b12cc5da-f9ec-4c5a-9459-5e1c1ce977e4",
+    "relation": "composed_of",
+    "object": "ola:n:ea6a0373-b6e7-4817-8630-d337b86e984a",
+    "rationale": "Data variable and distribution is material terrain within data-representation-visualization; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7a3dbfe5-4a91-420f-94bf-9b8f505db9af",
+    "revision": 1,
+    "subject": "ola:n:b12cc5da-f9ec-4c5a-9459-5e1c1ce977e4",
+    "relation": "composed_of",
+    "object": "ola:n:705d4e50-179e-4dc7-9f71-8504d2d174ef",
+    "rationale": "Visual encoding and scale is material terrain within data-representation-visualization; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4de94adc-beca-4d48-a821-9a407197bd7b",
+    "revision": 1,
+    "subject": "ola:n:b12cc5da-f9ec-4c5a-9459-5e1c1ce977e4",
+    "relation": "composed_of",
+    "object": "ola:n:747a9280-584e-420e-94d3-91c2b2cedbf0",
+    "rationale": "Visualization integrity principles is material terrain within data-representation-visualization; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7004a8a8-47ce-48fc-8d8b-15d76dde6c4f",
+    "revision": 1,
+    "subject": "ola:n:b12cc5da-f9ec-4c5a-9459-5e1c1ce977e4",
+    "relation": "composed_of",
+    "object": "ola:n:665168ff-b0b9-4de7-95bf-c0275b9b4b7a",
+    "rationale": "Data table and statistical graphic is material terrain within data-representation-visualization; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:cad91a66-30bb-42e1-b13d-5a4ab72fe508",
+    "revision": 1,
+    "subject": "ola:n:b12cc5da-f9ec-4c5a-9459-5e1c1ce977e4",
+    "relation": "composed_of",
+    "object": "ola:n:6491c14f-bbe8-415f-873f-bf27c4f902fe",
+    "rationale": "Construct data representations is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:285cd7d4-6d6b-4e88-9730-364b38249ef7",
+    "revision": 1,
+    "subject": "ola:n:6491c14f-bbe8-415f-873f-bf27c4f902fe",
+    "relation": "composed_of",
+    "object": "ola:n:b06ce765-ccb4-475f-affe-bd01b0df4d71",
+    "rationale": "Construct a data table is a bounded performance within Construct data representations.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e7db5bf9-42be-46a6-8682-be4a206f7613",
+    "revision": 1,
+    "subject": "ola:n:b06ce765-ccb4-475f-affe-bd01b0df4d71",
+    "relation": "uses_concept",
+    "object": "ola:n:ea6a0373-b6e7-4817-8630-d337b86e984a",
+    "rationale": "Demonstrating Construct a data table materially invokes Data variable and distribution at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f744bf1b-d8c2-44d7-a232-d36b2d37e710",
+    "revision": 1,
+    "subject": "ola:n:b06ce765-ccb4-475f-affe-bd01b0df4d71",
+    "relation": "uses_knowledge",
+    "object": "ola:n:747a9280-584e-420e-94d3-91c2b2cedbf0",
+    "rationale": "Demonstrating Construct a data table materially invokes Visualization integrity principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:5fe2db2a-c1a2-4cc8-af78-0879b065e2ca",
+    "revision": 1,
+    "subject": "ola:n:b06ce765-ccb4-475f-affe-bd01b0df4d71",
+    "relation": "uses_representation",
+    "object": "ola:n:665168ff-b0b9-4de7-95bf-c0275b9b4b7a",
+    "rationale": "Demonstrating Construct a data table materially invokes Data table and statistical graphic at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:3b982d0a-a231-417d-8e00-41f2efcea03a",
+    "revision": 1,
+    "subject": "ola:n:6491c14f-bbe8-415f-873f-bf27c4f902fe",
+    "relation": "composed_of",
+    "object": "ola:n:b9e4128c-5c3f-47bf-bef4-acdec52f1ead",
+    "rationale": "Select a statistical graphic is a bounded performance within Construct data representations.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:dbe1d379-32cd-4abc-9526-d097352fd991",
+    "revision": 1,
+    "subject": "ola:n:b9e4128c-5c3f-47bf-bef4-acdec52f1ead",
+    "relation": "uses_concept",
+    "object": "ola:n:ea6a0373-b6e7-4817-8630-d337b86e984a",
+    "rationale": "Demonstrating Select a statistical graphic materially invokes Data variable and distribution at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:6a2d40a0-7280-4d0f-884b-7f6821dad78d",
+    "revision": 1,
+    "subject": "ola:n:b9e4128c-5c3f-47bf-bef4-acdec52f1ead",
+    "relation": "uses_knowledge",
+    "object": "ola:n:747a9280-584e-420e-94d3-91c2b2cedbf0",
+    "rationale": "Demonstrating Select a statistical graphic materially invokes Visualization integrity principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f9b4289e-808d-4892-a325-b30cd15c93ec",
+    "revision": 1,
+    "subject": "ola:n:b9e4128c-5c3f-47bf-bef4-acdec52f1ead",
+    "relation": "uses_representation",
+    "object": "ola:n:665168ff-b0b9-4de7-95bf-c0275b9b4b7a",
+    "rationale": "Demonstrating Select a statistical graphic materially invokes Data table and statistical graphic at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:11ffb4f2-dc8c-4e9c-bcfc-b7abe9252411",
+    "revision": 1,
+    "subject": "ola:n:b12cc5da-f9ec-4c5a-9459-5e1c1ce977e4",
+    "relation": "composed_of",
+    "object": "ola:n:f0aa327a-9c1a-4471-a518-2fc31787840e",
+    "rationale": "Create and interpret visualizations is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2dc21c71-a7b6-4d84-9d08-3a017e21b6eb",
+    "revision": 1,
+    "subject": "ola:n:f0aa327a-9c1a-4471-a518-2fc31787840e",
+    "relation": "composed_of",
+    "object": "ola:n:937f7d49-d6ab-408b-852b-ad6afcf0be46",
+    "rationale": "Create a statistical visualization is a bounded performance within Create and interpret visualizations.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c450e539-2e52-4b9e-87f6-64e30ef84196",
+    "revision": 1,
+    "subject": "ola:n:937f7d49-d6ab-408b-852b-ad6afcf0be46",
+    "relation": "uses_concept",
+    "object": "ola:n:705d4e50-179e-4dc7-9f71-8504d2d174ef",
+    "rationale": "Demonstrating Create a statistical visualization materially invokes Visual encoding and scale at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:df748cf1-f137-4051-b3aa-5b1c87de3de8",
+    "revision": 1,
+    "subject": "ola:n:937f7d49-d6ab-408b-852b-ad6afcf0be46",
+    "relation": "uses_knowledge",
+    "object": "ola:n:747a9280-584e-420e-94d3-91c2b2cedbf0",
+    "rationale": "Demonstrating Create a statistical visualization materially invokes Visualization integrity principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b539975e-ee41-4e97-a7be-5666c23b604b",
+    "revision": 1,
+    "subject": "ola:n:937f7d49-d6ab-408b-852b-ad6afcf0be46",
+    "relation": "uses_representation",
+    "object": "ola:n:665168ff-b0b9-4de7-95bf-c0275b9b4b7a",
+    "rationale": "Demonstrating Create a statistical visualization materially invokes Data table and statistical graphic at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:5113bc12-af40-4889-9250-cdb512a68d4c",
+    "revision": 1,
+    "subject": "ola:n:f0aa327a-9c1a-4471-a518-2fc31787840e",
+    "relation": "composed_of",
+    "object": "ola:n:f9257a48-1055-4c3f-ba07-978d64809f68",
+    "rationale": "Interpret a statistical visualization is a bounded performance within Create and interpret visualizations.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f8f8fbf7-e5ac-464b-ae82-b7addb992729",
+    "revision": 1,
+    "subject": "ola:n:f9257a48-1055-4c3f-ba07-978d64809f68",
+    "relation": "uses_concept",
+    "object": "ola:n:705d4e50-179e-4dc7-9f71-8504d2d174ef",
+    "rationale": "Demonstrating Interpret a statistical visualization materially invokes Visual encoding and scale at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:084fd286-8582-4dc2-b21c-f737ab3aee9a",
+    "revision": 1,
+    "subject": "ola:n:f9257a48-1055-4c3f-ba07-978d64809f68",
+    "relation": "uses_knowledge",
+    "object": "ola:n:747a9280-584e-420e-94d3-91c2b2cedbf0",
+    "rationale": "Demonstrating Interpret a statistical visualization materially invokes Visualization integrity principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d8b7dbc4-2b99-4c77-8a70-725188b1404a",
+    "revision": 1,
+    "subject": "ola:n:f9257a48-1055-4c3f-ba07-978d64809f68",
+    "relation": "uses_representation",
+    "object": "ola:n:665168ff-b0b9-4de7-95bf-c0275b9b4b7a",
+    "rationale": "Demonstrating Interpret a statistical visualization materially invokes Data table and statistical graphic at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:67369510-7a44-4b41-bf68-b99ec59fb0fe",
+    "revision": 1,
+    "subject": "ola:n:b12cc5da-f9ec-4c5a-9459-5e1c1ce977e4",
+    "relation": "composed_of",
+    "object": "ola:n:52909bb4-e94c-4073-b634-cb0aa9cd1027",
+    "rationale": "Compare and critique visualizations is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4577ff34-0207-4f88-b9b3-6aa7bc0873d2",
+    "revision": 1,
+    "subject": "ola:n:52909bb4-e94c-4073-b634-cb0aa9cd1027",
+    "relation": "composed_of",
+    "object": "ola:n:3e10c4b0-2121-4b97-9d7a-caf54464aa61",
+    "rationale": "Compare distributions visually is a bounded performance within Compare and critique visualizations.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:9fa17547-1b8b-4d29-8416-9629bac21680",
+    "revision": 1,
+    "subject": "ola:n:3e10c4b0-2121-4b97-9d7a-caf54464aa61",
+    "relation": "uses_concept",
+    "object": "ola:n:ea6a0373-b6e7-4817-8630-d337b86e984a",
+    "rationale": "Demonstrating Compare distributions visually materially invokes Data variable and distribution at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:0cb76bd7-bcb5-4c6b-aa4b-d853fc3e86f1",
+    "revision": 1,
+    "subject": "ola:n:3e10c4b0-2121-4b97-9d7a-caf54464aa61",
+    "relation": "uses_concept",
+    "object": "ola:n:705d4e50-179e-4dc7-9f71-8504d2d174ef",
+    "rationale": "Demonstrating Compare distributions visually materially invokes Visual encoding and scale at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:bf7cf2f8-537a-4569-92c6-d2495fe50e55",
+    "revision": 1,
+    "subject": "ola:n:3e10c4b0-2121-4b97-9d7a-caf54464aa61",
+    "relation": "uses_knowledge",
+    "object": "ola:n:747a9280-584e-420e-94d3-91c2b2cedbf0",
+    "rationale": "Demonstrating Compare distributions visually materially invokes Visualization integrity principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:81842e15-b270-44ba-a4d3-c8656f96afd8",
+    "revision": 1,
+    "subject": "ola:n:3e10c4b0-2121-4b97-9d7a-caf54464aa61",
+    "relation": "uses_representation",
+    "object": "ola:n:665168ff-b0b9-4de7-95bf-c0275b9b4b7a",
+    "rationale": "Demonstrating Compare distributions visually materially invokes Data table and statistical graphic at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:388a84d5-9bd7-4f94-99fe-324485ee3cc3",
+    "revision": 1,
+    "subject": "ola:n:52909bb4-e94c-4073-b634-cb0aa9cd1027",
+    "relation": "composed_of",
+    "object": "ola:n:c90b8cea-dda3-42eb-b638-8031f61ebaa0",
+    "rationale": "Audit a data visualization is a bounded performance within Compare and critique visualizations.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f3858d80-1485-4e3c-91b7-b34365952910",
+    "revision": 1,
+    "subject": "ola:n:c90b8cea-dda3-42eb-b638-8031f61ebaa0",
+    "relation": "uses_concept",
+    "object": "ola:n:ea6a0373-b6e7-4817-8630-d337b86e984a",
+    "rationale": "Demonstrating Audit a data visualization materially invokes Data variable and distribution at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f6425986-a97b-42ed-a750-7ffe5cb8654a",
+    "revision": 1,
+    "subject": "ola:n:c90b8cea-dda3-42eb-b638-8031f61ebaa0",
+    "relation": "uses_concept",
+    "object": "ola:n:705d4e50-179e-4dc7-9f71-8504d2d174ef",
+    "rationale": "Demonstrating Audit a data visualization materially invokes Visual encoding and scale at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d59d7f42-1f3d-4273-828e-ce679d5bc112",
+    "revision": 1,
+    "subject": "ola:n:c90b8cea-dda3-42eb-b638-8031f61ebaa0",
+    "relation": "uses_knowledge",
+    "object": "ola:n:747a9280-584e-420e-94d3-91c2b2cedbf0",
+    "rationale": "Demonstrating Audit a data visualization materially invokes Visualization integrity principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4e07a499-3a77-4713-866c-f39e42f7822b",
+    "revision": 1,
+    "subject": "ola:n:c90b8cea-dda3-42eb-b638-8031f61ebaa0",
+    "relation": "uses_representation",
+    "object": "ola:n:665168ff-b0b9-4de7-95bf-c0275b9b4b7a",
+    "rationale": "Demonstrating Audit a data visualization materially invokes Data table and statistical graphic at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ff4bc97b-e0b1-4517-b904-8ad5c6ea0f54",
+    "revision": 1,
+    "subject": "ola:n:5ff655ea-d3f2-4d82-8da3-a372d53061e3",
+    "relation": "composed_of",
+    "object": "ola:n:c35b211a-6e7a-4ddf-8353-f45da702ba84",
+    "rationale": "Distribution center and spread is material terrain within descriptive-statistics; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:5f4d3019-bd0e-4821-a806-bd8599e7e2f0",
+    "revision": 1,
+    "subject": "ola:n:5ff655ea-d3f2-4d82-8da3-a372d53061e3",
+    "relation": "composed_of",
+    "object": "ola:n:f8ccf76b-8a20-4461-a6c3-b06483fac9f4",
+    "rationale": "Distribution shape and unusual observation is material terrain within descriptive-statistics; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:0a8fc7e9-d206-4354-9f0e-4d61af7b7969",
+    "revision": 1,
+    "subject": "ola:n:5ff655ea-d3f2-4d82-8da3-a372d53061e3",
+    "relation": "composed_of",
+    "object": "ola:n:c18b14eb-d24f-4d32-bef6-05de1f7690d5",
+    "rationale": "Summary sensitivity and robustness is material terrain within descriptive-statistics; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:62d95a2f-25ae-4f81-a4b7-6c17afe97812",
+    "revision": 1,
+    "subject": "ola:n:5ff655ea-d3f2-4d82-8da3-a372d53061e3",
+    "relation": "composed_of",
+    "object": "ola:n:50773a98-963c-4e79-ac78-1d85f65c93aa",
+    "rationale": "Histogram, boxplot, and summary table is material terrain within descriptive-statistics; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a3134f9a-ba9a-4a34-a19a-10ac5d498bfc",
+    "revision": 1,
+    "subject": "ola:n:5ff655ea-d3f2-4d82-8da3-a372d53061e3",
+    "relation": "composed_of",
+    "object": "ola:n:88091f05-aae1-471b-ba91-13125bab14ae",
+    "rationale": "Compute descriptive summaries is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:34dea926-cbe5-47c6-bfed-1b2ed401ac8c",
+    "revision": 1,
+    "subject": "ola:n:88091f05-aae1-471b-ba91-13125bab14ae",
+    "relation": "composed_of",
+    "object": "ola:n:d4e61dd0-39c5-4cc7-83c4-9a2dd5e47765",
+    "rationale": "Compute center and quantile summaries is a bounded performance within Compute descriptive summaries.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b6f7593f-696d-4805-b5bb-4ea4e0e2b4c7",
+    "revision": 1,
+    "subject": "ola:n:d4e61dd0-39c5-4cc7-83c4-9a2dd5e47765",
+    "relation": "uses_concept",
+    "object": "ola:n:c35b211a-6e7a-4ddf-8353-f45da702ba84",
+    "rationale": "Demonstrating Compute center and quantile summaries materially invokes Distribution center and spread at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:95ce7bc8-2eda-43dd-9fd8-6f0bec2a2737",
+    "revision": 1,
+    "subject": "ola:n:d4e61dd0-39c5-4cc7-83c4-9a2dd5e47765",
+    "relation": "uses_knowledge",
+    "object": "ola:n:c18b14eb-d24f-4d32-bef6-05de1f7690d5",
+    "rationale": "Demonstrating Compute center and quantile summaries materially invokes Summary sensitivity and robustness at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:df3799eb-4dbf-422f-83de-1b9f77922381",
+    "revision": 1,
+    "subject": "ola:n:d4e61dd0-39c5-4cc7-83c4-9a2dd5e47765",
+    "relation": "uses_representation",
+    "object": "ola:n:50773a98-963c-4e79-ac78-1d85f65c93aa",
+    "rationale": "Demonstrating Compute center and quantile summaries materially invokes Histogram, boxplot, and summary table at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e75840c1-9ce3-405c-a77b-e9704a75d620",
+    "revision": 1,
+    "subject": "ola:n:88091f05-aae1-471b-ba91-13125bab14ae",
+    "relation": "composed_of",
+    "object": "ola:n:4bce2060-2dcd-405a-9d8c-067be37381e9",
+    "rationale": "Compute a variability summary is a bounded performance within Compute descriptive summaries.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:9b43cd07-0966-4506-b479-8f6d9619d4ba",
+    "revision": 1,
+    "subject": "ola:n:4bce2060-2dcd-405a-9d8c-067be37381e9",
+    "relation": "uses_concept",
+    "object": "ola:n:c35b211a-6e7a-4ddf-8353-f45da702ba84",
+    "rationale": "Demonstrating Compute a variability summary materially invokes Distribution center and spread at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e19f25d9-8b38-49ab-bbe6-5dc81dbe9011",
+    "revision": 1,
+    "subject": "ola:n:4bce2060-2dcd-405a-9d8c-067be37381e9",
+    "relation": "uses_knowledge",
+    "object": "ola:n:c18b14eb-d24f-4d32-bef6-05de1f7690d5",
+    "rationale": "Demonstrating Compute a variability summary materially invokes Summary sensitivity and robustness at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c635a6a1-772a-4297-a4f4-d5924f97bf25",
+    "revision": 1,
+    "subject": "ola:n:4bce2060-2dcd-405a-9d8c-067be37381e9",
+    "relation": "uses_representation",
+    "object": "ola:n:50773a98-963c-4e79-ac78-1d85f65c93aa",
+    "rationale": "Demonstrating Compute a variability summary materially invokes Histogram, boxplot, and summary table at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:71a6f335-d8b3-48b2-8282-0bd0894ff38f",
+    "revision": 1,
+    "subject": "ola:n:5ff655ea-d3f2-4d82-8da3-a372d53061e3",
+    "relation": "composed_of",
+    "object": "ola:n:657526ff-43db-49f8-9c7c-9882e73c80c8",
+    "rationale": "Describe and compare distributions is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:5ae280d5-c1be-4233-9a04-56f29546c5b1",
+    "revision": 1,
+    "subject": "ola:n:657526ff-43db-49f8-9c7c-9882e73c80c8",
+    "relation": "composed_of",
+    "object": "ola:n:b62fcaa7-0417-4d0c-bdd9-4a3d13bb4a5f",
+    "rationale": "Describe a univariate distribution is a bounded performance within Describe and compare distributions.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8dd86089-1842-46ef-a7af-b8c27fefbcab",
+    "revision": 1,
+    "subject": "ola:n:b62fcaa7-0417-4d0c-bdd9-4a3d13bb4a5f",
+    "relation": "uses_concept",
+    "object": "ola:n:f8ccf76b-8a20-4461-a6c3-b06483fac9f4",
+    "rationale": "Demonstrating Describe a univariate distribution materially invokes Distribution shape and unusual observation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:57c49408-cf58-4f4d-ae13-20da9769d01f",
+    "revision": 1,
+    "subject": "ola:n:b62fcaa7-0417-4d0c-bdd9-4a3d13bb4a5f",
+    "relation": "uses_knowledge",
+    "object": "ola:n:c18b14eb-d24f-4d32-bef6-05de1f7690d5",
+    "rationale": "Demonstrating Describe a univariate distribution materially invokes Summary sensitivity and robustness at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:eb75c024-dc59-448d-8ff3-e58088598258",
+    "revision": 1,
+    "subject": "ola:n:b62fcaa7-0417-4d0c-bdd9-4a3d13bb4a5f",
+    "relation": "uses_representation",
+    "object": "ola:n:50773a98-963c-4e79-ac78-1d85f65c93aa",
+    "rationale": "Demonstrating Describe a univariate distribution materially invokes Histogram, boxplot, and summary table at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:073f412f-f799-4c85-89d5-972ade73911f",
+    "revision": 1,
+    "subject": "ola:n:657526ff-43db-49f8-9c7c-9882e73c80c8",
+    "relation": "composed_of",
+    "object": "ola:n:2427931e-bbae-4cd9-a924-2cc080d98ea0",
+    "rationale": "Compare groups descriptively is a bounded performance within Describe and compare distributions.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:39125d15-fb15-4c5e-94ae-45971e11364b",
+    "revision": 1,
+    "subject": "ola:n:2427931e-bbae-4cd9-a924-2cc080d98ea0",
+    "relation": "uses_concept",
+    "object": "ola:n:f8ccf76b-8a20-4461-a6c3-b06483fac9f4",
+    "rationale": "Demonstrating Compare groups descriptively materially invokes Distribution shape and unusual observation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ca688cad-3608-49da-821f-880151371223",
+    "revision": 1,
+    "subject": "ola:n:2427931e-bbae-4cd9-a924-2cc080d98ea0",
+    "relation": "uses_knowledge",
+    "object": "ola:n:c18b14eb-d24f-4d32-bef6-05de1f7690d5",
+    "rationale": "Demonstrating Compare groups descriptively materially invokes Summary sensitivity and robustness at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ddbe3f58-3da3-440a-834b-e702a7e59fcc",
+    "revision": 1,
+    "subject": "ola:n:2427931e-bbae-4cd9-a924-2cc080d98ea0",
+    "relation": "uses_representation",
+    "object": "ola:n:50773a98-963c-4e79-ac78-1d85f65c93aa",
+    "rationale": "Demonstrating Compare groups descriptively materially invokes Histogram, boxplot, and summary table at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:1966a75e-4cdd-4f59-a0ed-81b81d448929",
+    "revision": 1,
+    "subject": "ola:n:5ff655ea-d3f2-4d82-8da3-a372d53061e3",
+    "relation": "composed_of",
+    "object": "ola:n:6f77e11a-c1e1-41f7-88c1-6bac75b1b257",
+    "rationale": "Select and audit summaries is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b12cd888-78d2-43e9-9d56-cf733bb2cd06",
+    "revision": 1,
+    "subject": "ola:n:6f77e11a-c1e1-41f7-88c1-6bac75b1b257",
+    "relation": "composed_of",
+    "object": "ola:n:e6c845ad-5eb8-4c02-86f2-4cd8b535482d",
+    "rationale": "Select an appropriate descriptive summary is a bounded performance within Select and audit summaries.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8238f81a-bea2-47df-ae98-3ee2f15e7841",
+    "revision": 1,
+    "subject": "ola:n:e6c845ad-5eb8-4c02-86f2-4cd8b535482d",
+    "relation": "uses_concept",
+    "object": "ola:n:c35b211a-6e7a-4ddf-8353-f45da702ba84",
+    "rationale": "Demonstrating Select an appropriate descriptive summary materially invokes Distribution center and spread at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:5d89a9d9-5a4e-45d3-99ba-2e372e85d6f9",
+    "revision": 1,
+    "subject": "ola:n:e6c845ad-5eb8-4c02-86f2-4cd8b535482d",
+    "relation": "uses_concept",
+    "object": "ola:n:f8ccf76b-8a20-4461-a6c3-b06483fac9f4",
+    "rationale": "Demonstrating Select an appropriate descriptive summary materially invokes Distribution shape and unusual observation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:93d77e9b-8fad-44d9-8f75-b55854b8b948",
+    "revision": 1,
+    "subject": "ola:n:e6c845ad-5eb8-4c02-86f2-4cd8b535482d",
+    "relation": "uses_knowledge",
+    "object": "ola:n:c18b14eb-d24f-4d32-bef6-05de1f7690d5",
+    "rationale": "Demonstrating Select an appropriate descriptive summary materially invokes Summary sensitivity and robustness at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:82acb5d1-32ed-421c-bd2a-ee44807a7991",
+    "revision": 1,
+    "subject": "ola:n:e6c845ad-5eb8-4c02-86f2-4cd8b535482d",
+    "relation": "uses_representation",
+    "object": "ola:n:50773a98-963c-4e79-ac78-1d85f65c93aa",
+    "rationale": "Demonstrating Select an appropriate descriptive summary materially invokes Histogram, boxplot, and summary table at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d116d6e9-ddcc-4cd2-871d-0e4ec4516061",
+    "revision": 1,
+    "subject": "ola:n:6f77e11a-c1e1-41f7-88c1-6bac75b1b257",
+    "relation": "composed_of",
+    "object": "ola:n:ebd997fc-5f63-4885-ac78-99c432845f46",
+    "rationale": "Audit a descriptive statistical claim is a bounded performance within Select and audit summaries.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:926163b1-1d98-406d-bebd-476d1ad14529",
+    "revision": 1,
+    "subject": "ola:n:ebd997fc-5f63-4885-ac78-99c432845f46",
+    "relation": "uses_concept",
+    "object": "ola:n:c35b211a-6e7a-4ddf-8353-f45da702ba84",
+    "rationale": "Demonstrating Audit a descriptive statistical claim materially invokes Distribution center and spread at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f513fb29-f67e-48a5-ba30-22ea07e4f4b5",
+    "revision": 1,
+    "subject": "ola:n:ebd997fc-5f63-4885-ac78-99c432845f46",
+    "relation": "uses_concept",
+    "object": "ola:n:f8ccf76b-8a20-4461-a6c3-b06483fac9f4",
+    "rationale": "Demonstrating Audit a descriptive statistical claim materially invokes Distribution shape and unusual observation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:af3ea161-22ce-4fa6-b075-4467677bcfbb",
+    "revision": 1,
+    "subject": "ola:n:ebd997fc-5f63-4885-ac78-99c432845f46",
+    "relation": "uses_knowledge",
+    "object": "ola:n:c18b14eb-d24f-4d32-bef6-05de1f7690d5",
+    "rationale": "Demonstrating Audit a descriptive statistical claim materially invokes Summary sensitivity and robustness at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7b7f58eb-5308-43da-80b7-7436e942867d",
+    "revision": 1,
+    "subject": "ola:n:ebd997fc-5f63-4885-ac78-99c432845f46",
+    "relation": "uses_representation",
+    "object": "ola:n:50773a98-963c-4e79-ac78-1d85f65c93aa",
+    "rationale": "Demonstrating Audit a descriptive statistical claim materially invokes Histogram, boxplot, and summary table at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c6bb4d98-5489-430c-b87a-11608c9e1f39",
+    "revision": 1,
+    "subject": "ola:n:75ad3a83-f3b6-4924-a2d5-86d6ca73f1fd",
+    "relation": "composed_of",
+    "object": "ola:n:2a9edd9e-852c-4b71-94e6-d4c7e5331998",
+    "rationale": "Statistical association is material terrain within association-regression; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b1b57a48-f981-4f32-8c1f-3ce490f4c4de",
+    "revision": 1,
+    "subject": "ola:n:75ad3a83-f3b6-4924-a2d5-86d6ca73f1fd",
+    "relation": "composed_of",
+    "object": "ola:n:8b9a8d1b-fe46-4768-85b7-b83a23307f4a",
+    "rationale": "Regression function and residual is material terrain within association-regression; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c5456ec1-1050-4cbe-9b8d-6af1825c35ed",
+    "revision": 1,
+    "subject": "ola:n:75ad3a83-f3b6-4924-a2d5-86d6ca73f1fd",
+    "relation": "composed_of",
+    "object": "ola:n:42a19bfb-5635-414c-846e-d80abc4ac2fb",
+    "rationale": "Correlation and regression scope is material terrain within association-regression; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:422d6186-ba99-437d-8f0e-1fcd98bde39f",
+    "revision": 1,
+    "subject": "ola:n:75ad3a83-f3b6-4924-a2d5-86d6ca73f1fd",
+    "relation": "composed_of",
+    "object": "ola:n:b123219e-6418-4271-b944-fea9f3bf222d",
+    "rationale": "Scatterplot, fitted relation, and residual plot is material terrain within association-regression; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:5850c321-44eb-46a8-837a-5ee9c26f4d93",
+    "revision": 1,
+    "subject": "ola:n:75ad3a83-f3b6-4924-a2d5-86d6ca73f1fd",
+    "relation": "composed_of",
+    "object": "ola:n:75346cc3-6a52-43b1-be8a-f8add63f4e58",
+    "rationale": "Describe and quantify association is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:58bf72d5-9d80-41a0-939b-2ece20a5a19d",
+    "revision": 1,
+    "subject": "ola:n:75346cc3-6a52-43b1-be8a-f8add63f4e58",
+    "relation": "composed_of",
+    "object": "ola:n:59c3b895-ddf6-4b91-9d1c-d4f5aa4e3aaa",
+    "rationale": "Describe a bivariate association is a bounded performance within Describe and quantify association.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:710401c8-8080-443e-b7c8-ee78ae5acdd1",
+    "revision": 1,
+    "subject": "ola:n:59c3b895-ddf6-4b91-9d1c-d4f5aa4e3aaa",
+    "relation": "uses_concept",
+    "object": "ola:n:2a9edd9e-852c-4b71-94e6-d4c7e5331998",
+    "rationale": "Demonstrating Describe a bivariate association materially invokes Statistical association at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:32299013-20ac-4185-99b2-b670fdcc3417",
+    "revision": 1,
+    "subject": "ola:n:59c3b895-ddf6-4b91-9d1c-d4f5aa4e3aaa",
+    "relation": "uses_knowledge",
+    "object": "ola:n:42a19bfb-5635-414c-846e-d80abc4ac2fb",
+    "rationale": "Demonstrating Describe a bivariate association materially invokes Correlation and regression scope at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:1154b616-4633-4bdb-8f91-42a1baffe152",
+    "revision": 1,
+    "subject": "ola:n:59c3b895-ddf6-4b91-9d1c-d4f5aa4e3aaa",
+    "relation": "uses_representation",
+    "object": "ola:n:b123219e-6418-4271-b944-fea9f3bf222d",
+    "rationale": "Demonstrating Describe a bivariate association materially invokes Scatterplot, fitted relation, and residual plot at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d6aab750-9158-457e-bb38-9dcef9629d7a",
+    "revision": 1,
+    "subject": "ola:n:75346cc3-6a52-43b1-be8a-f8add63f4e58",
+    "relation": "composed_of",
+    "object": "ola:n:3645e343-5f59-4b77-98e6-a91751c58197",
+    "rationale": "Compute and interpret correlation is a bounded performance within Describe and quantify association.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4b9f7d6e-a252-4ecf-afcd-c27b7a9c0b31",
+    "revision": 1,
+    "subject": "ola:n:3645e343-5f59-4b77-98e6-a91751c58197",
+    "relation": "uses_concept",
+    "object": "ola:n:2a9edd9e-852c-4b71-94e6-d4c7e5331998",
+    "rationale": "Demonstrating Compute and interpret correlation materially invokes Statistical association at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:52dc6c57-8f4d-445e-b720-63e48d865dcb",
+    "revision": 1,
+    "subject": "ola:n:3645e343-5f59-4b77-98e6-a91751c58197",
+    "relation": "uses_knowledge",
+    "object": "ola:n:42a19bfb-5635-414c-846e-d80abc4ac2fb",
+    "rationale": "Demonstrating Compute and interpret correlation materially invokes Correlation and regression scope at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4f980ce4-58ea-4a10-b66c-25b77f5a20e5",
+    "revision": 1,
+    "subject": "ola:n:3645e343-5f59-4b77-98e6-a91751c58197",
+    "relation": "uses_representation",
+    "object": "ola:n:b123219e-6418-4271-b944-fea9f3bf222d",
+    "rationale": "Demonstrating Compute and interpret correlation materially invokes Scatterplot, fitted relation, and residual plot at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ebf7c624-975e-45e9-95cd-df5cc11fe4e3",
+    "revision": 1,
+    "subject": "ola:n:75ad3a83-f3b6-4924-a2d5-86d6ca73f1fd",
+    "relation": "composed_of",
+    "object": "ola:n:09b1b923-9b88-4fee-9544-911dab161b5f",
+    "rationale": "Fit and interpret regression is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b9bd48a1-2bcd-436b-bc4b-a8c3798d736c",
+    "revision": 1,
+    "subject": "ola:n:09b1b923-9b88-4fee-9544-911dab161b5f",
+    "relation": "composed_of",
+    "object": "ola:n:a3b1995b-1b72-4d95-b050-f0a74cb10802",
+    "rationale": "Fit a simple regression model is a bounded performance within Fit and interpret regression.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7e8d1a0d-1a22-45cd-bced-63d22382e54b",
+    "revision": 1,
+    "subject": "ola:n:a3b1995b-1b72-4d95-b050-f0a74cb10802",
+    "relation": "uses_concept",
+    "object": "ola:n:8b9a8d1b-fe46-4768-85b7-b83a23307f4a",
+    "rationale": "Demonstrating Fit a simple regression model materially invokes Regression function and residual at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c1d30d25-dfbc-4cf4-9a57-d1c40780745c",
+    "revision": 1,
+    "subject": "ola:n:a3b1995b-1b72-4d95-b050-f0a74cb10802",
+    "relation": "uses_knowledge",
+    "object": "ola:n:42a19bfb-5635-414c-846e-d80abc4ac2fb",
+    "rationale": "Demonstrating Fit a simple regression model materially invokes Correlation and regression scope at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ce2ec6b1-a63f-442f-8fb7-2d962d6556b5",
+    "revision": 1,
+    "subject": "ola:n:a3b1995b-1b72-4d95-b050-f0a74cb10802",
+    "relation": "uses_representation",
+    "object": "ola:n:b123219e-6418-4271-b944-fea9f3bf222d",
+    "rationale": "Demonstrating Fit a simple regression model materially invokes Scatterplot, fitted relation, and residual plot at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:97ac1908-fca3-43ff-bf2a-bbce5ef8c560",
+    "revision": 1,
+    "subject": "ola:n:09b1b923-9b88-4fee-9544-911dab161b5f",
+    "relation": "composed_of",
+    "object": "ola:n:83489fb4-2be8-433b-96e4-d8a2a1e4f1a4",
+    "rationale": "Interpret a regression coefficient is a bounded performance within Fit and interpret regression.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:bca31912-c9b6-4504-94e8-9dcd576f5d51",
+    "revision": 1,
+    "subject": "ola:n:83489fb4-2be8-433b-96e4-d8a2a1e4f1a4",
+    "relation": "uses_concept",
+    "object": "ola:n:8b9a8d1b-fe46-4768-85b7-b83a23307f4a",
+    "rationale": "Demonstrating Interpret a regression coefficient materially invokes Regression function and residual at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:9630a31c-8cb6-4a9b-9e5d-934e63088a0b",
+    "revision": 1,
+    "subject": "ola:n:83489fb4-2be8-433b-96e4-d8a2a1e4f1a4",
+    "relation": "uses_knowledge",
+    "object": "ola:n:42a19bfb-5635-414c-846e-d80abc4ac2fb",
+    "rationale": "Demonstrating Interpret a regression coefficient materially invokes Correlation and regression scope at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ae62b9d9-8574-4cd1-870f-6fb08184de27",
+    "revision": 1,
+    "subject": "ola:n:83489fb4-2be8-433b-96e4-d8a2a1e4f1a4",
+    "relation": "uses_representation",
+    "object": "ola:n:b123219e-6418-4271-b944-fea9f3bf222d",
+    "rationale": "Demonstrating Interpret a regression coefficient materially invokes Scatterplot, fitted relation, and residual plot at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:50789d96-5ca3-4174-ba65-f3c2c53fcd90",
+    "revision": 1,
+    "subject": "ola:n:75ad3a83-f3b6-4924-a2d5-86d6ca73f1fd",
+    "relation": "composed_of",
+    "object": "ola:n:86c768a0-7c03-4bb2-b83e-0a8619b2b45c",
+    "rationale": "Predict and diagnose regression is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4fffb90f-f59c-49b6-a76e-e546049b153d",
+    "revision": 1,
+    "subject": "ola:n:86c768a0-7c03-4bb2-b83e-0a8619b2b45c",
+    "relation": "composed_of",
+    "object": "ola:n:6a7d1a3c-0f25-4f37-9a7a-5932ceb59d44",
+    "rationale": "Make a regression prediction is a bounded performance within Predict and diagnose regression.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d171863f-f951-428e-81e3-a155dc982093",
+    "revision": 1,
+    "subject": "ola:n:6a7d1a3c-0f25-4f37-9a7a-5932ceb59d44",
+    "relation": "uses_concept",
+    "object": "ola:n:2a9edd9e-852c-4b71-94e6-d4c7e5331998",
+    "rationale": "Demonstrating Make a regression prediction materially invokes Statistical association at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7cca295d-d90b-4b0e-a938-79125a3fa428",
+    "revision": 1,
+    "subject": "ola:n:6a7d1a3c-0f25-4f37-9a7a-5932ceb59d44",
+    "relation": "uses_concept",
+    "object": "ola:n:8b9a8d1b-fe46-4768-85b7-b83a23307f4a",
+    "rationale": "Demonstrating Make a regression prediction materially invokes Regression function and residual at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:bd4b0f1b-5008-4921-be0e-9cf143a3270d",
+    "revision": 1,
+    "subject": "ola:n:6a7d1a3c-0f25-4f37-9a7a-5932ceb59d44",
+    "relation": "uses_knowledge",
+    "object": "ola:n:42a19bfb-5635-414c-846e-d80abc4ac2fb",
+    "rationale": "Demonstrating Make a regression prediction materially invokes Correlation and regression scope at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:9b128e99-9d7a-4cb2-9049-b5535193e774",
+    "revision": 1,
+    "subject": "ola:n:6a7d1a3c-0f25-4f37-9a7a-5932ceb59d44",
+    "relation": "uses_representation",
+    "object": "ola:n:b123219e-6418-4271-b944-fea9f3bf222d",
+    "rationale": "Demonstrating Make a regression prediction materially invokes Scatterplot, fitted relation, and residual plot at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:49456ea3-db89-485b-9cfc-00f879399a20",
+    "revision": 1,
+    "subject": "ola:n:86c768a0-7c03-4bb2-b83e-0a8619b2b45c",
+    "relation": "composed_of",
+    "object": "ola:n:c6d9966b-a9a8-4917-a327-14a5279f012d",
+    "rationale": "Audit an association or regression claim is a bounded performance within Predict and diagnose regression.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b9f45cd8-aec0-4d34-97b5-a0d3e4cd70dc",
+    "revision": 1,
+    "subject": "ola:n:c6d9966b-a9a8-4917-a327-14a5279f012d",
+    "relation": "uses_concept",
+    "object": "ola:n:2a9edd9e-852c-4b71-94e6-d4c7e5331998",
+    "rationale": "Demonstrating Audit an association or regression claim materially invokes Statistical association at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:9db2c585-40e7-4d31-b5ee-7cf4a643256e",
+    "revision": 1,
+    "subject": "ola:n:c6d9966b-a9a8-4917-a327-14a5279f012d",
+    "relation": "uses_concept",
+    "object": "ola:n:8b9a8d1b-fe46-4768-85b7-b83a23307f4a",
+    "rationale": "Demonstrating Audit an association or regression claim materially invokes Regression function and residual at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:44b82d7d-241e-497f-8b0d-b330e74bb4b5",
+    "revision": 1,
+    "subject": "ola:n:c6d9966b-a9a8-4917-a327-14a5279f012d",
+    "relation": "uses_knowledge",
+    "object": "ola:n:42a19bfb-5635-414c-846e-d80abc4ac2fb",
+    "rationale": "Demonstrating Audit an association or regression claim materially invokes Correlation and regression scope at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:6ed96c1f-f2d9-4ad6-9898-81b45514a226",
+    "revision": 1,
+    "subject": "ola:n:c6d9966b-a9a8-4917-a327-14a5279f012d",
+    "relation": "uses_representation",
+    "object": "ola:n:b123219e-6418-4271-b944-fea9f3bf222d",
+    "rationale": "Demonstrating Audit an association or regression claim materially invokes Scatterplot, fitted relation, and residual plot at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:9327f93b-1dff-4665-985d-511096db1352",
+    "revision": 1,
+    "subject": "ola:n:21ca64ce-13d4-4ac9-9ed2-41250d24f019",
+    "relation": "composed_of",
+    "object": "ola:n:83dbabb4-247c-4507-b841-69d9e7a5d1e2",
+    "rationale": "Estimator and estimand is material terrain within estimation-hypothesis-inference; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8b565847-cdbc-4e57-938d-8a21a0aa6eaa",
+    "revision": 1,
+    "subject": "ola:n:21ca64ce-13d4-4ac9-9ed2-41250d24f019",
+    "relation": "composed_of",
+    "object": "ola:n:6e412708-a20d-4ddc-9557-ef39beaa0d2e",
+    "rationale": "Null, alternative, and inferential decision is material terrain within estimation-hypothesis-inference; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d826caac-2e9a-4e0c-bb41-50c114145571",
+    "revision": 1,
+    "subject": "ola:n:21ca64ce-13d4-4ac9-9ed2-41250d24f019",
+    "relation": "composed_of",
+    "object": "ola:n:8b52ae7f-74d3-4675-8c68-5a4178ac47b6",
+    "rationale": "Sampling distribution and error control is material terrain within estimation-hypothesis-inference; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8adc1a12-dad9-4ed8-a007-6723af90a99f",
+    "revision": 1,
+    "subject": "ola:n:21ca64ce-13d4-4ac9-9ed2-41250d24f019",
+    "relation": "composed_of",
+    "object": "ola:n:831b0e76-906e-4db9-a231-49dde676c281",
+    "rationale": "Confidence interval and test output is material terrain within estimation-hypothesis-inference; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4060543c-2733-4fcd-bf20-2cd776664632",
+    "revision": 1,
+    "subject": "ola:n:21ca64ce-13d4-4ac9-9ed2-41250d24f019",
+    "relation": "composed_of",
+    "object": "ola:n:3cf85f0a-49c4-4a45-9067-7609072169d8",
+    "rationale": "Estimate with intervals is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:dfd3051c-9b69-442c-952d-db5d9d6408a2",
+    "revision": 1,
+    "subject": "ola:n:3cf85f0a-49c4-4a45-9067-7609072169d8",
+    "relation": "composed_of",
+    "object": "ola:n:1ff1fbca-5b61-4810-aca7-9efaf2344b99",
+    "rationale": "Construct a confidence interval is a bounded performance within Estimate with intervals.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:5f0d0c8c-13e2-4bc5-91b9-c138501e7207",
+    "revision": 1,
+    "subject": "ola:n:1ff1fbca-5b61-4810-aca7-9efaf2344b99",
+    "relation": "uses_concept",
+    "object": "ola:n:83dbabb4-247c-4507-b841-69d9e7a5d1e2",
+    "rationale": "Demonstrating Construct a confidence interval materially invokes Estimator and estimand at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:59b2e423-6bc3-4c48-91a8-c239fedae5c9",
+    "revision": 1,
+    "subject": "ola:n:1ff1fbca-5b61-4810-aca7-9efaf2344b99",
+    "relation": "uses_knowledge",
+    "object": "ola:n:8b52ae7f-74d3-4675-8c68-5a4178ac47b6",
+    "rationale": "Demonstrating Construct a confidence interval materially invokes Sampling distribution and error control at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2a27edf2-f162-4028-82f1-bb1196c82eb1",
+    "revision": 1,
+    "subject": "ola:n:1ff1fbca-5b61-4810-aca7-9efaf2344b99",
+    "relation": "uses_representation",
+    "object": "ola:n:831b0e76-906e-4db9-a231-49dde676c281",
+    "rationale": "Demonstrating Construct a confidence interval materially invokes Confidence interval and test output at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ba2080c2-4bb3-44d8-858b-a02e30dd07b2",
+    "revision": 1,
+    "subject": "ola:n:3cf85f0a-49c4-4a45-9067-7609072169d8",
+    "relation": "composed_of",
+    "object": "ola:n:4f2adc0b-6ff5-4d80-8793-0cba800ac8ac",
+    "rationale": "Interpret a confidence interval is a bounded performance within Estimate with intervals.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d9c8fd73-3c23-4193-aa83-69fae05bf22c",
+    "revision": 1,
+    "subject": "ola:n:4f2adc0b-6ff5-4d80-8793-0cba800ac8ac",
+    "relation": "uses_concept",
+    "object": "ola:n:83dbabb4-247c-4507-b841-69d9e7a5d1e2",
+    "rationale": "Demonstrating Interpret a confidence interval materially invokes Estimator and estimand at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:22be9224-c5a3-4b31-9c4a-67142456543b",
+    "revision": 1,
+    "subject": "ola:n:4f2adc0b-6ff5-4d80-8793-0cba800ac8ac",
+    "relation": "uses_knowledge",
+    "object": "ola:n:8b52ae7f-74d3-4675-8c68-5a4178ac47b6",
+    "rationale": "Demonstrating Interpret a confidence interval materially invokes Sampling distribution and error control at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2463cc1e-f0c0-4bf8-a1ce-3285bf890b26",
+    "revision": 1,
+    "subject": "ola:n:4f2adc0b-6ff5-4d80-8793-0cba800ac8ac",
+    "relation": "uses_representation",
+    "object": "ola:n:831b0e76-906e-4db9-a231-49dde676c281",
+    "rationale": "Demonstrating Interpret a confidence interval materially invokes Confidence interval and test output at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:3cdebe52-3158-4d34-9f51-e13e30bf4446",
+    "revision": 1,
+    "subject": "ola:n:21ca64ce-13d4-4ac9-9ed2-41250d24f019",
+    "relation": "composed_of",
+    "object": "ola:n:4bf81b35-8a9e-4884-b9ce-5ed9cdcc33b6",
+    "rationale": "Conduct and interpret hypothesis tests is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:9665fc87-d997-4f3f-9f68-153a7fb4d6bc",
+    "revision": 1,
+    "subject": "ola:n:4bf81b35-8a9e-4884-b9ce-5ed9cdcc33b6",
+    "relation": "composed_of",
+    "object": "ola:n:d4b78705-2305-4b5a-8b1b-d4f9fd7846f3",
+    "rationale": "Conduct a bounded hypothesis test is a bounded performance within Conduct and interpret hypothesis tests.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8e39eefc-cee6-4347-88f8-2349f73b842f",
+    "revision": 1,
+    "subject": "ola:n:d4b78705-2305-4b5a-8b1b-d4f9fd7846f3",
+    "relation": "uses_concept",
+    "object": "ola:n:6e412708-a20d-4ddc-9557-ef39beaa0d2e",
+    "rationale": "Demonstrating Conduct a bounded hypothesis test materially invokes Null, alternative, and inferential decision at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e7431529-6782-44c3-9ca3-f9d89ecf4a5b",
+    "revision": 1,
+    "subject": "ola:n:d4b78705-2305-4b5a-8b1b-d4f9fd7846f3",
+    "relation": "uses_knowledge",
+    "object": "ola:n:8b52ae7f-74d3-4675-8c68-5a4178ac47b6",
+    "rationale": "Demonstrating Conduct a bounded hypothesis test materially invokes Sampling distribution and error control at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2e6e2f84-6939-4723-a7ae-81837dd78742",
+    "revision": 1,
+    "subject": "ola:n:d4b78705-2305-4b5a-8b1b-d4f9fd7846f3",
+    "relation": "uses_representation",
+    "object": "ola:n:831b0e76-906e-4db9-a231-49dde676c281",
+    "rationale": "Demonstrating Conduct a bounded hypothesis test materially invokes Confidence interval and test output at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d8b0aabd-edad-433d-86b6-1980b3e2b327",
+    "revision": 1,
+    "subject": "ola:n:4bf81b35-8a9e-4884-b9ce-5ed9cdcc33b6",
+    "relation": "composed_of",
+    "object": "ola:n:3fef616f-38bf-4eb7-89d2-23f0b8635be2",
+    "rationale": "Interpret a p-value is a bounded performance within Conduct and interpret hypothesis tests.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e7b7c190-120d-46fc-9929-e10ae9735512",
+    "revision": 1,
+    "subject": "ola:n:3fef616f-38bf-4eb7-89d2-23f0b8635be2",
+    "relation": "uses_concept",
+    "object": "ola:n:6e412708-a20d-4ddc-9557-ef39beaa0d2e",
+    "rationale": "Demonstrating Interpret a p-value materially invokes Null, alternative, and inferential decision at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:99e8db22-edcf-4f9d-8310-6ddb6adc5ded",
+    "revision": 1,
+    "subject": "ola:n:3fef616f-38bf-4eb7-89d2-23f0b8635be2",
+    "relation": "uses_knowledge",
+    "object": "ola:n:8b52ae7f-74d3-4675-8c68-5a4178ac47b6",
+    "rationale": "Demonstrating Interpret a p-value materially invokes Sampling distribution and error control at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:3d380a51-15db-4103-b8c8-527fdbee4a79",
+    "revision": 1,
+    "subject": "ola:n:3fef616f-38bf-4eb7-89d2-23f0b8635be2",
+    "relation": "uses_representation",
+    "object": "ola:n:831b0e76-906e-4db9-a231-49dde676c281",
+    "rationale": "Demonstrating Interpret a p-value materially invokes Confidence interval and test output at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:abfb027d-e779-475e-a11b-e20d37a8b9b4",
+    "revision": 1,
+    "subject": "ola:n:21ca64ce-13d4-4ac9-9ed2-41250d24f019",
+    "relation": "composed_of",
+    "object": "ola:n:670cd6e8-db99-4d8a-8381-f7ae6e890ef7",
+    "rationale": "Analyze and audit inference is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d87f564f-6c89-4b24-bea4-eb177b562dbf",
+    "revision": 1,
+    "subject": "ola:n:670cd6e8-db99-4d8a-8381-f7ae6e890ef7",
+    "relation": "composed_of",
+    "object": "ola:n:c11f4fc1-74ae-483e-935b-89032a3ad6cc",
+    "rationale": "Analyze error, power, and sample size is a bounded performance within Analyze and audit inference.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ca318501-0e97-49f6-9725-8d8acd89cd80",
+    "revision": 1,
+    "subject": "ola:n:c11f4fc1-74ae-483e-935b-89032a3ad6cc",
+    "relation": "uses_concept",
+    "object": "ola:n:83dbabb4-247c-4507-b841-69d9e7a5d1e2",
+    "rationale": "Demonstrating Analyze error, power, and sample size materially invokes Estimator and estimand at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:985dd4f3-907e-40e7-b68c-2bd61b90c5da",
+    "revision": 1,
+    "subject": "ola:n:c11f4fc1-74ae-483e-935b-89032a3ad6cc",
+    "relation": "uses_concept",
+    "object": "ola:n:6e412708-a20d-4ddc-9557-ef39beaa0d2e",
+    "rationale": "Demonstrating Analyze error, power, and sample size materially invokes Null, alternative, and inferential decision at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:86696888-0888-4032-8bea-6b0bece7c824",
+    "revision": 1,
+    "subject": "ola:n:c11f4fc1-74ae-483e-935b-89032a3ad6cc",
+    "relation": "uses_knowledge",
+    "object": "ola:n:8b52ae7f-74d3-4675-8c68-5a4178ac47b6",
+    "rationale": "Demonstrating Analyze error, power, and sample size materially invokes Sampling distribution and error control at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:acfc03e4-986d-4cbb-9469-a2e0773e7789",
+    "revision": 1,
+    "subject": "ola:n:c11f4fc1-74ae-483e-935b-89032a3ad6cc",
+    "relation": "uses_representation",
+    "object": "ola:n:831b0e76-906e-4db9-a231-49dde676c281",
+    "rationale": "Demonstrating Analyze error, power, and sample size materially invokes Confidence interval and test output at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:5702f138-26d0-468a-8373-49d16a2b8291",
+    "revision": 1,
+    "subject": "ola:n:670cd6e8-db99-4d8a-8381-f7ae6e890ef7",
+    "relation": "composed_of",
+    "object": "ola:n:10f90061-53e4-4626-98ef-6bf570214ab6",
+    "rationale": "Audit an inferential claim is a bounded performance within Analyze and audit inference.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:0df32e26-a9a6-460e-9233-82ecfa78594e",
+    "revision": 1,
+    "subject": "ola:n:10f90061-53e4-4626-98ef-6bf570214ab6",
+    "relation": "uses_concept",
+    "object": "ola:n:83dbabb4-247c-4507-b841-69d9e7a5d1e2",
+    "rationale": "Demonstrating Audit an inferential claim materially invokes Estimator and estimand at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:df1f33bf-5839-440a-83af-020f1240d9fd",
+    "revision": 1,
+    "subject": "ola:n:10f90061-53e4-4626-98ef-6bf570214ab6",
+    "relation": "uses_concept",
+    "object": "ola:n:6e412708-a20d-4ddc-9557-ef39beaa0d2e",
+    "rationale": "Demonstrating Audit an inferential claim materially invokes Null, alternative, and inferential decision at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:548995c8-dcda-422d-9dbb-d52326e49f7f",
+    "revision": 1,
+    "subject": "ola:n:10f90061-53e4-4626-98ef-6bf570214ab6",
+    "relation": "uses_knowledge",
+    "object": "ola:n:8b52ae7f-74d3-4675-8c68-5a4178ac47b6",
+    "rationale": "Demonstrating Audit an inferential claim materially invokes Sampling distribution and error control at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4f7e71bf-a0a1-4fa9-8e50-ccd799545db5",
+    "revision": 1,
+    "subject": "ola:n:10f90061-53e4-4626-98ef-6bf570214ab6",
+    "relation": "uses_representation",
+    "object": "ola:n:831b0e76-906e-4db9-a231-49dde676c281",
+    "rationale": "Demonstrating Audit an inferential claim materially invokes Confidence interval and test output at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ca80e614-8466-46df-8069-c3400de5eb6f",
+    "revision": 1,
+    "subject": "ola:n:77411999-33ee-403c-b09e-f79165832eca",
+    "relation": "composed_of",
+    "object": "ola:n:d526c1d8-1a10-4b89-8e08-4a0ae800802e",
+    "rationale": "Causal estimand and graph is material terrain within causal-multivariate-computational-statistics; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:deea2a6e-8d01-4f0c-9e84-0a3c6e894e9a",
+    "revision": 1,
+    "subject": "ola:n:77411999-33ee-403c-b09e-f79165832eca",
+    "relation": "composed_of",
+    "object": "ola:n:f4573b7d-45a7-438c-b129-998ad1d2f7dc",
+    "rationale": "Multivariate and computational statistical method is material terrain within causal-multivariate-computational-statistics; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c7e50e55-7b3c-480c-a6c5-f34f46f1a382",
+    "revision": 1,
+    "subject": "ola:n:77411999-33ee-403c-b09e-f79165832eca",
+    "relation": "composed_of",
+    "object": "ola:n:63320df2-f3cf-4933-ada3-c1363ff0d444",
+    "rationale": "Identifiability, validation, and computation is material terrain within causal-multivariate-computational-statistics; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8872c30e-5a38-4630-8ffd-2c100afc042f",
+    "revision": 1,
+    "subject": "ola:n:77411999-33ee-403c-b09e-f79165832eca",
+    "relation": "composed_of",
+    "object": "ola:n:752214cd-8e05-415e-bb8e-2a4483f55d9f",
+    "rationale": "Causal DAG, matrix, and computational output is material terrain within causal-multivariate-computational-statistics; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d1c485e6-a2c8-4e98-873a-5e3f33a2a6c1",
+    "revision": 1,
+    "subject": "ola:n:77411999-33ee-403c-b09e-f79165832eca",
+    "relation": "composed_of",
+    "object": "ola:n:1eb438da-6717-4e18-a65f-323e817210cd",
+    "rationale": "Analyze causal structure is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:52453418-cbc8-480c-b1ec-b8904c48c533",
+    "revision": 1,
+    "subject": "ola:n:1eb438da-6717-4e18-a65f-323e817210cd",
+    "relation": "composed_of",
+    "object": "ola:n:b2e1ec6b-7827-4b0f-9b74-daeb4fecf2df",
+    "rationale": "Define a causal estimand is a bounded performance within Analyze causal structure.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7115aa7e-7880-4c00-a720-14659c279762",
+    "revision": 1,
+    "subject": "ola:n:b2e1ec6b-7827-4b0f-9b74-daeb4fecf2df",
+    "relation": "uses_concept",
+    "object": "ola:n:d526c1d8-1a10-4b89-8e08-4a0ae800802e",
+    "rationale": "Demonstrating Define a causal estimand materially invokes Causal estimand and graph at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e8560e06-6eb1-4982-aa65-bb7d5254ea10",
+    "revision": 1,
+    "subject": "ola:n:b2e1ec6b-7827-4b0f-9b74-daeb4fecf2df",
+    "relation": "uses_knowledge",
+    "object": "ola:n:63320df2-f3cf-4933-ada3-c1363ff0d444",
+    "rationale": "Demonstrating Define a causal estimand materially invokes Identifiability, validation, and computation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:73c4c32f-46a8-4498-b1bc-1b39ecda0094",
+    "revision": 1,
+    "subject": "ola:n:b2e1ec6b-7827-4b0f-9b74-daeb4fecf2df",
+    "relation": "uses_representation",
+    "object": "ola:n:752214cd-8e05-415e-bb8e-2a4483f55d9f",
+    "rationale": "Demonstrating Define a causal estimand materially invokes Causal DAG, matrix, and computational output at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:bb3c90a8-bfd4-4736-8d20-50ec69f31bec",
+    "revision": 1,
+    "subject": "ola:n:1eb438da-6717-4e18-a65f-323e817210cd",
+    "relation": "composed_of",
+    "object": "ola:n:d2aeb6a6-8e34-477b-844e-c0c0742332bf",
+    "rationale": "Analyze confounding and adjustment is a bounded performance within Analyze causal structure.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f3efea72-0951-4a42-bd14-f4f57d054795",
+    "revision": 1,
+    "subject": "ola:n:d2aeb6a6-8e34-477b-844e-c0c0742332bf",
+    "relation": "uses_concept",
+    "object": "ola:n:d526c1d8-1a10-4b89-8e08-4a0ae800802e",
+    "rationale": "Demonstrating Analyze confounding and adjustment materially invokes Causal estimand and graph at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a5f06f0d-6691-475d-8a4f-f5f6b212e611",
+    "revision": 1,
+    "subject": "ola:n:d2aeb6a6-8e34-477b-844e-c0c0742332bf",
+    "relation": "uses_knowledge",
+    "object": "ola:n:63320df2-f3cf-4933-ada3-c1363ff0d444",
+    "rationale": "Demonstrating Analyze confounding and adjustment materially invokes Identifiability, validation, and computation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:01c46ce2-429b-45b2-9434-de4852298137",
+    "revision": 1,
+    "subject": "ola:n:d2aeb6a6-8e34-477b-844e-c0c0742332bf",
+    "relation": "uses_representation",
+    "object": "ola:n:752214cd-8e05-415e-bb8e-2a4483f55d9f",
+    "rationale": "Demonstrating Analyze confounding and adjustment materially invokes Causal DAG, matrix, and computational output at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b3d17ce5-b744-43b6-a8c4-38207670fb86",
+    "revision": 1,
+    "subject": "ola:n:77411999-33ee-403c-b09e-f79165832eca",
+    "relation": "composed_of",
+    "object": "ola:n:c6501363-1c95-47d6-9828-6ee14bd84aec",
+    "rationale": "Fit and evaluate multivariate methods is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b130cc3b-c842-4310-8699-bc09efc09fee",
+    "revision": 1,
+    "subject": "ola:n:c6501363-1c95-47d6-9828-6ee14bd84aec",
+    "relation": "composed_of",
+    "object": "ola:n:ac47ea78-c7ca-4299-8faa-93dcb3b41098",
+    "rationale": "Fit and interpret a multivariate model is a bounded performance within Fit and evaluate multivariate methods.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a06ac4fc-2b71-4b84-9774-6f3c2360563d",
+    "revision": 1,
+    "subject": "ola:n:ac47ea78-c7ca-4299-8faa-93dcb3b41098",
+    "relation": "uses_concept",
+    "object": "ola:n:f4573b7d-45a7-438c-b129-998ad1d2f7dc",
+    "rationale": "Demonstrating Fit and interpret a multivariate model materially invokes Multivariate and computational statistical method at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b724448f-ade4-4787-acdb-142e472ca85b",
+    "revision": 1,
+    "subject": "ola:n:ac47ea78-c7ca-4299-8faa-93dcb3b41098",
+    "relation": "uses_knowledge",
+    "object": "ola:n:63320df2-f3cf-4933-ada3-c1363ff0d444",
+    "rationale": "Demonstrating Fit and interpret a multivariate model materially invokes Identifiability, validation, and computation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2c8778e9-c9eb-4053-8680-dd3acca45fe5",
+    "revision": 1,
+    "subject": "ola:n:ac47ea78-c7ca-4299-8faa-93dcb3b41098",
+    "relation": "uses_representation",
+    "object": "ola:n:752214cd-8e05-415e-bb8e-2a4483f55d9f",
+    "rationale": "Demonstrating Fit and interpret a multivariate model materially invokes Causal DAG, matrix, and computational output at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e53c51b8-972e-4ea2-b2ae-0c71aac97689",
+    "revision": 1,
+    "subject": "ola:n:c6501363-1c95-47d6-9828-6ee14bd84aec",
+    "relation": "composed_of",
+    "object": "ola:n:7ba6bcf1-ac10-4b6e-b749-914a2d829d11",
+    "rationale": "Evaluate a statistical learning procedure is a bounded performance within Fit and evaluate multivariate methods.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:0c2f10b7-d72a-4955-96fc-f8939a9b61b9",
+    "revision": 1,
+    "subject": "ola:n:7ba6bcf1-ac10-4b6e-b749-914a2d829d11",
+    "relation": "uses_concept",
+    "object": "ola:n:f4573b7d-45a7-438c-b129-998ad1d2f7dc",
+    "rationale": "Demonstrating Evaluate a statistical learning procedure materially invokes Multivariate and computational statistical method at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a9f63af8-cdde-4f7c-9f0f-bf76940fb2c5",
+    "revision": 1,
+    "subject": "ola:n:7ba6bcf1-ac10-4b6e-b749-914a2d829d11",
+    "relation": "uses_knowledge",
+    "object": "ola:n:63320df2-f3cf-4933-ada3-c1363ff0d444",
+    "rationale": "Demonstrating Evaluate a statistical learning procedure materially invokes Identifiability, validation, and computation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:af45507d-030c-4038-9281-9ba8a139ef0a",
+    "revision": 1,
+    "subject": "ola:n:7ba6bcf1-ac10-4b6e-b749-914a2d829d11",
+    "relation": "uses_representation",
+    "object": "ola:n:752214cd-8e05-415e-bb8e-2a4483f55d9f",
+    "rationale": "Demonstrating Evaluate a statistical learning procedure materially invokes Causal DAG, matrix, and computational output at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f3859979-a8aa-4a63-b18e-f490de4cfcc3",
+    "revision": 1,
+    "subject": "ola:n:77411999-33ee-403c-b09e-f79165832eca",
+    "relation": "composed_of",
+    "object": "ola:n:c534c9e1-b0fa-4907-9e99-cb0948696baa",
+    "rationale": "Compute, simulate, and audit complex analyses is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:eff5d649-10ed-48a3-81ec-daca30502186",
+    "revision": 1,
+    "subject": "ola:n:c534c9e1-b0fa-4907-9e99-cb0948696baa",
+    "relation": "composed_of",
+    "object": "ola:n:541599d8-a535-497a-bfe6-3247655a630a",
+    "rationale": "Perform resampling or simulation inference is a bounded performance within Compute, simulate, and audit complex analyses.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2e58c427-67c6-40e0-9226-301260efb914",
+    "revision": 1,
+    "subject": "ola:n:541599d8-a535-497a-bfe6-3247655a630a",
+    "relation": "uses_concept",
+    "object": "ola:n:d526c1d8-1a10-4b89-8e08-4a0ae800802e",
+    "rationale": "Demonstrating Perform resampling or simulation inference materially invokes Causal estimand and graph at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:55467107-6182-4364-afbc-d2a93aa2c9ea",
+    "revision": 1,
+    "subject": "ola:n:541599d8-a535-497a-bfe6-3247655a630a",
+    "relation": "uses_concept",
+    "object": "ola:n:f4573b7d-45a7-438c-b129-998ad1d2f7dc",
+    "rationale": "Demonstrating Perform resampling or simulation inference materially invokes Multivariate and computational statistical method at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:06ca5111-e0fd-4f40-9e7a-7c3d34573059",
+    "revision": 1,
+    "subject": "ola:n:541599d8-a535-497a-bfe6-3247655a630a",
+    "relation": "uses_knowledge",
+    "object": "ola:n:63320df2-f3cf-4933-ada3-c1363ff0d444",
+    "rationale": "Demonstrating Perform resampling or simulation inference materially invokes Identifiability, validation, and computation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:0184659e-5ca2-4bf5-b10d-bce30ea25ac8",
+    "revision": 1,
+    "subject": "ola:n:541599d8-a535-497a-bfe6-3247655a630a",
+    "relation": "uses_representation",
+    "object": "ola:n:752214cd-8e05-415e-bb8e-2a4483f55d9f",
+    "rationale": "Demonstrating Perform resampling or simulation inference materially invokes Causal DAG, matrix, and computational output at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:5ccbe026-3722-4263-8523-f2154545a05f",
+    "revision": 1,
+    "subject": "ola:n:c534c9e1-b0fa-4907-9e99-cb0948696baa",
+    "relation": "composed_of",
+    "object": "ola:n:bddaa714-c22e-47fb-8799-034dbb1eeaa1",
+    "rationale": "Audit a causal or computational claim is a bounded performance within Compute, simulate, and audit complex analyses.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:003aa605-151c-4559-892e-12428dd8b560",
+    "revision": 1,
+    "subject": "ola:n:bddaa714-c22e-47fb-8799-034dbb1eeaa1",
+    "relation": "uses_concept",
+    "object": "ola:n:d526c1d8-1a10-4b89-8e08-4a0ae800802e",
+    "rationale": "Demonstrating Audit a causal or computational claim materially invokes Causal estimand and graph at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7e546a6b-3299-4aea-b54c-d4b6cbfeff2d",
+    "revision": 1,
+    "subject": "ola:n:bddaa714-c22e-47fb-8799-034dbb1eeaa1",
+    "relation": "uses_concept",
+    "object": "ola:n:f4573b7d-45a7-438c-b129-998ad1d2f7dc",
+    "rationale": "Demonstrating Audit a causal or computational claim materially invokes Multivariate and computational statistical method at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ff3501b8-a5e6-4bf6-bde3-d735fb946967",
+    "revision": 1,
+    "subject": "ola:n:bddaa714-c22e-47fb-8799-034dbb1eeaa1",
+    "relation": "uses_knowledge",
+    "object": "ola:n:63320df2-f3cf-4933-ada3-c1363ff0d444",
+    "rationale": "Demonstrating Audit a causal or computational claim materially invokes Identifiability, validation, and computation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8be4f7e7-e9de-4bfb-b9d9-1b6ad3f43261",
+    "revision": 1,
+    "subject": "ola:n:bddaa714-c22e-47fb-8799-034dbb1eeaa1",
+    "relation": "uses_representation",
+    "object": "ola:n:752214cd-8e05-415e-bb8e-2a4483f55d9f",
+    "rationale": "Demonstrating Audit a causal or computational claim materially invokes Causal DAG, matrix, and computational output at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  }
+]

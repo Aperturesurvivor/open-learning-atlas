@@ -1,0 +1,31 @@
+[
+  {
+    "id": "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+    "revision": 1,
+    "title": "OpenStax Introductory Statistics 2e",
+    "source_type": "curriculum",
+    "citation": "Illowsky, Barbara, and Susan Dean. Introductory Statistics 2e. OpenStax, 2023.",
+    "url": "https://openstax.org/details/books/introductory-statistics-2e",
+    "accessed_at": "2026-07-21",
+    "coverage_for": [
+      "ola:n:75ad3a83-f3b6-4924-a2d5-86d6ca73f1fd",
+      "ola:n:77411999-33ee-403c-b09e-f79165832eca",
+      "ola:n:2b5a234b-0ef4-47fa-900b-4188758d604e",
+      "ola:n:ef99a75d-00c3-4991-a0b9-1299d7bcfdd1",
+      "ola:n:f799bc32-265c-4b95-8ec8-385c5b1d267f",
+      "ola:n:b12cc5da-f9ec-4c5a-9459-5e1c1ce977e4",
+      "ola:n:5ff655ea-d3f2-4d82-8da3-a372d53061e3",
+      "ola:n:21ca64ce-13d4-4ac9-9ed2-41250d24f019",
+      "ola:n:05686f7f-4dee-4bd3-8161-b77a3e09133d",
+      "ola:n:04a0a2e0-eefb-4f5e-9e5f-a6632c4e2c8f",
+      "ola:n:3822d5a3-ebac-4882-91b6-3f7625ccef5f",
+      "ola:n:91b00c32-4004-479a-90b4-1cb6c5df6640"
+    ],
+    "coverage_scope": "Data, descriptive statistics, probability, random variables, sampling distributions, interval estimation, hypothesis testing, regression, chi-square methods, and analysis of variance.",
+    "coverage_gaps": [
+      "The source is introductory and does not exhaust causal, Bayesian, multivariate, stochastic-process, measure-theoretic, or modern computational statistics.",
+      "Its instructional order is not imported as a prerequisite graph."
+    ],
+    "notes": "Coverage audit only; no source prose, figures, or exercises were imported."
+  }
+]

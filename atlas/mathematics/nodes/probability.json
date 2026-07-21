@@ -1,0 +1,2018 @@
+[
+  {
+    "id": "ola:n:9a833715-e7d4-46e2-b98f-502df6bbd7db",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "probability-sample-space-event",
+    "label": "Probability sample space and event",
+    "definition": "A declared set of possible outcomes and subsets representing events for a random experiment or model.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:5cdc09c1-4c53-459d-ba03-6771ad0fbc3f",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "probability-measure",
+    "label": "Probability measure",
+    "definition": "A normalized nonnegative measure on events satisfying countable additivity within its declared event system.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:d6e6197c-2235-40d5-badc-6911987ec3b2",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "probability-axioms-event-algebra",
+    "label": "Probability axioms and event algebra",
+    "definition": "Complement, union, intersection, and disjoint decomposition rules follow from probability axioms and require a complete sample-space specification.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:aa6bc300-bdb7-4c59-92f2-35dc8a370b99",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "probability-tree-venn-table",
+    "label": "Probability tree, Venn diagram, and outcome table",
+    "definition": "Representations of outcomes, events, branching processes, overlap, and assigned probabilities.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:9ef95aaf-d649-4715-a5db-83ab7ad2ea9f",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "construct-interpret-sample-spaces-family",
+    "label": "Construct and interpret sample spaces",
+    "definition": "A capability family within sample-spaces-events grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:8f3cc880-eaed-43b3-8891-d27664f10b2d",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-sample-space",
+    "label": "Construct a sample space",
+    "definition": "Given a bounded random experiment and outcome granularity, define a sample space that is mutually exclusive and exhaustive for the question and state modeling assumptions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given a bounded random experiment and outcome granularity, define a sample space that is mutually exclusive and exhaustive for the question and state modeling assumptions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:5d8241c6-ec4b-4256-8dd8-85e97252875c",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "represent-events-in-sample-space",
+    "label": "Represent events in a sample space",
+    "definition": "Given a sample space and verbal conditions, express events as subsets, logical combinations, tables, or diagrams and identify complements, unions, and intersections.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given a sample space and verbal conditions, express events as subsets, logical combinations, tables, or diagrams and identify complements, unions, and intersections.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:1955b084-e2db-4d4e-8c0a-4af7831cd343",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "calculate-event-probabilities-family",
+    "label": "Calculate event probabilities",
+    "definition": "A capability family within sample-spaces-events grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:986db97e-deba-434a-a96c-4db294eddeb0",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "assign-probability-model",
+    "label": "Assign a probability model",
+    "definition": "Given outcomes and symmetry, frequency, or explicit model information, assign nonnegative probabilities summing to one and justify rather than assume equiprobability.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given outcomes and symmetry, frequency, or explicit model information, assign nonnegative probabilities summing to one and justify rather than assume equiprobability.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:275abb6c-da0c-47da-a55f-4f49e654abc7",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compute-event-probability",
+    "label": "Compute an event probability",
+    "definition": "Given a probability model and event expression, use disjoint decomposition, complement, inclusion–exclusion, or direct integration or summation to calculate the probability.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given a probability model and event expression, use disjoint decomposition, complement, inclusion–exclusion, or direct integration or summation to calculate the probability.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:52ecdc74-43f8-4513-bb51-d3a98c7c10e3",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "simulate-audit-probability-model-family",
+    "label": "Simulate and audit probability models",
+    "definition": "A capability family within sample-spaces-events grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:6035bb0c-f333-4433-9ebf-99b94dd77109",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "simulate-random-experiment",
+    "label": "Simulate a random experiment",
+    "definition": "Given a fully specified probability model and random-number mechanism, generate reproducible trials, estimate event probabilities, and quantify simulation variability.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given a fully specified probability model and random-number mechanism, generate reproducible trials, estimate event probabilities, and quantify simulation variability.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:8932c2fc-7d3f-4775-845e-4b4d96906f61",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "audit-sample-space-probability-claim",
+    "label": "Audit a sample-space probability claim",
+    "definition": "Given a probability argument, check outcome definition, exhaustiveness, exclusivity, equiprobability, normalization, event algebra, and whether empirical frequency is confused with model probability.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given a probability argument, check outcome definition, exhaustiveness, exclusivity, equiprobability, normalization, event algebra, and whether empirical frequency is confused with model probability.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:9cefe6a3-f3bb-42c9-9ac5-1f6aeba13dd2",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "combinatorial-configuration",
+    "label": "Combinatorial configuration",
+    "definition": "A finite arrangement, selection, partition, word, graph, or structure counted under specified equivalence and repetition rules.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:57f3792b-15ec-43b3-b04a-350d41ee1d58",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "permutation-combination",
+    "label": "Permutation and combination",
+    "definition": "Ordered and unordered selections under declared repetition, distinguishability, and occupancy conditions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:6c5b9630-b35b-49e4-b022-424aa513d21a",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "sum-product-bijection-counting",
+    "label": "Sum, product, and bijection counting principles",
+    "definition": "Disjoint cases add, sequential independent choices multiply, and bijections establish equal cardinality without necessarily enumerating objects.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:91c67041-c12d-4491-872b-fadf4ba91466",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "counting-tree-case-table",
+    "label": "Counting tree and case table",
+    "definition": "Trees, grids, generating functions, and case partitions representing finite combinatorial choices and constraints.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:39b686f1-42ca-4c54-ac7f-8c01fc60400c",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "enumerate-count-configurations-family",
+    "label": "Enumerate and count configurations",
+    "definition": "A capability family within combinatorics-counting-probability grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:138c10e4-155f-458c-93d0-9e6a4118ca91",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "enumerate-combinatorial-configurations",
+    "label": "Enumerate combinatorial configurations",
+    "definition": "Given a finite constrained class, generate every valid configuration exactly once or explain a systematic enumeration that prevents omission and duplication.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given a finite constrained class, generate every valid configuration exactly once or explain a systematic enumeration that prevents omission and duplication.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:e843f847-9cf6-414a-b60f-a486d1fc471d",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "apply-sum-product-counting",
+    "label": "Apply sum or product counting",
+    "definition": "Given a finite counting problem, decompose it into disjoint alternatives or sequential choices, apply the appropriate principle, and justify independence of choice counts where used.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given a finite counting problem, decompose it into disjoint alternatives or sequential choices, apply the appropriate principle, and justify independence of choice counts where used.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:bbccef60-e830-4141-ba34-62ce9225ae5a",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "apply-combinatorial-formulas-family",
+    "label": "Apply combinatorial formulas",
+    "definition": "A capability family within combinatorics-counting-probability grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:8137718b-2dca-4946-9398-ed611cdb4960",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "count-permutations-combinations",
+    "label": "Count permutations or combinations",
+    "definition": "Given selection or arrangement conditions, determine whether order, repetition, and distinguishability matter, choose a valid formula or derivation, and compute the count.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given selection or arrangement conditions, determine whether order, repetition, and distinguishability matter, choose a valid formula or derivation, and compute the count.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:c902a948-f575-4ef5-8ae5-510d3db063aa",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "apply-inclusion-exclusion",
+    "label": "Apply inclusion–exclusion",
+    "definition": "Given overlapping finite properties, compute the union count by including and excluding intersections at the required order and verify with small cases when feasible.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given overlapping finite properties, compute the union count by including and excluding intersections at the required order and verify with small cases when feasible.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:89d254b4-8dc9-4fc7-af76-fea4d5e93ec0",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "connect-counting-probability-family",
+    "label": "Connect counting and probability",
+    "definition": "A capability family within combinatorics-counting-probability grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:a8e893bd-0dbb-45be-8db0-6d6510f2225a",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compute-probability-by-counting",
+    "label": "Compute probability by counting",
+    "definition": "Given a finite equiprobable sample space with justified symmetry, count favorable and total outcomes under the same equivalence rules and compute the probability.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given a finite equiprobable sample space with justified symmetry, count favorable and total outcomes under the same equivalence rules and compute the probability.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:3b1b34f3-56e2-45fa-9f33-18d6097bce69",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "audit-combinatorial-count",
+    "label": "Audit a combinatorial count",
+    "definition": "Given a proposed count, check object definition, ordering, repetition, indistinguishability, case overlap, missing constraints, and whether division or multiplication has a valid fiber-size rationale.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given a proposed count, check object definition, ordering, repetition, indistinguishability, case overlap, missing constraints, and whether division or multiplication has a valid fiber-size rationale.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:79087613-b97d-4897-b4d6-bbe28a33b5c5",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "conditional-probability",
+    "label": "Conditional probability",
+    "definition": "Probability of an event under restriction to another event of positive probability or an appropriate regular conditional framework.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:5b3a34ff-7c2b-4654-8da3-aa2b6fd50adb",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "probabilistic-independence",
+    "label": "Probabilistic independence",
+    "definition": "A factorization property stating that information about one event or variable does not alter the probability law of another in the specified sense.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:d5453276-e074-4c58-bf17-e039372cdd18",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "bayes-total-probability-dependence",
+    "label": "Bayes, total probability, and dependence",
+    "definition": "Conditioning partitions probability through total-probability rules; Bayes reverses conditionals with base rates, while independence must be tested rather than inferred from disjointness.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:871853c4-bfa4-48dc-ace7-55c41d1dc9e8",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "conditional-tree-two-way-table",
+    "label": "Conditional tree and two-way table",
+    "definition": "Branching trees, contingency tables, set diagrams, and probability networks representing joint, marginal, and conditional probabilities.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:35b99d61-7273-434d-9346-31580e854e44",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "compute-conditional-dependence-family",
+    "label": "Compute conditional probabilities and dependence",
+    "definition": "A capability family within conditional-probability-dependence grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:292dcddc-2aa7-4565-9935-389b35ab6a73",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compute-conditional-probability",
+    "label": "Compute a conditional probability",
+    "definition": "Given a joint model or table and a conditioning event of positive probability, restrict and renormalize to compute the requested conditional probability.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given a joint model or table and a conditioning event of positive probability, restrict and renormalize to compute the requested conditional probability.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:3e3caf5f-978f-462e-8411-74cd4b91088e",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "determine-probabilistic-independence",
+    "label": "Determine probabilistic independence",
+    "definition": "Given events or variables with sufficient joint information, verify or refute independence using conditional equality or factorization and distinguish pairwise from mutual independence.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given events or variables with sufficient joint information, verify or refute independence using conditional equality or factorization and distinguish pairwise from mutual independence.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:b938d43e-62fc-42d0-a9c7-050baed2b070",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "reverse-decompose-conditionals-family",
+    "label": "Reverse and decompose conditional probabilities",
+    "definition": "A capability family within conditional-probability-dependence grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:db6cf5c8-1f04-4feb-829f-0537f86c1c65",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "apply-total-probability",
+    "label": "Apply the law of total probability",
+    "definition": "Given an exhaustive disjoint partition and conditional probabilities, compute a marginal probability and verify weights and conditioning directions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given an exhaustive disjoint partition and conditional probabilities, compute a marginal probability and verify weights and conditioning directions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:7eea1a31-6ace-4b15-9862-ae5cfa3b2f50",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "apply-bayes-rule",
+    "label": "Apply Bayes rule",
+    "definition": "Given likelihoods, prior or base-rate probabilities, and evidence, compute a posterior conditional probability with correct event direction and normalization.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given likelihoods, prior or base-rate probabilities, and evidence, compute a posterior conditional probability with correct event direction and normalization.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:879a6fe3-23e5-4d56-a7be-e83556d43dc8",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "interpret-audit-conditional-reasoning-family",
+    "label": "Interpret and audit conditional reasoning",
+    "definition": "A capability family within conditional-probability-dependence grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:f756d71d-9255-458c-8ae4-ede9a0b6f49b",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "interpret-probability-update",
+    "label": "Interpret a probability update",
+    "definition": "Given prior and posterior probabilities, explain what evidence was conditioned on, how base rates and likelihoods changed the distribution, and what uncertainty remains.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given prior and posterior probabilities, explain what evidence was conditioned on, how base rates and likelihoods changed the distribution, and what uncertainty remains.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:58a3d254-5101-418d-a01a-a320b107a710",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "audit-conditional-probability-claim",
+    "label": "Audit a conditional-probability claim",
+    "definition": "Given a claim, check denominator population, reversed conditionals, base-rate neglect, zero-probability issues, independence assumptions, selection effects, and whether dependence implies causation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given a claim, check denominator population, reversed conditionals, base-rate neglect, zero-probability issues, independence assumptions, selection effects, and whether dependence implies causation.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:260b6160-d32a-4360-85c3-5c1cceb57b8b",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "random-variable",
+    "label": "Random variable",
+    "definition": "A measurable function from outcomes to numerical or other declared values, inducing a probability distribution.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:514853a4-83c9-4074-89cb-25b98df67a37",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "probability-distribution-function",
+    "label": "Probability mass, density, and distribution function",
+    "definition": "Functions representing point probabilities, density relative to a base measure, and cumulative probability, with distinct interpretation for discrete and continuous variables.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:f72b677c-c0f8-486c-ae4a-a247c57c4f6b",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "distribution-normalization-transformation",
+    "label": "Distribution normalization and transformation",
+    "definition": "Masses sum and densities integrate to one; probabilities come from mass or area, and transformations require tracking support, multiplicity, and Jacobian or counting effects.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:ead97ce2-d708-4c40-a151-db119743554c",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "pmf-pdf-cdf-quantile-plot",
+    "label": "PMF, PDF, CDF, and quantile representation",
+    "definition": "Formula, table, histogram, density curve, cumulative curve, and quantile plot representations of distributions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:5a89ebc6-0a02-4887-9190-c364d6e68f39",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "define-validate-distributions-family",
+    "label": "Define and validate distributions",
+    "definition": "A capability family within random-variables-distributions grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:28ed3bea-3f8f-46b0-a556-5ceb069947ba",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "define-random-variable",
+    "label": "Define a random variable",
+    "definition": "Given a random experiment and question, define a random variable with domain, codomain, mapping rule, support, and interpretation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given a random experiment and question, define a random variable with domain, codomain, mapping rule, support, and interpretation.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:cabcac3f-35bd-439d-997d-97b525d3ff73",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "validate-probability-distribution",
+    "label": "Validate a probability distribution",
+    "definition": "Given a proposed mass or density function and support, check nonnegativity, normalization, parameter conditions, and correct discrete or continuous interpretation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given a proposed mass or density function and support, check nonnegativity, normalization, parameter conditions, and correct discrete or continuous interpretation.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:121bb10a-79e3-40e6-b7e6-317e07bcd132",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "compute-transform-distributions-family",
+    "label": "Compute and transform distributions",
+    "definition": "A capability family within random-variables-distributions grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:38d1f397-aac7-4629-a293-0f08e34d4300",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compute-distribution-probability-quantile",
+    "label": "Compute a distribution probability or quantile",
+    "definition": "Given a valid distribution representation, compute an event probability, cumulative value, tail probability, or quantile with correct boundary conventions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given a valid distribution representation, compute an event probability, cumulative value, tail probability, or quantile with correct boundary conventions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:687bfc47-eac5-4099-8792-0aeb96a44b12",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "derive-transformed-random-variable-distribution",
+    "label": "Derive a transformed random-variable distribution",
+    "definition": "Given a random variable and admissible transformation, determine the transformed support and distribution using enumeration, cumulative methods, or change of variables within scope.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given a random variable and admissible transformation, determine the transformed support and distribution using enumeration, cumulative methods, or change of variables within scope.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:b2a64c98-07fe-483a-9ab8-4c3ca2c89af0",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "select-simulate-distribution-family",
+    "label": "Select and simulate distributions",
+    "definition": "A capability family within random-variables-distributions grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:e466cd3b-7c68-4829-86af-e7696adbe4d6",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "select-parametric-distribution-family",
+    "label": "Select a parametric distribution family",
+    "definition": "Given a data-generating mechanism or bounded modeling purpose, choose a plausible distribution family from its support and structural assumptions and state diagnostics and alternatives.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given a data-generating mechanism or bounded modeling purpose, choose a plausible distribution family from its support and structural assumptions and state diagnostics and alternatives.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:fdb1a62e-7e28-44b3-943e-8056cc752e26",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "simulate-from-probability-distribution",
+    "label": "Simulate from a probability distribution",
+    "definition": "Given a fully specified distribution and random-number source, generate reproducible samples by an admissible method and compare empirical summaries with theoretical behavior and Monte Carlo error.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given a fully specified distribution and random-number source, generate reproducible samples by an admissible method and compare empirical summaries with theoretical behavior and Monte Carlo error.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:30db2f38-3cc9-4941-a1ac-2c3944119b3a",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "expected-value",
+    "label": "Expected value",
+    "definition": "A probability-weighted integral or sum of a random variable when the relevant absolute or conditional integrability requirements hold.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:b79fdcac-ec21-4faf-999f-594ead4bb26d",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "variance-covariance",
+    "label": "Variance and covariance",
+    "definition": "Expected squared deviation and joint linear co-variation quantities, with scale, sign, and existence conditions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:1791307b-c689-488d-9dc3-390a9a4bfb02",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "linearity-variance-total-laws",
+    "label": "Linearity and total expectation or variance laws",
+    "definition": "Expectation is linear without independence; variance and covariance transformations include cross terms, and conditioning decomposes expectation and variance under integrability conditions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:857e6ed8-9959-4d0b-a8a1-0a0d99157b31",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "distribution-moment-spread-representation",
+    "label": "Distribution, moment, and spread representation",
+    "definition": "Distribution plots, moment tables, error bars, and covariance matrices representing center, variability, and dependence.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:1ea02dba-2519-485e-87a3-f46d5d68c800",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "compute-expectation-variability-family",
+    "label": "Compute expectation and variability",
+    "definition": "A capability family within expectation-variability grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:37b50028-0674-407b-880e-38860a280816",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compute-expected-value",
+    "label": "Compute an expected value",
+    "definition": "Given a discrete or continuous distribution and integrable quantity, compute expectation by summation or integration and retain the variable’s units.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given a discrete or continuous distribution and integrable quantity, compute expectation by summation or integration and retain the variable’s units.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:6acd06b0-a68a-4afd-939b-ca2b12dfb727",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compute-variance-standard-deviation",
+    "label": "Compute variance or standard deviation",
+    "definition": "Given a distribution with finite second moment, compute variance or standard deviation using a valid formula and interpret squared versus original units.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given a distribution with finite second moment, compute variance or standard deviation using a valid formula and interpret squared versus original units.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:bee6b939-f64b-48ba-ab80-738ae2c43f9e",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "analyze-joint-conditional-moments-family",
+    "label": "Analyze joint and conditional moments",
+    "definition": "A capability family within expectation-variability grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:d78cc3da-0cca-4e8c-9632-4a88483bb22c",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compute-covariance-correlation-from-distribution",
+    "label": "Compute covariance or correlation from a distribution",
+    "definition": "Given a joint distribution with required moments, compute covariance or correlation and distinguish zero linear association from independence.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given a joint distribution with required moments, compute covariance or correlation and distinguish zero linear association from independence.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:c5cfcd6e-a306-4c9f-8586-2c6b8cbff1a9",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "apply-total-expectation-variance",
+    "label": "Apply total expectation or variance",
+    "definition": "Given a valid conditioning variable or partition and finite moments, decompose and compute expectation or variance and interpret within- and between-condition components.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given a valid conditioning variable or partition and finite moments, decompose and compute expectation or variance and interpret within- and between-condition components.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:2fda7d39-e17c-4a9f-804d-ed74a910d1f7",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "reason-about-risk-variability-family",
+    "label": "Reason about expectation and variability",
+    "definition": "A capability family within expectation-variability grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:22e23560-647d-4753-930d-aec36b1cb48a",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "bound-probability-with-moments",
+    "label": "Bound probability with moments",
+    "definition": "Given moment information and conditions for a declared inequality, derive a probability bound and state why the bound may be conservative.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given moment information and conditions for a declared inequality, derive a probability bound and state why the bound may be conservative.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:7e986263-4e86-4369-8ab7-41f96934f73e",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "audit-expected-value-risk-claim",
+    "label": "Audit an expectation or variability claim",
+    "definition": "Given a probabilistic claim, check distribution, existence of moments, units, nonlinear transformations, dependence, tail behavior, and whether an average is confused with a typical outcome.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given a probabilistic claim, check distribution, existence of moments, units, nonlinear transformations, dependence, tail behavior, and whether an average is confused with a typical outcome.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:84c5aee3-64fb-47f0-b176-9c2823483c02",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "stochastic-process-state-transition",
+    "label": "Stochastic process, state, and transition",
+    "definition": "A collection of random variables indexed by time or space, often described through states and transition laws.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:c5bdc63f-373c-42af-b089-1057b1378126",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "decision-utility-risk",
+    "label": "Decision, utility, and risk",
+    "definition": "Actions evaluated under uncertain outcomes through declared preferences, losses, constraints, and risk or robustness criteria.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:c27b2cba-94f0-4aec-ada0-d833ee968532",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "markov-decision-expectation-principles",
+    "label": "Markov and decision expectation principles",
+    "definition": "State transition structure can determine multi-step laws and long-run behavior; decision analysis requires explicit action, information, utility, and probability assumptions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:f32844bd-9fdb-4b15-b5ab-1567d592da03",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "transition-matrix-decision-tree-trajectory",
+    "label": "Transition matrix, decision tree, and stochastic trajectory",
+    "definition": "State diagrams, transition matrices, event trees, simulated paths, and payoff tables representing evolving uncertainty and choices.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review."
+  },
+  {
+    "id": "ola:n:91f04868-ee77-4f8d-a97e-dc76a46f2f70",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "model-analyze-stochastic-process-family",
+    "label": "Model and analyze stochastic processes",
+    "definition": "A capability family within stochastic-processes-decision-risk grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:272f582e-4dea-4695-84f0-badbe8eb233a",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-finite-state-stochastic-model",
+    "label": "Construct a finite-state stochastic model",
+    "definition": "Given an evolving random system and declared memory assumptions, define states, initial distribution, transition mechanism, time index, and observable quantities.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given an evolving random system and declared memory assumptions, define states, initial distribution, transition mechanism, time index, and observable quantities.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:55352a44-2791-494c-9df3-f41c8d623e80",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compute-multi-step-state-probability",
+    "label": "Compute a multi-step state probability",
+    "definition": "Given a finite-state transition model, compute requested future or hitting probabilities using matrix, recursion, tree, or simulation methods and verify normalization.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given a finite-state transition model, compute requested future or hitting probabilities using matrix, recursion, tree, or simulation methods and verify normalization.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:f2d06a78-174d-4b8e-9e72-26ea904c2e0b",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "analyze-long-run-risk-family",
+    "label": "Analyze long-run behavior and risk",
+    "definition": "A capability family within stochastic-processes-decision-risk grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:bfb77c21-9549-4612-9ee1-22ea6605933a",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "analyze-stationary-long-run-behavior",
+    "label": "Analyze stationary or long-run behavior",
+    "definition": "Given an admissible stochastic process, determine a stationary distribution or bounded long-run quantity and check irreducibility, recurrence, convergence, or other required conditions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given an admissible stochastic process, determine a stationary distribution or bounded long-run quantity and check irreducibility, recurrence, convergence, or other required conditions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:fd722c84-2a95-4c9d-8787-445be40a5fe0",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compute-expected-loss-risk-measure",
+    "label": "Compute expected loss or a risk measure",
+    "definition": "Given a probability model, outcomes, and declared loss or risk functional, compute the criterion and explain sensitivity to tails, time horizon, and model assumptions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given a probability model, outcomes, and declared loss or risk functional, compute the criterion and explain sensitivity to tails, time horizon, and model assumptions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:64ee746a-acff-40d3-b5f5-32b1d189e596",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "make-audit-decisions-uncertainty-family",
+    "label": "Make and audit decisions under uncertainty",
+    "definition": "A capability family within stochastic-processes-decision-risk grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:5c7465c8-aebd-4301-8994-6cce9304a240",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "select-action-under-uncertainty",
+    "label": "Select an action under uncertainty",
+    "definition": "Given actions, states, probabilities or ambiguity set, and a declared utility, loss, or robustness criterion, compare actions and justify the selected decision without hiding preference assumptions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given actions, states, probabilities or ambiguity set, and a declared utility, loss, or robustness criterion, compare actions and justify the selected decision without hiding preference assumptions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:e05e393e-b4ff-41e4-8c70-13ed95468bf9",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "audit-stochastic-decision-model",
+    "label": "Audit a stochastic or decision model",
+    "definition": "Given a process or risk analysis, check state definition, transition assumptions, dependence, stationarity, tail risk, utility, sensitivity, simulation error, and whether recommendations follow from the criterion.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable statistical, mathematical, and educational review.",
+    "capability_statement": "Given a process or risk analysis, check state definition, transition assumptions, dependence, stationarity, tail risk, utility, sensitivity, simulation error, and whether recommendations follow from the criterion.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  }
+]

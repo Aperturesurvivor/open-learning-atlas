@@ -1,0 +1,4160 @@
+[
+  {
+    "id": "ola:e:3da67a4d-9764-43ba-b5ad-c3169295e143",
+    "revision": 1,
+    "subject": "ola:n:3822d5a3-ebac-4882-91b6-3f7625ccef5f",
+    "relation": "composed_of",
+    "object": "ola:n:9a833715-e7d4-46e2-b98f-502df6bbd7db",
+    "rationale": "Probability sample space and event is material terrain within sample-spaces-events; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:0375a4f3-d9a4-4da3-8e8a-1d4cbe938a07",
+    "revision": 1,
+    "subject": "ola:n:3822d5a3-ebac-4882-91b6-3f7625ccef5f",
+    "relation": "composed_of",
+    "object": "ola:n:5cdc09c1-4c53-459d-ba03-6771ad0fbc3f",
+    "rationale": "Probability measure is material terrain within sample-spaces-events; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c85df7f0-a3b4-47bd-98a2-98341c10c1f8",
+    "revision": 1,
+    "subject": "ola:n:3822d5a3-ebac-4882-91b6-3f7625ccef5f",
+    "relation": "composed_of",
+    "object": "ola:n:d6e6197c-2235-40d5-badc-6911987ec3b2",
+    "rationale": "Probability axioms and event algebra is material terrain within sample-spaces-events; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:50918a98-1dfa-444d-aaf3-d329e79286bc",
+    "revision": 1,
+    "subject": "ola:n:3822d5a3-ebac-4882-91b6-3f7625ccef5f",
+    "relation": "composed_of",
+    "object": "ola:n:aa6bc300-bdb7-4c59-92f2-35dc8a370b99",
+    "rationale": "Probability tree, Venn diagram, and outcome table is material terrain within sample-spaces-events; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:55ef3b36-098f-479f-be23-ce8c5795d4a5",
+    "revision": 1,
+    "subject": "ola:n:3822d5a3-ebac-4882-91b6-3f7625ccef5f",
+    "relation": "composed_of",
+    "object": "ola:n:9ef95aaf-d649-4715-a5db-83ab7ad2ea9f",
+    "rationale": "Construct and interpret sample spaces is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:584840f9-42b0-45ca-91f9-921e7769d721",
+    "revision": 1,
+    "subject": "ola:n:9ef95aaf-d649-4715-a5db-83ab7ad2ea9f",
+    "relation": "composed_of",
+    "object": "ola:n:8f3cc880-eaed-43b3-8891-d27664f10b2d",
+    "rationale": "Construct a sample space is a bounded performance within Construct and interpret sample spaces.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8a2ddc44-9e09-4749-80b8-fa41051843aa",
+    "revision": 1,
+    "subject": "ola:n:8f3cc880-eaed-43b3-8891-d27664f10b2d",
+    "relation": "uses_concept",
+    "object": "ola:n:9a833715-e7d4-46e2-b98f-502df6bbd7db",
+    "rationale": "Demonstrating Construct a sample space materially invokes Probability sample space and event at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a7eae180-1c63-4683-91cd-cdceb085f70b",
+    "revision": 1,
+    "subject": "ola:n:8f3cc880-eaed-43b3-8891-d27664f10b2d",
+    "relation": "uses_knowledge",
+    "object": "ola:n:d6e6197c-2235-40d5-badc-6911987ec3b2",
+    "rationale": "Demonstrating Construct a sample space materially invokes Probability axioms and event algebra at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:0053afc2-fc3d-43b1-a0b3-53106c2934e8",
+    "revision": 1,
+    "subject": "ola:n:8f3cc880-eaed-43b3-8891-d27664f10b2d",
+    "relation": "uses_representation",
+    "object": "ola:n:aa6bc300-bdb7-4c59-92f2-35dc8a370b99",
+    "rationale": "Demonstrating Construct a sample space materially invokes Probability tree, Venn diagram, and outcome table at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f1fff198-fd9a-4d61-85ba-f49619931a32",
+    "revision": 1,
+    "subject": "ola:n:9ef95aaf-d649-4715-a5db-83ab7ad2ea9f",
+    "relation": "composed_of",
+    "object": "ola:n:5d8241c6-ec4b-4256-8dd8-85e97252875c",
+    "rationale": "Represent events in a sample space is a bounded performance within Construct and interpret sample spaces.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:af83af73-47f3-466f-bad5-406b8689308a",
+    "revision": 1,
+    "subject": "ola:n:5d8241c6-ec4b-4256-8dd8-85e97252875c",
+    "relation": "uses_concept",
+    "object": "ola:n:9a833715-e7d4-46e2-b98f-502df6bbd7db",
+    "rationale": "Demonstrating Represent events in a sample space materially invokes Probability sample space and event at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:fbc6136b-23a8-48ca-92f7-d2912b2d0b7d",
+    "revision": 1,
+    "subject": "ola:n:5d8241c6-ec4b-4256-8dd8-85e97252875c",
+    "relation": "uses_knowledge",
+    "object": "ola:n:d6e6197c-2235-40d5-badc-6911987ec3b2",
+    "rationale": "Demonstrating Represent events in a sample space materially invokes Probability axioms and event algebra at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ab3d8696-54dc-4a02-b8ab-ed71265b779a",
+    "revision": 1,
+    "subject": "ola:n:5d8241c6-ec4b-4256-8dd8-85e97252875c",
+    "relation": "uses_representation",
+    "object": "ola:n:aa6bc300-bdb7-4c59-92f2-35dc8a370b99",
+    "rationale": "Demonstrating Represent events in a sample space materially invokes Probability tree, Venn diagram, and outcome table at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:efeeb5ee-6ca8-4f91-89f0-cb59f23481e7",
+    "revision": 1,
+    "subject": "ola:n:3822d5a3-ebac-4882-91b6-3f7625ccef5f",
+    "relation": "composed_of",
+    "object": "ola:n:1955b084-e2db-4d4e-8c0a-4af7831cd343",
+    "rationale": "Calculate event probabilities is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a6a325ec-1887-405e-8a9f-82d71ae63020",
+    "revision": 1,
+    "subject": "ola:n:1955b084-e2db-4d4e-8c0a-4af7831cd343",
+    "relation": "composed_of",
+    "object": "ola:n:986db97e-deba-434a-a96c-4db294eddeb0",
+    "rationale": "Assign a probability model is a bounded performance within Calculate event probabilities.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:087cfa37-e3c1-41a7-b6d5-51728bb1f5d4",
+    "revision": 1,
+    "subject": "ola:n:986db97e-deba-434a-a96c-4db294eddeb0",
+    "relation": "uses_concept",
+    "object": "ola:n:5cdc09c1-4c53-459d-ba03-6771ad0fbc3f",
+    "rationale": "Demonstrating Assign a probability model materially invokes Probability measure at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c0c4c948-bde2-4201-ba01-b437ded3ef14",
+    "revision": 1,
+    "subject": "ola:n:986db97e-deba-434a-a96c-4db294eddeb0",
+    "relation": "uses_knowledge",
+    "object": "ola:n:d6e6197c-2235-40d5-badc-6911987ec3b2",
+    "rationale": "Demonstrating Assign a probability model materially invokes Probability axioms and event algebra at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:808f1705-e49d-4ca8-b2c2-6e9d3ddc90e5",
+    "revision": 1,
+    "subject": "ola:n:986db97e-deba-434a-a96c-4db294eddeb0",
+    "relation": "uses_representation",
+    "object": "ola:n:aa6bc300-bdb7-4c59-92f2-35dc8a370b99",
+    "rationale": "Demonstrating Assign a probability model materially invokes Probability tree, Venn diagram, and outcome table at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d264fbde-7c9a-4f5e-8de3-bc4d52400b72",
+    "revision": 1,
+    "subject": "ola:n:1955b084-e2db-4d4e-8c0a-4af7831cd343",
+    "relation": "composed_of",
+    "object": "ola:n:275abb6c-da0c-47da-a55f-4f49e654abc7",
+    "rationale": "Compute an event probability is a bounded performance within Calculate event probabilities.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:97b231aa-74e3-4c43-900e-e418c888ce30",
+    "revision": 1,
+    "subject": "ola:n:275abb6c-da0c-47da-a55f-4f49e654abc7",
+    "relation": "uses_concept",
+    "object": "ola:n:5cdc09c1-4c53-459d-ba03-6771ad0fbc3f",
+    "rationale": "Demonstrating Compute an event probability materially invokes Probability measure at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:279029c6-6bfc-4789-82ec-6af5eab8d4b2",
+    "revision": 1,
+    "subject": "ola:n:275abb6c-da0c-47da-a55f-4f49e654abc7",
+    "relation": "uses_knowledge",
+    "object": "ola:n:d6e6197c-2235-40d5-badc-6911987ec3b2",
+    "rationale": "Demonstrating Compute an event probability materially invokes Probability axioms and event algebra at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e8fb292e-975e-4fa6-9014-398b700601c7",
+    "revision": 1,
+    "subject": "ola:n:275abb6c-da0c-47da-a55f-4f49e654abc7",
+    "relation": "uses_representation",
+    "object": "ola:n:aa6bc300-bdb7-4c59-92f2-35dc8a370b99",
+    "rationale": "Demonstrating Compute an event probability materially invokes Probability tree, Venn diagram, and outcome table at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:9c485443-1332-4c7c-bde8-2103e938330e",
+    "revision": 1,
+    "subject": "ola:n:3822d5a3-ebac-4882-91b6-3f7625ccef5f",
+    "relation": "composed_of",
+    "object": "ola:n:52ecdc74-43f8-4513-bb51-d3a98c7c10e3",
+    "rationale": "Simulate and audit probability models is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7ea7cc37-0ebc-4f64-abe4-6fd157ea57d5",
+    "revision": 1,
+    "subject": "ola:n:52ecdc74-43f8-4513-bb51-d3a98c7c10e3",
+    "relation": "composed_of",
+    "object": "ola:n:6035bb0c-f333-4433-9ebf-99b94dd77109",
+    "rationale": "Simulate a random experiment is a bounded performance within Simulate and audit probability models.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2239f594-3543-4d70-87d6-edef7efeb52f",
+    "revision": 1,
+    "subject": "ola:n:6035bb0c-f333-4433-9ebf-99b94dd77109",
+    "relation": "uses_concept",
+    "object": "ola:n:9a833715-e7d4-46e2-b98f-502df6bbd7db",
+    "rationale": "Demonstrating Simulate a random experiment materially invokes Probability sample space and event at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:79033406-750a-409c-89ae-e3fa8014887b",
+    "revision": 1,
+    "subject": "ola:n:6035bb0c-f333-4433-9ebf-99b94dd77109",
+    "relation": "uses_concept",
+    "object": "ola:n:5cdc09c1-4c53-459d-ba03-6771ad0fbc3f",
+    "rationale": "Demonstrating Simulate a random experiment materially invokes Probability measure at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b6403b27-4667-4760-9c19-c74a3571a683",
+    "revision": 1,
+    "subject": "ola:n:6035bb0c-f333-4433-9ebf-99b94dd77109",
+    "relation": "uses_knowledge",
+    "object": "ola:n:d6e6197c-2235-40d5-badc-6911987ec3b2",
+    "rationale": "Demonstrating Simulate a random experiment materially invokes Probability axioms and event algebra at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:09e10d68-b3aa-4ce7-913b-7d71a12354ed",
+    "revision": 1,
+    "subject": "ola:n:6035bb0c-f333-4433-9ebf-99b94dd77109",
+    "relation": "uses_representation",
+    "object": "ola:n:aa6bc300-bdb7-4c59-92f2-35dc8a370b99",
+    "rationale": "Demonstrating Simulate a random experiment materially invokes Probability tree, Venn diagram, and outcome table at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:59a10485-8205-487c-ae75-99524e447ced",
+    "revision": 1,
+    "subject": "ola:n:52ecdc74-43f8-4513-bb51-d3a98c7c10e3",
+    "relation": "composed_of",
+    "object": "ola:n:8932c2fc-7d3f-4775-845e-4b4d96906f61",
+    "rationale": "Audit a sample-space probability claim is a bounded performance within Simulate and audit probability models.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:5f4d90da-d6e0-48b5-8784-a635b0821abe",
+    "revision": 1,
+    "subject": "ola:n:8932c2fc-7d3f-4775-845e-4b4d96906f61",
+    "relation": "uses_concept",
+    "object": "ola:n:9a833715-e7d4-46e2-b98f-502df6bbd7db",
+    "rationale": "Demonstrating Audit a sample-space probability claim materially invokes Probability sample space and event at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2e17d135-8e62-47e9-b8cd-bff37cb1f5a2",
+    "revision": 1,
+    "subject": "ola:n:8932c2fc-7d3f-4775-845e-4b4d96906f61",
+    "relation": "uses_concept",
+    "object": "ola:n:5cdc09c1-4c53-459d-ba03-6771ad0fbc3f",
+    "rationale": "Demonstrating Audit a sample-space probability claim materially invokes Probability measure at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:fc6bb3b8-15d2-4572-9e13-262d612652ea",
+    "revision": 1,
+    "subject": "ola:n:8932c2fc-7d3f-4775-845e-4b4d96906f61",
+    "relation": "uses_knowledge",
+    "object": "ola:n:d6e6197c-2235-40d5-badc-6911987ec3b2",
+    "rationale": "Demonstrating Audit a sample-space probability claim materially invokes Probability axioms and event algebra at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:9d8b2f0f-9a10-4a27-87b8-5e6a408111b0",
+    "revision": 1,
+    "subject": "ola:n:8932c2fc-7d3f-4775-845e-4b4d96906f61",
+    "relation": "uses_representation",
+    "object": "ola:n:aa6bc300-bdb7-4c59-92f2-35dc8a370b99",
+    "rationale": "Demonstrating Audit a sample-space probability claim materially invokes Probability tree, Venn diagram, and outcome table at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:9f9369b1-caf4-43f1-a640-80b7bed4393e",
+    "revision": 1,
+    "subject": "ola:n:2b5a234b-0ef4-47fa-900b-4188758d604e",
+    "relation": "composed_of",
+    "object": "ola:n:9cefe6a3-f3bb-42c9-9ac5-1f6aeba13dd2",
+    "rationale": "Combinatorial configuration is material terrain within combinatorics-counting-probability; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:dea3b7a7-fbd4-47c6-bf94-2171dcf6ce9c",
+    "revision": 1,
+    "subject": "ola:n:2b5a234b-0ef4-47fa-900b-4188758d604e",
+    "relation": "composed_of",
+    "object": "ola:n:57f3792b-15ec-43b3-b04a-350d41ee1d58",
+    "rationale": "Permutation and combination is material terrain within combinatorics-counting-probability; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c82a9b56-bf3d-45e4-88d9-91ad0a4deb10",
+    "revision": 1,
+    "subject": "ola:n:2b5a234b-0ef4-47fa-900b-4188758d604e",
+    "relation": "composed_of",
+    "object": "ola:n:6c5b9630-b35b-49e4-b022-424aa513d21a",
+    "rationale": "Sum, product, and bijection counting principles is material terrain within combinatorics-counting-probability; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8d1e8ccb-9e1b-41ca-9849-74d65d6960c8",
+    "revision": 1,
+    "subject": "ola:n:2b5a234b-0ef4-47fa-900b-4188758d604e",
+    "relation": "composed_of",
+    "object": "ola:n:91c67041-c12d-4491-872b-fadf4ba91466",
+    "rationale": "Counting tree and case table is material terrain within combinatorics-counting-probability; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:0bbf7d55-5ad2-462b-8ec0-175efd0a4778",
+    "revision": 1,
+    "subject": "ola:n:2b5a234b-0ef4-47fa-900b-4188758d604e",
+    "relation": "composed_of",
+    "object": "ola:n:39b686f1-42ca-4c54-ac7f-8c01fc60400c",
+    "rationale": "Enumerate and count configurations is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b1383d85-624e-40cb-9b3f-457686f9fd89",
+    "revision": 1,
+    "subject": "ola:n:39b686f1-42ca-4c54-ac7f-8c01fc60400c",
+    "relation": "composed_of",
+    "object": "ola:n:138c10e4-155f-458c-93d0-9e6a4118ca91",
+    "rationale": "Enumerate combinatorial configurations is a bounded performance within Enumerate and count configurations.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:be84ac96-b42f-4ce1-b94b-15a964076f6c",
+    "revision": 1,
+    "subject": "ola:n:138c10e4-155f-458c-93d0-9e6a4118ca91",
+    "relation": "uses_concept",
+    "object": "ola:n:9cefe6a3-f3bb-42c9-9ac5-1f6aeba13dd2",
+    "rationale": "Demonstrating Enumerate combinatorial configurations materially invokes Combinatorial configuration at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:81f4afb5-86da-4c88-88c0-70cbbeb50f3f",
+    "revision": 1,
+    "subject": "ola:n:138c10e4-155f-458c-93d0-9e6a4118ca91",
+    "relation": "uses_knowledge",
+    "object": "ola:n:6c5b9630-b35b-49e4-b022-424aa513d21a",
+    "rationale": "Demonstrating Enumerate combinatorial configurations materially invokes Sum, product, and bijection counting principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b5d6764a-25c4-4c10-814d-d2c3e2eed1de",
+    "revision": 1,
+    "subject": "ola:n:138c10e4-155f-458c-93d0-9e6a4118ca91",
+    "relation": "uses_representation",
+    "object": "ola:n:91c67041-c12d-4491-872b-fadf4ba91466",
+    "rationale": "Demonstrating Enumerate combinatorial configurations materially invokes Counting tree and case table at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8b4bda77-0c78-4d96-ba10-c95b762051a8",
+    "revision": 1,
+    "subject": "ola:n:39b686f1-42ca-4c54-ac7f-8c01fc60400c",
+    "relation": "composed_of",
+    "object": "ola:n:e843f847-9cf6-414a-b60f-a486d1fc471d",
+    "rationale": "Apply sum or product counting is a bounded performance within Enumerate and count configurations.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:32e0bd1c-7460-46ca-8ee0-e2773b8d840f",
+    "revision": 1,
+    "subject": "ola:n:e843f847-9cf6-414a-b60f-a486d1fc471d",
+    "relation": "uses_concept",
+    "object": "ola:n:9cefe6a3-f3bb-42c9-9ac5-1f6aeba13dd2",
+    "rationale": "Demonstrating Apply sum or product counting materially invokes Combinatorial configuration at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7a282100-148d-49bd-bf66-ea7e7ff6e0f2",
+    "revision": 1,
+    "subject": "ola:n:e843f847-9cf6-414a-b60f-a486d1fc471d",
+    "relation": "uses_knowledge",
+    "object": "ola:n:6c5b9630-b35b-49e4-b022-424aa513d21a",
+    "rationale": "Demonstrating Apply sum or product counting materially invokes Sum, product, and bijection counting principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:71c636b7-fdce-43f2-a935-58aa607b8f25",
+    "revision": 1,
+    "subject": "ola:n:e843f847-9cf6-414a-b60f-a486d1fc471d",
+    "relation": "uses_representation",
+    "object": "ola:n:91c67041-c12d-4491-872b-fadf4ba91466",
+    "rationale": "Demonstrating Apply sum or product counting materially invokes Counting tree and case table at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:55344b3c-9f71-4165-9e13-84a12b5e57e9",
+    "revision": 1,
+    "subject": "ola:n:2b5a234b-0ef4-47fa-900b-4188758d604e",
+    "relation": "composed_of",
+    "object": "ola:n:bbccef60-e830-4141-ba34-62ce9225ae5a",
+    "rationale": "Apply combinatorial formulas is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:504216cc-f699-4a1e-b77f-2730efb78adb",
+    "revision": 1,
+    "subject": "ola:n:bbccef60-e830-4141-ba34-62ce9225ae5a",
+    "relation": "composed_of",
+    "object": "ola:n:8137718b-2dca-4946-9398-ed611cdb4960",
+    "rationale": "Count permutations or combinations is a bounded performance within Apply combinatorial formulas.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:bd34a151-98c0-4ed8-b8a4-4dc8ae938175",
+    "revision": 1,
+    "subject": "ola:n:8137718b-2dca-4946-9398-ed611cdb4960",
+    "relation": "uses_concept",
+    "object": "ola:n:57f3792b-15ec-43b3-b04a-350d41ee1d58",
+    "rationale": "Demonstrating Count permutations or combinations materially invokes Permutation and combination at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:0b44dd92-5b55-41c3-b2bd-dccafa793cc9",
+    "revision": 1,
+    "subject": "ola:n:8137718b-2dca-4946-9398-ed611cdb4960",
+    "relation": "uses_knowledge",
+    "object": "ola:n:6c5b9630-b35b-49e4-b022-424aa513d21a",
+    "rationale": "Demonstrating Count permutations or combinations materially invokes Sum, product, and bijection counting principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b2cf6625-e6b4-456b-9ac3-2363e87edbf3",
+    "revision": 1,
+    "subject": "ola:n:8137718b-2dca-4946-9398-ed611cdb4960",
+    "relation": "uses_representation",
+    "object": "ola:n:91c67041-c12d-4491-872b-fadf4ba91466",
+    "rationale": "Demonstrating Count permutations or combinations materially invokes Counting tree and case table at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:1f3b4a7c-f2fd-42bd-933b-49b78bfa2980",
+    "revision": 1,
+    "subject": "ola:n:bbccef60-e830-4141-ba34-62ce9225ae5a",
+    "relation": "composed_of",
+    "object": "ola:n:c902a948-f575-4ef5-8ae5-510d3db063aa",
+    "rationale": "Apply inclusion–exclusion is a bounded performance within Apply combinatorial formulas.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:59fed7fd-9fa7-4dcf-b6bb-a972ea0828a2",
+    "revision": 1,
+    "subject": "ola:n:c902a948-f575-4ef5-8ae5-510d3db063aa",
+    "relation": "uses_concept",
+    "object": "ola:n:57f3792b-15ec-43b3-b04a-350d41ee1d58",
+    "rationale": "Demonstrating Apply inclusion–exclusion materially invokes Permutation and combination at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:37493cfb-8de2-4fee-98de-49f9407a9d18",
+    "revision": 1,
+    "subject": "ola:n:c902a948-f575-4ef5-8ae5-510d3db063aa",
+    "relation": "uses_knowledge",
+    "object": "ola:n:6c5b9630-b35b-49e4-b022-424aa513d21a",
+    "rationale": "Demonstrating Apply inclusion–exclusion materially invokes Sum, product, and bijection counting principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:3ffd8d1d-5bc4-4603-ba32-7330a6985dee",
+    "revision": 1,
+    "subject": "ola:n:c902a948-f575-4ef5-8ae5-510d3db063aa",
+    "relation": "uses_representation",
+    "object": "ola:n:91c67041-c12d-4491-872b-fadf4ba91466",
+    "rationale": "Demonstrating Apply inclusion–exclusion materially invokes Counting tree and case table at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a4396c63-ec18-4ce4-84a9-6a907510be32",
+    "revision": 1,
+    "subject": "ola:n:2b5a234b-0ef4-47fa-900b-4188758d604e",
+    "relation": "composed_of",
+    "object": "ola:n:89d254b4-8dc9-4fc7-af76-fea4d5e93ec0",
+    "rationale": "Connect counting and probability is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e3b2c9cb-0e59-4f97-94c8-41a3a002efb0",
+    "revision": 1,
+    "subject": "ola:n:89d254b4-8dc9-4fc7-af76-fea4d5e93ec0",
+    "relation": "composed_of",
+    "object": "ola:n:a8e893bd-0dbb-45be-8db0-6d6510f2225a",
+    "rationale": "Compute probability by counting is a bounded performance within Connect counting and probability.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:41c9fcfa-660a-452b-bcea-e86dc72dcb19",
+    "revision": 1,
+    "subject": "ola:n:a8e893bd-0dbb-45be-8db0-6d6510f2225a",
+    "relation": "uses_concept",
+    "object": "ola:n:9cefe6a3-f3bb-42c9-9ac5-1f6aeba13dd2",
+    "rationale": "Demonstrating Compute probability by counting materially invokes Combinatorial configuration at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f06bc063-06f4-45c1-82bb-54b3ca874fbe",
+    "revision": 1,
+    "subject": "ola:n:a8e893bd-0dbb-45be-8db0-6d6510f2225a",
+    "relation": "uses_concept",
+    "object": "ola:n:57f3792b-15ec-43b3-b04a-350d41ee1d58",
+    "rationale": "Demonstrating Compute probability by counting materially invokes Permutation and combination at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:0008528d-f6b3-42af-bb74-d34fd9afb422",
+    "revision": 1,
+    "subject": "ola:n:a8e893bd-0dbb-45be-8db0-6d6510f2225a",
+    "relation": "uses_knowledge",
+    "object": "ola:n:6c5b9630-b35b-49e4-b022-424aa513d21a",
+    "rationale": "Demonstrating Compute probability by counting materially invokes Sum, product, and bijection counting principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:1f1cdc61-b151-43bf-b8a4-90cd7ab99c1d",
+    "revision": 1,
+    "subject": "ola:n:a8e893bd-0dbb-45be-8db0-6d6510f2225a",
+    "relation": "uses_representation",
+    "object": "ola:n:91c67041-c12d-4491-872b-fadf4ba91466",
+    "rationale": "Demonstrating Compute probability by counting materially invokes Counting tree and case table at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7060f28c-d8b6-4f23-aa76-e5bdc37e79bf",
+    "revision": 1,
+    "subject": "ola:n:89d254b4-8dc9-4fc7-af76-fea4d5e93ec0",
+    "relation": "composed_of",
+    "object": "ola:n:3b1b34f3-56e2-45fa-9f33-18d6097bce69",
+    "rationale": "Audit a combinatorial count is a bounded performance within Connect counting and probability.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:3fc13216-9186-47de-8546-873c2977c8cf",
+    "revision": 1,
+    "subject": "ola:n:3b1b34f3-56e2-45fa-9f33-18d6097bce69",
+    "relation": "uses_concept",
+    "object": "ola:n:9cefe6a3-f3bb-42c9-9ac5-1f6aeba13dd2",
+    "rationale": "Demonstrating Audit a combinatorial count materially invokes Combinatorial configuration at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:88c0a804-c87c-42bf-9a32-35153ad56039",
+    "revision": 1,
+    "subject": "ola:n:3b1b34f3-56e2-45fa-9f33-18d6097bce69",
+    "relation": "uses_concept",
+    "object": "ola:n:57f3792b-15ec-43b3-b04a-350d41ee1d58",
+    "rationale": "Demonstrating Audit a combinatorial count materially invokes Permutation and combination at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:10ec44fd-0f33-45db-8159-e873dc6ead17",
+    "revision": 1,
+    "subject": "ola:n:3b1b34f3-56e2-45fa-9f33-18d6097bce69",
+    "relation": "uses_knowledge",
+    "object": "ola:n:6c5b9630-b35b-49e4-b022-424aa513d21a",
+    "rationale": "Demonstrating Audit a combinatorial count materially invokes Sum, product, and bijection counting principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:14bec5b0-f8e1-4ed1-9069-6b112351a23a",
+    "revision": 1,
+    "subject": "ola:n:3b1b34f3-56e2-45fa-9f33-18d6097bce69",
+    "relation": "uses_representation",
+    "object": "ola:n:91c67041-c12d-4491-872b-fadf4ba91466",
+    "rationale": "Demonstrating Audit a combinatorial count materially invokes Counting tree and case table at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:6da8b60d-a003-45a2-aa7c-8e0a3a9b3637",
+    "revision": 1,
+    "subject": "ola:n:ef99a75d-00c3-4991-a0b9-1299d7bcfdd1",
+    "relation": "composed_of",
+    "object": "ola:n:79087613-b97d-4897-b4d6-bbe28a33b5c5",
+    "rationale": "Conditional probability is material terrain within conditional-probability-dependence; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7f38f1d5-0307-43b2-80e7-f156c86430e4",
+    "revision": 1,
+    "subject": "ola:n:ef99a75d-00c3-4991-a0b9-1299d7bcfdd1",
+    "relation": "composed_of",
+    "object": "ola:n:5b3a34ff-7c2b-4654-8da3-aa2b6fd50adb",
+    "rationale": "Probabilistic independence is material terrain within conditional-probability-dependence; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b6ee8ae1-53ac-48fd-9a23-7ab126a439f6",
+    "revision": 1,
+    "subject": "ola:n:ef99a75d-00c3-4991-a0b9-1299d7bcfdd1",
+    "relation": "composed_of",
+    "object": "ola:n:d5453276-e074-4c58-bf17-e039372cdd18",
+    "rationale": "Bayes, total probability, and dependence is material terrain within conditional-probability-dependence; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:533fcba1-f2ec-48a7-951a-12c689b231cf",
+    "revision": 1,
+    "subject": "ola:n:ef99a75d-00c3-4991-a0b9-1299d7bcfdd1",
+    "relation": "composed_of",
+    "object": "ola:n:871853c4-bfa4-48dc-ace7-55c41d1dc9e8",
+    "rationale": "Conditional tree and two-way table is material terrain within conditional-probability-dependence; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b3975cc6-e43e-4494-9b07-631189867918",
+    "revision": 1,
+    "subject": "ola:n:ef99a75d-00c3-4991-a0b9-1299d7bcfdd1",
+    "relation": "composed_of",
+    "object": "ola:n:35b99d61-7273-434d-9346-31580e854e44",
+    "rationale": "Compute conditional probabilities and dependence is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7598bae3-ece1-4b3a-b79f-b290eaa03ee0",
+    "revision": 1,
+    "subject": "ola:n:35b99d61-7273-434d-9346-31580e854e44",
+    "relation": "composed_of",
+    "object": "ola:n:292dcddc-2aa7-4565-9935-389b35ab6a73",
+    "rationale": "Compute a conditional probability is a bounded performance within Compute conditional probabilities and dependence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:22f9ce32-3984-48d2-8d12-54420374da7f",
+    "revision": 1,
+    "subject": "ola:n:292dcddc-2aa7-4565-9935-389b35ab6a73",
+    "relation": "uses_concept",
+    "object": "ola:n:79087613-b97d-4897-b4d6-bbe28a33b5c5",
+    "rationale": "Demonstrating Compute a conditional probability materially invokes Conditional probability at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:14b1bec5-10f1-4c02-b1cc-121b4fccac8c",
+    "revision": 1,
+    "subject": "ola:n:292dcddc-2aa7-4565-9935-389b35ab6a73",
+    "relation": "uses_knowledge",
+    "object": "ola:n:d5453276-e074-4c58-bf17-e039372cdd18",
+    "rationale": "Demonstrating Compute a conditional probability materially invokes Bayes, total probability, and dependence at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:1128e086-28ae-4d05-9446-47b6365d308f",
+    "revision": 1,
+    "subject": "ola:n:292dcddc-2aa7-4565-9935-389b35ab6a73",
+    "relation": "uses_representation",
+    "object": "ola:n:871853c4-bfa4-48dc-ace7-55c41d1dc9e8",
+    "rationale": "Demonstrating Compute a conditional probability materially invokes Conditional tree and two-way table at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:89120761-47d2-46c8-b405-fc2aaac634ca",
+    "revision": 1,
+    "subject": "ola:n:35b99d61-7273-434d-9346-31580e854e44",
+    "relation": "composed_of",
+    "object": "ola:n:3e3caf5f-978f-462e-8411-74cd4b91088e",
+    "rationale": "Determine probabilistic independence is a bounded performance within Compute conditional probabilities and dependence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:58320bb5-546c-4184-af0e-c9fe0af10d9a",
+    "revision": 1,
+    "subject": "ola:n:3e3caf5f-978f-462e-8411-74cd4b91088e",
+    "relation": "uses_concept",
+    "object": "ola:n:79087613-b97d-4897-b4d6-bbe28a33b5c5",
+    "rationale": "Demonstrating Determine probabilistic independence materially invokes Conditional probability at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:cdf118a5-ef5e-4603-9584-f59fca8f2163",
+    "revision": 1,
+    "subject": "ola:n:3e3caf5f-978f-462e-8411-74cd4b91088e",
+    "relation": "uses_knowledge",
+    "object": "ola:n:d5453276-e074-4c58-bf17-e039372cdd18",
+    "rationale": "Demonstrating Determine probabilistic independence materially invokes Bayes, total probability, and dependence at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7d56ef36-749a-4043-bbd8-055535c9a5a3",
+    "revision": 1,
+    "subject": "ola:n:3e3caf5f-978f-462e-8411-74cd4b91088e",
+    "relation": "uses_representation",
+    "object": "ola:n:871853c4-bfa4-48dc-ace7-55c41d1dc9e8",
+    "rationale": "Demonstrating Determine probabilistic independence materially invokes Conditional tree and two-way table at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b854ad09-48ec-4d22-9df7-c6a0c2bca6cf",
+    "revision": 1,
+    "subject": "ola:n:ef99a75d-00c3-4991-a0b9-1299d7bcfdd1",
+    "relation": "composed_of",
+    "object": "ola:n:b938d43e-62fc-42d0-a9c7-050baed2b070",
+    "rationale": "Reverse and decompose conditional probabilities is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7dc8d304-a42b-43c1-a9b9-5717b7b3dd23",
+    "revision": 1,
+    "subject": "ola:n:b938d43e-62fc-42d0-a9c7-050baed2b070",
+    "relation": "composed_of",
+    "object": "ola:n:db6cf5c8-1f04-4feb-829f-0537f86c1c65",
+    "rationale": "Apply the law of total probability is a bounded performance within Reverse and decompose conditional probabilities.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:10b000c0-2339-421e-abea-ae32a7e3da20",
+    "revision": 1,
+    "subject": "ola:n:db6cf5c8-1f04-4feb-829f-0537f86c1c65",
+    "relation": "uses_concept",
+    "object": "ola:n:5b3a34ff-7c2b-4654-8da3-aa2b6fd50adb",
+    "rationale": "Demonstrating Apply the law of total probability materially invokes Probabilistic independence at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:81210d3a-b2c5-41b1-8b1a-b2d819dcbdbd",
+    "revision": 1,
+    "subject": "ola:n:db6cf5c8-1f04-4feb-829f-0537f86c1c65",
+    "relation": "uses_knowledge",
+    "object": "ola:n:d5453276-e074-4c58-bf17-e039372cdd18",
+    "rationale": "Demonstrating Apply the law of total probability materially invokes Bayes, total probability, and dependence at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:19cacac8-6c38-4c45-bed2-d69276d8b856",
+    "revision": 1,
+    "subject": "ola:n:db6cf5c8-1f04-4feb-829f-0537f86c1c65",
+    "relation": "uses_representation",
+    "object": "ola:n:871853c4-bfa4-48dc-ace7-55c41d1dc9e8",
+    "rationale": "Demonstrating Apply the law of total probability materially invokes Conditional tree and two-way table at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:66d4e930-aba9-4553-9a17-c3a2db38f650",
+    "revision": 1,
+    "subject": "ola:n:b938d43e-62fc-42d0-a9c7-050baed2b070",
+    "relation": "composed_of",
+    "object": "ola:n:7eea1a31-6ace-4b15-9862-ae5cfa3b2f50",
+    "rationale": "Apply Bayes rule is a bounded performance within Reverse and decompose conditional probabilities.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:33346923-2d0a-4177-8d12-992d708273b0",
+    "revision": 1,
+    "subject": "ola:n:7eea1a31-6ace-4b15-9862-ae5cfa3b2f50",
+    "relation": "uses_concept",
+    "object": "ola:n:5b3a34ff-7c2b-4654-8da3-aa2b6fd50adb",
+    "rationale": "Demonstrating Apply Bayes rule materially invokes Probabilistic independence at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:9a226a7b-5558-4268-b6f1-683baf27e491",
+    "revision": 1,
+    "subject": "ola:n:7eea1a31-6ace-4b15-9862-ae5cfa3b2f50",
+    "relation": "uses_knowledge",
+    "object": "ola:n:d5453276-e074-4c58-bf17-e039372cdd18",
+    "rationale": "Demonstrating Apply Bayes rule materially invokes Bayes, total probability, and dependence at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b9b50f87-3b32-4bcd-8173-7ad06c3d4642",
+    "revision": 1,
+    "subject": "ola:n:7eea1a31-6ace-4b15-9862-ae5cfa3b2f50",
+    "relation": "uses_representation",
+    "object": "ola:n:871853c4-bfa4-48dc-ace7-55c41d1dc9e8",
+    "rationale": "Demonstrating Apply Bayes rule materially invokes Conditional tree and two-way table at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ce85d7fe-f837-4aad-bcb9-44699d6662aa",
+    "revision": 1,
+    "subject": "ola:n:ef99a75d-00c3-4991-a0b9-1299d7bcfdd1",
+    "relation": "composed_of",
+    "object": "ola:n:879a6fe3-23e5-4d56-a7be-e83556d43dc8",
+    "rationale": "Interpret and audit conditional reasoning is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8b445a49-30ad-40b6-b1c1-45be182dba1d",
+    "revision": 1,
+    "subject": "ola:n:879a6fe3-23e5-4d56-a7be-e83556d43dc8",
+    "relation": "composed_of",
+    "object": "ola:n:f756d71d-9255-458c-8ae4-ede9a0b6f49b",
+    "rationale": "Interpret a probability update is a bounded performance within Interpret and audit conditional reasoning.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:19f1a4ff-5b57-4c3d-ae68-fc132e5e6343",
+    "revision": 1,
+    "subject": "ola:n:f756d71d-9255-458c-8ae4-ede9a0b6f49b",
+    "relation": "uses_concept",
+    "object": "ola:n:79087613-b97d-4897-b4d6-bbe28a33b5c5",
+    "rationale": "Demonstrating Interpret a probability update materially invokes Conditional probability at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c8614564-0516-48b6-b816-6b8a4c74b06d",
+    "revision": 1,
+    "subject": "ola:n:f756d71d-9255-458c-8ae4-ede9a0b6f49b",
+    "relation": "uses_concept",
+    "object": "ola:n:5b3a34ff-7c2b-4654-8da3-aa2b6fd50adb",
+    "rationale": "Demonstrating Interpret a probability update materially invokes Probabilistic independence at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:04b4ff51-0a89-4c3c-9240-1897391585f4",
+    "revision": 1,
+    "subject": "ola:n:f756d71d-9255-458c-8ae4-ede9a0b6f49b",
+    "relation": "uses_knowledge",
+    "object": "ola:n:d5453276-e074-4c58-bf17-e039372cdd18",
+    "rationale": "Demonstrating Interpret a probability update materially invokes Bayes, total probability, and dependence at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d209126a-5a21-47bf-ae5a-213d2d97dfbf",
+    "revision": 1,
+    "subject": "ola:n:f756d71d-9255-458c-8ae4-ede9a0b6f49b",
+    "relation": "uses_representation",
+    "object": "ola:n:871853c4-bfa4-48dc-ace7-55c41d1dc9e8",
+    "rationale": "Demonstrating Interpret a probability update materially invokes Conditional tree and two-way table at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8612ee71-e540-4339-bfe5-f239fd13422d",
+    "revision": 1,
+    "subject": "ola:n:879a6fe3-23e5-4d56-a7be-e83556d43dc8",
+    "relation": "composed_of",
+    "object": "ola:n:58a3d254-5101-418d-a01a-a320b107a710",
+    "rationale": "Audit a conditional-probability claim is a bounded performance within Interpret and audit conditional reasoning.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2a69477a-f531-4bd6-aea3-fe255fc454c2",
+    "revision": 1,
+    "subject": "ola:n:58a3d254-5101-418d-a01a-a320b107a710",
+    "relation": "uses_concept",
+    "object": "ola:n:79087613-b97d-4897-b4d6-bbe28a33b5c5",
+    "rationale": "Demonstrating Audit a conditional-probability claim materially invokes Conditional probability at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:3299b941-3944-4b14-b90b-d4cbb44ca3e1",
+    "revision": 1,
+    "subject": "ola:n:58a3d254-5101-418d-a01a-a320b107a710",
+    "relation": "uses_concept",
+    "object": "ola:n:5b3a34ff-7c2b-4654-8da3-aa2b6fd50adb",
+    "rationale": "Demonstrating Audit a conditional-probability claim materially invokes Probabilistic independence at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2d2d96ea-a65a-47e4-be1e-0a5f0ab5683d",
+    "revision": 1,
+    "subject": "ola:n:58a3d254-5101-418d-a01a-a320b107a710",
+    "relation": "uses_knowledge",
+    "object": "ola:n:d5453276-e074-4c58-bf17-e039372cdd18",
+    "rationale": "Demonstrating Audit a conditional-probability claim materially invokes Bayes, total probability, and dependence at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:bd9dbdf9-3598-4a9b-b9f3-99c8f63a7d3c",
+    "revision": 1,
+    "subject": "ola:n:58a3d254-5101-418d-a01a-a320b107a710",
+    "relation": "uses_representation",
+    "object": "ola:n:871853c4-bfa4-48dc-ace7-55c41d1dc9e8",
+    "rationale": "Demonstrating Audit a conditional-probability claim materially invokes Conditional tree and two-way table at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ab589ba8-5a96-43ef-8c5b-9888b6794498",
+    "revision": 1,
+    "subject": "ola:n:04a0a2e0-eefb-4f5e-9e5f-a6632c4e2c8f",
+    "relation": "composed_of",
+    "object": "ola:n:260b6160-d32a-4360-85c3-5c1cceb57b8b",
+    "rationale": "Random variable is material terrain within random-variables-distributions; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b75642f6-7bd3-494f-ae1a-656149cdbade",
+    "revision": 1,
+    "subject": "ola:n:04a0a2e0-eefb-4f5e-9e5f-a6632c4e2c8f",
+    "relation": "composed_of",
+    "object": "ola:n:514853a4-83c9-4074-89cb-25b98df67a37",
+    "rationale": "Probability mass, density, and distribution function is material terrain within random-variables-distributions; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:fbcd8a69-5c12-4fbe-a5b8-d19ad137843e",
+    "revision": 1,
+    "subject": "ola:n:04a0a2e0-eefb-4f5e-9e5f-a6632c4e2c8f",
+    "relation": "composed_of",
+    "object": "ola:n:f72b677c-c0f8-486c-ae4a-a247c57c4f6b",
+    "rationale": "Distribution normalization and transformation is material terrain within random-variables-distributions; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d4ee6751-87da-412d-ae76-b3e2aea05d36",
+    "revision": 1,
+    "subject": "ola:n:04a0a2e0-eefb-4f5e-9e5f-a6632c4e2c8f",
+    "relation": "composed_of",
+    "object": "ola:n:ead97ce2-d708-4c40-a151-db119743554c",
+    "rationale": "PMF, PDF, CDF, and quantile representation is material terrain within random-variables-distributions; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:58ee67bc-fc9c-4c3c-ae07-d44b8f5fae4c",
+    "revision": 1,
+    "subject": "ola:n:04a0a2e0-eefb-4f5e-9e5f-a6632c4e2c8f",
+    "relation": "composed_of",
+    "object": "ola:n:5a89ebc6-0a02-4887-9190-c364d6e68f39",
+    "rationale": "Define and validate distributions is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:debe8cce-a3cc-4fc0-b15e-cfe7f88f70bb",
+    "revision": 1,
+    "subject": "ola:n:5a89ebc6-0a02-4887-9190-c364d6e68f39",
+    "relation": "composed_of",
+    "object": "ola:n:28ed3bea-3f8f-46b0-a556-5ceb069947ba",
+    "rationale": "Define a random variable is a bounded performance within Define and validate distributions.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:3947dd15-9d51-496c-bcb6-25feadea9ef8",
+    "revision": 1,
+    "subject": "ola:n:28ed3bea-3f8f-46b0-a556-5ceb069947ba",
+    "relation": "uses_concept",
+    "object": "ola:n:260b6160-d32a-4360-85c3-5c1cceb57b8b",
+    "rationale": "Demonstrating Define a random variable materially invokes Random variable at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:883d0256-01eb-43ac-8c35-1f8e48aa7003",
+    "revision": 1,
+    "subject": "ola:n:28ed3bea-3f8f-46b0-a556-5ceb069947ba",
+    "relation": "uses_knowledge",
+    "object": "ola:n:f72b677c-c0f8-486c-ae4a-a247c57c4f6b",
+    "rationale": "Demonstrating Define a random variable materially invokes Distribution normalization and transformation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a32dd26c-da05-4d0e-bd61-0eeb3ae6338f",
+    "revision": 1,
+    "subject": "ola:n:28ed3bea-3f8f-46b0-a556-5ceb069947ba",
+    "relation": "uses_representation",
+    "object": "ola:n:ead97ce2-d708-4c40-a151-db119743554c",
+    "rationale": "Demonstrating Define a random variable materially invokes PMF, PDF, CDF, and quantile representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f0a86896-fcfc-4f5b-8e54-787c669f6eef",
+    "revision": 1,
+    "subject": "ola:n:5a89ebc6-0a02-4887-9190-c364d6e68f39",
+    "relation": "composed_of",
+    "object": "ola:n:cabcac3f-35bd-439d-997d-97b525d3ff73",
+    "rationale": "Validate a probability distribution is a bounded performance within Define and validate distributions.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f2e897d3-6355-4c39-be93-935bee91b3be",
+    "revision": 1,
+    "subject": "ola:n:cabcac3f-35bd-439d-997d-97b525d3ff73",
+    "relation": "uses_concept",
+    "object": "ola:n:260b6160-d32a-4360-85c3-5c1cceb57b8b",
+    "rationale": "Demonstrating Validate a probability distribution materially invokes Random variable at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4863fbde-6b52-49d3-b170-82e0453e3468",
+    "revision": 1,
+    "subject": "ola:n:cabcac3f-35bd-439d-997d-97b525d3ff73",
+    "relation": "uses_knowledge",
+    "object": "ola:n:f72b677c-c0f8-486c-ae4a-a247c57c4f6b",
+    "rationale": "Demonstrating Validate a probability distribution materially invokes Distribution normalization and transformation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:bf452f88-74b7-44d5-a33d-d6ca6f32429a",
+    "revision": 1,
+    "subject": "ola:n:cabcac3f-35bd-439d-997d-97b525d3ff73",
+    "relation": "uses_representation",
+    "object": "ola:n:ead97ce2-d708-4c40-a151-db119743554c",
+    "rationale": "Demonstrating Validate a probability distribution materially invokes PMF, PDF, CDF, and quantile representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:9bc566f3-01a7-40db-9caf-0af0017490c0",
+    "revision": 1,
+    "subject": "ola:n:04a0a2e0-eefb-4f5e-9e5f-a6632c4e2c8f",
+    "relation": "composed_of",
+    "object": "ola:n:121bb10a-79e3-40e6-b7e6-317e07bcd132",
+    "rationale": "Compute and transform distributions is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:6f3e97b5-6780-4f27-a801-56ce2c1c792b",
+    "revision": 1,
+    "subject": "ola:n:121bb10a-79e3-40e6-b7e6-317e07bcd132",
+    "relation": "composed_of",
+    "object": "ola:n:38d1f397-aac7-4629-a293-0f08e34d4300",
+    "rationale": "Compute a distribution probability or quantile is a bounded performance within Compute and transform distributions.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:722046bf-2933-46c1-86c3-6207593cf8eb",
+    "revision": 1,
+    "subject": "ola:n:38d1f397-aac7-4629-a293-0f08e34d4300",
+    "relation": "uses_concept",
+    "object": "ola:n:514853a4-83c9-4074-89cb-25b98df67a37",
+    "rationale": "Demonstrating Compute a distribution probability or quantile materially invokes Probability mass, density, and distribution function at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:6340089b-e084-4703-bcd0-ec3dffffbb20",
+    "revision": 1,
+    "subject": "ola:n:38d1f397-aac7-4629-a293-0f08e34d4300",
+    "relation": "uses_knowledge",
+    "object": "ola:n:f72b677c-c0f8-486c-ae4a-a247c57c4f6b",
+    "rationale": "Demonstrating Compute a distribution probability or quantile materially invokes Distribution normalization and transformation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:1ba2a1dc-c14b-46ac-9bbc-84340873b79a",
+    "revision": 1,
+    "subject": "ola:n:38d1f397-aac7-4629-a293-0f08e34d4300",
+    "relation": "uses_representation",
+    "object": "ola:n:ead97ce2-d708-4c40-a151-db119743554c",
+    "rationale": "Demonstrating Compute a distribution probability or quantile materially invokes PMF, PDF, CDF, and quantile representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:bc13a936-241c-40d8-be97-cffee9597954",
+    "revision": 1,
+    "subject": "ola:n:121bb10a-79e3-40e6-b7e6-317e07bcd132",
+    "relation": "composed_of",
+    "object": "ola:n:687bfc47-eac5-4099-8792-0aeb96a44b12",
+    "rationale": "Derive a transformed random-variable distribution is a bounded performance within Compute and transform distributions.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:be1c2a5b-5ade-490b-a20a-3a59ee93f8f6",
+    "revision": 1,
+    "subject": "ola:n:687bfc47-eac5-4099-8792-0aeb96a44b12",
+    "relation": "uses_concept",
+    "object": "ola:n:514853a4-83c9-4074-89cb-25b98df67a37",
+    "rationale": "Demonstrating Derive a transformed random-variable distribution materially invokes Probability mass, density, and distribution function at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:5711ce00-2566-442b-8f71-f19f7945c1e8",
+    "revision": 1,
+    "subject": "ola:n:687bfc47-eac5-4099-8792-0aeb96a44b12",
+    "relation": "uses_knowledge",
+    "object": "ola:n:f72b677c-c0f8-486c-ae4a-a247c57c4f6b",
+    "rationale": "Demonstrating Derive a transformed random-variable distribution materially invokes Distribution normalization and transformation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e373c22b-5213-4651-9964-2b72b7b2ef86",
+    "revision": 1,
+    "subject": "ola:n:687bfc47-eac5-4099-8792-0aeb96a44b12",
+    "relation": "uses_representation",
+    "object": "ola:n:ead97ce2-d708-4c40-a151-db119743554c",
+    "rationale": "Demonstrating Derive a transformed random-variable distribution materially invokes PMF, PDF, CDF, and quantile representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:92e26537-0a0c-4d9a-bd23-63e092781826",
+    "revision": 1,
+    "subject": "ola:n:04a0a2e0-eefb-4f5e-9e5f-a6632c4e2c8f",
+    "relation": "composed_of",
+    "object": "ola:n:b2a64c98-07fe-483a-9ab8-4c3ca2c89af0",
+    "rationale": "Select and simulate distributions is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:23659cbc-681e-4665-9b16-f02ad55de543",
+    "revision": 1,
+    "subject": "ola:n:b2a64c98-07fe-483a-9ab8-4c3ca2c89af0",
+    "relation": "composed_of",
+    "object": "ola:n:e466cd3b-7c68-4829-86af-e7696adbe4d6",
+    "rationale": "Select a parametric distribution family is a bounded performance within Select and simulate distributions.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:117e921e-629f-475d-9fba-cccfa4b20492",
+    "revision": 1,
+    "subject": "ola:n:e466cd3b-7c68-4829-86af-e7696adbe4d6",
+    "relation": "uses_concept",
+    "object": "ola:n:260b6160-d32a-4360-85c3-5c1cceb57b8b",
+    "rationale": "Demonstrating Select a parametric distribution family materially invokes Random variable at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c30eb227-27f5-4de4-89e9-82482b6ab621",
+    "revision": 1,
+    "subject": "ola:n:e466cd3b-7c68-4829-86af-e7696adbe4d6",
+    "relation": "uses_concept",
+    "object": "ola:n:514853a4-83c9-4074-89cb-25b98df67a37",
+    "rationale": "Demonstrating Select a parametric distribution family materially invokes Probability mass, density, and distribution function at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:99302a98-496d-49d3-8e1f-921229adfd0f",
+    "revision": 1,
+    "subject": "ola:n:e466cd3b-7c68-4829-86af-e7696adbe4d6",
+    "relation": "uses_knowledge",
+    "object": "ola:n:f72b677c-c0f8-486c-ae4a-a247c57c4f6b",
+    "rationale": "Demonstrating Select a parametric distribution family materially invokes Distribution normalization and transformation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8c98aaf8-4252-4d69-8b85-4c0d22bce794",
+    "revision": 1,
+    "subject": "ola:n:e466cd3b-7c68-4829-86af-e7696adbe4d6",
+    "relation": "uses_representation",
+    "object": "ola:n:ead97ce2-d708-4c40-a151-db119743554c",
+    "rationale": "Demonstrating Select a parametric distribution family materially invokes PMF, PDF, CDF, and quantile representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:fa71456d-5b3c-4c7b-8437-f44ecb027f4a",
+    "revision": 1,
+    "subject": "ola:n:b2a64c98-07fe-483a-9ab8-4c3ca2c89af0",
+    "relation": "composed_of",
+    "object": "ola:n:fdb1a62e-7e28-44b3-943e-8056cc752e26",
+    "rationale": "Simulate from a probability distribution is a bounded performance within Select and simulate distributions.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e26fae26-b06c-440f-b301-9a511462de4e",
+    "revision": 1,
+    "subject": "ola:n:fdb1a62e-7e28-44b3-943e-8056cc752e26",
+    "relation": "uses_concept",
+    "object": "ola:n:260b6160-d32a-4360-85c3-5c1cceb57b8b",
+    "rationale": "Demonstrating Simulate from a probability distribution materially invokes Random variable at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7685914e-aad0-4530-983b-c6865d9088a3",
+    "revision": 1,
+    "subject": "ola:n:fdb1a62e-7e28-44b3-943e-8056cc752e26",
+    "relation": "uses_concept",
+    "object": "ola:n:514853a4-83c9-4074-89cb-25b98df67a37",
+    "rationale": "Demonstrating Simulate from a probability distribution materially invokes Probability mass, density, and distribution function at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d0048ccf-dbca-4ebe-93e8-3e29a9919555",
+    "revision": 1,
+    "subject": "ola:n:fdb1a62e-7e28-44b3-943e-8056cc752e26",
+    "relation": "uses_knowledge",
+    "object": "ola:n:f72b677c-c0f8-486c-ae4a-a247c57c4f6b",
+    "rationale": "Demonstrating Simulate from a probability distribution materially invokes Distribution normalization and transformation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a1ea5eb0-008c-415a-9c58-77e68e561118",
+    "revision": 1,
+    "subject": "ola:n:fdb1a62e-7e28-44b3-943e-8056cc752e26",
+    "relation": "uses_representation",
+    "object": "ola:n:ead97ce2-d708-4c40-a151-db119743554c",
+    "rationale": "Demonstrating Simulate from a probability distribution materially invokes PMF, PDF, CDF, and quantile representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:832da6a5-9f32-4d98-94cc-0c795458bd79",
+    "revision": 1,
+    "subject": "ola:n:05686f7f-4dee-4bd3-8161-b77a3e09133d",
+    "relation": "composed_of",
+    "object": "ola:n:30db2f38-3cc9-4941-a1ac-2c3944119b3a",
+    "rationale": "Expected value is material terrain within expectation-variability; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:1e04d3a0-622d-4c10-8a82-979cfdca661e",
+    "revision": 1,
+    "subject": "ola:n:05686f7f-4dee-4bd3-8161-b77a3e09133d",
+    "relation": "composed_of",
+    "object": "ola:n:b79fdcac-ec21-4faf-999f-594ead4bb26d",
+    "rationale": "Variance and covariance is material terrain within expectation-variability; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:3b8cacd3-3a42-438e-9660-56318bf50e3e",
+    "revision": 1,
+    "subject": "ola:n:05686f7f-4dee-4bd3-8161-b77a3e09133d",
+    "relation": "composed_of",
+    "object": "ola:n:1791307b-c689-488d-9dc3-390a9a4bfb02",
+    "rationale": "Linearity and total expectation or variance laws is material terrain within expectation-variability; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:6bc86996-cd1c-4a6d-92c8-34b2efd653d0",
+    "revision": 1,
+    "subject": "ola:n:05686f7f-4dee-4bd3-8161-b77a3e09133d",
+    "relation": "composed_of",
+    "object": "ola:n:857e6ed8-9959-4d0b-a8a1-0a0d99157b31",
+    "rationale": "Distribution, moment, and spread representation is material terrain within expectation-variability; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b81bebcb-d6f7-4710-9294-c950c86ae23b",
+    "revision": 1,
+    "subject": "ola:n:05686f7f-4dee-4bd3-8161-b77a3e09133d",
+    "relation": "composed_of",
+    "object": "ola:n:1ea02dba-2519-485e-87a3-f46d5d68c800",
+    "rationale": "Compute expectation and variability is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8a9125d4-de4f-4edd-a124-2dab6262ce11",
+    "revision": 1,
+    "subject": "ola:n:1ea02dba-2519-485e-87a3-f46d5d68c800",
+    "relation": "composed_of",
+    "object": "ola:n:37b50028-0674-407b-880e-38860a280816",
+    "rationale": "Compute an expected value is a bounded performance within Compute expectation and variability.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8d09b3bc-3450-46a9-872c-68b8d25d18ae",
+    "revision": 1,
+    "subject": "ola:n:37b50028-0674-407b-880e-38860a280816",
+    "relation": "uses_concept",
+    "object": "ola:n:30db2f38-3cc9-4941-a1ac-2c3944119b3a",
+    "rationale": "Demonstrating Compute an expected value materially invokes Expected value at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f27164ba-af2a-4c49-84f5-4c630230962a",
+    "revision": 1,
+    "subject": "ola:n:37b50028-0674-407b-880e-38860a280816",
+    "relation": "uses_knowledge",
+    "object": "ola:n:1791307b-c689-488d-9dc3-390a9a4bfb02",
+    "rationale": "Demonstrating Compute an expected value materially invokes Linearity and total expectation or variance laws at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ab903004-2ac2-4f50-8757-f4f5c03e3ce2",
+    "revision": 1,
+    "subject": "ola:n:37b50028-0674-407b-880e-38860a280816",
+    "relation": "uses_representation",
+    "object": "ola:n:857e6ed8-9959-4d0b-a8a1-0a0d99157b31",
+    "rationale": "Demonstrating Compute an expected value materially invokes Distribution, moment, and spread representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:56c8fe19-1a39-445f-845a-142f49bd3458",
+    "revision": 1,
+    "subject": "ola:n:1ea02dba-2519-485e-87a3-f46d5d68c800",
+    "relation": "composed_of",
+    "object": "ola:n:6acd06b0-a68a-4afd-939b-ca2b12dfb727",
+    "rationale": "Compute variance or standard deviation is a bounded performance within Compute expectation and variability.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d98e823b-84fc-43ff-9999-12b2cb9e5ba5",
+    "revision": 1,
+    "subject": "ola:n:6acd06b0-a68a-4afd-939b-ca2b12dfb727",
+    "relation": "uses_concept",
+    "object": "ola:n:30db2f38-3cc9-4941-a1ac-2c3944119b3a",
+    "rationale": "Demonstrating Compute variance or standard deviation materially invokes Expected value at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:85cc6f65-d102-430e-8e3a-65399a32b2c6",
+    "revision": 1,
+    "subject": "ola:n:6acd06b0-a68a-4afd-939b-ca2b12dfb727",
+    "relation": "uses_knowledge",
+    "object": "ola:n:1791307b-c689-488d-9dc3-390a9a4bfb02",
+    "rationale": "Demonstrating Compute variance or standard deviation materially invokes Linearity and total expectation or variance laws at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c995ab44-ba61-4b7a-bf72-c00ed9cd5f35",
+    "revision": 1,
+    "subject": "ola:n:6acd06b0-a68a-4afd-939b-ca2b12dfb727",
+    "relation": "uses_representation",
+    "object": "ola:n:857e6ed8-9959-4d0b-a8a1-0a0d99157b31",
+    "rationale": "Demonstrating Compute variance or standard deviation materially invokes Distribution, moment, and spread representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:df779496-a101-4e50-8553-bf2b47115f9b",
+    "revision": 1,
+    "subject": "ola:n:05686f7f-4dee-4bd3-8161-b77a3e09133d",
+    "relation": "composed_of",
+    "object": "ola:n:bee6b939-f64b-48ba-ab80-738ae2c43f9e",
+    "rationale": "Analyze joint and conditional moments is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:addb357f-4514-4618-b8d4-98212270ea33",
+    "revision": 1,
+    "subject": "ola:n:bee6b939-f64b-48ba-ab80-738ae2c43f9e",
+    "relation": "composed_of",
+    "object": "ola:n:d78cc3da-0cca-4e8c-9632-4a88483bb22c",
+    "rationale": "Compute covariance or correlation from a distribution is a bounded performance within Analyze joint and conditional moments.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:632b407e-8c55-43b3-bb9f-a2519d63a3f9",
+    "revision": 1,
+    "subject": "ola:n:d78cc3da-0cca-4e8c-9632-4a88483bb22c",
+    "relation": "uses_concept",
+    "object": "ola:n:b79fdcac-ec21-4faf-999f-594ead4bb26d",
+    "rationale": "Demonstrating Compute covariance or correlation from a distribution materially invokes Variance and covariance at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e1dfaa35-22a3-4741-a13d-a9b363ce6666",
+    "revision": 1,
+    "subject": "ola:n:d78cc3da-0cca-4e8c-9632-4a88483bb22c",
+    "relation": "uses_knowledge",
+    "object": "ola:n:1791307b-c689-488d-9dc3-390a9a4bfb02",
+    "rationale": "Demonstrating Compute covariance or correlation from a distribution materially invokes Linearity and total expectation or variance laws at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:6bc7773e-1e61-4436-acc3-d3d1a5199233",
+    "revision": 1,
+    "subject": "ola:n:d78cc3da-0cca-4e8c-9632-4a88483bb22c",
+    "relation": "uses_representation",
+    "object": "ola:n:857e6ed8-9959-4d0b-a8a1-0a0d99157b31",
+    "rationale": "Demonstrating Compute covariance or correlation from a distribution materially invokes Distribution, moment, and spread representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:aadce146-13cd-4d34-8f1c-855b3cd84371",
+    "revision": 1,
+    "subject": "ola:n:bee6b939-f64b-48ba-ab80-738ae2c43f9e",
+    "relation": "composed_of",
+    "object": "ola:n:c5cfcd6e-a306-4c9f-8586-2c6b8cbff1a9",
+    "rationale": "Apply total expectation or variance is a bounded performance within Analyze joint and conditional moments.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b6f42a43-4081-4248-83a9-264c1ac4cce6",
+    "revision": 1,
+    "subject": "ola:n:c5cfcd6e-a306-4c9f-8586-2c6b8cbff1a9",
+    "relation": "uses_concept",
+    "object": "ola:n:b79fdcac-ec21-4faf-999f-594ead4bb26d",
+    "rationale": "Demonstrating Apply total expectation or variance materially invokes Variance and covariance at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:68c275b1-be22-4020-aecf-60108b217546",
+    "revision": 1,
+    "subject": "ola:n:c5cfcd6e-a306-4c9f-8586-2c6b8cbff1a9",
+    "relation": "uses_knowledge",
+    "object": "ola:n:1791307b-c689-488d-9dc3-390a9a4bfb02",
+    "rationale": "Demonstrating Apply total expectation or variance materially invokes Linearity and total expectation or variance laws at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:136d5f2a-cb4b-42d7-89ef-3b085081f443",
+    "revision": 1,
+    "subject": "ola:n:c5cfcd6e-a306-4c9f-8586-2c6b8cbff1a9",
+    "relation": "uses_representation",
+    "object": "ola:n:857e6ed8-9959-4d0b-a8a1-0a0d99157b31",
+    "rationale": "Demonstrating Apply total expectation or variance materially invokes Distribution, moment, and spread representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2d542649-f51e-4bed-acf8-e5becf9c75ba",
+    "revision": 1,
+    "subject": "ola:n:05686f7f-4dee-4bd3-8161-b77a3e09133d",
+    "relation": "composed_of",
+    "object": "ola:n:2fda7d39-e17c-4a9f-804d-ed74a910d1f7",
+    "rationale": "Reason about expectation and variability is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:bead4515-152b-4d69-955f-054083ca7214",
+    "revision": 1,
+    "subject": "ola:n:2fda7d39-e17c-4a9f-804d-ed74a910d1f7",
+    "relation": "composed_of",
+    "object": "ola:n:22e23560-647d-4753-930d-aec36b1cb48a",
+    "rationale": "Bound probability with moments is a bounded performance within Reason about expectation and variability.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:19201052-466c-4ece-a071-c9f2075659fb",
+    "revision": 1,
+    "subject": "ola:n:22e23560-647d-4753-930d-aec36b1cb48a",
+    "relation": "uses_concept",
+    "object": "ola:n:30db2f38-3cc9-4941-a1ac-2c3944119b3a",
+    "rationale": "Demonstrating Bound probability with moments materially invokes Expected value at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d9e3d2e7-4a7d-472c-b48d-f905d65efaf1",
+    "revision": 1,
+    "subject": "ola:n:22e23560-647d-4753-930d-aec36b1cb48a",
+    "relation": "uses_concept",
+    "object": "ola:n:b79fdcac-ec21-4faf-999f-594ead4bb26d",
+    "rationale": "Demonstrating Bound probability with moments materially invokes Variance and covariance at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:101c0322-e410-4b30-825e-82aecae95227",
+    "revision": 1,
+    "subject": "ola:n:22e23560-647d-4753-930d-aec36b1cb48a",
+    "relation": "uses_knowledge",
+    "object": "ola:n:1791307b-c689-488d-9dc3-390a9a4bfb02",
+    "rationale": "Demonstrating Bound probability with moments materially invokes Linearity and total expectation or variance laws at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:6fd4e980-adb1-4545-b2ef-015b08f49a93",
+    "revision": 1,
+    "subject": "ola:n:22e23560-647d-4753-930d-aec36b1cb48a",
+    "relation": "uses_representation",
+    "object": "ola:n:857e6ed8-9959-4d0b-a8a1-0a0d99157b31",
+    "rationale": "Demonstrating Bound probability with moments materially invokes Distribution, moment, and spread representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a1b0f421-eaf6-44bc-8a04-b5e22df5caef",
+    "revision": 1,
+    "subject": "ola:n:2fda7d39-e17c-4a9f-804d-ed74a910d1f7",
+    "relation": "composed_of",
+    "object": "ola:n:7e986263-4e86-4369-8ab7-41f96934f73e",
+    "rationale": "Audit an expectation or variability claim is a bounded performance within Reason about expectation and variability.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:00ca2c0f-bbcd-4455-9e5e-7977b5ebb765",
+    "revision": 1,
+    "subject": "ola:n:7e986263-4e86-4369-8ab7-41f96934f73e",
+    "relation": "uses_concept",
+    "object": "ola:n:30db2f38-3cc9-4941-a1ac-2c3944119b3a",
+    "rationale": "Demonstrating Audit an expectation or variability claim materially invokes Expected value at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e39a2ec1-36d0-4b82-b516-8a147fb8d2ee",
+    "revision": 1,
+    "subject": "ola:n:7e986263-4e86-4369-8ab7-41f96934f73e",
+    "relation": "uses_concept",
+    "object": "ola:n:b79fdcac-ec21-4faf-999f-594ead4bb26d",
+    "rationale": "Demonstrating Audit an expectation or variability claim materially invokes Variance and covariance at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:913c748c-029f-4502-89ea-0db3ee36f204",
+    "revision": 1,
+    "subject": "ola:n:7e986263-4e86-4369-8ab7-41f96934f73e",
+    "relation": "uses_knowledge",
+    "object": "ola:n:1791307b-c689-488d-9dc3-390a9a4bfb02",
+    "rationale": "Demonstrating Audit an expectation or variability claim materially invokes Linearity and total expectation or variance laws at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:bc4c3645-4115-4dbf-9791-983fbc15f94d",
+    "revision": 1,
+    "subject": "ola:n:7e986263-4e86-4369-8ab7-41f96934f73e",
+    "relation": "uses_representation",
+    "object": "ola:n:857e6ed8-9959-4d0b-a8a1-0a0d99157b31",
+    "rationale": "Demonstrating Audit an expectation or variability claim materially invokes Distribution, moment, and spread representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4d407d60-a044-4d5c-9d4c-f139084586de",
+    "revision": 1,
+    "subject": "ola:n:91b00c32-4004-479a-90b4-1cb6c5df6640",
+    "relation": "composed_of",
+    "object": "ola:n:84c5aee3-64fb-47f0-b176-9c2823483c02",
+    "rationale": "Stochastic process, state, and transition is material terrain within stochastic-processes-decision-risk; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:17690a5e-3014-42d0-a208-46e3a872315b",
+    "revision": 1,
+    "subject": "ola:n:91b00c32-4004-479a-90b4-1cb6c5df6640",
+    "relation": "composed_of",
+    "object": "ola:n:c5bdc63f-373c-42af-b089-1057b1378126",
+    "rationale": "Decision, utility, and risk is material terrain within stochastic-processes-decision-risk; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2ebc8981-0b8d-4a9f-b1de-1210885cd0d4",
+    "revision": 1,
+    "subject": "ola:n:91b00c32-4004-479a-90b4-1cb6c5df6640",
+    "relation": "composed_of",
+    "object": "ola:n:c27b2cba-94f0-4aec-ada0-d833ee968532",
+    "rationale": "Markov and decision expectation principles is material terrain within stochastic-processes-decision-risk; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:580777c7-3a4e-49ce-ae63-e45d259b9193",
+    "revision": 1,
+    "subject": "ola:n:91b00c32-4004-479a-90b4-1cb6c5df6640",
+    "relation": "composed_of",
+    "object": "ola:n:f32844bd-9fdb-4b15-b5ab-1567d592da03",
+    "rationale": "Transition matrix, decision tree, and stochastic trajectory is material terrain within stochastic-processes-decision-risk; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:cfbcdbdc-3c00-471b-9217-cf3fd9da2ff5",
+    "revision": 1,
+    "subject": "ola:n:91b00c32-4004-479a-90b4-1cb6c5df6640",
+    "relation": "composed_of",
+    "object": "ola:n:91f04868-ee77-4f8d-a97e-dc76a46f2f70",
+    "rationale": "Model and analyze stochastic processes is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:511ed89a-e629-44dc-b325-76c827087fb9",
+    "revision": 1,
+    "subject": "ola:n:91f04868-ee77-4f8d-a97e-dc76a46f2f70",
+    "relation": "composed_of",
+    "object": "ola:n:272f582e-4dea-4695-84f0-badbe8eb233a",
+    "rationale": "Construct a finite-state stochastic model is a bounded performance within Model and analyze stochastic processes.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:08ed3353-33c2-465d-a6da-5e26e0212bc7",
+    "revision": 1,
+    "subject": "ola:n:272f582e-4dea-4695-84f0-badbe8eb233a",
+    "relation": "uses_concept",
+    "object": "ola:n:84c5aee3-64fb-47f0-b176-9c2823483c02",
+    "rationale": "Demonstrating Construct a finite-state stochastic model materially invokes Stochastic process, state, and transition at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:3d281d91-3da6-45d7-9529-d07c5c378419",
+    "revision": 1,
+    "subject": "ola:n:272f582e-4dea-4695-84f0-badbe8eb233a",
+    "relation": "uses_knowledge",
+    "object": "ola:n:c27b2cba-94f0-4aec-ada0-d833ee968532",
+    "rationale": "Demonstrating Construct a finite-state stochastic model materially invokes Markov and decision expectation principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:706a1f6e-926a-4b83-8a3f-0043657947d1",
+    "revision": 1,
+    "subject": "ola:n:272f582e-4dea-4695-84f0-badbe8eb233a",
+    "relation": "uses_representation",
+    "object": "ola:n:f32844bd-9fdb-4b15-b5ab-1567d592da03",
+    "rationale": "Demonstrating Construct a finite-state stochastic model materially invokes Transition matrix, decision tree, and stochastic trajectory at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d61b6eb9-2db1-4da9-90e4-71103bb288a7",
+    "revision": 1,
+    "subject": "ola:n:91f04868-ee77-4f8d-a97e-dc76a46f2f70",
+    "relation": "composed_of",
+    "object": "ola:n:55352a44-2791-494c-9df3-f41c8d623e80",
+    "rationale": "Compute a multi-step state probability is a bounded performance within Model and analyze stochastic processes.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:191c67f8-a67c-4041-aaae-f3a471dbb49a",
+    "revision": 1,
+    "subject": "ola:n:55352a44-2791-494c-9df3-f41c8d623e80",
+    "relation": "uses_concept",
+    "object": "ola:n:84c5aee3-64fb-47f0-b176-9c2823483c02",
+    "rationale": "Demonstrating Compute a multi-step state probability materially invokes Stochastic process, state, and transition at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f3421e22-c993-4605-a360-6935fd1a1788",
+    "revision": 1,
+    "subject": "ola:n:55352a44-2791-494c-9df3-f41c8d623e80",
+    "relation": "uses_knowledge",
+    "object": "ola:n:c27b2cba-94f0-4aec-ada0-d833ee968532",
+    "rationale": "Demonstrating Compute a multi-step state probability materially invokes Markov and decision expectation principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:5e35129a-4919-427c-a151-9b5213a8494b",
+    "revision": 1,
+    "subject": "ola:n:55352a44-2791-494c-9df3-f41c8d623e80",
+    "relation": "uses_representation",
+    "object": "ola:n:f32844bd-9fdb-4b15-b5ab-1567d592da03",
+    "rationale": "Demonstrating Compute a multi-step state probability materially invokes Transition matrix, decision tree, and stochastic trajectory at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:6da89e17-5f24-4745-ac1e-89c68f50b6b1",
+    "revision": 1,
+    "subject": "ola:n:91b00c32-4004-479a-90b4-1cb6c5df6640",
+    "relation": "composed_of",
+    "object": "ola:n:f2d06a78-174d-4b8e-9e72-26ea904c2e0b",
+    "rationale": "Analyze long-run behavior and risk is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:75ef7af4-8fcf-43dc-bc37-a3ee046dde39",
+    "revision": 1,
+    "subject": "ola:n:f2d06a78-174d-4b8e-9e72-26ea904c2e0b",
+    "relation": "composed_of",
+    "object": "ola:n:bfb77c21-9549-4612-9ee1-22ea6605933a",
+    "rationale": "Analyze stationary or long-run behavior is a bounded performance within Analyze long-run behavior and risk.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:eb8fd672-12de-4d39-89c8-200586b4b483",
+    "revision": 1,
+    "subject": "ola:n:bfb77c21-9549-4612-9ee1-22ea6605933a",
+    "relation": "uses_concept",
+    "object": "ola:n:c5bdc63f-373c-42af-b089-1057b1378126",
+    "rationale": "Demonstrating Analyze stationary or long-run behavior materially invokes Decision, utility, and risk at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:45adfa6f-aae5-45cb-babc-0aaab570b23e",
+    "revision": 1,
+    "subject": "ola:n:bfb77c21-9549-4612-9ee1-22ea6605933a",
+    "relation": "uses_knowledge",
+    "object": "ola:n:c27b2cba-94f0-4aec-ada0-d833ee968532",
+    "rationale": "Demonstrating Analyze stationary or long-run behavior materially invokes Markov and decision expectation principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:12c89c3c-d429-431d-bf2d-4e501519cdeb",
+    "revision": 1,
+    "subject": "ola:n:bfb77c21-9549-4612-9ee1-22ea6605933a",
+    "relation": "uses_representation",
+    "object": "ola:n:f32844bd-9fdb-4b15-b5ab-1567d592da03",
+    "rationale": "Demonstrating Analyze stationary or long-run behavior materially invokes Transition matrix, decision tree, and stochastic trajectory at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:0afae656-c971-45b5-80d8-669d7669595c",
+    "revision": 1,
+    "subject": "ola:n:f2d06a78-174d-4b8e-9e72-26ea904c2e0b",
+    "relation": "composed_of",
+    "object": "ola:n:fd722c84-2a95-4c9d-8787-445be40a5fe0",
+    "rationale": "Compute expected loss or a risk measure is a bounded performance within Analyze long-run behavior and risk.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7d3f921f-a0cc-4656-810b-e49380946b42",
+    "revision": 1,
+    "subject": "ola:n:fd722c84-2a95-4c9d-8787-445be40a5fe0",
+    "relation": "uses_concept",
+    "object": "ola:n:c5bdc63f-373c-42af-b089-1057b1378126",
+    "rationale": "Demonstrating Compute expected loss or a risk measure materially invokes Decision, utility, and risk at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c828eb1e-0bce-459d-af97-3b54c82ed560",
+    "revision": 1,
+    "subject": "ola:n:fd722c84-2a95-4c9d-8787-445be40a5fe0",
+    "relation": "uses_knowledge",
+    "object": "ola:n:c27b2cba-94f0-4aec-ada0-d833ee968532",
+    "rationale": "Demonstrating Compute expected loss or a risk measure materially invokes Markov and decision expectation principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:631347f2-e67f-4e18-9e6d-7e71cad436eb",
+    "revision": 1,
+    "subject": "ola:n:fd722c84-2a95-4c9d-8787-445be40a5fe0",
+    "relation": "uses_representation",
+    "object": "ola:n:f32844bd-9fdb-4b15-b5ab-1567d592da03",
+    "rationale": "Demonstrating Compute expected loss or a risk measure materially invokes Transition matrix, decision tree, and stochastic trajectory at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:39859c8e-1fe4-4b2a-b804-b5139761d0c2",
+    "revision": 1,
+    "subject": "ola:n:91b00c32-4004-479a-90b4-1cb6c5df6640",
+    "relation": "composed_of",
+    "object": "ola:n:64ee746a-acff-40d3-b5f5-32b1d189e596",
+    "rationale": "Make and audit decisions under uncertainty is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:85873032-4a49-4009-bab8-a87aba5e1fc0",
+    "revision": 1,
+    "subject": "ola:n:64ee746a-acff-40d3-b5f5-32b1d189e596",
+    "relation": "composed_of",
+    "object": "ola:n:5c7465c8-aebd-4301-8994-6cce9304a240",
+    "rationale": "Select an action under uncertainty is a bounded performance within Make and audit decisions under uncertainty.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:bf41ef27-b4b1-4c1b-99e7-f35b09f46a95",
+    "revision": 1,
+    "subject": "ola:n:5c7465c8-aebd-4301-8994-6cce9304a240",
+    "relation": "uses_concept",
+    "object": "ola:n:84c5aee3-64fb-47f0-b176-9c2823483c02",
+    "rationale": "Demonstrating Select an action under uncertainty materially invokes Stochastic process, state, and transition at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b0ffd56e-e08d-41b2-ada1-27f7f52a0ae6",
+    "revision": 1,
+    "subject": "ola:n:5c7465c8-aebd-4301-8994-6cce9304a240",
+    "relation": "uses_concept",
+    "object": "ola:n:c5bdc63f-373c-42af-b089-1057b1378126",
+    "rationale": "Demonstrating Select an action under uncertainty materially invokes Decision, utility, and risk at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:33f4f4ec-09da-4e8b-b026-b4e690f90b4e",
+    "revision": 1,
+    "subject": "ola:n:5c7465c8-aebd-4301-8994-6cce9304a240",
+    "relation": "uses_knowledge",
+    "object": "ola:n:c27b2cba-94f0-4aec-ada0-d833ee968532",
+    "rationale": "Demonstrating Select an action under uncertainty materially invokes Markov and decision expectation principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:fc05b6a3-5c5c-43c6-a69f-ae5008a8f226",
+    "revision": 1,
+    "subject": "ola:n:5c7465c8-aebd-4301-8994-6cce9304a240",
+    "relation": "uses_representation",
+    "object": "ola:n:f32844bd-9fdb-4b15-b5ab-1567d592da03",
+    "rationale": "Demonstrating Select an action under uncertainty materially invokes Transition matrix, decision tree, and stochastic trajectory at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:5ead7f98-03fc-476d-83b4-32ddf033a0fc",
+    "revision": 1,
+    "subject": "ola:n:64ee746a-acff-40d3-b5f5-32b1d189e596",
+    "relation": "composed_of",
+    "object": "ola:n:e05e393e-b4ff-41e4-8c70-13ed95468bf9",
+    "rationale": "Audit a stochastic or decision model is a bounded performance within Make and audit decisions under uncertainty.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c9ab843c-3537-4652-b8dd-535dc6b216fb",
+    "revision": 1,
+    "subject": "ola:n:e05e393e-b4ff-41e4-8c70-13ed95468bf9",
+    "relation": "uses_concept",
+    "object": "ola:n:84c5aee3-64fb-47f0-b176-9c2823483c02",
+    "rationale": "Demonstrating Audit a stochastic or decision model materially invokes Stochastic process, state, and transition at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:99517dc8-2938-4391-83d9-c5320b51c5b5",
+    "revision": 1,
+    "subject": "ola:n:e05e393e-b4ff-41e4-8c70-13ed95468bf9",
+    "relation": "uses_concept",
+    "object": "ola:n:c5bdc63f-373c-42af-b089-1057b1378126",
+    "rationale": "Demonstrating Audit a stochastic or decision model materially invokes Decision, utility, and risk at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:0bc3a7db-d5ed-40c0-a1ca-384262396a2a",
+    "revision": 1,
+    "subject": "ola:n:e05e393e-b4ff-41e4-8c70-13ed95468bf9",
+    "relation": "uses_knowledge",
+    "object": "ola:n:c27b2cba-94f0-4aec-ada0-d833ee968532",
+    "rationale": "Demonstrating Audit a stochastic or decision model materially invokes Markov and decision expectation principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:390c513b-b054-4709-ac9d-3de89a6bbaf9",
+    "revision": 1,
+    "subject": "ola:n:e05e393e-b4ff-41e4-8c70-13ed95468bf9",
+    "relation": "uses_representation",
+    "object": "ola:n:f32844bd-9fdb-4b15-b5ab-1567d592da03",
+    "rationale": "Demonstrating Audit a stochastic or decision model materially invokes Transition matrix, decision tree, and stochastic trajectory at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:efb8fe83-95e2-44db-abca-bf09856e8c5d",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  }
+]
