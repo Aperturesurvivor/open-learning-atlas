@@ -1,0 +1,415 @@
+[
+  {
+    "id": "ola:n:1a2dd0f9-6715-4b8e-a4b7-810a92c6b1b1",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "logical-implication",
+    "label": "Logical implication",
+    "definition": "A relation between a hypothesis and conclusion in which the implication fails only when the hypothesis holds and the conclusion does not.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:b262667e-d1bc-4f15-85e7-298abfcc7f14",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "quantifier-scope",
+    "label": "Quantifier and scope",
+    "definition": "The binding and range of universal or existential claims over a declared domain.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:50254587-078b-4759-b847-f414187b698a",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "mathematical-counterexample",
+    "label": "Mathematical counterexample",
+    "definition": "An instance satisfying a claim's conditions while falsifying its asserted conclusion.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:32900244-b211-4af2-b7a2-f35b1cda58f8",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "proof-invariant",
+    "label": "Proof invariant",
+    "definition": "A property maintained across cases, steps, or transformations and used to constrain a proof argument.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:1b71d753-17cc-4087-954b-535efa8a9914",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "validity-versus-truth",
+    "label": "Validity versus truth",
+    "definition": "Deductive validity concerns whether conclusions follow from premises; truth concerns whether the relevant statements hold.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:8d45cd6d-7442-4648-928a-00269c8081bd",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "proof-obligation-structure",
+    "label": "Proof-obligation structure",
+    "definition": "The hypotheses, quantified variables, cases, subclaims, and conclusion that a proof must connect.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:167656df-8983-4b1f-bfd2-f62101093b40",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "symbolic-logical-form",
+    "label": "Symbolic logical form",
+    "definition": "A representation using connectives, quantifiers, variables, domains, and predicates to expose claim structure.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:bdcdf1e6-66be-4bcd-b5f7-2f56c35e8ab8",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "structured-proof-text",
+    "label": "Structured proof text",
+    "definition": "A checkable sequence of mathematical assertions with reasons, scope, cases, and a stated conclusion.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:86f25099-b3d0-4444-b35f-b01803476f64",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "analyze-mathematical-claims-family",
+    "label": "Analyze mathematical claims",
+    "definition": "A capability family for exposing logical form, domain, conditions, and proof obligations.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:fc923124-36ea-4e69-b58a-f82b7d8e661e",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "construct-deductive-arguments-family",
+    "label": "Construct deductive arguments",
+    "definition": "A capability family for building checkable direct, indirect, and inductive proofs.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:e40ff5ff-2373-4024-8e58-e1911a324491",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "evaluate-mathematical-arguments-family",
+    "label": "Evaluate mathematical arguments",
+    "definition": "A capability family for refuting claims, locating gaps, and communicating proof strategy.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:82dd8d6b-d77e-4844-b7ed-e0de8963d471",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "parse-quantified-mathematical-statement",
+    "label": "Parse a quantified mathematical statement",
+    "definition": "Identify domain, quantifier order, bound variables, hypotheses, and conclusion in a mathematical claim.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review.",
+    "capability_statement": "Given a bounded mathematical statement in prose or notation, identify its domain, quantifiers and scope, variables, hypotheses, and conclusion, and produce an equivalent logical form without changing meaning.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "variation"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:e900e521-dd69-4eca-a290-d7afeb5b0737",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "identify-proof-obligations",
+    "label": "Identify proof obligations",
+    "definition": "Determine which subclaims, cases, witnesses, or implications must be established for a scoped claim.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review.",
+    "capability_statement": "Given a scoped mathematical claim and permitted prior results, state the proof obligations that would suffice, including relevant cases, witnesses, assumptions, and conclusion, without assuming the result to be shown.",
+    "evidence_dimensions": [
+      "accuracy",
+      "explanation",
+      "justification",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:12dff7b9-8aba-47da-bd01-dfa923340209",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "construct-direct-proof",
+    "label": "Construct a direct proof",
+    "definition": "Build a valid chain from declared hypotheses and established results to the stated conclusion.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review.",
+    "capability_statement": "Given a scoped implication and admissible definitions or prior results, construct a direct proof whose steps preserve scope, cite sufficient reasons, and reach the exact conclusion.",
+    "evidence_dimensions": [
+      "accuracy",
+      "justification",
+      "explanation",
+      "error-analysis",
+      "variation"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:0f039ab9-3cd0-4e5a-b8a5-84ddb298d394",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "construct-contrapositive-or-contradiction-proof",
+    "label": "Construct an indirect proof",
+    "definition": "Use a contrapositive or contradiction argument while maintaining the correct negation and discharge of assumptions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review.",
+    "capability_statement": "Given a scoped claim suited to an indirect method, construct a proof by contrapositive or contradiction, explicitly state the transformed assumption, derive the required consequence, and connect it back to the original claim.",
+    "evidence_dimensions": [
+      "accuracy",
+      "justification",
+      "representation",
+      "error-analysis",
+      "variation"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:9a940dbc-7af2-4ea5-be1d-b31752b82259",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "construct-inductive-proof",
+    "label": "Construct an inductive proof",
+    "definition": "Establish a base case and a valid inductive transition over a declared well-founded progression.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review.",
+    "capability_statement": "Given a proposition indexed by nonnegative integers or another declared well-founded structure, verify the required base case or cases, state the induction hypothesis with correct scope, prove the inductive step, and conclude only the covered range.",
+    "evidence_dimensions": [
+      "accuracy",
+      "justification",
+      "explanation",
+      "error-analysis",
+      "variation"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:fef17c40-7282-4493-ab85-b1b5f115a65a",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "refute-universal-claim-counterexample",
+    "label": "Refute a universal claim with a counterexample",
+    "definition": "Construct and verify an instance that meets a universal claim's conditions but not its conclusion.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review.",
+    "capability_statement": "Given a false universal mathematical claim over a declared domain, produce a valid counterexample and explicitly verify that it satisfies every hypothesis while falsifying the conclusion.",
+    "evidence_dimensions": [
+      "accuracy",
+      "justification",
+      "explanation",
+      "variation"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:83311930-e2ef-4a35-93d7-02f5332b7b4c",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "audit-deductive-argument",
+    "label": "Audit a deductive argument",
+    "definition": "Check whether a mathematical argument establishes its stated claim under its declared assumptions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review.",
+    "capability_statement": "Given a bounded proof or proof attempt, verify scope and dependencies step by step, identify the first unsupported or invalid inference if one exists, and explain whether and how the conclusion follows.",
+    "evidence_dimensions": [
+      "accuracy",
+      "justification",
+      "error-analysis",
+      "explanation",
+      "transfer"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:3cf2634f-9bc7-409c-9635-ae482fcfa945",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "explain-proof-strategy",
+    "label": "Explain a proof strategy",
+    "definition": "Communicate how the structure of a claim motivates a proof method and how the main steps establish the conclusion.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review.",
+    "capability_statement": "Given a valid bounded proof, explain the role of its assumptions, method, key intermediate claims, and conclusion in language and notation appropriate to the mathematical objects involved.",
+    "evidence_dimensions": [
+      "explanation",
+      "justification",
+      "representation",
+      "transfer"
+    ],
+    "dependency_review": "unreviewed"
+  }
+]

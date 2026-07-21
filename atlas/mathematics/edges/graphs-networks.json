@@ -1,0 +1,902 @@
+[
+  {
+    "id": "ola:e:5f810fbf-c0a4-4435-9fe8-dd5e6e569313",
+    "revision": 1,
+    "subject": "ola:n:6554260b-2e0c-41ac-b9b9-cdaa7109cffa",
+    "relation": "composed_of",
+    "object": "ola:n:554f4499-c7cf-4dbe-a67f-466c9799d81c",
+    "rationale": "Finite graph is included in this territory decomposition for navigation and coverage, not instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:3316802f-c960-444c-9b98-63445ce9a0ea",
+    "revision": 1,
+    "subject": "ola:n:6554260b-2e0c-41ac-b9b9-cdaa7109cffa",
+    "relation": "composed_of",
+    "object": "ola:n:3fcbec2d-e126-40c6-9b3b-9a5401a6a483",
+    "rationale": "Graph incidence and adjacency is included in this territory decomposition for navigation and coverage, not instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:fc0a2c72-8485-4c0d-b1dd-28965f222495",
+    "revision": 1,
+    "subject": "ola:n:6554260b-2e0c-41ac-b9b9-cdaa7109cffa",
+    "relation": "composed_of",
+    "object": "ola:n:ef5d2053-5a48-4a36-9446-9c21109b5388",
+    "rationale": "Graph walk, path, and cycle is included in this territory decomposition for navigation and coverage, not instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:13053e27-00c6-43ce-8b6f-4344d9cc4dac",
+    "revision": 1,
+    "subject": "ola:n:6554260b-2e0c-41ac-b9b9-cdaa7109cffa",
+    "relation": "composed_of",
+    "object": "ola:n:c5f5eec3-efa6-431e-af5a-44e354c6203b",
+    "rationale": "Graph connectivity is included in this territory decomposition for navigation and coverage, not instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:f6b8eb4d-82d9-4be2-82ed-999f8d26470e",
+    "revision": 1,
+    "subject": "ola:n:6554260b-2e0c-41ac-b9b9-cdaa7109cffa",
+    "relation": "composed_of",
+    "object": "ola:n:9b7a0d4c-f299-4793-b48b-6d15147fc990",
+    "rationale": "Weighted and directed graph is included in this territory decomposition for navigation and coverage, not instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:fae5064d-2641-4d0c-848a-063d0ef52082",
+    "revision": 1,
+    "subject": "ola:n:6554260b-2e0c-41ac-b9b9-cdaa7109cffa",
+    "relation": "composed_of",
+    "object": "ola:n:2a6ba91f-543c-46fe-9c47-e53a805e7a69",
+    "rationale": "Finite-graph degree-sum relation is included in this territory decomposition for navigation and coverage, not instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:c8a3ab69-43ab-4729-a943-7ac13afa69a4",
+    "revision": 1,
+    "subject": "ola:n:6554260b-2e0c-41ac-b9b9-cdaa7109cffa",
+    "relation": "composed_of",
+    "object": "ola:n:ef975cd4-5195-45fd-9839-41e6b31e701c",
+    "rationale": "Node-link diagram is included in this territory decomposition for navigation and coverage, not instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:2636d1bd-c48e-4c99-b853-bccdb6c63d9d",
+    "revision": 1,
+    "subject": "ola:n:6554260b-2e0c-41ac-b9b9-cdaa7109cffa",
+    "relation": "composed_of",
+    "object": "ola:n:0cebc1c2-c492-405e-828e-6b268e4b9d9a",
+    "rationale": "Graph adjacency representation is included in this territory decomposition for navigation and coverage, not instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:de3329ff-0cc9-4f32-b320-db9146706173",
+    "revision": 1,
+    "subject": "ola:n:6554260b-2e0c-41ac-b9b9-cdaa7109cffa",
+    "relation": "composed_of",
+    "object": "ola:n:5bafc580-1627-4f2c-bdc6-c30bd643061e",
+    "rationale": "Interpret and construct finite graphs is included in this territory decomposition for navigation and coverage, not instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:84d687e3-ab72-4c3f-afc6-2db8ea2df560",
+    "revision": 1,
+    "subject": "ola:n:6554260b-2e0c-41ac-b9b9-cdaa7109cffa",
+    "relation": "composed_of",
+    "object": "ola:n:dd8d7acd-9df8-4fe7-85fe-dbab1db0baf5",
+    "rationale": "Analyze paths and connectivity is included in this territory decomposition for navigation and coverage, not instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:cb94b301-07ad-4a11-ac65-34709be750db",
+    "revision": 1,
+    "subject": "ola:n:6554260b-2e0c-41ac-b9b9-cdaa7109cffa",
+    "relation": "composed_of",
+    "object": "ola:n:df38602d-d491-4872-99a9-0e3e60a30f26",
+    "rationale": "Solve bounded network-structure problems is included in this territory decomposition for navigation and coverage, not instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:00a39100-75a7-4ef7-8cc2-64196a497402",
+    "revision": 1,
+    "subject": "ola:n:5bafc580-1627-4f2c-bdc6-c30bd643061e",
+    "relation": "composed_of",
+    "object": "ola:n:d6d3e259-d1ed-4879-b717-bb04246018ca",
+    "rationale": "Interpret a finite-graph representation is one bounded performance within Interpret and construct finite graphs.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:d7ba233f-33fb-4523-8c72-a378fb4e6fea",
+    "revision": 1,
+    "subject": "ola:n:5bafc580-1627-4f2c-bdc6-c30bd643061e",
+    "relation": "composed_of",
+    "object": "ola:n:a34878e8-3f38-4bfd-9ccb-a4f46ff10b75",
+    "rationale": "Construct a finite graph model is one bounded performance within Interpret and construct finite graphs.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:c60eda59-bf45-400c-9139-f2ad41725f64",
+    "revision": 1,
+    "subject": "ola:n:dd8d7acd-9df8-4fe7-85fe-dbab1db0baf5",
+    "relation": "composed_of",
+    "object": "ola:n:6574c218-beb6-4756-a768-efe9deeb38ea",
+    "rationale": "Determine local graph structure is one bounded performance within Analyze paths and connectivity.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:ee82ad8f-9041-46ec-a9ad-340f1c80ae73",
+    "revision": 1,
+    "subject": "ola:n:dd8d7acd-9df8-4fe7-85fe-dbab1db0baf5",
+    "relation": "composed_of",
+    "object": "ola:n:79490690-4440-43bd-8917-d5e4ff1d0598",
+    "rationale": "Analyze finite-graph connectivity is one bounded performance within Analyze paths and connectivity.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:7935fd34-5833-46d6-930a-6a955e67a18f",
+    "revision": 1,
+    "subject": "ola:n:dd8d7acd-9df8-4fe7-85fe-dbab1db0baf5",
+    "relation": "composed_of",
+    "object": "ola:n:70b578b3-a61b-49be-9777-da6c1fb8bc25",
+    "rationale": "Construct a constrained graph walk is one bounded performance within Analyze paths and connectivity.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:979b7763-976c-4567-82cd-9197172153b5",
+    "revision": 1,
+    "subject": "ola:n:df38602d-d491-4872-99a9-0e3e60a30f26",
+    "relation": "composed_of",
+    "object": "ola:n:5dd102d3-2585-4ed8-987a-f1ab673f92d9",
+    "rationale": "Solve a finite shortest-path problem is one bounded performance within Solve bounded network-structure problems.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:28417e6c-d504-45d5-b65c-0f3c79229bd0",
+    "revision": 1,
+    "subject": "ola:n:df38602d-d491-4872-99a9-0e3e60a30f26",
+    "relation": "composed_of",
+    "object": "ola:n:e1460ee2-e9b4-45e3-8a7c-889878114d46",
+    "rationale": "Construct a finite spanning tree is one bounded performance within Solve bounded network-structure problems.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:9722695d-cfe5-4cf6-b7cc-f61b9bb35655",
+    "revision": 1,
+    "subject": "ola:n:d6d3e259-d1ed-4879-b717-bb04246018ca",
+    "relation": "uses_concept",
+    "object": "ola:n:554f4499-c7cf-4dbe-a67f-466c9799d81c",
+    "rationale": "Demonstrating Interpret a finite-graph representation materially invokes Finite graph at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:5d905876-0bae-4096-9173-404dcf2778c0",
+    "revision": 1,
+    "subject": "ola:n:d6d3e259-d1ed-4879-b717-bb04246018ca",
+    "relation": "uses_concept",
+    "object": "ola:n:3fcbec2d-e126-40c6-9b3b-9a5401a6a483",
+    "rationale": "Demonstrating Interpret a finite-graph representation materially invokes Graph incidence and adjacency at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:b6863fff-57ea-451f-8d08-3ec566f26f25",
+    "revision": 1,
+    "subject": "ola:n:d6d3e259-d1ed-4879-b717-bb04246018ca",
+    "relation": "uses_representation",
+    "object": "ola:n:ef975cd4-5195-45fd-9839-41e6b31e701c",
+    "rationale": "Demonstrating Interpret a finite-graph representation materially invokes Node-link diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:d7a714ce-059f-4580-9a3e-65ef1c6c6e0d",
+    "revision": 1,
+    "subject": "ola:n:d6d3e259-d1ed-4879-b717-bb04246018ca",
+    "relation": "uses_representation",
+    "object": "ola:n:0cebc1c2-c492-405e-828e-6b268e4b9d9a",
+    "rationale": "Demonstrating Interpret a finite-graph representation materially invokes Graph adjacency representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:1b1f2f32-b14e-45bb-97ea-59cd6aeb8ee8",
+    "revision": 1,
+    "subject": "ola:n:a34878e8-3f38-4bfd-9ccb-a4f46ff10b75",
+    "relation": "uses_concept",
+    "object": "ola:n:554f4499-c7cf-4dbe-a67f-466c9799d81c",
+    "rationale": "Demonstrating Construct a finite graph model materially invokes Finite graph at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:25498c05-64b3-46ae-afb2-3105bbbefd2c",
+    "revision": 1,
+    "subject": "ola:n:a34878e8-3f38-4bfd-9ccb-a4f46ff10b75",
+    "relation": "uses_concept",
+    "object": "ola:n:9b7a0d4c-f299-4793-b48b-6d15147fc990",
+    "rationale": "Demonstrating Construct a finite graph model materially invokes Weighted and directed graph at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:a11a8cd9-c780-42ba-b57d-e1f3a366d409",
+    "revision": 1,
+    "subject": "ola:n:a34878e8-3f38-4bfd-9ccb-a4f46ff10b75",
+    "relation": "uses_representation",
+    "object": "ola:n:ef975cd4-5195-45fd-9839-41e6b31e701c",
+    "rationale": "Demonstrating Construct a finite graph model materially invokes Node-link diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:68553484-60ec-40e8-a33f-2eb7188139d2",
+    "revision": 1,
+    "subject": "ola:n:a34878e8-3f38-4bfd-9ccb-a4f46ff10b75",
+    "relation": "uses_representation",
+    "object": "ola:n:0cebc1c2-c492-405e-828e-6b268e4b9d9a",
+    "rationale": "Demonstrating Construct a finite graph model materially invokes Graph adjacency representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:075df577-ada5-4759-86a5-8d0869fc8359",
+    "revision": 1,
+    "subject": "ola:n:6574c218-beb6-4756-a768-efe9deeb38ea",
+    "relation": "uses_concept",
+    "object": "ola:n:554f4499-c7cf-4dbe-a67f-466c9799d81c",
+    "rationale": "Demonstrating Determine local graph structure materially invokes Finite graph at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:c54aec9e-78d6-4f3a-9af3-cad122b6468c",
+    "revision": 1,
+    "subject": "ola:n:6574c218-beb6-4756-a768-efe9deeb38ea",
+    "relation": "uses_concept",
+    "object": "ola:n:3fcbec2d-e126-40c6-9b3b-9a5401a6a483",
+    "rationale": "Demonstrating Determine local graph structure materially invokes Graph incidence and adjacency at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:5fefe92d-d3a3-47c2-9d75-8c8247208579",
+    "revision": 1,
+    "subject": "ola:n:6574c218-beb6-4756-a768-efe9deeb38ea",
+    "relation": "uses_knowledge",
+    "object": "ola:n:2a6ba91f-543c-46fe-9c47-e53a805e7a69",
+    "rationale": "Demonstrating Determine local graph structure materially invokes Finite-graph degree-sum relation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:8476a0e3-3663-4182-bfee-4631c4bb66d6",
+    "revision": 1,
+    "subject": "ola:n:6574c218-beb6-4756-a768-efe9deeb38ea",
+    "relation": "uses_representation",
+    "object": "ola:n:ef975cd4-5195-45fd-9839-41e6b31e701c",
+    "rationale": "Demonstrating Determine local graph structure materially invokes Node-link diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:51ae1f4c-1709-4664-a682-81e795240b64",
+    "revision": 1,
+    "subject": "ola:n:6574c218-beb6-4756-a768-efe9deeb38ea",
+    "relation": "uses_representation",
+    "object": "ola:n:0cebc1c2-c492-405e-828e-6b268e4b9d9a",
+    "rationale": "Demonstrating Determine local graph structure materially invokes Graph adjacency representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:a0e0b17f-f9d0-402e-9a96-256da76125b4",
+    "revision": 1,
+    "subject": "ola:n:79490690-4440-43bd-8917-d5e4ff1d0598",
+    "relation": "uses_concept",
+    "object": "ola:n:554f4499-c7cf-4dbe-a67f-466c9799d81c",
+    "rationale": "Demonstrating Analyze finite-graph connectivity materially invokes Finite graph at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:0a401fc9-a9e4-4fba-bd3f-8e595d75fc2d",
+    "revision": 1,
+    "subject": "ola:n:79490690-4440-43bd-8917-d5e4ff1d0598",
+    "relation": "uses_concept",
+    "object": "ola:n:ef5d2053-5a48-4a36-9446-9c21109b5388",
+    "rationale": "Demonstrating Analyze finite-graph connectivity materially invokes Graph walk, path, and cycle at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:43b9a41e-d432-4589-8ed8-432823c38a8f",
+    "revision": 1,
+    "subject": "ola:n:79490690-4440-43bd-8917-d5e4ff1d0598",
+    "relation": "uses_concept",
+    "object": "ola:n:c5f5eec3-efa6-431e-af5a-44e354c6203b",
+    "rationale": "Demonstrating Analyze finite-graph connectivity materially invokes Graph connectivity at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:ea01d5de-9ef6-4fc2-910e-8a2980751b74",
+    "revision": 1,
+    "subject": "ola:n:79490690-4440-43bd-8917-d5e4ff1d0598",
+    "relation": "uses_representation",
+    "object": "ola:n:ef975cd4-5195-45fd-9839-41e6b31e701c",
+    "rationale": "Demonstrating Analyze finite-graph connectivity materially invokes Node-link diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:d5482167-bc92-4a45-afb2-dcd0803a24d0",
+    "revision": 1,
+    "subject": "ola:n:79490690-4440-43bd-8917-d5e4ff1d0598",
+    "relation": "uses_representation",
+    "object": "ola:n:0cebc1c2-c492-405e-828e-6b268e4b9d9a",
+    "rationale": "Demonstrating Analyze finite-graph connectivity materially invokes Graph adjacency representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:fb4d3540-e652-4e8f-a691-749326551ba3",
+    "revision": 1,
+    "subject": "ola:n:70b578b3-a61b-49be-9777-da6c1fb8bc25",
+    "relation": "uses_concept",
+    "object": "ola:n:554f4499-c7cf-4dbe-a67f-466c9799d81c",
+    "rationale": "Demonstrating Construct a constrained graph walk materially invokes Finite graph at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:c91c47ae-4983-4cb7-82ef-ccdfc4a1d00b",
+    "revision": 1,
+    "subject": "ola:n:70b578b3-a61b-49be-9777-da6c1fb8bc25",
+    "relation": "uses_concept",
+    "object": "ola:n:ef5d2053-5a48-4a36-9446-9c21109b5388",
+    "rationale": "Demonstrating Construct a constrained graph walk materially invokes Graph walk, path, and cycle at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:496c454f-28ab-4800-b540-d235f614c862",
+    "revision": 1,
+    "subject": "ola:n:70b578b3-a61b-49be-9777-da6c1fb8bc25",
+    "relation": "uses_representation",
+    "object": "ola:n:ef975cd4-5195-45fd-9839-41e6b31e701c",
+    "rationale": "Demonstrating Construct a constrained graph walk materially invokes Node-link diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:3aa7ecdf-8a81-4294-abc0-d2943004d623",
+    "revision": 1,
+    "subject": "ola:n:70b578b3-a61b-49be-9777-da6c1fb8bc25",
+    "relation": "uses_representation",
+    "object": "ola:n:0cebc1c2-c492-405e-828e-6b268e4b9d9a",
+    "rationale": "Demonstrating Construct a constrained graph walk materially invokes Graph adjacency representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:738140e6-415e-4091-81c9-7d4e6705c497",
+    "revision": 1,
+    "subject": "ola:n:5dd102d3-2585-4ed8-987a-f1ab673f92d9",
+    "relation": "uses_concept",
+    "object": "ola:n:554f4499-c7cf-4dbe-a67f-466c9799d81c",
+    "rationale": "Demonstrating Solve a finite shortest-path problem materially invokes Finite graph at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:314257b8-5f11-4bb0-8e89-98263544cbdf",
+    "revision": 1,
+    "subject": "ola:n:5dd102d3-2585-4ed8-987a-f1ab673f92d9",
+    "relation": "uses_concept",
+    "object": "ola:n:ef5d2053-5a48-4a36-9446-9c21109b5388",
+    "rationale": "Demonstrating Solve a finite shortest-path problem materially invokes Graph walk, path, and cycle at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:dd3f8307-1b3a-4f2d-8dd0-b3048f9a4405",
+    "revision": 1,
+    "subject": "ola:n:5dd102d3-2585-4ed8-987a-f1ab673f92d9",
+    "relation": "uses_concept",
+    "object": "ola:n:9b7a0d4c-f299-4793-b48b-6d15147fc990",
+    "rationale": "Demonstrating Solve a finite shortest-path problem materially invokes Weighted and directed graph at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:390331a7-c4ec-497d-af23-b0fe0351da0b",
+    "revision": 1,
+    "subject": "ola:n:5dd102d3-2585-4ed8-987a-f1ab673f92d9",
+    "relation": "uses_representation",
+    "object": "ola:n:ef975cd4-5195-45fd-9839-41e6b31e701c",
+    "rationale": "Demonstrating Solve a finite shortest-path problem materially invokes Node-link diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:40ba9008-8705-45b5-a779-1b2a3182494d",
+    "revision": 1,
+    "subject": "ola:n:5dd102d3-2585-4ed8-987a-f1ab673f92d9",
+    "relation": "uses_representation",
+    "object": "ola:n:0cebc1c2-c492-405e-828e-6b268e4b9d9a",
+    "rationale": "Demonstrating Solve a finite shortest-path problem materially invokes Graph adjacency representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:fae0e8b3-1adf-4353-880d-76f9f21748a8",
+    "revision": 1,
+    "subject": "ola:n:e1460ee2-e9b4-45e3-8a7c-889878114d46",
+    "relation": "uses_concept",
+    "object": "ola:n:554f4499-c7cf-4dbe-a67f-466c9799d81c",
+    "rationale": "Demonstrating Construct a finite spanning tree materially invokes Finite graph at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:043e666e-ce1e-447c-878b-d9e8151256e0",
+    "revision": 1,
+    "subject": "ola:n:e1460ee2-e9b4-45e3-8a7c-889878114d46",
+    "relation": "uses_concept",
+    "object": "ola:n:c5f5eec3-efa6-431e-af5a-44e354c6203b",
+    "rationale": "Demonstrating Construct a finite spanning tree materially invokes Graph connectivity at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:8b6542e3-e2a4-4251-8031-38ccb7e609e4",
+    "revision": 1,
+    "subject": "ola:n:e1460ee2-e9b4-45e3-8a7c-889878114d46",
+    "relation": "uses_concept",
+    "object": "ola:n:9b7a0d4c-f299-4793-b48b-6d15147fc990",
+    "rationale": "Demonstrating Construct a finite spanning tree materially invokes Weighted and directed graph at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:33fc0e1f-cb30-4afe-8b35-03a9be80b508",
+    "revision": 1,
+    "subject": "ola:n:e1460ee2-e9b4-45e3-8a7c-889878114d46",
+    "relation": "uses_representation",
+    "object": "ola:n:ef975cd4-5195-45fd-9839-41e6b31e701c",
+    "rationale": "Demonstrating Construct a finite spanning tree materially invokes Node-link diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:cd709532-ace0-4e91-a872-418f347f7f3d",
+    "revision": 1,
+    "subject": "ola:n:e1460ee2-e9b4-45e3-8a7c-889878114d46",
+    "relation": "uses_representation",
+    "object": "ola:n:0cebc1c2-c492-405e-828e-6b268e4b9d9a",
+    "rationale": "Demonstrating Construct a finite spanning tree materially invokes Graph adjacency representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  }
+]

@@ -103,3 +103,8 @@ Every capability and practice record must:
 Mathematics v1.0 is complete only when every numbered section above has direct,
 inspectable evidence. Missing evidence is an incomplete requirement, not an
 implicit pass.
+
+During alpha development, `tools/audit-v1` reports the measurable territory
+floors without pretending they establish qualitative completeness. The final
+v1 gate will run `tools/audit-v1 --require-complete` in addition to human review
+evidence for scope, split quality, mathematical correctness, and dependencies.

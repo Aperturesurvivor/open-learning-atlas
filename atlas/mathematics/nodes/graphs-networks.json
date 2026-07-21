@@ -1,0 +1,395 @@
+[
+  {
+    "id": "ola:n:554f4499-c7cf-4dbe-a67f-466c9799d81c",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "finite-graph",
+    "label": "Finite graph",
+    "definition": "A finite set of vertices together with edges joining specified vertex pairs or ordered pairs.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review.",
+    "scope": {
+      "includes": [
+        "simple, directed, weighted, and multi-edge variants when declared"
+      ],
+      "excludes": [
+        "infinite-graph arguments unless explicitly scoped"
+      ]
+    }
+  },
+  {
+    "id": "ola:n:3fcbec2d-e126-40c6-9b3b-9a5401a6a483",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "graph-incidence-adjacency",
+    "label": "Graph incidence and adjacency",
+    "definition": "Relations expressing which vertices and edges meet and which vertices are joined.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:ef5d2053-5a48-4a36-9446-9c21109b5388",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "graph-walk-path-cycle",
+    "label": "Graph walk, path, and cycle",
+    "definition": "Successive incidence structures used to describe movement or connection through a graph.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:c5f5eec3-efa6-431e-af5a-44e354c6203b",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "graph-connectivity",
+    "label": "Graph connectivity",
+    "definition": "The structural property that specified vertices can be linked by paths, globally or within components.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:9b7a0d4c-f299-4793-b48b-6d15147fc990",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "weighted-directed-graph",
+    "label": "Weighted and directed graph",
+    "definition": "A graph whose edges carry direction, weight, capacity, cost, or another declared attribute.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:2a6ba91f-543c-46fe-9c47-e53a805e7a69",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "finite-graph-degree-sum",
+    "label": "Finite-graph degree-sum relation",
+    "definition": "In a finite undirected graph, summing vertex degrees counts each edge endpoint and therefore counts each edge twice.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:ef975cd4-5195-45fd-9839-41e6b31e701c",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "node-link-diagram",
+    "label": "Node-link diagram",
+    "definition": "A spatial depiction of vertices as marks and edges as links, with layout normally separate from graph identity.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:0cebc1c2-c492-405e-828e-6b268e4b9d9a",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "graph-adjacency-representation",
+    "label": "Graph adjacency representation",
+    "definition": "An adjacency list, matrix, edge list, or equivalent finite encoding of graph incidence.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:5bafc580-1627-4f2c-bdc6-c30bd643061e",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "graph-representation-structure-family",
+    "label": "Interpret and construct finite graphs",
+    "definition": "A capability family for moving between relational situations and finite graph structures or representations.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:dd8d7acd-9df8-4fe7-85fe-dbab1db0baf5",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "graph-path-connectivity-family",
+    "label": "Analyze paths and connectivity",
+    "definition": "A capability family for local structure, traversals, paths, cycles, reachability, and connected components.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:df38602d-d491-4872-99a9-0e3e60a30f26",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "network-optimization-structure-family",
+    "label": "Solve bounded network-structure problems",
+    "definition": "A capability family for optimizing paths and constructing spanning structures in finite weighted graphs.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:d6d3e259-d1ed-4879-b717-bb04246018ca",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "interpret-finite-graph-representation",
+    "label": "Interpret a finite-graph representation",
+    "definition": "Recover graph objects, relations, and declared attributes from a finite diagram or adjacency representation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review.",
+    "capability_statement": "Given a finite node-link diagram, edge list, adjacency list, or matrix with stated conventions, identify vertices, edges, adjacency, incidence, direction, weights, and representation-dependent features accurately.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "variation"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:a34878e8-3f38-4bfd-9ccb-a4f46ff10b75",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-finite-graph-model",
+    "label": "Construct a finite graph model",
+    "definition": "Represent a bounded relational situation as a finite graph while distinguishing modeling choices from facts in the situation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review.",
+    "capability_statement": "Given a bounded situation involving pairwise or directed relations, define vertices and edges, select relevant attributes, construct a finite graph representation, and explain what the model includes and omits.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "transfer"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:6574c218-beb6-4756-a768-efe9deeb38ea",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "determine-local-graph-structure",
+    "label": "Determine local graph structure",
+    "definition": "Determine adjacency, incidence, neighborhoods, and degrees for a finite graph under stated graph conventions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review.",
+    "capability_statement": "Given a finite graph and stated conventions, determine requested adjacencies, incidences, neighborhoods, vertex degrees, and degree totals, and check them against the degree-sum relation when applicable.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "justification",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:79490690-4440-43bd-8917-d5e4ff1d0598",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "analyze-finite-graph-connectivity",
+    "label": "Analyze finite-graph connectivity",
+    "definition": "Determine reachability, connected components, or disconnection evidence in a finite graph.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review.",
+    "capability_statement": "Given a finite graph and specified vertices or subsets, determine reachability and connected components by exhibiting paths or a valid separation argument under the declared directed or undirected interpretation.",
+    "evidence_dimensions": [
+      "accuracy",
+      "justification",
+      "representation",
+      "variation"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:70b578b3-a61b-49be-9777-da6c1fb8bc25",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-constrained-graph-walk",
+    "label": "Construct a constrained graph walk",
+    "definition": "Construct or rule out a walk, path, trail, or cycle meeting explicit finite constraints.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review.",
+    "capability_statement": "Given a finite graph and explicit endpoint, repetition, length, or coverage constraints, construct a qualifying walk, path, trail, or cycle, or justify why none exists for the scoped case.",
+    "evidence_dimensions": [
+      "accuracy",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:5dd102d3-2585-4ed8-987a-f1ab673f92d9",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "solve-finite-shortest-path",
+    "label": "Solve a finite shortest-path problem",
+    "definition": "Find and justify a minimum-weight path in a finite graph with conditions suited to the selected method.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review.",
+    "capability_statement": "Given a finite weighted graph, specified endpoints, and weights satisfying the chosen method's conditions, determine a shortest path, report its weight, and provide enough intermediate evidence to check optimality.",
+    "evidence_dimensions": [
+      "accuracy",
+      "justification",
+      "representation",
+      "error-analysis",
+      "transfer"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:e1460ee2-e9b4-45e3-8a7c-889878114d46",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-finite-spanning-tree",
+    "label": "Construct a finite spanning tree",
+    "definition": "Construct and verify a tree that contains every vertex of a connected finite graph, optionally under a stated weight objective.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review.",
+    "capability_statement": "Given a connected finite graph, construct a spanning tree and verify vertex coverage, connectedness, and absence of cycles; when minimizing weight, justify the selected edges under a valid method.",
+    "evidence_dimensions": [
+      "accuracy",
+      "justification",
+      "representation",
+      "variation"
+    ],
+    "dependency_review": "unreviewed"
+  }
+]

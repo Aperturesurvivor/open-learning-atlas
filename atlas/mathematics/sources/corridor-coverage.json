@@ -1,0 +1,74 @@
+[
+  {
+    "id": "ola:s:e7ec7e97-1ca3-4e15-8fbb-05d52719f2b8",
+    "revision": 1,
+    "title": "Graph Theory, Sixth Edition",
+    "source_type": "primary-mathematics",
+    "citation": "Diestel, Reinhard. Graph Theory. 6th ed., Graduate Texts in Mathematics 173, Springer, 2025.",
+    "url": "https://diestel-graph-theory.com/",
+    "accessed_at": "2026-07-21",
+    "coverage_for": [
+      "ola:n:6554260b-2e0c-41ac-b9b9-cdaa7109cffa"
+    ],
+    "coverage_scope": "Core finite-graph objects and methods: adjacency, paths, connectivity, trees, matching, planarity, coloring, flows, and advanced interfaces.",
+    "coverage_gaps": [
+      "The source is a disciplinary text rather than an educational dependency study.",
+      "This first corridor does not yet decompose matching, planarity, coloring, flow, extremal, random, or infinite graph theory."
+    ],
+    "notes": "Used for coverage auditing and terminology, not as an imported sequence or source of copied prose."
+  },
+  {
+    "id": "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af",
+    "revision": 1,
+    "title": "Book of Proof, Third Edition",
+    "source_type": "other",
+    "citation": "Hammack, Richard. Book of Proof. 3rd ed., 2018.",
+    "url": "https://richardhammack.github.io/BookOfProof/index.html",
+    "accessed_at": "2026-07-21",
+    "coverage_for": [
+      "ola:n:b35547fe-875f-4eff-a5f5-7fdfc18363e8"
+    ],
+    "coverage_scope": "Introductory proof terrain: sets, symbolic logic, direct proof, contrapositive, contradiction, induction, relations, functions, and cardinality.",
+    "coverage_gaps": [
+      "Coverage is introductory and does not exhaust formal proof theory, automated proving, category-theoretic proof, or field-specific proof methods.",
+      "The source is a proof text rather than empirical evidence about learning dependencies."
+    ],
+    "notes": "Used for coverage auditing and terminology, not as an imported sequence or source of copied prose."
+  },
+  {
+    "id": "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+    "revision": 1,
+    "title": "Pre-K–12 GAISE II Report",
+    "source_type": "standard",
+    "citation": "Bargagliotti, Anna E., et al. Pre-K–12 Guidelines for Assessment and Instruction in Statistics Education II: A Framework for Statistics and Data Science Education. American Statistical Association, 2020.",
+    "url": "https://www.amstat.org/education/guidelines-for-assessment-and-instruction-in-statistics-education-%28gaise%29-reports",
+    "accessed_at": "2026-07-21",
+    "coverage_for": [
+      "ola:n:f9c03c23-cc3a-41b3-a723-48eee030ffff"
+    ],
+    "coverage_scope": "Statistical problem-solving process: formulating questions, considering data, analyzing data, and interpreting results with variability throughout.",
+    "coverage_gaps": [
+      "The report is an education framework rather than exhaustive mathematical statistics coverage.",
+      "Advanced likelihood, Bayesian, causal, multivariate, and stochastic-process models remain outside this first corridor."
+    ],
+    "notes": "Used for coverage auditing and terminology, not as an imported sequence or source of copied prose."
+  },
+  {
+    "id": "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301",
+    "revision": 1,
+    "title": "NIST/SEMATECH Engineering Statistics Handbook",
+    "source_type": "standard",
+    "citation": "NIST and SEMATECH. NIST/SEMATECH e-Handbook of Statistical Methods. National Institute of Standards and Technology.",
+    "url": "https://www.itl.nist.gov/div898/handbook/",
+    "accessed_at": "2026-07-21",
+    "coverage_for": [
+      "ola:n:f9c03c23-cc3a-41b3-a723-48eee030ffff"
+    ],
+    "coverage_scope": "Scientific and engineering model-building coverage including exploratory analysis, process modeling, fitting, assumptions, diagnostics, comparison, and interpretation.",
+    "coverage_gaps": [
+      "The handbook emphasizes engineering applications and classical methods.",
+      "Its software workflow and chapter order are not imported as canonical dependencies."
+    ],
+    "notes": "Used for coverage auditing and terminology, not as an imported sequence or source of copied prose."
+  }
+]

@@ -1,0 +1,1104 @@
+[
+  {
+    "id": "ola:e:ba73f67c-3af3-4955-b3a0-06972261f987",
+    "revision": 1,
+    "subject": "ola:n:f9c03c23-cc3a-41b3-a723-48eee030ffff",
+    "relation": "composed_of",
+    "object": "ola:n:ddad9496-1899-4d30-a2ff-615e162ccb70",
+    "rationale": "Statistical model is included in this territory decomposition for navigation and coverage, not instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:0d9012c3-b172-4026-bdcd-b2d0a2e7a6d6",
+    "revision": 1,
+    "subject": "ola:n:f9c03c23-cc3a-41b3-a723-48eee030ffff",
+    "relation": "composed_of",
+    "object": "ola:n:ba9f83b8-b6e6-4088-b289-6872f29bb2b9",
+    "rationale": "Statistical parameter is included in this territory decomposition for navigation and coverage, not instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:e0d21507-ad0f-4a21-8e7b-4d72432a69ee",
+    "revision": 1,
+    "subject": "ola:n:f9c03c23-cc3a-41b3-a723-48eee030ffff",
+    "relation": "composed_of",
+    "object": "ola:n:aefbc486-e172-4c7a-9d4f-5fa0b39be4fc",
+    "rationale": "Statistical residual is included in this territory decomposition for navigation and coverage, not instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:6549e728-e82b-4ab3-8a1a-dc6413e92e2c",
+    "revision": 1,
+    "subject": "ola:n:f9c03c23-cc3a-41b3-a723-48eee030ffff",
+    "relation": "composed_of",
+    "object": "ola:n:a0f6dcfa-ecc4-451b-a748-99455cfaa9c9",
+    "rationale": "Statistical model assumption is included in this territory decomposition for navigation and coverage, not instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:00b5a25f-5457-42e7-8087-416e2ab75a71",
+    "revision": 1,
+    "subject": "ola:n:f9c03c23-cc3a-41b3-a723-48eee030ffff",
+    "relation": "composed_of",
+    "object": "ola:n:0dd7f4b7-7a23-4876-bef0-d85dd36687ab",
+    "rationale": "Sampling variation is included in this territory decomposition for navigation and coverage, not instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:89166749-5074-438f-b16e-5d167f787f79",
+    "revision": 1,
+    "subject": "ola:n:f9c03c23-cc3a-41b3-a723-48eee030ffff",
+    "relation": "composed_of",
+    "object": "ola:n:7d098ad9-1468-406a-a018-8ed8b6c68805",
+    "rationale": "Prediction uncertainty is included in this territory decomposition for navigation and coverage, not instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:433caf87-b5bf-4f95-bf0a-abe18201d333",
+    "revision": 1,
+    "subject": "ola:n:f9c03c23-cc3a-41b3-a723-48eee030ffff",
+    "relation": "composed_of",
+    "object": "ola:n:8a795921-37ac-40e5-b2c0-69de462d8418",
+    "rationale": "Model–data distinction is included in this territory decomposition for navigation and coverage, not instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:8bab21e0-9eed-4125-a072-2d1aeb8f88b4",
+    "revision": 1,
+    "subject": "ola:n:f9c03c23-cc3a-41b3-a723-48eee030ffff",
+    "relation": "composed_of",
+    "object": "ola:n:5805c33f-b714-4046-a90c-743f8d170a4d",
+    "rationale": "Fit, complexity, and generalization is included in this territory decomposition for navigation and coverage, not instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:26961796-baf9-457e-9f30-c7ca2cfcff46",
+    "revision": 1,
+    "subject": "ola:n:f9c03c23-cc3a-41b3-a723-48eee030ffff",
+    "relation": "composed_of",
+    "object": "ola:n:29d6886b-19ef-44f2-8a14-40ee5d962733",
+    "rationale": "Statistical model formula is included in this territory decomposition for navigation and coverage, not instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:a10231a1-1119-4754-93a4-b04e0cc2a4f9",
+    "revision": 1,
+    "subject": "ola:n:f9c03c23-cc3a-41b3-a723-48eee030ffff",
+    "relation": "composed_of",
+    "object": "ola:n:4f1465dd-e872-4719-b933-61b59bce12d7",
+    "rationale": "Fitted-model plot is included in this territory decomposition for navigation and coverage, not instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:53d507bb-e941-48c1-acd2-2aba036f51ba",
+    "revision": 1,
+    "subject": "ola:n:f9c03c23-cc3a-41b3-a723-48eee030ffff",
+    "relation": "composed_of",
+    "object": "ola:n:c4a29ff7-e29f-45c0-987a-522bb32e6e59",
+    "rationale": "Statistical diagnostic plot is included in this territory decomposition for navigation and coverage, not instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:64917917-77a3-40bf-95f8-e0f3b2b327b7",
+    "revision": 1,
+    "subject": "ola:n:f9c03c23-cc3a-41b3-a723-48eee030ffff",
+    "relation": "composed_of",
+    "object": "ola:n:864b81a1-209f-4d4a-907d-518823593166",
+    "rationale": "Formulate statistical models is included in this territory decomposition for navigation and coverage, not instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:b4eadf1d-d895-4e8b-b28d-26f2b2751336",
+    "revision": 1,
+    "subject": "ola:n:f9c03c23-cc3a-41b3-a723-48eee030ffff",
+    "relation": "composed_of",
+    "object": "ola:n:c77ba266-5186-4e24-99fb-47431eede57f",
+    "rationale": "Fit and compare statistical models is included in this territory decomposition for navigation and coverage, not instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:dfa0f896-5c7f-4dec-8cd3-799b2bd77fb0",
+    "revision": 1,
+    "subject": "ola:n:f9c03c23-cc3a-41b3-a723-48eee030ffff",
+    "relation": "composed_of",
+    "object": "ola:n:bbf627c4-6456-4a4a-9d6a-44e97f4e2b2a",
+    "rationale": "Diagnose and interpret statistical models is included in this territory decomposition for navigation and coverage, not instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:81ed9ead-ef83-463b-9038-65a96733c635",
+    "revision": 1,
+    "subject": "ola:n:864b81a1-209f-4d4a-907d-518823593166",
+    "relation": "composed_of",
+    "object": "ola:n:0a303893-9b38-41b2-b434-5e5b815b23c7",
+    "rationale": "Formulate a statistical modeling question is one bounded performance within Formulate statistical models.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:a1c6ff6e-1fb8-40f8-8db5-b272044549dc",
+    "revision": 1,
+    "subject": "ola:n:864b81a1-209f-4d4a-907d-518823593166",
+    "relation": "composed_of",
+    "object": "ola:n:cc77c443-7397-4d03-b2e2-695a99992b48",
+    "rationale": "Specify a statistical model is one bounded performance within Formulate statistical models.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:4502ed2c-aa29-4e48-9972-602765a1538b",
+    "revision": 1,
+    "subject": "ola:n:c77ba266-5186-4e24-99fb-47431eede57f",
+    "relation": "composed_of",
+    "object": "ola:n:29f7eda6-a0d1-4711-a07c-88bac8636084",
+    "rationale": "Fit a bounded statistical model is one bounded performance within Fit and compare statistical models.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:04acc484-654b-4f84-a52d-ed375755165f",
+    "revision": 1,
+    "subject": "ola:n:c77ba266-5186-4e24-99fb-47431eede57f",
+    "relation": "composed_of",
+    "object": "ola:n:7c4d9402-40bc-45ee-a1a9-bb9de9af6d67",
+    "rationale": "Compare candidate statistical models is one bounded performance within Fit and compare statistical models.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:63969543-e1df-4c3a-b979-e0ec4c2d75aa",
+    "revision": 1,
+    "subject": "ola:n:bbf627c4-6456-4a4a-9d6a-44e97f4e2b2a",
+    "relation": "composed_of",
+    "object": "ola:n:3d8fe43f-191b-4351-ac27-35771fdbe827",
+    "rationale": "Diagnose statistical model fit is one bounded performance within Diagnose and interpret statistical models.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:7ee194f3-6a04-449e-badf-9625826ebc25",
+    "revision": 1,
+    "subject": "ola:n:bbf627c4-6456-4a4a-9d6a-44e97f4e2b2a",
+    "relation": "composed_of",
+    "object": "ola:n:12653b25-8f14-4171-9dc8-4458fb4aab79",
+    "rationale": "Interpret a statistical model parameter is one bounded performance within Diagnose and interpret statistical models.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:459fbde4-f56c-4ae9-8175-4aa932e0eec4",
+    "revision": 1,
+    "subject": "ola:n:bbf627c4-6456-4a4a-9d6a-44e97f4e2b2a",
+    "relation": "composed_of",
+    "object": "ola:n:8e804d91-1c9e-4007-b770-58901128cdea",
+    "rationale": "Interpret a statistical prediction is one bounded performance within Diagnose and interpret statistical models.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:6b8ed186-24f7-459e-96cf-22942c827fbb",
+    "revision": 1,
+    "subject": "ola:n:bbf627c4-6456-4a4a-9d6a-44e97f4e2b2a",
+    "relation": "composed_of",
+    "object": "ola:n:047f0be8-ce2c-46e9-ac78-458a45cf1b0a",
+    "rationale": "Communicate statistical model limitations is one bounded performance within Diagnose and interpret statistical models.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:c1845fa4-61ad-40ae-ae1f-d14da1e6fe78",
+    "revision": 1,
+    "subject": "ola:n:0a303893-9b38-41b2-b434-5e5b815b23c7",
+    "relation": "uses_concept",
+    "object": "ola:n:0dd7f4b7-7a23-4876-bef0-d85dd36687ab",
+    "rationale": "Demonstrating Formulate a statistical modeling question materially invokes Sampling variation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:fc6a5303-b914-4819-9606-c6d964b65d5d",
+    "revision": 1,
+    "subject": "ola:n:0a303893-9b38-41b2-b434-5e5b815b23c7",
+    "relation": "uses_concept",
+    "object": "ola:n:7d098ad9-1468-406a-a018-8ed8b6c68805",
+    "rationale": "Demonstrating Formulate a statistical modeling question materially invokes Prediction uncertainty at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:09230e9f-c30f-4491-8bae-13d084cf6496",
+    "revision": 1,
+    "subject": "ola:n:0a303893-9b38-41b2-b434-5e5b815b23c7",
+    "relation": "uses_knowledge",
+    "object": "ola:n:8a795921-37ac-40e5-b2c0-69de462d8418",
+    "rationale": "Demonstrating Formulate a statistical modeling question materially invokes Model–data distinction at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:ceba7950-4ca4-4d20-87e1-1dcf769886eb",
+    "revision": 1,
+    "subject": "ola:n:cc77c443-7397-4d03-b2e2-695a99992b48",
+    "relation": "uses_concept",
+    "object": "ola:n:ddad9496-1899-4d30-a2ff-615e162ccb70",
+    "rationale": "Demonstrating Specify a statistical model materially invokes Statistical model at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:60e9631c-cdb6-41fd-a3ea-a0fb535d8f9c",
+    "revision": 1,
+    "subject": "ola:n:cc77c443-7397-4d03-b2e2-695a99992b48",
+    "relation": "uses_concept",
+    "object": "ola:n:ba9f83b8-b6e6-4088-b289-6872f29bb2b9",
+    "rationale": "Demonstrating Specify a statistical model materially invokes Statistical parameter at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:1f123f05-2f22-4ddd-ab8a-21a2241a27cc",
+    "revision": 1,
+    "subject": "ola:n:cc77c443-7397-4d03-b2e2-695a99992b48",
+    "relation": "uses_concept",
+    "object": "ola:n:a0f6dcfa-ecc4-451b-a748-99455cfaa9c9",
+    "rationale": "Demonstrating Specify a statistical model materially invokes Statistical model assumption at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:2d4f70a1-2126-4409-bf8c-ee83d5be452e",
+    "revision": 1,
+    "subject": "ola:n:cc77c443-7397-4d03-b2e2-695a99992b48",
+    "relation": "uses_representation",
+    "object": "ola:n:29d6886b-19ef-44f2-8a14-40ee5d962733",
+    "rationale": "Demonstrating Specify a statistical model materially invokes Statistical model formula at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:4469d0a3-8176-483b-b93e-42a1b3b38c9e",
+    "revision": 1,
+    "subject": "ola:n:cc77c443-7397-4d03-b2e2-695a99992b48",
+    "relation": "uses_knowledge",
+    "object": "ola:n:8a795921-37ac-40e5-b2c0-69de462d8418",
+    "rationale": "Demonstrating Specify a statistical model materially invokes Model–data distinction at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:49d7240f-aa49-482d-bff3-7f1cad3c2c1e",
+    "revision": 1,
+    "subject": "ola:n:29f7eda6-a0d1-4711-a07c-88bac8636084",
+    "relation": "uses_concept",
+    "object": "ola:n:ddad9496-1899-4d30-a2ff-615e162ccb70",
+    "rationale": "Demonstrating Fit a bounded statistical model materially invokes Statistical model at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:e6c779d4-dc8e-490c-849d-577dd0c383f6",
+    "revision": 1,
+    "subject": "ola:n:29f7eda6-a0d1-4711-a07c-88bac8636084",
+    "relation": "uses_concept",
+    "object": "ola:n:ba9f83b8-b6e6-4088-b289-6872f29bb2b9",
+    "rationale": "Demonstrating Fit a bounded statistical model materially invokes Statistical parameter at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:f90ba16b-fbe0-4a9c-ad7a-acd62db4e6c5",
+    "revision": 1,
+    "subject": "ola:n:29f7eda6-a0d1-4711-a07c-88bac8636084",
+    "relation": "uses_representation",
+    "object": "ola:n:29d6886b-19ef-44f2-8a14-40ee5d962733",
+    "rationale": "Demonstrating Fit a bounded statistical model materially invokes Statistical model formula at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:2002287c-68fd-4dcc-9978-a00eaf7143cf",
+    "revision": 1,
+    "subject": "ola:n:29f7eda6-a0d1-4711-a07c-88bac8636084",
+    "relation": "uses_representation",
+    "object": "ola:n:4f1465dd-e872-4719-b933-61b59bce12d7",
+    "rationale": "Demonstrating Fit a bounded statistical model materially invokes Fitted-model plot at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:bedfba7b-acd0-47f2-b9ee-e4659def6e1a",
+    "revision": 1,
+    "subject": "ola:n:7c4d9402-40bc-45ee-a1a9-bb9de9af6d67",
+    "relation": "uses_concept",
+    "object": "ola:n:ddad9496-1899-4d30-a2ff-615e162ccb70",
+    "rationale": "Demonstrating Compare candidate statistical models materially invokes Statistical model at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:5872fed1-fbd8-44dc-92cc-44ee1dea6a5c",
+    "revision": 1,
+    "subject": "ola:n:7c4d9402-40bc-45ee-a1a9-bb9de9af6d67",
+    "relation": "uses_knowledge",
+    "object": "ola:n:5805c33f-b714-4046-a90c-743f8d170a4d",
+    "rationale": "Demonstrating Compare candidate statistical models materially invokes Fit, complexity, and generalization at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:aa3ef158-6ca7-4e1b-a8c7-85281fe517d1",
+    "revision": 1,
+    "subject": "ola:n:7c4d9402-40bc-45ee-a1a9-bb9de9af6d67",
+    "relation": "uses_representation",
+    "object": "ola:n:4f1465dd-e872-4719-b933-61b59bce12d7",
+    "rationale": "Demonstrating Compare candidate statistical models materially invokes Fitted-model plot at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:7ac09c2e-5042-40c8-b035-de65dbfdc348",
+    "revision": 1,
+    "subject": "ola:n:7c4d9402-40bc-45ee-a1a9-bb9de9af6d67",
+    "relation": "uses_representation",
+    "object": "ola:n:c4a29ff7-e29f-45c0-987a-522bb32e6e59",
+    "rationale": "Demonstrating Compare candidate statistical models materially invokes Statistical diagnostic plot at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:4f21c90e-b839-49dc-8296-54736d456d8e",
+    "revision": 1,
+    "subject": "ola:n:3d8fe43f-191b-4351-ac27-35771fdbe827",
+    "relation": "uses_concept",
+    "object": "ola:n:ddad9496-1899-4d30-a2ff-615e162ccb70",
+    "rationale": "Demonstrating Diagnose statistical model fit materially invokes Statistical model at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:e08ad6f1-fde4-4659-ad58-15e441c491a0",
+    "revision": 1,
+    "subject": "ola:n:3d8fe43f-191b-4351-ac27-35771fdbe827",
+    "relation": "uses_concept",
+    "object": "ola:n:aefbc486-e172-4c7a-9d4f-5fa0b39be4fc",
+    "rationale": "Demonstrating Diagnose statistical model fit materially invokes Statistical residual at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:28149747-e30e-4db5-b8ba-a760b92746d9",
+    "revision": 1,
+    "subject": "ola:n:3d8fe43f-191b-4351-ac27-35771fdbe827",
+    "relation": "uses_concept",
+    "object": "ola:n:a0f6dcfa-ecc4-451b-a748-99455cfaa9c9",
+    "rationale": "Demonstrating Diagnose statistical model fit materially invokes Statistical model assumption at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:f2e4ba9b-8814-4229-9ee1-aea01a84f48a",
+    "revision": 1,
+    "subject": "ola:n:3d8fe43f-191b-4351-ac27-35771fdbe827",
+    "relation": "uses_knowledge",
+    "object": "ola:n:8a795921-37ac-40e5-b2c0-69de462d8418",
+    "rationale": "Demonstrating Diagnose statistical model fit materially invokes Model–data distinction at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:732ceea2-4b8c-4993-ae8d-038a339f68ae",
+    "revision": 1,
+    "subject": "ola:n:3d8fe43f-191b-4351-ac27-35771fdbe827",
+    "relation": "uses_representation",
+    "object": "ola:n:c4a29ff7-e29f-45c0-987a-522bb32e6e59",
+    "rationale": "Demonstrating Diagnose statistical model fit materially invokes Statistical diagnostic plot at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:92edfe90-078b-4216-845c-c98299895d92",
+    "revision": 1,
+    "subject": "ola:n:12653b25-8f14-4171-9dc8-4458fb4aab79",
+    "relation": "uses_concept",
+    "object": "ola:n:ddad9496-1899-4d30-a2ff-615e162ccb70",
+    "rationale": "Demonstrating Interpret a statistical model parameter materially invokes Statistical model at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:924f62da-8de4-4a23-894f-6dd88aec4d13",
+    "revision": 1,
+    "subject": "ola:n:12653b25-8f14-4171-9dc8-4458fb4aab79",
+    "relation": "uses_concept",
+    "object": "ola:n:ba9f83b8-b6e6-4088-b289-6872f29bb2b9",
+    "rationale": "Demonstrating Interpret a statistical model parameter materially invokes Statistical parameter at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:84f34793-27b0-45ed-ab07-e2c144e46c76",
+    "revision": 1,
+    "subject": "ola:n:12653b25-8f14-4171-9dc8-4458fb4aab79",
+    "relation": "uses_concept",
+    "object": "ola:n:0dd7f4b7-7a23-4876-bef0-d85dd36687ab",
+    "rationale": "Demonstrating Interpret a statistical model parameter materially invokes Sampling variation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:12104bb2-61bb-4481-81f8-80e0064fa2c1",
+    "revision": 1,
+    "subject": "ola:n:12653b25-8f14-4171-9dc8-4458fb4aab79",
+    "relation": "uses_concept",
+    "object": "ola:n:7d098ad9-1468-406a-a018-8ed8b6c68805",
+    "rationale": "Demonstrating Interpret a statistical model parameter materially invokes Prediction uncertainty at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:ac7758f8-4ec8-4d24-b1b9-653d72da80f1",
+    "revision": 1,
+    "subject": "ola:n:12653b25-8f14-4171-9dc8-4458fb4aab79",
+    "relation": "uses_representation",
+    "object": "ola:n:29d6886b-19ef-44f2-8a14-40ee5d962733",
+    "rationale": "Demonstrating Interpret a statistical model parameter materially invokes Statistical model formula at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:1f53f23b-f9dc-40b0-a2a6-ad8d9ff05501",
+    "revision": 1,
+    "subject": "ola:n:8e804d91-1c9e-4007-b770-58901128cdea",
+    "relation": "uses_concept",
+    "object": "ola:n:ddad9496-1899-4d30-a2ff-615e162ccb70",
+    "rationale": "Demonstrating Interpret a statistical prediction materially invokes Statistical model at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:e4871c02-efa4-42b8-9abc-baae30eaa3fd",
+    "revision": 1,
+    "subject": "ola:n:8e804d91-1c9e-4007-b770-58901128cdea",
+    "relation": "uses_concept",
+    "object": "ola:n:0dd7f4b7-7a23-4876-bef0-d85dd36687ab",
+    "rationale": "Demonstrating Interpret a statistical prediction materially invokes Sampling variation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:6dc968e0-7629-47ca-b422-47723744fae7",
+    "revision": 1,
+    "subject": "ola:n:8e804d91-1c9e-4007-b770-58901128cdea",
+    "relation": "uses_concept",
+    "object": "ola:n:7d098ad9-1468-406a-a018-8ed8b6c68805",
+    "rationale": "Demonstrating Interpret a statistical prediction materially invokes Prediction uncertainty at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:c271edcc-2221-46d5-b2fd-6ec6165b081e",
+    "revision": 1,
+    "subject": "ola:n:8e804d91-1c9e-4007-b770-58901128cdea",
+    "relation": "uses_representation",
+    "object": "ola:n:4f1465dd-e872-4719-b933-61b59bce12d7",
+    "rationale": "Demonstrating Interpret a statistical prediction materially invokes Fitted-model plot at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:b50c2eef-63c7-4cdf-af81-a7256d7b1efc",
+    "revision": 1,
+    "subject": "ola:n:047f0be8-ce2c-46e9-ac78-458a45cf1b0a",
+    "relation": "uses_concept",
+    "object": "ola:n:a0f6dcfa-ecc4-451b-a748-99455cfaa9c9",
+    "rationale": "Demonstrating Communicate statistical model limitations materially invokes Statistical model assumption at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:55d33bd1-df2c-43d9-bb3c-a7aa45947a48",
+    "revision": 1,
+    "subject": "ola:n:047f0be8-ce2c-46e9-ac78-458a45cf1b0a",
+    "relation": "uses_concept",
+    "object": "ola:n:7d098ad9-1468-406a-a018-8ed8b6c68805",
+    "rationale": "Demonstrating Communicate statistical model limitations materially invokes Prediction uncertainty at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:ff054180-78b2-49ef-ad9e-eab48e1f80f8",
+    "revision": 1,
+    "subject": "ola:n:047f0be8-ce2c-46e9-ac78-458a45cf1b0a",
+    "relation": "uses_knowledge",
+    "object": "ola:n:8a795921-37ac-40e5-b2c0-69de462d8418",
+    "rationale": "Demonstrating Communicate statistical model limitations materially invokes Model–data distinction at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:33ff5395-397e-480c-933a-ff5e4824c99f",
+    "revision": 1,
+    "subject": "ola:n:047f0be8-ce2c-46e9-ac78-458a45cf1b0a",
+    "relation": "uses_knowledge",
+    "object": "ola:n:5805c33f-b714-4046-a90c-743f8d170a4d",
+    "rationale": "Demonstrating Communicate statistical model limitations materially invokes Fit, complexity, and generalization at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:0911b702-d542-4e52-b1ad-0b73aab64e86",
+    "revision": 1,
+    "subject": "ola:n:047f0be8-ce2c-46e9-ac78-458a45cf1b0a",
+    "relation": "uses_representation",
+    "object": "ola:n:4f1465dd-e872-4719-b933-61b59bce12d7",
+    "rationale": "Demonstrating Communicate statistical model limitations materially invokes Fitted-model plot at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:67b84484-63cd-48b2-99b8-ed01577344a1",
+    "revision": 1,
+    "subject": "ola:n:047f0be8-ce2c-46e9-ac78-458a45cf1b0a",
+    "relation": "uses_representation",
+    "object": "ola:n:c4a29ff7-e29f-45c0-987a-522bb32e6e59",
+    "rationale": "Demonstrating Communicate statistical model limitations materially invokes Statistical diagnostic plot at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  }
+]

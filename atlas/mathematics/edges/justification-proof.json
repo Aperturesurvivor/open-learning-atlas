@@ -1,0 +1,884 @@
+[
+  {
+    "id": "ola:e:355be63a-0865-4169-b8cb-6f4809c603b9",
+    "revision": 1,
+    "subject": "ola:n:b35547fe-875f-4eff-a5f5-7fdfc18363e8",
+    "relation": "composed_of",
+    "object": "ola:n:1a2dd0f9-6715-4b8e-a4b7-810a92c6b1b1",
+    "rationale": "Logical implication is included in this territory decomposition for navigation and coverage, not instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:98c44a57-6189-41e7-9ab9-de4fa56b3d4a",
+    "revision": 1,
+    "subject": "ola:n:b35547fe-875f-4eff-a5f5-7fdfc18363e8",
+    "relation": "composed_of",
+    "object": "ola:n:b262667e-d1bc-4f15-85e7-298abfcc7f14",
+    "rationale": "Quantifier and scope is included in this territory decomposition for navigation and coverage, not instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:4093ea11-13c1-4c1d-88e0-e56a3e26a1e0",
+    "revision": 1,
+    "subject": "ola:n:b35547fe-875f-4eff-a5f5-7fdfc18363e8",
+    "relation": "composed_of",
+    "object": "ola:n:50254587-078b-4759-b847-f414187b698a",
+    "rationale": "Mathematical counterexample is included in this territory decomposition for navigation and coverage, not instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:96659918-2d5d-4e3a-9b7c-45863145d541",
+    "revision": 1,
+    "subject": "ola:n:b35547fe-875f-4eff-a5f5-7fdfc18363e8",
+    "relation": "composed_of",
+    "object": "ola:n:32900244-b211-4af2-b7a2-f35b1cda58f8",
+    "rationale": "Proof invariant is included in this territory decomposition for navigation and coverage, not instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:2defef12-923e-4627-9da2-563d3e0f747e",
+    "revision": 1,
+    "subject": "ola:n:b35547fe-875f-4eff-a5f5-7fdfc18363e8",
+    "relation": "composed_of",
+    "object": "ola:n:1b71d753-17cc-4087-954b-535efa8a9914",
+    "rationale": "Validity versus truth is included in this territory decomposition for navigation and coverage, not instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:c8acbc06-37f0-43cc-8ebc-363e7176c206",
+    "revision": 1,
+    "subject": "ola:n:b35547fe-875f-4eff-a5f5-7fdfc18363e8",
+    "relation": "composed_of",
+    "object": "ola:n:8d45cd6d-7442-4648-928a-00269c8081bd",
+    "rationale": "Proof-obligation structure is included in this territory decomposition for navigation and coverage, not instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:a9fe170f-00fc-44ef-bff6-f1de0e1dd683",
+    "revision": 1,
+    "subject": "ola:n:b35547fe-875f-4eff-a5f5-7fdfc18363e8",
+    "relation": "composed_of",
+    "object": "ola:n:167656df-8983-4b1f-bfd2-f62101093b40",
+    "rationale": "Symbolic logical form is included in this territory decomposition for navigation and coverage, not instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:6b449bc3-22f5-4898-b297-1bb3fff119b3",
+    "revision": 1,
+    "subject": "ola:n:b35547fe-875f-4eff-a5f5-7fdfc18363e8",
+    "relation": "composed_of",
+    "object": "ola:n:bdcdf1e6-66be-4bcd-b5f7-2f56c35e8ab8",
+    "rationale": "Structured proof text is included in this territory decomposition for navigation and coverage, not instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:5474fd4d-9ad8-4473-9a24-7018bb82c202",
+    "revision": 1,
+    "subject": "ola:n:b35547fe-875f-4eff-a5f5-7fdfc18363e8",
+    "relation": "composed_of",
+    "object": "ola:n:86f25099-b3d0-4444-b35f-b01803476f64",
+    "rationale": "Analyze mathematical claims is included in this territory decomposition for navigation and coverage, not instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:4d365757-ef46-405a-9221-015d9ce516c8",
+    "revision": 1,
+    "subject": "ola:n:b35547fe-875f-4eff-a5f5-7fdfc18363e8",
+    "relation": "composed_of",
+    "object": "ola:n:fc923124-36ea-4e69-b58a-f82b7d8e661e",
+    "rationale": "Construct deductive arguments is included in this territory decomposition for navigation and coverage, not instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:20f3f835-4e4e-4eae-bf17-812f6309a5e5",
+    "revision": 1,
+    "subject": "ola:n:b35547fe-875f-4eff-a5f5-7fdfc18363e8",
+    "relation": "composed_of",
+    "object": "ola:n:e40ff5ff-2373-4024-8e58-e1911a324491",
+    "rationale": "Evaluate mathematical arguments is included in this territory decomposition for navigation and coverage, not instructional order.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:4445b24e-2c24-4b5f-b647-c26651a80727",
+    "revision": 1,
+    "subject": "ola:n:86f25099-b3d0-4444-b35f-b01803476f64",
+    "relation": "composed_of",
+    "object": "ola:n:82dd8d6b-d77e-4844-b7ed-e0de8963d471",
+    "rationale": "Parse a quantified mathematical statement is one bounded performance within Analyze mathematical claims.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:30019c7e-5a85-48d6-ae17-017d97f0d3ab",
+    "revision": 1,
+    "subject": "ola:n:86f25099-b3d0-4444-b35f-b01803476f64",
+    "relation": "composed_of",
+    "object": "ola:n:e900e521-dd69-4eca-a290-d7afeb5b0737",
+    "rationale": "Identify proof obligations is one bounded performance within Analyze mathematical claims.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:b371228f-bdd1-4785-9f36-30920fd0a0b2",
+    "revision": 1,
+    "subject": "ola:n:fc923124-36ea-4e69-b58a-f82b7d8e661e",
+    "relation": "composed_of",
+    "object": "ola:n:12dff7b9-8aba-47da-bd01-dfa923340209",
+    "rationale": "Construct a direct proof is one bounded performance within Construct deductive arguments.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:15a7af29-4f84-4e63-b7c1-7df2e44dc82c",
+    "revision": 1,
+    "subject": "ola:n:fc923124-36ea-4e69-b58a-f82b7d8e661e",
+    "relation": "composed_of",
+    "object": "ola:n:0f039ab9-3cd0-4e5a-b8a5-84ddb298d394",
+    "rationale": "Construct an indirect proof is one bounded performance within Construct deductive arguments.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:d7b4203e-e9db-490d-822f-08781c3f319b",
+    "revision": 1,
+    "subject": "ola:n:fc923124-36ea-4e69-b58a-f82b7d8e661e",
+    "relation": "composed_of",
+    "object": "ola:n:9a940dbc-7af2-4ea5-be1d-b31752b82259",
+    "rationale": "Construct an inductive proof is one bounded performance within Construct deductive arguments.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:d5eaad6f-3c6f-4e86-9746-d205e0790244",
+    "revision": 1,
+    "subject": "ola:n:e40ff5ff-2373-4024-8e58-e1911a324491",
+    "relation": "composed_of",
+    "object": "ola:n:fef17c40-7282-4493-ab85-b1b5f115a65a",
+    "rationale": "Refute a universal claim with a counterexample is one bounded performance within Evaluate mathematical arguments.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:e7f0be1b-02bd-4ba8-a0e2-b810335b4e54",
+    "revision": 1,
+    "subject": "ola:n:e40ff5ff-2373-4024-8e58-e1911a324491",
+    "relation": "composed_of",
+    "object": "ola:n:83311930-e2ef-4a35-93d7-02f5332b7b4c",
+    "rationale": "Audit a deductive argument is one bounded performance within Evaluate mathematical arguments.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:15fc3552-0f65-4693-9cda-bc9a0c77e2f4",
+    "revision": 1,
+    "subject": "ola:n:e40ff5ff-2373-4024-8e58-e1911a324491",
+    "relation": "composed_of",
+    "object": "ola:n:3cf2634f-9bc7-409c-9635-ae482fcfa945",
+    "rationale": "Explain a proof strategy is one bounded performance within Evaluate mathematical arguments.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:690e442b-5c90-4f1c-b74e-c57fa580c09b",
+    "revision": 1,
+    "subject": "ola:n:82dd8d6b-d77e-4844-b7ed-e0de8963d471",
+    "relation": "uses_concept",
+    "object": "ola:n:1a2dd0f9-6715-4b8e-a4b7-810a92c6b1b1",
+    "rationale": "Demonstrating Parse a quantified mathematical statement materially invokes Logical implication at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:769b4542-b32d-4800-8085-f0a8729bdebf",
+    "revision": 1,
+    "subject": "ola:n:82dd8d6b-d77e-4844-b7ed-e0de8963d471",
+    "relation": "uses_concept",
+    "object": "ola:n:b262667e-d1bc-4f15-85e7-298abfcc7f14",
+    "rationale": "Demonstrating Parse a quantified mathematical statement materially invokes Quantifier and scope at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:b648ecf3-6e52-4163-9bd1-ce736362a766",
+    "revision": 1,
+    "subject": "ola:n:82dd8d6b-d77e-4844-b7ed-e0de8963d471",
+    "relation": "uses_representation",
+    "object": "ola:n:167656df-8983-4b1f-bfd2-f62101093b40",
+    "rationale": "Demonstrating Parse a quantified mathematical statement materially invokes Symbolic logical form at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:20b3978b-bb7b-4af2-930f-686b255cfa7b",
+    "revision": 1,
+    "subject": "ola:n:e900e521-dd69-4eca-a290-d7afeb5b0737",
+    "relation": "uses_concept",
+    "object": "ola:n:1a2dd0f9-6715-4b8e-a4b7-810a92c6b1b1",
+    "rationale": "Demonstrating Identify proof obligations materially invokes Logical implication at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:c0983b1a-a5cf-4cd3-99e9-232f49165dd0",
+    "revision": 1,
+    "subject": "ola:n:e900e521-dd69-4eca-a290-d7afeb5b0737",
+    "relation": "uses_concept",
+    "object": "ola:n:b262667e-d1bc-4f15-85e7-298abfcc7f14",
+    "rationale": "Demonstrating Identify proof obligations materially invokes Quantifier and scope at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:98f00dcc-fde7-4027-8874-b4484001c105",
+    "revision": 1,
+    "subject": "ola:n:e900e521-dd69-4eca-a290-d7afeb5b0737",
+    "relation": "uses_knowledge",
+    "object": "ola:n:8d45cd6d-7442-4648-928a-00269c8081bd",
+    "rationale": "Demonstrating Identify proof obligations materially invokes Proof-obligation structure at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:786374ac-0bd0-4a5b-9f80-bb448e61e791",
+    "revision": 1,
+    "subject": "ola:n:e900e521-dd69-4eca-a290-d7afeb5b0737",
+    "relation": "uses_representation",
+    "object": "ola:n:167656df-8983-4b1f-bfd2-f62101093b40",
+    "rationale": "Demonstrating Identify proof obligations materially invokes Symbolic logical form at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:e296c168-c9e6-46e3-83d8-23451e67618e",
+    "revision": 1,
+    "subject": "ola:n:12dff7b9-8aba-47da-bd01-dfa923340209",
+    "relation": "uses_concept",
+    "object": "ola:n:1a2dd0f9-6715-4b8e-a4b7-810a92c6b1b1",
+    "rationale": "Demonstrating Construct a direct proof materially invokes Logical implication at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:50310ade-c43d-47c7-ba20-2567f8c07d10",
+    "revision": 1,
+    "subject": "ola:n:12dff7b9-8aba-47da-bd01-dfa923340209",
+    "relation": "uses_knowledge",
+    "object": "ola:n:1b71d753-17cc-4087-954b-535efa8a9914",
+    "rationale": "Demonstrating Construct a direct proof materially invokes Validity versus truth at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:9d542f9b-5795-4463-b7b9-6aaa9e9f2676",
+    "revision": 1,
+    "subject": "ola:n:12dff7b9-8aba-47da-bd01-dfa923340209",
+    "relation": "uses_knowledge",
+    "object": "ola:n:8d45cd6d-7442-4648-928a-00269c8081bd",
+    "rationale": "Demonstrating Construct a direct proof materially invokes Proof-obligation structure at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:7d707482-8ef9-4f51-8cd8-fa372e2d1a94",
+    "revision": 1,
+    "subject": "ola:n:12dff7b9-8aba-47da-bd01-dfa923340209",
+    "relation": "uses_representation",
+    "object": "ola:n:bdcdf1e6-66be-4bcd-b5f7-2f56c35e8ab8",
+    "rationale": "Demonstrating Construct a direct proof materially invokes Structured proof text at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:9505477b-2b47-4d1a-acbe-53a9dacd74a7",
+    "revision": 1,
+    "subject": "ola:n:0f039ab9-3cd0-4e5a-b8a5-84ddb298d394",
+    "relation": "uses_concept",
+    "object": "ola:n:1a2dd0f9-6715-4b8e-a4b7-810a92c6b1b1",
+    "rationale": "Demonstrating Construct an indirect proof materially invokes Logical implication at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:166b3c50-c93d-492d-9c33-8310645e3561",
+    "revision": 1,
+    "subject": "ola:n:0f039ab9-3cd0-4e5a-b8a5-84ddb298d394",
+    "relation": "uses_knowledge",
+    "object": "ola:n:1b71d753-17cc-4087-954b-535efa8a9914",
+    "rationale": "Demonstrating Construct an indirect proof materially invokes Validity versus truth at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:13d3955d-ad8f-4774-98bf-ef60bf778f76",
+    "revision": 1,
+    "subject": "ola:n:0f039ab9-3cd0-4e5a-b8a5-84ddb298d394",
+    "relation": "uses_knowledge",
+    "object": "ola:n:8d45cd6d-7442-4648-928a-00269c8081bd",
+    "rationale": "Demonstrating Construct an indirect proof materially invokes Proof-obligation structure at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:ba716fe5-bdd8-48df-aaa0-1ed5db657e24",
+    "revision": 1,
+    "subject": "ola:n:0f039ab9-3cd0-4e5a-b8a5-84ddb298d394",
+    "relation": "uses_representation",
+    "object": "ola:n:167656df-8983-4b1f-bfd2-f62101093b40",
+    "rationale": "Demonstrating Construct an indirect proof materially invokes Symbolic logical form at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:fa6b887d-a3e7-4d99-9c21-90130d84b134",
+    "revision": 1,
+    "subject": "ola:n:0f039ab9-3cd0-4e5a-b8a5-84ddb298d394",
+    "relation": "uses_representation",
+    "object": "ola:n:bdcdf1e6-66be-4bcd-b5f7-2f56c35e8ab8",
+    "rationale": "Demonstrating Construct an indirect proof materially invokes Structured proof text at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:148932a0-b1d8-4525-a204-c558d3da3cba",
+    "revision": 1,
+    "subject": "ola:n:9a940dbc-7af2-4ea5-be1d-b31752b82259",
+    "relation": "uses_concept",
+    "object": "ola:n:32900244-b211-4af2-b7a2-f35b1cda58f8",
+    "rationale": "Demonstrating Construct an inductive proof materially invokes Proof invariant at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:9bce5e87-a55e-433f-8338-9fe3f6166ef0",
+    "revision": 1,
+    "subject": "ola:n:9a940dbc-7af2-4ea5-be1d-b31752b82259",
+    "relation": "uses_knowledge",
+    "object": "ola:n:8d45cd6d-7442-4648-928a-00269c8081bd",
+    "rationale": "Demonstrating Construct an inductive proof materially invokes Proof-obligation structure at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:8311b98f-1467-4c88-9fc0-11b086aa0c4a",
+    "revision": 1,
+    "subject": "ola:n:9a940dbc-7af2-4ea5-be1d-b31752b82259",
+    "relation": "uses_representation",
+    "object": "ola:n:167656df-8983-4b1f-bfd2-f62101093b40",
+    "rationale": "Demonstrating Construct an inductive proof materially invokes Symbolic logical form at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:48942341-0a95-4825-806f-2b81204e7fe5",
+    "revision": 1,
+    "subject": "ola:n:9a940dbc-7af2-4ea5-be1d-b31752b82259",
+    "relation": "uses_representation",
+    "object": "ola:n:bdcdf1e6-66be-4bcd-b5f7-2f56c35e8ab8",
+    "rationale": "Demonstrating Construct an inductive proof materially invokes Structured proof text at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:33f947a2-a004-4295-90af-6706febf8381",
+    "revision": 1,
+    "subject": "ola:n:fef17c40-7282-4493-ab85-b1b5f115a65a",
+    "relation": "uses_concept",
+    "object": "ola:n:b262667e-d1bc-4f15-85e7-298abfcc7f14",
+    "rationale": "Demonstrating Refute a universal claim with a counterexample materially invokes Quantifier and scope at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:0172b37f-5580-451c-859f-8849de7c55c4",
+    "revision": 1,
+    "subject": "ola:n:fef17c40-7282-4493-ab85-b1b5f115a65a",
+    "relation": "uses_concept",
+    "object": "ola:n:50254587-078b-4759-b847-f414187b698a",
+    "rationale": "Demonstrating Refute a universal claim with a counterexample materially invokes Mathematical counterexample at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:20e49361-3075-4798-8dec-1e67dc6734d8",
+    "revision": 1,
+    "subject": "ola:n:fef17c40-7282-4493-ab85-b1b5f115a65a",
+    "relation": "uses_representation",
+    "object": "ola:n:167656df-8983-4b1f-bfd2-f62101093b40",
+    "rationale": "Demonstrating Refute a universal claim with a counterexample materially invokes Symbolic logical form at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:70a301a6-6dd2-4166-80d7-1aa97fcd1d28",
+    "revision": 1,
+    "subject": "ola:n:fef17c40-7282-4493-ab85-b1b5f115a65a",
+    "relation": "uses_representation",
+    "object": "ola:n:bdcdf1e6-66be-4bcd-b5f7-2f56c35e8ab8",
+    "rationale": "Demonstrating Refute a universal claim with a counterexample materially invokes Structured proof text at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:aa7d9d71-9604-4c9f-865e-b71d6ac06bca",
+    "revision": 1,
+    "subject": "ola:n:83311930-e2ef-4a35-93d7-02f5332b7b4c",
+    "relation": "uses_knowledge",
+    "object": "ola:n:1b71d753-17cc-4087-954b-535efa8a9914",
+    "rationale": "Demonstrating Audit a deductive argument materially invokes Validity versus truth at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:0c24012c-1819-43da-92cb-783b027796ab",
+    "revision": 1,
+    "subject": "ola:n:83311930-e2ef-4a35-93d7-02f5332b7b4c",
+    "relation": "uses_knowledge",
+    "object": "ola:n:8d45cd6d-7442-4648-928a-00269c8081bd",
+    "rationale": "Demonstrating Audit a deductive argument materially invokes Proof-obligation structure at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:b56d9e58-c317-4204-ba11-21ec199c5159",
+    "revision": 1,
+    "subject": "ola:n:83311930-e2ef-4a35-93d7-02f5332b7b4c",
+    "relation": "uses_representation",
+    "object": "ola:n:167656df-8983-4b1f-bfd2-f62101093b40",
+    "rationale": "Demonstrating Audit a deductive argument materially invokes Symbolic logical form at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:2757178d-dde4-45c5-82fe-c8abdb336ed9",
+    "revision": 1,
+    "subject": "ola:n:83311930-e2ef-4a35-93d7-02f5332b7b4c",
+    "relation": "uses_representation",
+    "object": "ola:n:bdcdf1e6-66be-4bcd-b5f7-2f56c35e8ab8",
+    "rationale": "Demonstrating Audit a deductive argument materially invokes Structured proof text at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:c4a3ce9f-ac9e-49e6-b045-3aaf2c5a966b",
+    "revision": 1,
+    "subject": "ola:n:3cf2634f-9bc7-409c-9635-ae482fcfa945",
+    "relation": "uses_knowledge",
+    "object": "ola:n:8d45cd6d-7442-4648-928a-00269c8081bd",
+    "rationale": "Demonstrating Explain a proof strategy materially invokes Proof-obligation structure at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  },
+  {
+    "id": "ola:e:369a242e-3edb-436f-b535-685a0b2caba2",
+    "revision": 1,
+    "subject": "ola:n:3cf2634f-9bc7-409c-9635-ae482fcfa945",
+    "relation": "uses_representation",
+    "object": "ola:n:bdcdf1e6-66be-4bcd-b5f7-2f56c35e8ab8",
+    "rationale": "Demonstrating Explain a proof strategy materially invokes Structured proof text at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:7cedb2d6-b899-4c30-916e-1c42200403af"
+    ],
+    "review_notes": "AI-assisted candidate relationship; direction and scope require review."
+  }
+]

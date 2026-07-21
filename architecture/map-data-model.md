@@ -170,6 +170,12 @@ Sources are reusable records rather than duplicated citation strings. They may
 represent primary mathematics, research, standards, curricula, expert review,
 or contributor analysis.
 
+A source may also act as a machine-readable territory coverage note by naming
+territory IDs in `coverage_for`, stating the part of the source used in
+`coverage_scope`, and listing known omissions or mismatches in `coverage_gaps`.
+Coverage notes audit breadth; they do not import a source's sequence or imply
+that every included map claim is endorsed by that source.
+
 A source reference supports provenance; it does not automatically make a claim
 correct. Copyrighted sources should be summarized and precisely cited, not
 copied into the dataset.

@@ -191,8 +191,32 @@
         },
         "notes": {
           "type": "string"
+        },
+        "coverage_for": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {
+            "$ref": "#/$defs/nodeId"
+          }
+        },
+        "coverage_scope": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "coverage_gaps": {
+          "$ref": "#/$defs/stringList"
         }
-      }
+      },
+      "allOf": [
+        {
+          "if": {
+            "required": ["coverage_for"]
+          },
+          "then": {
+            "required": ["coverage_scope", "coverage_gaps"]
+          }
+        }
+      ]
     },
     "node": {
       "type": "object",

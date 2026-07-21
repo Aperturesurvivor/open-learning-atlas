@@ -195,6 +195,7 @@ def validate_document(path: Path) -> Validation:
     duplicate_ids(validation, requirement_groups, "requirement_groups")
 
     source_ids: set[str] = set()
+    source_coverage: list[tuple[str, list[Any]]] = []
     for index, source in enumerate(sources):
         location = f"sources[{index}]"
         if not isinstance(source, dict):
@@ -206,6 +207,17 @@ def validate_document(path: Path) -> Validation:
         for key in ("title", "source_type", "citation"):
             if not is_nonempty(source.get(key)):
                 validation.error(f"{location}.{key}", "must be a non-empty string")
+        coverage_for = source.get("coverage_for")
+        if coverage_for is not None:
+            if not isinstance(coverage_for, list) or not coverage_for:
+                validation.error(f"{location}.coverage_for", "must contain node IDs")
+            else:
+                source_coverage.append((location, coverage_for))
+            if not is_nonempty(source.get("coverage_scope")):
+                validation.error(f"{location}.coverage_scope", "must be a non-empty string")
+            gaps = source.get("coverage_gaps")
+            if not isinstance(gaps, list):
+                validation.error(f"{location}.coverage_gaps", "must be an array")
 
     node_by_id: dict[str, dict[str, Any]] = {}
     slugs: set[str] = set()
@@ -260,6 +272,18 @@ def validate_document(path: Path) -> Validation:
         if node.get("status") == "deprecated" and not is_nonempty(node.get("review_notes")):
             validation.error(f"{location}.review_notes", "is required for deprecated nodes")
         check_source_refs(validation, location, node, source_ids)
+
+    for location, coverage_for in source_coverage:
+        for node_id in coverage_for:
+            if node_id not in node_by_id:
+                validation.error(
+                    f"{location}.coverage_for", f"unknown node ID: {node_id!r}"
+                )
+            elif node_by_id[node_id].get("subtype") != "atlas-territory":
+                validation.error(
+                    f"{location}.coverage_for",
+                    f"coverage notes must target atlas territories: {node_id!r}",
+                )
 
     relation_signatures: set[tuple[str, str, str, tuple[str, ...]]] = set()
     requires: dict[str, set[str]] = defaultdict(set)

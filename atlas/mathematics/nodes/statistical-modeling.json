@@ -1,0 +1,489 @@
+[
+  {
+    "id": "ola:n:ddad9496-1899-4d30-a2ff-615e162ccb70",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "statistical-model",
+    "label": "Statistical model",
+    "definition": "A family of probability-based descriptions connecting observable data to unknown structure, parameters, or latent variation under stated assumptions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:ba9f83b8-b6e6-4088-b289-6872f29bb2b9",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "statistical-parameter",
+    "label": "Statistical parameter",
+    "definition": "A quantity indexing or summarizing a population or statistical model and treated as unknown in an inferential problem.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:aefbc486-e172-4c7a-9d4f-5fa0b39be4fc",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "statistical-residual",
+    "label": "Statistical residual",
+    "definition": "A model-relative discrepancy between an observed value and its fitted or predicted counterpart.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:a0f6dcfa-ecc4-451b-a748-99455cfaa9c9",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "statistical-model-assumption",
+    "label": "Statistical model assumption",
+    "definition": "A declared structural or distributional condition under which a model or inferential method is interpreted.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:0dd7f4b7-7a23-4876-bef0-d85dd36687ab",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "sampling-variation",
+    "label": "Sampling variation",
+    "definition": "Variation in statistics or fitted models arising from repeated data-generating or sampling processes.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:7d098ad9-1468-406a-a018-8ed8b6c68805",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "prediction-uncertainty",
+    "label": "Prediction uncertainty",
+    "definition": "Uncertainty attached to an estimate or prediction because of sampling, model, measurement, and irreducible variation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:8a795921-37ac-40e5-b2c0-69de462d8418",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "model-data-distinction",
+    "label": "Model–data distinction",
+    "definition": "Observed data, a fitted model, and the process the model is intended to approximate are related but not identical objects.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:5805c33f-b714-4046-a90c-743f8d170a4d",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "fit-complexity-generalization",
+    "label": "Fit, complexity, and generalization",
+    "definition": "Improved fit on observed data can reflect useful structure or excessive adaptation that weakens performance on new data.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:29d6886b-19ef-44f2-8a14-40ee5d962733",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "statistical-model-formula",
+    "label": "Statistical model formula",
+    "definition": "A symbolic representation specifying a response, predictors or structure, parameters, and stochastic component under conventions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:4f1465dd-e872-4719-b933-61b59bce12d7",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "fitted-model-plot",
+    "label": "Fitted-model plot",
+    "definition": "A graphical representation placing observed data and model-derived summaries, curves, intervals, or predictions in a common frame.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:c4a29ff7-e29f-45c0-987a-522bb32e6e59",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "statistical-diagnostic-plot",
+    "label": "Statistical diagnostic plot",
+    "definition": "A plot of residuals or other derived quantities designed to expose patterns relevant to model assumptions or fit.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:864b81a1-209f-4d4a-907d-518823593166",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "formulate-statistical-model-family",
+    "label": "Formulate statistical models",
+    "definition": "A capability family for turning a statistical question and data-generating context into an explicit model and estimand.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:c77ba266-5186-4e24-99fb-47431eede57f",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "fit-compare-statistical-models-family",
+    "label": "Fit and compare statistical models",
+    "definition": "A capability family for estimating model quantities and comparing candidate models under explicit criteria.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:bbf627c4-6456-4a4a-9d6a-44e97f4e2b2a",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "diagnose-interpret-statistical-model-family",
+    "label": "Diagnose and interpret statistical models",
+    "definition": "A capability family for checking model adequacy and interpreting estimates or predictions with uncertainty and limitations.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:0a303893-9b38-41b2-b434-5e5b815b23c7",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "formulate-statistical-model-question",
+    "label": "Formulate a statistical modeling question",
+    "definition": "Specify a data-informed question whose answer acknowledges variability and identifies the target population, process, or prediction.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review.",
+    "capability_statement": "Given a context and available or proposed data, formulate a statistical modeling question that identifies relevant observational units, variables, target quantity or prediction, population or process, and sources of variability.",
+    "evidence_dimensions": [
+      "accuracy",
+      "explanation",
+      "justification",
+      "transfer"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:cc77c443-7397-4d03-b2e2-695a99992b48",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "specify-statistical-model",
+    "label": "Specify a statistical model",
+    "definition": "Choose and state a bounded model class, variables, parameters, and assumptions appropriate to a declared question.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review.",
+    "capability_statement": "Given a statistical question, data structure, and bounded set of admissible model classes, specify a model by naming response and explanatory structure, parameters, stochastic component, assumptions, and intended inferential or predictive target.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "justification",
+      "variation"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:29f7eda6-a0d1-4711-a07c-88bac8636084",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "fit-bounded-statistical-model",
+    "label": "Fit a bounded statistical model",
+    "definition": "Estimate declared model quantities from data using an admissible computational or analytic method.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review.",
+    "capability_statement": "Given data, a specified finite-dimensional model, and an admissible fitting method or tool, estimate the requested parameters or fitted values, record relevant settings, and check the result against the model representation.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "error-analysis",
+      "independence"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:7c4d9402-40bc-45ee-a1a9-bb9de9af6d67",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compare-candidate-statistical-models",
+    "label": "Compare candidate statistical models",
+    "definition": "Compare bounded candidate models using declared fit, complexity, validation, or predictive criteria.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review.",
+    "capability_statement": "Given data, at least two fitted candidate models, and declared comparison criteria, compute or interpret the criteria, identify material tradeoffs, and justify a choice without claiming that one summary proves universal superiority.",
+    "evidence_dimensions": [
+      "accuracy",
+      "justification",
+      "error-analysis",
+      "transfer"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:3d8fe43f-191b-4351-ac27-35771fdbe827",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "diagnose-statistical-model-fit",
+    "label": "Diagnose statistical model fit",
+    "definition": "Use residuals and other checks to evaluate selected assumptions and detect model–data mismatch.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review.",
+    "capability_statement": "Given a fitted model, data, and specified diagnostic quantities or plots, identify patterns relevant to declared assumptions, distinguish evidence of mismatch from expected random variation, and state what the checks do not establish.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "error-analysis",
+      "explanation",
+      "variation"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:12653b25-8f14-4171-9dc8-4458fb4aab79",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "interpret-statistical-model-parameter",
+    "label": "Interpret a statistical model parameter",
+    "definition": "Interpret an estimated parameter in the model's scale, conditioning structure, context, and uncertainty.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review.",
+    "capability_statement": "Given a fitted statistical model and an estimated parameter with uncertainty information, interpret its sign, magnitude, units or scale, conditioning, and uncertainty in context without converting association into an unsupported causal claim.",
+    "evidence_dimensions": [
+      "accuracy",
+      "explanation",
+      "justification",
+      "transfer"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:8e804d91-1c9e-4007-b770-58901128cdea",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "interpret-statistical-prediction",
+    "label": "Interpret a statistical prediction",
+    "definition": "Interpret a model-derived prediction and its uncertainty for a declared target and scope.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review.",
+    "capability_statement": "Given a fitted model, target case or population, prediction, and uncertainty representation, state what is predicted, the relevant interval or distribution, conditions for use, and limitations from data, model, and extrapolation.",
+    "evidence_dimensions": [
+      "accuracy",
+      "explanation",
+      "representation",
+      "transfer",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:047f0be8-ce2c-46e9-ac78-458a45cf1b0a",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "communicate-statistical-model-limitations",
+    "label": "Communicate statistical model limitations",
+    "definition": "Explain how data generation, assumptions, uncertainty, and model choice constrain a conclusion.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:77e32bd5-7a16-4991-9666-584c522e719c",
+      "ola:s:9474bfa2-8fbd-44ca-bcd2-676273c23301"
+    ],
+    "review_notes": "AI-assisted candidate decomposition; requires accountable mathematical and educational review.",
+    "capability_statement": "Given a completed bounded statistical analysis, communicate the model-based conclusion together with material assumptions, uncertainty, data limitations, alternative explanations, and the population or situations to which the claim can reasonably apply.",
+    "evidence_dimensions": [
+      "explanation",
+      "justification",
+      "error-analysis",
+      "transfer"
+    ],
+    "dependency_review": "unreviewed"
+  }
+]

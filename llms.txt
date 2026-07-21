@@ -21,8 +21,7 @@ model, assessment product, or tutoring application.
 
 - [`atlas/mathematics/`](atlas/mathematics/) — modular editable source of truth.
 - [`map/releases/mathematics-v0.1.0-alpha.json`](map/releases/mathematics-v0.1.0-alpha.json)
-  — generated connected snapshot with 117 nodes, 155 edge claims, and one
-  alternative-method requirement group.
+  — generated connected snapshot and the authoritative countable artifact.
 - [`map/domains/mathematics-macro-v0.1.json`](map/domains/mathematics-macro-v0.1.json)
   and [`map/examples/rational-proportional-v0.1.json`](map/examples/rational-proportional-v0.1.json)
   — preserved historical inputs, not the editable source of truth.

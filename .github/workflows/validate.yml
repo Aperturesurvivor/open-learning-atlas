@@ -22,6 +22,8 @@ jobs:
         run: tools/validate-map
       - name: Verify reproducible atlas release
         run: tools/build-atlas --check
+      - name: Report Mathematics v1 coverage
+        run: tools/audit-v1
       - name: Run JSON Schema validation
         run: >-
           check-jsonschema

@@ -1,0 +1,120 @@
+#!/usr/bin/env python3
+"""Audit measurable Mathematics v1 territory-coverage requirements."""
+
+from __future__ import annotations
+
+import argparse
+import json
+import sys
+from collections import defaultdict
+from pathlib import Path
+from typing import Any
+
+
+ROOT = Path(__file__).resolve().parents[1]
+DEFAULT_MAP = ROOT / "map" / "releases" / "mathematics-v0.1.0-alpha.json"
+CONTENT_KINDS = {"concept", "knowledge", "representation"}
+
+
+def audit(document: dict[str, Any]) -> dict[str, Any]:
+    nodes = document["nodes"]
+    node_by_id = {node["id"]: node for node in nodes}
+    composition: dict[str, set[str]] = defaultdict(set)
+    for edge in document["edges"]:
+        if edge["relation"] == "composed_of":
+            composition[edge["subject"]].add(edge["object"])
+
+    coverage: dict[str, list[str]] = defaultdict(list)
+    for source in document.get("sources", []):
+        for territory_id in source.get("coverage_for", []):
+            coverage[territory_id].append(source["id"])
+
+    results: list[dict[str, Any]] = []
+    territories = sorted(
+        (node for node in nodes if node.get("subtype") == "atlas-territory"),
+        key=lambda node: node["slug"],
+    )
+    for territory in territories:
+        territory_id = territory["id"]
+        direct = composition.get(territory_id, set())
+        descendants: set[str] = set()
+        pending = list(direct)
+        while pending:
+            node_id = pending.pop()
+            if node_id in descendants:
+                continue
+            descendants.add(node_id)
+            pending.extend(composition.get(node_id, set()) - descendants)
+        descendant_nodes = [node_by_id[node_id] for node_id in descendants]
+        assessable = [node for node in descendant_nodes if node.get("assessable")]
+        content_kinds = sorted({node["kind"] for node in descendant_nodes} & CONTENT_KINDS)
+        has_family = any(node.get("subtype") == "capability-family" for node in descendant_nodes)
+        checks = {
+            "five_direct_children": len(direct) >= 5,
+            "two_assessable_descendants": len(assessable) >= 2,
+            "concept_knowledge_representation": set(content_kinds) == CONTENT_KINDS,
+            "capability_family": has_family,
+            "coverage_note": bool(coverage.get(territory_id)),
+        }
+        results.append(
+            {
+                "territory_id": territory_id,
+                "slug": territory["slug"],
+                "label": territory["label"],
+                "direct_children": len(direct),
+                "descendants": len(descendants),
+                "assessable_descendants": len(assessable),
+                "content_kinds": content_kinds,
+                "coverage_source_ids": sorted(coverage.get(territory_id, [])),
+                "checks": checks,
+                "passes_measurable_floor": all(checks.values()),
+            }
+        )
+
+    passed = sum(item["passes_measurable_floor"] for item in results)
+    return {
+        "map_id": document["map"]["id"],
+        "map_version": document["map"]["version"],
+        "territories": len(results),
+        "territories_passing_measurable_floor": passed,
+        "territories_incomplete": len(results) - passed,
+        "note": (
+            "Passing these machine checks is necessary but not sufficient. "
+            "The v1 contract also requires qualitative scope, split, dependency, and human review."
+        ),
+        "results": results,
+    }
+
+
+def main(argv: list[str]) -> int:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("map", nargs="?", type=Path, default=DEFAULT_MAP)
+    parser.add_argument("--json", action="store_true", help="print the full JSON audit")
+    parser.add_argument(
+        "--require-complete",
+        action="store_true",
+        help="exit nonzero unless all territory floors pass",
+    )
+    args = parser.parse_args(argv[1:])
+    document = json.loads(args.map.read_text(encoding="utf-8"))
+    result = audit(document)
+    if args.json:
+        print(json.dumps(result, indent=2, ensure_ascii=False))
+    else:
+        print(
+            f"Territories passing measurable v1 floor: "
+            f"{result['territories_passing_measurable_floor']}/{result['territories']}"
+        )
+        for item in result["results"]:
+            if item["passes_measurable_floor"]:
+                continue
+            failed = [name for name, passed in item["checks"].items() if not passed]
+            print(f"INCOMPLETE {item['slug']}: {', '.join(failed)}")
+        print(result["note"])
+    if args.require_complete and result["territories_incomplete"]:
+        return 1
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main(sys.argv))

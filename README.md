@@ -17,8 +17,8 @@ routes without controlling the base map.
 The project is in public-alpha construction. Current validated artifacts
 include:
 
-- one connected 117-node mathematics release containing 13 regions, 85
-  territories, and a detailed rational/proportional reasoning slice;
+- one connected mathematics release containing 13 regions, 85 territories,
+  and detailed pressure-test corridors across number, proof, graphs, and statistics;
 - modular canonical authoring data and a deterministic release compiler;
 - a typed graph schema and semantic validator;
 - a ratified v0.1 map constitution;
