@@ -1,0 +1,3302 @@
+[
+  {
+    "id": "ola:e:caff03c7-f6ad-4573-aef6-21ca2fe7014a",
+    "revision": 1,
+    "subject": "ola:n:2b72476f-74b2-4240-a508-7a83ddfe94df",
+    "relation": "composed_of",
+    "object": "ola:n:5c0eb729-50e2-4d20-ac27-355390a00b89",
+    "rationale": "Measurable quantity and unit is material terrain within measurable-attributes-units-scales; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:264f1bb6-ec0b-4294-8bd2-7d76b7174428",
+    "revision": 1,
+    "subject": "ola:n:2b72476f-74b2-4240-a508-7a83ddfe94df",
+    "relation": "composed_of",
+    "object": "ola:n:de74d165-d872-4bdb-88cb-f137f7b2924b",
+    "rationale": "Measurement scale type is material terrain within measurable-attributes-units-scales; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7fb0f588-1069-4286-b4ab-01cadaae1457",
+    "revision": 1,
+    "subject": "ola:n:2b72476f-74b2-4240-a508-7a83ddfe94df",
+    "relation": "composed_of",
+    "object": "ola:n:8b0ca475-3d6c-4d55-be2d-30b30b9b9ae8",
+    "rationale": "SI quantity and unit coherence is material terrain within measurable-attributes-units-scales; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e524b944-8139-4aed-bf4b-094ad59dad66",
+    "revision": 1,
+    "subject": "ola:n:2b72476f-74b2-4240-a508-7a83ddfe94df",
+    "relation": "composed_of",
+    "object": "ola:n:17208f6e-851c-4936-87de-c495cf3f0d7c",
+    "rationale": "Instrument scale and unit expression is material terrain within measurable-attributes-units-scales; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d44e74c1-8aae-4931-ae74-f37cad5645f9",
+    "revision": 1,
+    "subject": "ola:n:2b72476f-74b2-4240-a508-7a83ddfe94df",
+    "relation": "composed_of",
+    "object": "ola:n:938aedfc-13c3-40da-8c64-3463b8e33bef",
+    "rationale": "Identify and represent measurement is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:3f78cd05-f43e-4493-8322-82b779f99dbe",
+    "revision": 1,
+    "subject": "ola:n:938aedfc-13c3-40da-8c64-3463b8e33bef",
+    "relation": "composed_of",
+    "object": "ola:n:33fd0f05-d0ba-42a4-b6ff-a4914aca632e",
+    "rationale": "Identify a measurable attribute is a bounded performance within Identify and represent measurement.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d85d0f0e-456e-42ce-bc72-b825f0ce205c",
+    "revision": 1,
+    "subject": "ola:n:33fd0f05-d0ba-42a4-b6ff-a4914aca632e",
+    "relation": "uses_concept",
+    "object": "ola:n:5c0eb729-50e2-4d20-ac27-355390a00b89",
+    "rationale": "Demonstrating Identify a measurable attribute materially invokes Measurable quantity and unit at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:3a7b86d5-2557-46d0-b9b6-e36314fb8b0d",
+    "revision": 1,
+    "subject": "ola:n:33fd0f05-d0ba-42a4-b6ff-a4914aca632e",
+    "relation": "uses_knowledge",
+    "object": "ola:n:8b0ca475-3d6c-4d55-be2d-30b30b9b9ae8",
+    "rationale": "Demonstrating Identify a measurable attribute materially invokes SI quantity and unit coherence at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8849624e-d366-4430-9499-d2860a69958b",
+    "revision": 1,
+    "subject": "ola:n:33fd0f05-d0ba-42a4-b6ff-a4914aca632e",
+    "relation": "uses_representation",
+    "object": "ola:n:17208f6e-851c-4936-87de-c495cf3f0d7c",
+    "rationale": "Demonstrating Identify a measurable attribute materially invokes Instrument scale and unit expression at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:23b98fae-ede8-4d12-b07f-a1a03a9c0016",
+    "revision": 1,
+    "subject": "ola:n:938aedfc-13c3-40da-8c64-3463b8e33bef",
+    "relation": "composed_of",
+    "object": "ola:n:0ee8b42d-40bf-492f-b7ac-0e32d3cfc973",
+    "rationale": "Read a calibrated scale is a bounded performance within Identify and represent measurement.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:1b4e4feb-9922-4793-acd2-6db6faef46f4",
+    "revision": 1,
+    "subject": "ola:n:0ee8b42d-40bf-492f-b7ac-0e32d3cfc973",
+    "relation": "uses_concept",
+    "object": "ola:n:5c0eb729-50e2-4d20-ac27-355390a00b89",
+    "rationale": "Demonstrating Read a calibrated scale materially invokes Measurable quantity and unit at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d47ed352-3e2f-464e-8d60-327e3e89fea4",
+    "revision": 1,
+    "subject": "ola:n:0ee8b42d-40bf-492f-b7ac-0e32d3cfc973",
+    "relation": "uses_knowledge",
+    "object": "ola:n:8b0ca475-3d6c-4d55-be2d-30b30b9b9ae8",
+    "rationale": "Demonstrating Read a calibrated scale materially invokes SI quantity and unit coherence at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a1f6d830-bbac-425e-8868-8a3a6eddd028",
+    "revision": 1,
+    "subject": "ola:n:0ee8b42d-40bf-492f-b7ac-0e32d3cfc973",
+    "relation": "uses_representation",
+    "object": "ola:n:17208f6e-851c-4936-87de-c495cf3f0d7c",
+    "rationale": "Demonstrating Read a calibrated scale materially invokes Instrument scale and unit expression at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:0e93e387-1b95-4954-8109-643f11f95e6c",
+    "revision": 1,
+    "subject": "ola:n:2b72476f-74b2-4240-a508-7a83ddfe94df",
+    "relation": "composed_of",
+    "object": "ola:n:3ccffa4b-4f4f-4e7c-a463-667a4b559900",
+    "rationale": "Choose and convert units is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:eac25969-3419-4044-831f-db2c5b7f2193",
+    "revision": 1,
+    "subject": "ola:n:3ccffa4b-4f4f-4e7c-a463-667a4b559900",
+    "relation": "composed_of",
+    "object": "ola:n:8d31b809-de72-4eeb-b20a-419c9e66f176",
+    "rationale": "Select an appropriate unit and scale is a bounded performance within Choose and convert units.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4e4a1814-5802-4379-bc0d-64e86b7554df",
+    "revision": 1,
+    "subject": "ola:n:8d31b809-de72-4eeb-b20a-419c9e66f176",
+    "relation": "uses_concept",
+    "object": "ola:n:de74d165-d872-4bdb-88cb-f137f7b2924b",
+    "rationale": "Demonstrating Select an appropriate unit and scale materially invokes Measurement scale type at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7af624e6-8545-4d5f-ae7d-18c718ee4979",
+    "revision": 1,
+    "subject": "ola:n:8d31b809-de72-4eeb-b20a-419c9e66f176",
+    "relation": "uses_knowledge",
+    "object": "ola:n:8b0ca475-3d6c-4d55-be2d-30b30b9b9ae8",
+    "rationale": "Demonstrating Select an appropriate unit and scale materially invokes SI quantity and unit coherence at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:59e02924-70a1-46c1-90b7-48b06ade30a9",
+    "revision": 1,
+    "subject": "ola:n:8d31b809-de72-4eeb-b20a-419c9e66f176",
+    "relation": "uses_representation",
+    "object": "ola:n:17208f6e-851c-4936-87de-c495cf3f0d7c",
+    "rationale": "Demonstrating Select an appropriate unit and scale materially invokes Instrument scale and unit expression at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:3cba4e56-cd95-47fa-9c0d-66a36aff4a97",
+    "revision": 1,
+    "subject": "ola:n:3ccffa4b-4f4f-4e7c-a463-667a4b559900",
+    "relation": "composed_of",
+    "object": "ola:n:a74fb345-a29e-4aac-bd40-bbd416cd0aae",
+    "rationale": "Convert compatible units is a bounded performance within Choose and convert units.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:19003e92-8771-4c18-8ccf-2dd1716a1ea0",
+    "revision": 1,
+    "subject": "ola:n:a74fb345-a29e-4aac-bd40-bbd416cd0aae",
+    "relation": "uses_concept",
+    "object": "ola:n:de74d165-d872-4bdb-88cb-f137f7b2924b",
+    "rationale": "Demonstrating Convert compatible units materially invokes Measurement scale type at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d7c3e54e-909e-4599-922c-b3a3fc2f2fbe",
+    "revision": 1,
+    "subject": "ola:n:a74fb345-a29e-4aac-bd40-bbd416cd0aae",
+    "relation": "uses_knowledge",
+    "object": "ola:n:8b0ca475-3d6c-4d55-be2d-30b30b9b9ae8",
+    "rationale": "Demonstrating Convert compatible units materially invokes SI quantity and unit coherence at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7870d5f4-65e3-4070-bb25-89f2372d57a4",
+    "revision": 1,
+    "subject": "ola:n:a74fb345-a29e-4aac-bd40-bbd416cd0aae",
+    "relation": "uses_representation",
+    "object": "ola:n:17208f6e-851c-4936-87de-c495cf3f0d7c",
+    "rationale": "Demonstrating Convert compatible units materially invokes Instrument scale and unit expression at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f98c7786-7de2-4a4b-8389-ce1260d812b5",
+    "revision": 1,
+    "subject": "ola:n:2b72476f-74b2-4240-a508-7a83ddfe94df",
+    "relation": "composed_of",
+    "object": "ola:n:a62b208a-763e-4bf7-9f5b-342e292aa9e2",
+    "rationale": "Reason about scales and units is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:87c3e1a1-7e11-4aa1-99ef-a2a82b8667d0",
+    "revision": 1,
+    "subject": "ola:n:a62b208a-763e-4bf7-9f5b-342e292aa9e2",
+    "relation": "composed_of",
+    "object": "ola:n:b3e79953-5562-4eed-aa87-bb091986f6b8",
+    "rationale": "Interpret a measurement scale is a bounded performance within Reason about scales and units.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f606d69f-d4f9-423a-b07f-e954f28fe4c9",
+    "revision": 1,
+    "subject": "ola:n:b3e79953-5562-4eed-aa87-bb091986f6b8",
+    "relation": "uses_concept",
+    "object": "ola:n:5c0eb729-50e2-4d20-ac27-355390a00b89",
+    "rationale": "Demonstrating Interpret a measurement scale materially invokes Measurable quantity and unit at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8594b94b-c63d-400c-90d3-69af6d0208a2",
+    "revision": 1,
+    "subject": "ola:n:b3e79953-5562-4eed-aa87-bb091986f6b8",
+    "relation": "uses_concept",
+    "object": "ola:n:de74d165-d872-4bdb-88cb-f137f7b2924b",
+    "rationale": "Demonstrating Interpret a measurement scale materially invokes Measurement scale type at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ea6ea63b-d94d-4698-9272-ebd77436c596",
+    "revision": 1,
+    "subject": "ola:n:b3e79953-5562-4eed-aa87-bb091986f6b8",
+    "relation": "uses_knowledge",
+    "object": "ola:n:8b0ca475-3d6c-4d55-be2d-30b30b9b9ae8",
+    "rationale": "Demonstrating Interpret a measurement scale materially invokes SI quantity and unit coherence at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:9bc490e3-8f09-4459-91f2-983a3bef245d",
+    "revision": 1,
+    "subject": "ola:n:b3e79953-5562-4eed-aa87-bb091986f6b8",
+    "relation": "uses_representation",
+    "object": "ola:n:17208f6e-851c-4936-87de-c495cf3f0d7c",
+    "rationale": "Demonstrating Interpret a measurement scale materially invokes Instrument scale and unit expression at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f90fd7db-b971-4bd3-aaf1-651fd8e29eac",
+    "revision": 1,
+    "subject": "ola:n:a62b208a-763e-4bf7-9f5b-342e292aa9e2",
+    "relation": "composed_of",
+    "object": "ola:n:e583b3f8-eb53-488c-853f-0606c650e31d",
+    "rationale": "Audit unit notation or a quantity claim is a bounded performance within Reason about scales and units.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:43026a31-0561-43bc-81bd-8d6699a57c11",
+    "revision": 1,
+    "subject": "ola:n:e583b3f8-eb53-488c-853f-0606c650e31d",
+    "relation": "uses_concept",
+    "object": "ola:n:5c0eb729-50e2-4d20-ac27-355390a00b89",
+    "rationale": "Demonstrating Audit unit notation or a quantity claim materially invokes Measurable quantity and unit at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:aba5ae69-b0dc-4633-b56c-42ce3c82cd21",
+    "revision": 1,
+    "subject": "ola:n:e583b3f8-eb53-488c-853f-0606c650e31d",
+    "relation": "uses_concept",
+    "object": "ola:n:de74d165-d872-4bdb-88cb-f137f7b2924b",
+    "rationale": "Demonstrating Audit unit notation or a quantity claim materially invokes Measurement scale type at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:3c9c73ba-e8ca-4d75-8e52-c67e90a6d052",
+    "revision": 1,
+    "subject": "ola:n:e583b3f8-eb53-488c-853f-0606c650e31d",
+    "relation": "uses_knowledge",
+    "object": "ola:n:8b0ca475-3d6c-4d55-be2d-30b30b9b9ae8",
+    "rationale": "Demonstrating Audit unit notation or a quantity claim materially invokes SI quantity and unit coherence at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:51d5d175-7b65-425c-811e-fd44c4f500e0",
+    "revision": 1,
+    "subject": "ola:n:e583b3f8-eb53-488c-853f-0606c650e31d",
+    "relation": "uses_representation",
+    "object": "ola:n:17208f6e-851c-4936-87de-c495cf3f0d7c",
+    "rationale": "Demonstrating Audit unit notation or a quantity claim materially invokes Instrument scale and unit expression at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2663c501-e825-4a98-89c3-046b43b5e318",
+    "revision": 1,
+    "subject": "ola:n:d6674c91-a2d2-41aa-bbe6-b1a1bf916042",
+    "relation": "composed_of",
+    "object": "ola:n:a0e0b7e6-8a79-4d18-9e5d-84112e688804",
+    "rationale": "Geometric measure is material terrain within length-area-volume-angle; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:0f49fad8-9e0e-4383-aca5-2ae66702a957",
+    "revision": 1,
+    "subject": "ola:n:d6674c91-a2d2-41aa-bbe6-b1a1bf916042",
+    "relation": "composed_of",
+    "object": "ola:n:61ac2d54-2895-466b-bb04-d4e5ba7b961f",
+    "rationale": "Measure decomposition and additivity is material terrain within length-area-volume-angle; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a3890791-2b0f-4fc1-bd7c-bf14ffb5cfa6",
+    "revision": 1,
+    "subject": "ola:n:d6674c91-a2d2-41aa-bbe6-b1a1bf916042",
+    "relation": "composed_of",
+    "object": "ola:n:f22d313e-7bca-415d-a201-47a08dbf85d1",
+    "rationale": "Geometric measure formulas and scaling is material terrain within length-area-volume-angle; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2ea9086a-3236-4382-a97e-0ac40b8b6570",
+    "revision": 1,
+    "subject": "ola:n:d6674c91-a2d2-41aa-bbe6-b1a1bf916042",
+    "relation": "composed_of",
+    "object": "ola:n:02ccec48-59b3-442c-9ab3-b82b6603666a",
+    "rationale": "Dimensioned geometric diagram is material terrain within length-area-volume-angle; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d158c816-9343-4913-861f-a8371812db84",
+    "revision": 1,
+    "subject": "ola:n:d6674c91-a2d2-41aa-bbe6-b1a1bf916042",
+    "relation": "composed_of",
+    "object": "ola:n:42bf2102-06ea-4228-9ded-5ffff21e5921",
+    "rationale": "Measure basic geometry is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:6bdf5c06-675e-4101-9d2a-bea23ba61864",
+    "revision": 1,
+    "subject": "ola:n:42bf2102-06ea-4228-9ded-5ffff21e5921",
+    "relation": "composed_of",
+    "object": "ola:n:e2a1f03c-5685-4f69-a510-515c6c586e74",
+    "rationale": "Determine a length or angle is a bounded performance within Measure basic geometry.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8e83a271-167e-4d20-95ef-3df138e3ceee",
+    "revision": 1,
+    "subject": "ola:n:e2a1f03c-5685-4f69-a510-515c6c586e74",
+    "relation": "uses_concept",
+    "object": "ola:n:a0e0b7e6-8a79-4d18-9e5d-84112e688804",
+    "rationale": "Demonstrating Determine a length or angle materially invokes Geometric measure at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:601eef59-156d-45aa-a74e-c6adc1c040ba",
+    "revision": 1,
+    "subject": "ola:n:e2a1f03c-5685-4f69-a510-515c6c586e74",
+    "relation": "uses_knowledge",
+    "object": "ola:n:f22d313e-7bca-415d-a201-47a08dbf85d1",
+    "rationale": "Demonstrating Determine a length or angle materially invokes Geometric measure formulas and scaling at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4eb2e0fa-f331-4427-80de-58b373972f0e",
+    "revision": 1,
+    "subject": "ola:n:e2a1f03c-5685-4f69-a510-515c6c586e74",
+    "relation": "uses_representation",
+    "object": "ola:n:02ccec48-59b3-442c-9ab3-b82b6603666a",
+    "rationale": "Demonstrating Determine a length or angle materially invokes Dimensioned geometric diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:09d12b64-aa58-4a9b-a86c-56d55a82678e",
+    "revision": 1,
+    "subject": "ola:n:42bf2102-06ea-4228-9ded-5ffff21e5921",
+    "relation": "composed_of",
+    "object": "ola:n:e3416120-f03f-4fc1-834e-107816c8d9a1",
+    "rationale": "Construct a measurement from a scale drawing is a bounded performance within Measure basic geometry.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a68e9d5c-9e62-452f-82c7-b8046e9ebee6",
+    "revision": 1,
+    "subject": "ola:n:e3416120-f03f-4fc1-834e-107816c8d9a1",
+    "relation": "uses_concept",
+    "object": "ola:n:a0e0b7e6-8a79-4d18-9e5d-84112e688804",
+    "rationale": "Demonstrating Construct a measurement from a scale drawing materially invokes Geometric measure at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:de0a4472-ac80-4450-bd87-531ec73c6135",
+    "revision": 1,
+    "subject": "ola:n:e3416120-f03f-4fc1-834e-107816c8d9a1",
+    "relation": "uses_knowledge",
+    "object": "ola:n:f22d313e-7bca-415d-a201-47a08dbf85d1",
+    "rationale": "Demonstrating Construct a measurement from a scale drawing materially invokes Geometric measure formulas and scaling at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:53f3ad3d-5abb-4199-a978-805c0fe72764",
+    "revision": 1,
+    "subject": "ola:n:e3416120-f03f-4fc1-834e-107816c8d9a1",
+    "relation": "uses_representation",
+    "object": "ola:n:02ccec48-59b3-442c-9ab3-b82b6603666a",
+    "rationale": "Demonstrating Construct a measurement from a scale drawing materially invokes Dimensioned geometric diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:0155bff6-9ca5-4385-9b84-e03b466bf5c6",
+    "revision": 1,
+    "subject": "ola:n:d6674c91-a2d2-41aa-bbe6-b1a1bf916042",
+    "relation": "composed_of",
+    "object": "ola:n:4da10494-fec2-4aed-9bb8-67cb81cc2c36",
+    "rationale": "Calculate area and volume is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:408a0a28-af36-401c-a73d-64e9aa9784af",
+    "revision": 1,
+    "subject": "ola:n:4da10494-fec2-4aed-9bb8-67cb81cc2c36",
+    "relation": "composed_of",
+    "object": "ola:n:4de3625a-8dd4-465f-bb11-e87db7bd92bc",
+    "rationale": "Determine area or surface area is a bounded performance within Calculate area and volume.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:23b2c076-4785-4d52-9a10-262881c646c0",
+    "revision": 1,
+    "subject": "ola:n:4de3625a-8dd4-465f-bb11-e87db7bd92bc",
+    "relation": "uses_concept",
+    "object": "ola:n:61ac2d54-2895-466b-bb04-d4e5ba7b961f",
+    "rationale": "Demonstrating Determine area or surface area materially invokes Measure decomposition and additivity at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7cf829e8-4071-4379-9e1a-0966a8ae4ed0",
+    "revision": 1,
+    "subject": "ola:n:4de3625a-8dd4-465f-bb11-e87db7bd92bc",
+    "relation": "uses_knowledge",
+    "object": "ola:n:f22d313e-7bca-415d-a201-47a08dbf85d1",
+    "rationale": "Demonstrating Determine area or surface area materially invokes Geometric measure formulas and scaling at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:17be9f36-0b1d-4c64-975e-699389ecaa8e",
+    "revision": 1,
+    "subject": "ola:n:4de3625a-8dd4-465f-bb11-e87db7bd92bc",
+    "relation": "uses_representation",
+    "object": "ola:n:02ccec48-59b3-442c-9ab3-b82b6603666a",
+    "rationale": "Demonstrating Determine area or surface area materially invokes Dimensioned geometric diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a5306f8f-c5c2-4f16-a894-ee433184856b",
+    "revision": 1,
+    "subject": "ola:n:4da10494-fec2-4aed-9bb8-67cb81cc2c36",
+    "relation": "composed_of",
+    "object": "ola:n:fb7e4a84-0270-4723-86ed-32500836858f",
+    "rationale": "Determine volume is a bounded performance within Calculate area and volume.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:30325665-97ba-4376-ac61-b885fb632070",
+    "revision": 1,
+    "subject": "ola:n:fb7e4a84-0270-4723-86ed-32500836858f",
+    "relation": "uses_concept",
+    "object": "ola:n:61ac2d54-2895-466b-bb04-d4e5ba7b961f",
+    "rationale": "Demonstrating Determine volume materially invokes Measure decomposition and additivity at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:1d75670e-a6ea-4616-981c-be0274a8e5af",
+    "revision": 1,
+    "subject": "ola:n:fb7e4a84-0270-4723-86ed-32500836858f",
+    "relation": "uses_knowledge",
+    "object": "ola:n:f22d313e-7bca-415d-a201-47a08dbf85d1",
+    "rationale": "Demonstrating Determine volume materially invokes Geometric measure formulas and scaling at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:94cd60a5-8585-4607-b1d6-2592215f20df",
+    "revision": 1,
+    "subject": "ola:n:fb7e4a84-0270-4723-86ed-32500836858f",
+    "relation": "uses_representation",
+    "object": "ola:n:02ccec48-59b3-442c-9ab3-b82b6603666a",
+    "rationale": "Demonstrating Determine volume materially invokes Dimensioned geometric diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a11aa9ce-b152-431b-94f6-1867672a363f",
+    "revision": 1,
+    "subject": "ola:n:d6674c91-a2d2-41aa-bbe6-b1a1bf916042",
+    "relation": "composed_of",
+    "object": "ola:n:4d14654c-694c-40f6-a5f3-8dd0fad22bfe",
+    "rationale": "Justify geometric measure is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:dc0b23b2-fafb-4e60-891a-cb3ff7cb40dc",
+    "revision": 1,
+    "subject": "ola:n:4d14654c-694c-40f6-a5f3-8dd0fad22bfe",
+    "relation": "composed_of",
+    "object": "ola:n:d140b54d-fa28-46ff-ae9d-751c3da9eab1",
+    "rationale": "Derive a geometric measure formula is a bounded performance within Justify geometric measure.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4152d55d-d142-4787-ae55-5fa9837d6f56",
+    "revision": 1,
+    "subject": "ola:n:d140b54d-fa28-46ff-ae9d-751c3da9eab1",
+    "relation": "uses_concept",
+    "object": "ola:n:a0e0b7e6-8a79-4d18-9e5d-84112e688804",
+    "rationale": "Demonstrating Derive a geometric measure formula materially invokes Geometric measure at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4bd8e411-a5d4-4a1c-889d-1271c4839e10",
+    "revision": 1,
+    "subject": "ola:n:d140b54d-fa28-46ff-ae9d-751c3da9eab1",
+    "relation": "uses_concept",
+    "object": "ola:n:61ac2d54-2895-466b-bb04-d4e5ba7b961f",
+    "rationale": "Demonstrating Derive a geometric measure formula materially invokes Measure decomposition and additivity at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ef1a665c-b88c-48aa-b16b-098c63083d67",
+    "revision": 1,
+    "subject": "ola:n:d140b54d-fa28-46ff-ae9d-751c3da9eab1",
+    "relation": "uses_knowledge",
+    "object": "ola:n:f22d313e-7bca-415d-a201-47a08dbf85d1",
+    "rationale": "Demonstrating Derive a geometric measure formula materially invokes Geometric measure formulas and scaling at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:018953c5-fd2e-4689-813b-970ff4d83b04",
+    "revision": 1,
+    "subject": "ola:n:d140b54d-fa28-46ff-ae9d-751c3da9eab1",
+    "relation": "uses_representation",
+    "object": "ola:n:02ccec48-59b3-442c-9ab3-b82b6603666a",
+    "rationale": "Demonstrating Derive a geometric measure formula materially invokes Dimensioned geometric diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8fb2fdd8-f518-4b13-b112-0db649c0ecad",
+    "revision": 1,
+    "subject": "ola:n:4d14654c-694c-40f6-a5f3-8dd0fad22bfe",
+    "relation": "composed_of",
+    "object": "ola:n:7249ef89-adfc-4df4-a2cf-8f37a4e51fd8",
+    "rationale": "Bound a geometric measure is a bounded performance within Justify geometric measure.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:0bd7dd45-187e-4583-a571-ccfc82f4e1b4",
+    "revision": 1,
+    "subject": "ola:n:7249ef89-adfc-4df4-a2cf-8f37a4e51fd8",
+    "relation": "uses_concept",
+    "object": "ola:n:a0e0b7e6-8a79-4d18-9e5d-84112e688804",
+    "rationale": "Demonstrating Bound a geometric measure materially invokes Geometric measure at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f685c5ef-444f-43a3-aea9-7ff6fe96baab",
+    "revision": 1,
+    "subject": "ola:n:7249ef89-adfc-4df4-a2cf-8f37a4e51fd8",
+    "relation": "uses_concept",
+    "object": "ola:n:61ac2d54-2895-466b-bb04-d4e5ba7b961f",
+    "rationale": "Demonstrating Bound a geometric measure materially invokes Measure decomposition and additivity at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:19b2d8c8-73d2-4c69-9e13-d2fc612699d0",
+    "revision": 1,
+    "subject": "ola:n:7249ef89-adfc-4df4-a2cf-8f37a4e51fd8",
+    "relation": "uses_knowledge",
+    "object": "ola:n:f22d313e-7bca-415d-a201-47a08dbf85d1",
+    "rationale": "Demonstrating Bound a geometric measure materially invokes Geometric measure formulas and scaling at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:dbe79911-e18c-46a4-b053-1207b3b07c14",
+    "revision": 1,
+    "subject": "ola:n:7249ef89-adfc-4df4-a2cf-8f37a4e51fd8",
+    "relation": "uses_representation",
+    "object": "ola:n:02ccec48-59b3-442c-9ab3-b82b6603666a",
+    "rationale": "Demonstrating Bound a geometric measure materially invokes Dimensioned geometric diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:5422fab0-377a-474e-b4a6-cd382ec38ec4",
+    "revision": 1,
+    "subject": "ola:n:6d2a1df6-fab8-42e2-8ff3-91314074a746",
+    "relation": "composed_of",
+    "object": "ola:n:eace1382-5d63-4c37-a693-7e5d141ec8ee",
+    "rationale": "Derived quantity is material terrain within derived-measurement; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ddec6404-f322-4f51-9d80-30042247c67c",
+    "revision": 1,
+    "subject": "ola:n:6d2a1df6-fab8-42e2-8ff3-91314074a746",
+    "relation": "composed_of",
+    "object": "ola:n:c3cb579d-4577-4e61-9b1c-8b12dab8482a",
+    "rationale": "Rate, density, and specific quantity is material terrain within derived-measurement; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8775d1e0-99dd-40e2-a7c3-29ca458eef44",
+    "revision": 1,
+    "subject": "ola:n:6d2a1df6-fab8-42e2-8ff3-91314074a746",
+    "relation": "composed_of",
+    "object": "ola:n:dcadaaae-f296-4931-b2fd-a96d25fef839",
+    "rationale": "Derived unit and quantity equation is material terrain within derived-measurement; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f8c3c2f9-c5a1-49e3-af07-a22d51be9ab5",
+    "revision": 1,
+    "subject": "ola:n:6d2a1df6-fab8-42e2-8ff3-91314074a746",
+    "relation": "composed_of",
+    "object": "ola:n:29419ca4-45d6-4d10-b4ca-a7dd1a466506",
+    "rationale": "Compound-unit table and formula is material terrain within derived-measurement; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:1968bf0d-595c-40c7-a3ce-fc81adc3be35",
+    "revision": 1,
+    "subject": "ola:n:6d2a1df6-fab8-42e2-8ff3-91314074a746",
+    "relation": "composed_of",
+    "object": "ola:n:d28e65be-d531-46e4-9ec0-c53775ecdf63",
+    "rationale": "Compute derived quantities is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:5443ad63-3794-43db-adac-a263399f5c5f",
+    "revision": 1,
+    "subject": "ola:n:d28e65be-d531-46e4-9ec0-c53775ecdf63",
+    "relation": "composed_of",
+    "object": "ola:n:3411978d-fd5b-4656-8671-a160109afb15",
+    "rationale": "Compute a rate, density, or derived value is a bounded performance within Compute derived quantities.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:6bdb4144-465d-48a0-b1ce-b83c1d29704a",
+    "revision": 1,
+    "subject": "ola:n:3411978d-fd5b-4656-8671-a160109afb15",
+    "relation": "uses_concept",
+    "object": "ola:n:eace1382-5d63-4c37-a693-7e5d141ec8ee",
+    "rationale": "Demonstrating Compute a rate, density, or derived value materially invokes Derived quantity at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:9df66d00-bc44-4b94-b878-f6b439532cc7",
+    "revision": 1,
+    "subject": "ola:n:3411978d-fd5b-4656-8671-a160109afb15",
+    "relation": "uses_knowledge",
+    "object": "ola:n:dcadaaae-f296-4931-b2fd-a96d25fef839",
+    "rationale": "Demonstrating Compute a rate, density, or derived value materially invokes Derived unit and quantity equation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:bbaab9cc-62c8-41bd-896a-f74195da6b0e",
+    "revision": 1,
+    "subject": "ola:n:3411978d-fd5b-4656-8671-a160109afb15",
+    "relation": "uses_representation",
+    "object": "ola:n:29419ca4-45d6-4d10-b4ca-a7dd1a466506",
+    "rationale": "Demonstrating Compute a rate, density, or derived value materially invokes Compound-unit table and formula at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:0b20bcdb-19b9-4f7f-abc8-cdd83000d6ed",
+    "revision": 1,
+    "subject": "ola:n:d28e65be-d531-46e4-9ec0-c53775ecdf63",
+    "relation": "composed_of",
+    "object": "ola:n:741e28ea-7b7b-4573-9163-62e30c4bd18c",
+    "rationale": "Convert a compound unit is a bounded performance within Compute derived quantities.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:62c4eb63-b08c-43b1-92bf-c9231b6072d7",
+    "revision": 1,
+    "subject": "ola:n:741e28ea-7b7b-4573-9163-62e30c4bd18c",
+    "relation": "uses_concept",
+    "object": "ola:n:eace1382-5d63-4c37-a693-7e5d141ec8ee",
+    "rationale": "Demonstrating Convert a compound unit materially invokes Derived quantity at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a78ea54b-a06e-4e1b-bc00-16112d643dcc",
+    "revision": 1,
+    "subject": "ola:n:741e28ea-7b7b-4573-9163-62e30c4bd18c",
+    "relation": "uses_knowledge",
+    "object": "ola:n:dcadaaae-f296-4931-b2fd-a96d25fef839",
+    "rationale": "Demonstrating Convert a compound unit materially invokes Derived unit and quantity equation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:78753205-1705-483e-9ba5-865141ee4c48",
+    "revision": 1,
+    "subject": "ola:n:741e28ea-7b7b-4573-9163-62e30c4bd18c",
+    "relation": "uses_representation",
+    "object": "ola:n:29419ca4-45d6-4d10-b4ca-a7dd1a466506",
+    "rationale": "Demonstrating Convert a compound unit materially invokes Compound-unit table and formula at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:1e50880e-35fb-4ca0-8fce-359c181457b1",
+    "revision": 1,
+    "subject": "ola:n:6d2a1df6-fab8-42e2-8ff3-91314074a746",
+    "relation": "composed_of",
+    "object": "ola:n:32d9a721-4f30-4fd7-8486-61d60c0956b8",
+    "rationale": "Construct and interpret derived measures is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:63e1996e-a803-406a-bd3e-8f10d0bfea0b",
+    "revision": 1,
+    "subject": "ola:n:32d9a721-4f30-4fd7-8486-61d60c0956b8",
+    "relation": "composed_of",
+    "object": "ola:n:9b8c4ec8-64dd-42ae-a3d7-f6b0b711d769",
+    "rationale": "Construct a derived measure is a bounded performance within Construct and interpret derived measures.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:28ab133d-9bf5-4b8c-bc03-e479beeb8b91",
+    "revision": 1,
+    "subject": "ola:n:9b8c4ec8-64dd-42ae-a3d7-f6b0b711d769",
+    "relation": "uses_concept",
+    "object": "ola:n:c3cb579d-4577-4e61-9b1c-8b12dab8482a",
+    "rationale": "Demonstrating Construct a derived measure materially invokes Rate, density, and specific quantity at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:413b3c60-760a-4c44-92e3-fdfd01af22ad",
+    "revision": 1,
+    "subject": "ola:n:9b8c4ec8-64dd-42ae-a3d7-f6b0b711d769",
+    "relation": "uses_knowledge",
+    "object": "ola:n:dcadaaae-f296-4931-b2fd-a96d25fef839",
+    "rationale": "Demonstrating Construct a derived measure materially invokes Derived unit and quantity equation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:21a97ad9-a4fe-43aa-9bb3-9ea0c5ba8b33",
+    "revision": 1,
+    "subject": "ola:n:9b8c4ec8-64dd-42ae-a3d7-f6b0b711d769",
+    "relation": "uses_representation",
+    "object": "ola:n:29419ca4-45d6-4d10-b4ca-a7dd1a466506",
+    "rationale": "Demonstrating Construct a derived measure materially invokes Compound-unit table and formula at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b4cc6346-a376-4227-aff9-cf3b9390cd74",
+    "revision": 1,
+    "subject": "ola:n:32d9a721-4f30-4fd7-8486-61d60c0956b8",
+    "relation": "composed_of",
+    "object": "ola:n:d0ca2d4f-af94-44ca-bdbd-0b3dce5d2c33",
+    "rationale": "Interpret a derived measure is a bounded performance within Construct and interpret derived measures.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a484a5da-bcf8-48af-a73d-1716c04f898f",
+    "revision": 1,
+    "subject": "ola:n:d0ca2d4f-af94-44ca-bdbd-0b3dce5d2c33",
+    "relation": "uses_concept",
+    "object": "ola:n:c3cb579d-4577-4e61-9b1c-8b12dab8482a",
+    "rationale": "Demonstrating Interpret a derived measure materially invokes Rate, density, and specific quantity at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4acf1d42-489e-40ac-9a80-0b9fdbe98bcf",
+    "revision": 1,
+    "subject": "ola:n:d0ca2d4f-af94-44ca-bdbd-0b3dce5d2c33",
+    "relation": "uses_knowledge",
+    "object": "ola:n:dcadaaae-f296-4931-b2fd-a96d25fef839",
+    "rationale": "Demonstrating Interpret a derived measure materially invokes Derived unit and quantity equation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:97ec0eff-fdec-43bf-bdea-da52d0481b59",
+    "revision": 1,
+    "subject": "ola:n:d0ca2d4f-af94-44ca-bdbd-0b3dce5d2c33",
+    "relation": "uses_representation",
+    "object": "ola:n:29419ca4-45d6-4d10-b4ca-a7dd1a466506",
+    "rationale": "Demonstrating Interpret a derived measure materially invokes Compound-unit table and formula at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4ba23888-276f-490f-b8fb-7379e2f7f119",
+    "revision": 1,
+    "subject": "ola:n:6d2a1df6-fab8-42e2-8ff3-91314074a746",
+    "relation": "composed_of",
+    "object": "ola:n:21d03ebe-5921-47ed-a989-4e5d36f047ae",
+    "rationale": "Compare and audit derived measures is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8ff6a001-c79c-444c-971b-b1a3a1b65851",
+    "revision": 1,
+    "subject": "ola:n:21d03ebe-5921-47ed-a989-4e5d36f047ae",
+    "relation": "composed_of",
+    "object": "ola:n:94ef34c7-c967-4136-8c3b-14799b2d22fc",
+    "rationale": "Compare normalized quantities is a bounded performance within Compare and audit derived measures.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4ddb6bdd-aeca-4e26-b77a-c60c8faf534c",
+    "revision": 1,
+    "subject": "ola:n:94ef34c7-c967-4136-8c3b-14799b2d22fc",
+    "relation": "uses_concept",
+    "object": "ola:n:eace1382-5d63-4c37-a693-7e5d141ec8ee",
+    "rationale": "Demonstrating Compare normalized quantities materially invokes Derived quantity at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ec06ddbf-03d6-4a1a-adbf-2e4e9a180306",
+    "revision": 1,
+    "subject": "ola:n:94ef34c7-c967-4136-8c3b-14799b2d22fc",
+    "relation": "uses_concept",
+    "object": "ola:n:c3cb579d-4577-4e61-9b1c-8b12dab8482a",
+    "rationale": "Demonstrating Compare normalized quantities materially invokes Rate, density, and specific quantity at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e69621d4-3ffe-404e-b407-7e9c45f23004",
+    "revision": 1,
+    "subject": "ola:n:94ef34c7-c967-4136-8c3b-14799b2d22fc",
+    "relation": "uses_knowledge",
+    "object": "ola:n:dcadaaae-f296-4931-b2fd-a96d25fef839",
+    "rationale": "Demonstrating Compare normalized quantities materially invokes Derived unit and quantity equation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c7827749-30e9-4e70-b37b-fb399e2aebf8",
+    "revision": 1,
+    "subject": "ola:n:94ef34c7-c967-4136-8c3b-14799b2d22fc",
+    "relation": "uses_representation",
+    "object": "ola:n:29419ca4-45d6-4d10-b4ca-a7dd1a466506",
+    "rationale": "Demonstrating Compare normalized quantities materially invokes Compound-unit table and formula at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e15b62dd-f94e-4ef1-9696-c1b1d4696b05",
+    "revision": 1,
+    "subject": "ola:n:21d03ebe-5921-47ed-a989-4e5d36f047ae",
+    "relation": "composed_of",
+    "object": "ola:n:6443232c-3f5a-4cab-83a5-6a6a29774ad8",
+    "rationale": "Audit a derived-measurement claim is a bounded performance within Compare and audit derived measures.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:11e6b346-d904-4f7f-94f0-b4438e7c17de",
+    "revision": 1,
+    "subject": "ola:n:6443232c-3f5a-4cab-83a5-6a6a29774ad8",
+    "relation": "uses_concept",
+    "object": "ola:n:eace1382-5d63-4c37-a693-7e5d141ec8ee",
+    "rationale": "Demonstrating Audit a derived-measurement claim materially invokes Derived quantity at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7d9d4a44-a3b5-41d6-80c7-94de11f4bce9",
+    "revision": 1,
+    "subject": "ola:n:6443232c-3f5a-4cab-83a5-6a6a29774ad8",
+    "relation": "uses_concept",
+    "object": "ola:n:c3cb579d-4577-4e61-9b1c-8b12dab8482a",
+    "rationale": "Demonstrating Audit a derived-measurement claim materially invokes Rate, density, and specific quantity at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2e5ff445-bcba-41b8-a887-285664770498",
+    "revision": 1,
+    "subject": "ola:n:6443232c-3f5a-4cab-83a5-6a6a29774ad8",
+    "relation": "uses_knowledge",
+    "object": "ola:n:dcadaaae-f296-4931-b2fd-a96d25fef839",
+    "rationale": "Demonstrating Audit a derived-measurement claim materially invokes Derived unit and quantity equation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:cb9d5f2e-aacb-435c-9707-bd97caf94998",
+    "revision": 1,
+    "subject": "ola:n:6443232c-3f5a-4cab-83a5-6a6a29774ad8",
+    "relation": "uses_representation",
+    "object": "ola:n:29419ca4-45d6-4d10-b4ca-a7dd1a466506",
+    "rationale": "Demonstrating Audit a derived-measurement claim materially invokes Compound-unit table and formula at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a1e191fb-259e-487f-b9ae-d8946ffdfc4c",
+    "revision": 1,
+    "subject": "ola:n:053e52aa-0f0f-49e0-9994-520a9c1f58c7",
+    "relation": "composed_of",
+    "object": "ola:n:854d9a71-6e34-41fb-ba3a-b55fffd87c14",
+    "rationale": "Physical dimension is material terrain within dimensional-analysis; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e7fa5a7c-0aed-4fd3-8292-4f8ae178d377",
+    "revision": 1,
+    "subject": "ola:n:053e52aa-0f0f-49e0-9994-520a9c1f58c7",
+    "relation": "composed_of",
+    "object": "ola:n:10e2880d-0f3b-4838-a15f-27775faf49d9",
+    "rationale": "Dimensionless group is material terrain within dimensional-analysis; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:1167beba-1c93-4e6c-acb8-1a6135cf0a8a",
+    "revision": 1,
+    "subject": "ola:n:053e52aa-0f0f-49e0-9994-520a9c1f58c7",
+    "relation": "composed_of",
+    "object": "ola:n:b37047c2-fdad-46da-9bd1-b26bb654a27f",
+    "rationale": "Dimensional homogeneity and scaling is material terrain within dimensional-analysis; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:738ab678-5767-4bb7-ab05-f1035f838994",
+    "revision": 1,
+    "subject": "ola:n:053e52aa-0f0f-49e0-9994-520a9c1f58c7",
+    "relation": "composed_of",
+    "object": "ola:n:7c6f6a99-174d-41f9-9ab7-6da776e97d16",
+    "rationale": "Dimension vector and unit equation is material terrain within dimensional-analysis; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:089fdf40-2037-4213-9ee7-0ce548bfe4f2",
+    "revision": 1,
+    "subject": "ola:n:053e52aa-0f0f-49e0-9994-520a9c1f58c7",
+    "relation": "composed_of",
+    "object": "ola:n:863c929f-c417-42e2-9119-16949d4b4b51",
+    "rationale": "Determine and check dimensions is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:746d52bd-725f-4308-9cf0-aa00615a1085",
+    "revision": 1,
+    "subject": "ola:n:863c929f-c417-42e2-9119-16949d4b4b51",
+    "relation": "composed_of",
+    "object": "ola:n:5b161da1-2a4e-415f-816b-eb20400a9138",
+    "rationale": "Determine a derived dimension is a bounded performance within Determine and check dimensions.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f54a91ed-94c9-4548-90c8-4ac34f462ede",
+    "revision": 1,
+    "subject": "ola:n:5b161da1-2a4e-415f-816b-eb20400a9138",
+    "relation": "uses_concept",
+    "object": "ola:n:854d9a71-6e34-41fb-ba3a-b55fffd87c14",
+    "rationale": "Demonstrating Determine a derived dimension materially invokes Physical dimension at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:3e337b8f-c3e0-4cdb-a419-cadf659e81f9",
+    "revision": 1,
+    "subject": "ola:n:5b161da1-2a4e-415f-816b-eb20400a9138",
+    "relation": "uses_knowledge",
+    "object": "ola:n:b37047c2-fdad-46da-9bd1-b26bb654a27f",
+    "rationale": "Demonstrating Determine a derived dimension materially invokes Dimensional homogeneity and scaling at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:712c90f1-e77b-4fca-a61b-b17410638cb8",
+    "revision": 1,
+    "subject": "ola:n:5b161da1-2a4e-415f-816b-eb20400a9138",
+    "relation": "uses_representation",
+    "object": "ola:n:7c6f6a99-174d-41f9-9ab7-6da776e97d16",
+    "rationale": "Demonstrating Determine a derived dimension materially invokes Dimension vector and unit equation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d75d5e5e-0330-41f0-a649-5ad581f2ecfd",
+    "revision": 1,
+    "subject": "ola:n:863c929f-c417-42e2-9119-16949d4b4b51",
+    "relation": "composed_of",
+    "object": "ola:n:f5a23ef7-c377-47f4-94fb-11c7714340ea",
+    "rationale": "Check dimensional homogeneity is a bounded performance within Determine and check dimensions.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:bc713ac6-05d3-47f5-805a-dc24c7e97065",
+    "revision": 1,
+    "subject": "ola:n:f5a23ef7-c377-47f4-94fb-11c7714340ea",
+    "relation": "uses_concept",
+    "object": "ola:n:854d9a71-6e34-41fb-ba3a-b55fffd87c14",
+    "rationale": "Demonstrating Check dimensional homogeneity materially invokes Physical dimension at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f625217a-b22e-4cf3-8e90-156c59cbd756",
+    "revision": 1,
+    "subject": "ola:n:f5a23ef7-c377-47f4-94fb-11c7714340ea",
+    "relation": "uses_knowledge",
+    "object": "ola:n:b37047c2-fdad-46da-9bd1-b26bb654a27f",
+    "rationale": "Demonstrating Check dimensional homogeneity materially invokes Dimensional homogeneity and scaling at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:bc1d770b-df17-4c38-940a-582fd82514bf",
+    "revision": 1,
+    "subject": "ola:n:f5a23ef7-c377-47f4-94fb-11c7714340ea",
+    "relation": "uses_representation",
+    "object": "ola:n:7c6f6a99-174d-41f9-9ab7-6da776e97d16",
+    "rationale": "Demonstrating Check dimensional homogeneity materially invokes Dimension vector and unit equation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ba334955-03a8-4fba-b32b-ed5ce905a30e",
+    "revision": 1,
+    "subject": "ola:n:053e52aa-0f0f-49e0-9994-520a9c1f58c7",
+    "relation": "composed_of",
+    "object": "ola:n:b696d34d-54fa-4c0e-ae52-94fee324c180",
+    "rationale": "Convert and scale dimensionally is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7c9c326f-7f0b-4380-a9a6-2108161e453f",
+    "revision": 1,
+    "subject": "ola:n:b696d34d-54fa-4c0e-ae52-94fee324c180",
+    "relation": "composed_of",
+    "object": "ola:n:a940f92d-2062-4002-9cf1-b58191b405e3",
+    "rationale": "Perform unit-factor analysis is a bounded performance within Convert and scale dimensionally.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:08cc9b75-9a3d-40c8-b984-e4e00e362c83",
+    "revision": 1,
+    "subject": "ola:n:a940f92d-2062-4002-9cf1-b58191b405e3",
+    "relation": "uses_concept",
+    "object": "ola:n:10e2880d-0f3b-4838-a15f-27775faf49d9",
+    "rationale": "Demonstrating Perform unit-factor analysis materially invokes Dimensionless group at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:363d276d-5c4d-466e-949c-8ac1633f66d5",
+    "revision": 1,
+    "subject": "ola:n:a940f92d-2062-4002-9cf1-b58191b405e3",
+    "relation": "uses_knowledge",
+    "object": "ola:n:b37047c2-fdad-46da-9bd1-b26bb654a27f",
+    "rationale": "Demonstrating Perform unit-factor analysis materially invokes Dimensional homogeneity and scaling at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:6f728f80-eb8d-4896-8d41-627571eb3eab",
+    "revision": 1,
+    "subject": "ola:n:a940f92d-2062-4002-9cf1-b58191b405e3",
+    "relation": "uses_representation",
+    "object": "ola:n:7c6f6a99-174d-41f9-9ab7-6da776e97d16",
+    "rationale": "Demonstrating Perform unit-factor analysis materially invokes Dimension vector and unit equation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:61fd2753-8da5-4d6f-a026-751e831cd64f",
+    "revision": 1,
+    "subject": "ola:n:b696d34d-54fa-4c0e-ae52-94fee324c180",
+    "relation": "composed_of",
+    "object": "ola:n:df6d08e3-ef03-4dfe-bf99-ccdb7c069b71",
+    "rationale": "Derive a scaling relation is a bounded performance within Convert and scale dimensionally.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:639bfcfd-a087-4d2b-ad44-0706be07bb2a",
+    "revision": 1,
+    "subject": "ola:n:df6d08e3-ef03-4dfe-bf99-ccdb7c069b71",
+    "relation": "uses_concept",
+    "object": "ola:n:10e2880d-0f3b-4838-a15f-27775faf49d9",
+    "rationale": "Demonstrating Derive a scaling relation materially invokes Dimensionless group at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:9e399e63-8d84-4788-8761-d9c305501756",
+    "revision": 1,
+    "subject": "ola:n:df6d08e3-ef03-4dfe-bf99-ccdb7c069b71",
+    "relation": "uses_knowledge",
+    "object": "ola:n:b37047c2-fdad-46da-9bd1-b26bb654a27f",
+    "rationale": "Demonstrating Derive a scaling relation materially invokes Dimensional homogeneity and scaling at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c0be89e8-191e-4726-97d4-bb3b51557d85",
+    "revision": 1,
+    "subject": "ola:n:df6d08e3-ef03-4dfe-bf99-ccdb7c069b71",
+    "relation": "uses_representation",
+    "object": "ola:n:7c6f6a99-174d-41f9-9ab7-6da776e97d16",
+    "rationale": "Demonstrating Derive a scaling relation materially invokes Dimension vector and unit equation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:925793ab-f234-4498-9e17-184594928a4b",
+    "revision": 1,
+    "subject": "ola:n:053e52aa-0f0f-49e0-9994-520a9c1f58c7",
+    "relation": "composed_of",
+    "object": "ola:n:4ad93f22-43ca-4bef-9225-4d6e30d35f87",
+    "rationale": "Construct and critique dimensionless relations is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:25288ee4-084e-471a-a49c-6047c497dcd1",
+    "revision": 1,
+    "subject": "ola:n:4ad93f22-43ca-4bef-9225-4d6e30d35f87",
+    "relation": "composed_of",
+    "object": "ola:n:7747a8fd-cfac-4820-89f9-273b13b2e79f",
+    "rationale": "Construct a dimensionless group is a bounded performance within Construct and critique dimensionless relations.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:983cf31a-d1b8-419f-803e-0d877d9b5096",
+    "revision": 1,
+    "subject": "ola:n:7747a8fd-cfac-4820-89f9-273b13b2e79f",
+    "relation": "uses_concept",
+    "object": "ola:n:854d9a71-6e34-41fb-ba3a-b55fffd87c14",
+    "rationale": "Demonstrating Construct a dimensionless group materially invokes Physical dimension at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:9103e676-69f0-4046-b8b1-4ba66007b220",
+    "revision": 1,
+    "subject": "ola:n:7747a8fd-cfac-4820-89f9-273b13b2e79f",
+    "relation": "uses_concept",
+    "object": "ola:n:10e2880d-0f3b-4838-a15f-27775faf49d9",
+    "rationale": "Demonstrating Construct a dimensionless group materially invokes Dimensionless group at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:47953b85-2277-41f1-ab70-0002b27957cc",
+    "revision": 1,
+    "subject": "ola:n:7747a8fd-cfac-4820-89f9-273b13b2e79f",
+    "relation": "uses_knowledge",
+    "object": "ola:n:b37047c2-fdad-46da-9bd1-b26bb654a27f",
+    "rationale": "Demonstrating Construct a dimensionless group materially invokes Dimensional homogeneity and scaling at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:1e387ea2-c4f2-44ac-bcd8-16cfcd0acc74",
+    "revision": 1,
+    "subject": "ola:n:7747a8fd-cfac-4820-89f9-273b13b2e79f",
+    "relation": "uses_representation",
+    "object": "ola:n:7c6f6a99-174d-41f9-9ab7-6da776e97d16",
+    "rationale": "Demonstrating Construct a dimensionless group materially invokes Dimension vector and unit equation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:6c8042d9-0926-4cd5-ad38-6d62aff1235b",
+    "revision": 1,
+    "subject": "ola:n:4ad93f22-43ca-4bef-9225-4d6e30d35f87",
+    "relation": "composed_of",
+    "object": "ola:n:d8f26f4b-cdee-4e61-9b19-f4046da3552a",
+    "rationale": "Audit a dimensional argument is a bounded performance within Construct and critique dimensionless relations.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:97d53956-b448-4c01-9db1-8a431a67228b",
+    "revision": 1,
+    "subject": "ola:n:d8f26f4b-cdee-4e61-9b19-f4046da3552a",
+    "relation": "uses_concept",
+    "object": "ola:n:854d9a71-6e34-41fb-ba3a-b55fffd87c14",
+    "rationale": "Demonstrating Audit a dimensional argument materially invokes Physical dimension at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8f791fc9-eea2-41cb-b16a-d04fb340e38a",
+    "revision": 1,
+    "subject": "ola:n:d8f26f4b-cdee-4e61-9b19-f4046da3552a",
+    "relation": "uses_concept",
+    "object": "ola:n:10e2880d-0f3b-4838-a15f-27775faf49d9",
+    "rationale": "Demonstrating Audit a dimensional argument materially invokes Dimensionless group at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:47df8ebd-6dcd-4a44-9b39-0e6f6d92a376",
+    "revision": 1,
+    "subject": "ola:n:d8f26f4b-cdee-4e61-9b19-f4046da3552a",
+    "relation": "uses_knowledge",
+    "object": "ola:n:b37047c2-fdad-46da-9bd1-b26bb654a27f",
+    "rationale": "Demonstrating Audit a dimensional argument materially invokes Dimensional homogeneity and scaling at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a75fcf92-abe3-4c45-a846-3d6104a81a68",
+    "revision": 1,
+    "subject": "ola:n:d8f26f4b-cdee-4e61-9b19-f4046da3552a",
+    "relation": "uses_representation",
+    "object": "ola:n:7c6f6a99-174d-41f9-9ab7-6da776e97d16",
+    "rationale": "Demonstrating Audit a dimensional argument materially invokes Dimension vector and unit equation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a0c4f710-8a83-4646-9f38-779fdf7fe52a",
+    "revision": 1,
+    "subject": "ola:n:bc8eedc5-5c1f-48a6-a003-d1e4a206f8a9",
+    "relation": "composed_of",
+    "object": "ola:n:7f760dca-87f4-4441-a430-33811a5178cb",
+    "rationale": "Measurement uncertainty is material terrain within precision-tolerance-measurement-uncertainty; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:34335ffb-2a0a-40df-bf88-8d1e64e03837",
+    "revision": 1,
+    "subject": "ola:n:bc8eedc5-5c1f-48a6-a003-d1e4a206f8a9",
+    "relation": "composed_of",
+    "object": "ola:n:44e975c0-43e6-4e3d-a147-e84559b87a90",
+    "rationale": "Tolerance, resolution, and measurement error is material terrain within precision-tolerance-measurement-uncertainty; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:70d46cc2-53fb-4b34-b842-24c3c73a9d2c",
+    "revision": 1,
+    "subject": "ola:n:bc8eedc5-5c1f-48a6-a003-d1e4a206f8a9",
+    "relation": "composed_of",
+    "object": "ola:n:bfd61276-a001-4b1e-88ce-f49ff67121d0",
+    "rationale": "Uncertainty combination and reporting is material terrain within precision-tolerance-measurement-uncertainty; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:654293b8-788e-4731-9056-dec3b7b5116f",
+    "revision": 1,
+    "subject": "ola:n:bc8eedc5-5c1f-48a6-a003-d1e4a206f8a9",
+    "relation": "composed_of",
+    "object": "ola:n:28e27510-6d4f-40fd-96fb-ef72db63c7e2",
+    "rationale": "Uncertainty interval and error-bar representation is material terrain within precision-tolerance-measurement-uncertainty; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:dc350f34-5b4a-4d55-b888-1e4b2162367d",
+    "revision": 1,
+    "subject": "ola:n:bc8eedc5-5c1f-48a6-a003-d1e4a206f8a9",
+    "relation": "composed_of",
+    "object": "ola:n:965b1aa8-a15d-43e4-b4a6-f56d006ef0b9",
+    "rationale": "Report and interpret precision is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:45733589-220c-4895-ba8c-ba634135a4a8",
+    "revision": 1,
+    "subject": "ola:n:965b1aa8-a15d-43e4-b4a6-f56d006ef0b9",
+    "relation": "composed_of",
+    "object": "ola:n:63c8a4c0-25d4-46eb-bb02-a7769337bfca",
+    "rationale": "Report a measurement with uncertainty is a bounded performance within Report and interpret precision.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:eed2cbf8-5557-44a7-8f2d-f9a21add9f53",
+    "revision": 1,
+    "subject": "ola:n:63c8a4c0-25d4-46eb-bb02-a7769337bfca",
+    "relation": "uses_concept",
+    "object": "ola:n:7f760dca-87f4-4441-a430-33811a5178cb",
+    "rationale": "Demonstrating Report a measurement with uncertainty materially invokes Measurement uncertainty at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a6b7df1b-350b-4255-8d29-bcd44881e20f",
+    "revision": 1,
+    "subject": "ola:n:63c8a4c0-25d4-46eb-bb02-a7769337bfca",
+    "relation": "uses_knowledge",
+    "object": "ola:n:bfd61276-a001-4b1e-88ce-f49ff67121d0",
+    "rationale": "Demonstrating Report a measurement with uncertainty materially invokes Uncertainty combination and reporting at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:466baf72-e70f-4b53-903a-17dde33942cb",
+    "revision": 1,
+    "subject": "ola:n:63c8a4c0-25d4-46eb-bb02-a7769337bfca",
+    "relation": "uses_representation",
+    "object": "ola:n:28e27510-6d4f-40fd-96fb-ef72db63c7e2",
+    "rationale": "Demonstrating Report a measurement with uncertainty materially invokes Uncertainty interval and error-bar representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:84c357e4-ce5b-4c1c-a075-170ba6296499",
+    "revision": 1,
+    "subject": "ola:n:965b1aa8-a15d-43e4-b4a6-f56d006ef0b9",
+    "relation": "composed_of",
+    "object": "ola:n:7a58b63f-7418-471a-b5a9-55f825b3233e",
+    "rationale": "Distinguish error, uncertainty, resolution, and tolerance is a bounded performance within Report and interpret precision.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:1ea66326-2dda-4d20-96c6-eb1825228088",
+    "revision": 1,
+    "subject": "ola:n:7a58b63f-7418-471a-b5a9-55f825b3233e",
+    "relation": "uses_concept",
+    "object": "ola:n:7f760dca-87f4-4441-a430-33811a5178cb",
+    "rationale": "Demonstrating Distinguish error, uncertainty, resolution, and tolerance materially invokes Measurement uncertainty at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ac0acc3e-41df-406c-8d05-4a214fb52a96",
+    "revision": 1,
+    "subject": "ola:n:7a58b63f-7418-471a-b5a9-55f825b3233e",
+    "relation": "uses_knowledge",
+    "object": "ola:n:bfd61276-a001-4b1e-88ce-f49ff67121d0",
+    "rationale": "Demonstrating Distinguish error, uncertainty, resolution, and tolerance materially invokes Uncertainty combination and reporting at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:aca93dae-3ee2-4265-841e-ab64ad210450",
+    "revision": 1,
+    "subject": "ola:n:7a58b63f-7418-471a-b5a9-55f825b3233e",
+    "relation": "uses_representation",
+    "object": "ola:n:28e27510-6d4f-40fd-96fb-ef72db63c7e2",
+    "rationale": "Demonstrating Distinguish error, uncertainty, resolution, and tolerance materially invokes Uncertainty interval and error-bar representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a63a035a-00aa-47a7-8a81-0d15ae5f8567",
+    "revision": 1,
+    "subject": "ola:n:bc8eedc5-5c1f-48a6-a003-d1e4a206f8a9",
+    "relation": "composed_of",
+    "object": "ola:n:fc3d5081-60d3-4a05-8254-d8ffbe3ba0fa",
+    "rationale": "Combine and compare uncertainty is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:99719604-2035-4292-9bcc-73cbfe8dde7e",
+    "revision": 1,
+    "subject": "ola:n:fc3d5081-60d3-4a05-8254-d8ffbe3ba0fa",
+    "relation": "composed_of",
+    "object": "ola:n:29b8f7e6-17ff-4e75-ad1e-64f25babfccb",
+    "rationale": "Propagate measurement uncertainty is a bounded performance within Combine and compare uncertainty.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:da39f869-85f3-4772-a1d2-1f9ddaab9b3d",
+    "revision": 1,
+    "subject": "ola:n:29b8f7e6-17ff-4e75-ad1e-64f25babfccb",
+    "relation": "uses_concept",
+    "object": "ola:n:44e975c0-43e6-4e3d-a147-e84559b87a90",
+    "rationale": "Demonstrating Propagate measurement uncertainty materially invokes Tolerance, resolution, and measurement error at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:10b9412d-354f-4fce-a550-e0b99723eb06",
+    "revision": 1,
+    "subject": "ola:n:29b8f7e6-17ff-4e75-ad1e-64f25babfccb",
+    "relation": "uses_knowledge",
+    "object": "ola:n:bfd61276-a001-4b1e-88ce-f49ff67121d0",
+    "rationale": "Demonstrating Propagate measurement uncertainty materially invokes Uncertainty combination and reporting at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f565eb31-a3a9-4d94-84b5-e4374df75378",
+    "revision": 1,
+    "subject": "ola:n:29b8f7e6-17ff-4e75-ad1e-64f25babfccb",
+    "relation": "uses_representation",
+    "object": "ola:n:28e27510-6d4f-40fd-96fb-ef72db63c7e2",
+    "rationale": "Demonstrating Propagate measurement uncertainty materially invokes Uncertainty interval and error-bar representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:9103519e-62d5-40bf-946b-e4c4e9caec07",
+    "revision": 1,
+    "subject": "ola:n:fc3d5081-60d3-4a05-8254-d8ffbe3ba0fa",
+    "relation": "composed_of",
+    "object": "ola:n:4dfef1ab-149d-401d-b9aa-e44937106eb9",
+    "rationale": "Compare a result with tolerance or reference is a bounded performance within Combine and compare uncertainty.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:914950fa-6ac9-4c66-a56e-0d3ba31de592",
+    "revision": 1,
+    "subject": "ola:n:4dfef1ab-149d-401d-b9aa-e44937106eb9",
+    "relation": "uses_concept",
+    "object": "ola:n:44e975c0-43e6-4e3d-a147-e84559b87a90",
+    "rationale": "Demonstrating Compare a result with tolerance or reference materially invokes Tolerance, resolution, and measurement error at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:69901a4c-22e8-48f7-b1d3-1be5e3e24f52",
+    "revision": 1,
+    "subject": "ola:n:4dfef1ab-149d-401d-b9aa-e44937106eb9",
+    "relation": "uses_knowledge",
+    "object": "ola:n:bfd61276-a001-4b1e-88ce-f49ff67121d0",
+    "rationale": "Demonstrating Compare a result with tolerance or reference materially invokes Uncertainty combination and reporting at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e1b3d73a-8796-4aef-9c6e-dd7b2036f9a0",
+    "revision": 1,
+    "subject": "ola:n:4dfef1ab-149d-401d-b9aa-e44937106eb9",
+    "relation": "uses_representation",
+    "object": "ola:n:28e27510-6d4f-40fd-96fb-ef72db63c7e2",
+    "rationale": "Demonstrating Compare a result with tolerance or reference materially invokes Uncertainty interval and error-bar representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:3b16e68a-393b-435e-9263-112e95b39ce3",
+    "revision": 1,
+    "subject": "ola:n:bc8eedc5-5c1f-48a6-a003-d1e4a206f8a9",
+    "relation": "composed_of",
+    "object": "ola:n:ba4bc8a3-03ec-4821-84cd-a0d3f9441de9",
+    "rationale": "Audit measurement quality is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:134afe42-4045-4ce2-b1f3-429dd8570d1d",
+    "revision": 1,
+    "subject": "ola:n:ba4bc8a3-03ec-4821-84cd-a0d3f9441de9",
+    "relation": "composed_of",
+    "object": "ola:n:e9d05f0b-1fd6-445c-8218-26cd83e2b006",
+    "rationale": "Construct an uncertainty budget is a bounded performance within Audit measurement quality.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:5bdfa0d6-042a-4dd2-adf0-39b1ff248096",
+    "revision": 1,
+    "subject": "ola:n:e9d05f0b-1fd6-445c-8218-26cd83e2b006",
+    "relation": "uses_concept",
+    "object": "ola:n:7f760dca-87f4-4441-a430-33811a5178cb",
+    "rationale": "Demonstrating Construct an uncertainty budget materially invokes Measurement uncertainty at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:dc182c69-521d-495f-a4ca-76564d121ad7",
+    "revision": 1,
+    "subject": "ola:n:e9d05f0b-1fd6-445c-8218-26cd83e2b006",
+    "relation": "uses_concept",
+    "object": "ola:n:44e975c0-43e6-4e3d-a147-e84559b87a90",
+    "rationale": "Demonstrating Construct an uncertainty budget materially invokes Tolerance, resolution, and measurement error at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:09871cb3-21ad-4e7f-a218-46c619ee5646",
+    "revision": 1,
+    "subject": "ola:n:e9d05f0b-1fd6-445c-8218-26cd83e2b006",
+    "relation": "uses_knowledge",
+    "object": "ola:n:bfd61276-a001-4b1e-88ce-f49ff67121d0",
+    "rationale": "Demonstrating Construct an uncertainty budget materially invokes Uncertainty combination and reporting at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:dfc1a933-9d5a-4728-9682-6e3290ebe2c0",
+    "revision": 1,
+    "subject": "ola:n:e9d05f0b-1fd6-445c-8218-26cd83e2b006",
+    "relation": "uses_representation",
+    "object": "ola:n:28e27510-6d4f-40fd-96fb-ef72db63c7e2",
+    "rationale": "Demonstrating Construct an uncertainty budget materially invokes Uncertainty interval and error-bar representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:65326910-6e6e-4595-8746-8d33ca24a992",
+    "revision": 1,
+    "subject": "ola:n:ba4bc8a3-03ec-4821-84cd-a0d3f9441de9",
+    "relation": "composed_of",
+    "object": "ola:n:3f1af61c-b007-484b-adc6-69faf0c28dc4",
+    "rationale": "Audit a measurement-uncertainty claim is a bounded performance within Audit measurement quality.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:dc116ab9-635d-450e-9276-5f6b62e2cb6e",
+    "revision": 1,
+    "subject": "ola:n:3f1af61c-b007-484b-adc6-69faf0c28dc4",
+    "relation": "uses_concept",
+    "object": "ola:n:7f760dca-87f4-4441-a430-33811a5178cb",
+    "rationale": "Demonstrating Audit a measurement-uncertainty claim materially invokes Measurement uncertainty at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:244527d7-0840-4c89-85b2-145e30c8d9fe",
+    "revision": 1,
+    "subject": "ola:n:3f1af61c-b007-484b-adc6-69faf0c28dc4",
+    "relation": "uses_concept",
+    "object": "ola:n:44e975c0-43e6-4e3d-a147-e84559b87a90",
+    "rationale": "Demonstrating Audit a measurement-uncertainty claim materially invokes Tolerance, resolution, and measurement error at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e2a09308-327a-4641-9d5b-4f6ed38e39d7",
+    "revision": 1,
+    "subject": "ola:n:3f1af61c-b007-484b-adc6-69faf0c28dc4",
+    "relation": "uses_knowledge",
+    "object": "ola:n:bfd61276-a001-4b1e-88ce-f49ff67121d0",
+    "rationale": "Demonstrating Audit a measurement-uncertainty claim materially invokes Uncertainty combination and reporting at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c6002752-cb5f-4829-b2e1-1675771bf7e0",
+    "revision": 1,
+    "subject": "ola:n:3f1af61c-b007-484b-adc6-69faf0c28dc4",
+    "relation": "uses_representation",
+    "object": "ola:n:28e27510-6d4f-40fd-96fb-ef72db63c7e2",
+    "rationale": "Demonstrating Audit a measurement-uncertainty claim materially invokes Uncertainty interval and error-bar representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  }
+]

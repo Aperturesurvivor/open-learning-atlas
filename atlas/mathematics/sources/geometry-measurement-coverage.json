@@ -1,0 +1,58 @@
+[
+  {
+    "id": "ola:s:b29bbe39-419c-4146-9998-69d63c2f905b",
+    "revision": 1,
+    "title": "MIT OpenCourseWare geometry and topology courses",
+    "source_type": "curriculum",
+    "citation": "MIT OpenCourseWare. 18.950 Differential Geometry and related topology and geometry materials.",
+    "url": "https://ocw.mit.edu/courses/18-950-differential-geometry-fall-2008/",
+    "accessed_at": "2026-07-21",
+    "coverage_for": [
+      "ola:n:32960293-70d7-4413-9230-99dc0d4dd424",
+      "ola:n:f128be18-b96a-4b03-a840-556f95b84a99",
+      "ola:n:798b2d05-3369-425f-9c8b-5b1b7300f636"
+    ],
+    "coverage_scope": "Rigorous differential geometry with interfaces to topology, curvature, manifolds, and advanced geometric methods.",
+    "coverage_gaps": [
+      "Algebraic, computational, discrete, and convex geometry require additional specialist coverage.",
+      "Course order is not imported as dependency structure."
+    ],
+    "notes": "Coverage audit only; no source prose, diagrams, or exercises were imported."
+  },
+  {
+    "id": "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+    "revision": 1,
+    "title": "The International System of Units, 9th edition",
+    "source_type": "standard",
+    "citation": "Bureau International des Poids et Mesures. The International System of Units (SI). 9th ed., updated 2026.",
+    "url": "https://www.bipm.org/en/publications/si-brochure/",
+    "accessed_at": "2026-07-21",
+    "coverage_for": [
+      "ola:n:2b72476f-74b2-4240-a508-7a83ddfe94df",
+      "ola:n:6d2a1df6-fab8-42e2-8ff3-91314074a746",
+      "ola:n:053e52aa-0f0f-49e0-9994-520a9c1f58c7"
+    ],
+    "coverage_scope": "SI quantities, defining constants, base and derived units, unit symbols, prefixes, dimensions, and coherent quantity equations.",
+    "coverage_gaps": [
+      "The SI Brochure is a metrology standard, not a geometry or educational dependency source."
+    ],
+    "notes": "Coverage audit only; no source prose, diagrams, or exercises were imported."
+  },
+  {
+    "id": "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+    "revision": 1,
+    "title": "Guide to the Expression of Uncertainty in Measurement",
+    "source_type": "standard",
+    "citation": "Joint Committee for Guides in Metrology. JCGM 100:2008, Evaluation of measurement data—Guide to the expression of uncertainty in measurement.",
+    "url": "https://www.bipm.org/documents/20126/2071204/JCGM_100_2008_E.pdf",
+    "accessed_at": "2026-07-21",
+    "coverage_for": [
+      "ola:n:bc8eedc5-5c1f-48a6-a003-d1e4a206f8a9"
+    ],
+    "coverage_scope": "Measurand definition, uncertainty components, combination, coverage, reporting, and use of measurement results.",
+    "coverage_gaps": [
+      "The guide does not cover every modern computational uncertainty method or domain-specific conformity rule."
+    ],
+    "notes": "Coverage audit only; no source prose, diagrams, or exercises were imported."
+  }
+]

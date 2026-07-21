@@ -8,10 +8,11 @@
     "url": "https://openstax.org/details/books/prealgebra-2e/",
     "accessed_at": "2026-07-21",
     "coverage_for": [
-      "ola:n:8994155f-ccce-4906-a6d5-8fba0d4bcf41",
       "ola:n:0cab0be3-5531-474d-bc2b-d3dd90c78fa3",
       "ola:n:0e63b46b-7ec0-4641-b8bf-14017474d82a",
       "ola:n:4c83ed0c-3ed7-4554-b566-b937c04e3e37",
+      "ola:n:8994155f-ccce-4906-a6d5-8fba0d4bcf41",
+      "ola:n:d6674c91-a2d2-41aa-bbe6-b1a1bf916042",
       "ola:n:f6e75f2e-d126-4500-bedd-aa3c3624544c"
     ],
     "coverage_scope": "Whole numbers, integers, rational values, arithmetic operations, factors, exponents, measurement, basic algebra, and multiple representations.",
@@ -30,14 +31,19 @@
     "url": "https://openstax.org/books/algebra-and-trigonometry-2e/pages/preface",
     "accessed_at": "2026-07-21",
     "coverage_for": [
-      "ola:n:ff72e1fe-db8d-4f43-8108-e6ff56f965a1",
+      "ola:n:10838764-47a9-4c87-8f05-747f1dc05d22",
       "ola:n:164c3d7c-a12e-4fe9-988d-5299b3ea2f29",
-      "ola:n:42024327-5920-4875-8ac5-1cd78cebce5c",
-      "ola:n:676d8217-3356-4081-9a3b-3a45922c99f3",
+      "ola:n:2c96ba35-a841-4d8f-acc1-806b437b93b9",
       "ola:n:344d96fb-d7f4-48ff-9896-7b455896c020",
       "ola:n:3f0eadb0-1111-43cc-9bfe-db02f4776e93",
+      "ola:n:42024327-5920-4875-8ac5-1cd78cebce5c",
+      "ola:n:53c25a30-0b50-4d17-9e52-ceaa73728f8f",
+      "ola:n:676d8217-3356-4081-9a3b-3a45922c99f3",
       "ola:n:8f7331e4-1374-4306-aa48-03aef45fe946",
-      "ola:n:bb1b0330-6ee3-4e96-bdaa-5b36429d9aa8"
+      "ola:n:a804d3d5-c27c-4bb2-8052-000cc5dad9a1",
+      "ola:n:bb1b0330-6ee3-4e96-bdaa-5b36429d9aa8",
+      "ola:n:be3c8b0f-dd6a-49a3-b9e0-59e3144c7e52",
+      "ola:n:ff72e1fe-db8d-4f43-8108-e6ff56f965a1"
     ],
     "coverage_scope": "Expressions, equations, inequalities, functions, polynomial, rational, exponential, logarithmic, trigonometric, systems, analytic geometry, sequences, probability, and counting.",
     "coverage_gaps": [

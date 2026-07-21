@@ -1,0 +1,2586 @@
+[
+  {
+    "id": "ola:n:d976ef7e-0e45-44e7-8323-a6c09374c568",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "euclidean-incidence-object",
+    "label": "Euclidean incidence object",
+    "definition": "A point, line, ray, segment, plane, circle, or related object connected by incidence and betweenness relations.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:5cfd6f01-b8a7-41a7-98bb-6d5e30b659e3",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "euclidean-angle-distance",
+    "label": "Euclidean angle and distance",
+    "definition": "Angle and distance quantities invariant under Euclidean isometries and used to define perpendicularity, congruence, and metric relations.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:fe714e09-3eac-4572-a9fc-37db9113b296",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "euclidean-postulate-theorem-structure",
+    "label": "Euclidean postulate and theorem structure",
+    "definition": "Synthetic conclusions follow from declared incidence, congruence, parallel, continuity, and construction assumptions rather than appearance in a diagram.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:fc1ab920-a217-4081-a350-3d6e9f9e19c1",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "synthetic-geometry-diagram-construction",
+    "label": "Synthetic geometry diagram and construction",
+    "definition": "A labeled diagram or straightedge-and-compass-style construction representing objects, givens, dependencies, and claimed relations.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:5084ef1a-268e-4e29-9340-a36e4ed2b1b5",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "construct-interpret-euclidean-configurations-family",
+    "label": "Construct and interpret Euclidean configurations",
+    "definition": "A capability family within euclidean-synthetic-geometry grouping performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:49e0369d-811b-483d-a500-5b8b8e10ca52",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-euclidean-configuration",
+    "label": "Construct a Euclidean configuration",
+    "definition": "Given specified points, lines, circles, incidences, distances, or angles within an admitted construction system, construct a configuration and mark givens separately from inferred properties.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given specified points, lines, circles, incidences, distances, or angles within an admitted construction system, construct a configuration and mark givens separately from inferred properties.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:4204b60f-fc16-4941-bbcc-964ccf8a7f05",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "interpret-geometric-diagram",
+    "label": "Interpret a geometric diagram",
+    "definition": "Given a labeled Euclidean diagram and textual conditions, identify guaranteed incidences, measures, and constraints without inferring unmarked properties from visual appearance.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a labeled Euclidean diagram and textual conditions, identify guaranteed incidences, measures, and constraints without inferring unmarked properties from visual appearance.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:c303b282-f9c8-4dcb-b5f8-a0248e77af03",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "determine-euclidean-relations-family",
+    "label": "Determine Euclidean relations",
+    "definition": "A capability family within euclidean-synthetic-geometry grouping performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:1848f927-7104-4f96-915b-94f57dd599d7",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "determine-euclidean-length-angle",
+    "label": "Determine a Euclidean length or angle",
+    "definition": "Given a bounded Euclidean configuration and admissible theorems, determine a requested length or angle and justify each used relation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a bounded Euclidean configuration and admissible theorems, determine a requested length or angle and justify each used relation.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:32308a75-a455-41b4-a710-4b828edddfdb",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "determine-incidence-parallel-perpendicular",
+    "label": "Determine incidence, parallelism, or perpendicularity",
+    "definition": "Given a geometric configuration with sufficient conditions, establish or refute a specified incidence, parallel, or perpendicular relation using valid synthetic criteria.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a geometric configuration with sufficient conditions, establish or refute a specified incidence, parallel, or perpendicular relation using valid synthetic criteria.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:7ce80820-589e-4631-9291-0f0026a1717d",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "justify-synthetic-geometry-family",
+    "label": "Justify synthetic geometry claims",
+    "definition": "A capability family within euclidean-synthetic-geometry grouping performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:2a0d6330-39ef-4751-88d0-a019bcc1a2b5",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-synthetic-geometry-proof",
+    "label": "Construct a synthetic geometry proof",
+    "definition": "Given a scoped Euclidean claim and permitted postulates or theorems, construct a proof linking the stated givens to the exact conclusion without relying on scale drawing.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a scoped Euclidean claim and permitted postulates or theorems, construct a proof linking the stated givens to the exact conclusion without relying on scale drawing.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:200ff430-dfcf-4a2a-906d-1e823d53281b",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "audit-synthetic-geometry-argument",
+    "label": "Audit a synthetic geometry argument",
+    "definition": "Given a bounded proof or construction claim, identify unstated diagram assumptions, circular steps, or theorem-condition failures and explain whether the conclusion follows.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a bounded proof or construction claim, identify unstated diagram assumptions, circular steps, or theorem-condition failures and explain whether the conclusion follows.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:ea6263b3-f074-4410-bd09-fa8a5220123c",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "coordinate-point-locus",
+    "label": "Coordinate point and locus",
+    "definition": "An ordered coordinate representation of position and a set of points satisfying a geometric or algebraic condition.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:df9daa47-c333-4efd-bd5b-b520b0cdbcf4",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "analytic-curve-surface",
+    "label": "Analytic curve and surface",
+    "definition": "A geometric set represented by equations, parameterizations, or inequalities in a coordinate system.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:ed2a09eb-0033-4cef-86bd-f46b4a781e0a",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "coordinate-geometry-correspondence",
+    "label": "Coordinate–geometry correspondence",
+    "definition": "Distance, slope, inner-product, determinant, and equation relations translate geometric conditions into algebraic ones under stated coordinate conventions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:daa473e3-ce28-4a5d-8955-7a5dca4357ae",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "cartesian-parametric-polar-geometry",
+    "label": "Cartesian, parametric, and polar geometry representation",
+    "definition": "Coordinate plots and equations representing points, lines, curves, regions, and surfaces in a chosen coordinate system.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:97848b41-ca9e-4991-a920-58981d35d901",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "represent-coordinate-geometry-family",
+    "label": "Represent coordinate geometry",
+    "definition": "A capability family within coordinate-analytic-geometry grouping performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:4dbffa9a-88e6-44f1-829d-b073a04ad6cb",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "plot-interpret-coordinate-object",
+    "label": "Plot and interpret a coordinate object",
+    "definition": "Given coordinates or an equation in a declared system, construct or interpret the corresponding point, vector, line, curve, region, or surface with correct scale and domain.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given coordinates or an equation in a declared system, construct or interpret the corresponding point, vector, line, curve, region, or surface with correct scale and domain.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:aa2b6506-8d59-4da2-8004-b260f3d63455",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "translate-coordinate-systems",
+    "label": "Translate coordinate systems",
+    "definition": "Given a geometric object and compatible Cartesian, parametric, polar, or transformed coordinates, convert its representation while tracking domain and multiplicity.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a geometric object and compatible Cartesian, parametric, polar, or transformed coordinates, convert its representation while tracking domain and multiplicity.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:3de9d383-e495-40cb-af5a-b1ae1456f20e",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "compute-analytic-geometry-family",
+    "label": "Compute analytic geometry relations",
+    "definition": "A capability family within coordinate-analytic-geometry grouping performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:9cd160ae-7d44-47bb-8609-4284c6706c3b",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "determine-coordinate-distance-slope",
+    "label": "Determine coordinate distance or slope",
+    "definition": "Given coordinate points or vectors in an admitted metric setting, determine requested distances, midpoints, slopes, directions, or angles and state undefined cases.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given coordinate points or vectors in an admitted metric setting, determine requested distances, midpoints, slopes, directions, or angles and state undefined cases.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:b8fae4a2-c226-4a85-8fb5-5e2e3283400c",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "solve-coordinate-intersection-locus",
+    "label": "Solve a coordinate intersection or locus",
+    "definition": "Given equations or conditions for geometric sets, determine their intersection or locus within scope and verify candidate points against every condition.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given equations or conditions for geometric sets, determine their intersection or locus within scope and verify candidate points against every condition.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:9c55c8b3-ffd3-447f-8534-3c57b891a1ff",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "justify-coordinate-geometry-family",
+    "label": "Justify coordinate geometry claims",
+    "definition": "A capability family within coordinate-analytic-geometry grouping performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:2177fcd4-9d6d-40c2-9bf1-0354b2f92fd7",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "prove-geometric-relation-coordinates",
+    "label": "Prove a geometric relation with coordinates",
+    "definition": "Given a bounded geometric claim, choose a suitable coordinate system and derive the relation algebraically while explaining why the coordinate choice loses no relevant generality.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a bounded geometric claim, choose a suitable coordinate system and derive the relation algebraically while explaining why the coordinate choice loses no relevant generality.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:524818eb-d348-4531-a57b-f0cb63f9d903",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-equation-from-geometric-condition",
+    "label": "Construct an equation from a geometric condition",
+    "definition": "Given a locus condition, define coordinates and derive an equation or inequality whose solution set matches the stated geometry, including exclusions and degenerate cases.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a locus condition, define coordinates and derive an equation or inequality whose solution set matches the stated geometry, including exclusions and degenerate cases.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:544521f2-0a68-4b01-81fd-3ed4025387b1",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "geometric-congruence",
+    "label": "Geometric congruence",
+    "definition": "Equivalence of figures under distance-preserving transformations or declared congruence criteria.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:a8659e7c-d98e-44cd-9ab9-eccb7133b754",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "geometric-similarity-symmetry",
+    "label": "Geometric similarity and symmetry",
+    "definition": "Shape equivalence up to uniform scale and self-correspondence under transformations that preserve specified structure.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:28759c72-ced2-4f36-8b9c-2517a4d210aa",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "congruence-similarity-invariants",
+    "label": "Congruence and similarity invariants",
+    "definition": "Congruence preserves distances and angles; similarity preserves angles and scales lengths by a common nonzero factor, with area and volume scaling by powers.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:8a812034-f225-4cca-8a38-df1a763e91b2",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "correspondence-transformation-diagram",
+    "label": "Correspondence and transformation diagram",
+    "definition": "Matched vertices, transformation arrows, scale factors, and symmetry elements represented in labeled figures or coordinates.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:37d045cf-6539-4946-b3c1-55110d89befa",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "identify-establish-congruence-family",
+    "label": "Identify and establish congruence",
+    "definition": "A capability family within congruence-similarity-symmetry grouping performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:8eaba80e-0f60-43ed-a0ce-af7e4b605b0e",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "determine-figure-congruence",
+    "label": "Determine figure congruence",
+    "definition": "Given two bounded figures with sufficient exact information, determine whether a congruence exists and specify a valid correspondence or transformation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given two bounded figures with sufficient exact information, determine whether a congruence exists and specify a valid correspondence or transformation.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:901a9ad2-faad-48d3-9f53-03c7b12ca196",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "prove-triangle-congruence",
+    "label": "Prove triangle congruence",
+    "definition": "Given two triangles and marked or derived conditions, apply a valid congruence criterion and state corresponding parts without using an invalid criterion.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given two triangles and marked or derived conditions, apply a valid congruence criterion and state corresponding parts without using an invalid criterion.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:40598c22-447b-45de-b743-23acee6f1312",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "analyze-similarity-scale-family",
+    "label": "Analyze similarity and scale",
+    "definition": "A capability family within congruence-similarity-symmetry grouping performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:0b7c7224-b135-4988-affa-3da5a320a347",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "determine-figure-similarity",
+    "label": "Determine figure similarity",
+    "definition": "Given two figures or coordinate descriptions, establish or refute similarity and determine the correspondence and scale factor when it exists.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given two figures or coordinate descriptions, establish or refute similarity and determine the correspondence and scale factor when it exists.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:2c0b53cf-3812-48a7-a8f8-898f729b54f2",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "apply-geometric-scale-factor",
+    "label": "Apply a geometric scale factor",
+    "definition": "Given similar figures and a nonzero scale factor, determine corresponding lengths, areas, or volumes with the correct scaling power and units.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given similar figures and a nonzero scale factor, determine corresponding lengths, areas, or volumes with the correct scaling power and units.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:6b4ecc95-5df3-480b-9875-818668357fc9",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "analyze-symmetry-family",
+    "label": "Analyze geometric symmetry",
+    "definition": "A capability family within congruence-similarity-symmetry grouping performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:070b0245-4e88-4480-b4b4-4c8a3b4b3c82",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "identify-figure-symmetries",
+    "label": "Identify figure symmetries",
+    "definition": "Given a bounded figure, determine specified reflectional, rotational, translational, or other admitted symmetries and verify that each maps the figure to itself.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a bounded figure, determine specified reflectional, rotational, translational, or other admitted symmetries and verify that each maps the figure to itself.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:22b08493-2e3b-41ba-a0ae-0c025a98659c",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "audit-congruence-similarity-claim",
+    "label": "Audit a congruence or similarity claim",
+    "definition": "Given an argument, check correspondence, criteria, orientation, scale consistency, and degenerate cases and identify the first unsupported conclusion if any.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given an argument, check correspondence, criteria, orientation, scale consistency, and degenerate cases and identify the first unsupported conclusion if any.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:265fac3f-00d1-4d90-81d7-0d06343fe9ea",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "geometric-transformation",
+    "label": "Geometric transformation",
+    "definition": "A function mapping points of a geometric space to points, with a declared class such as isometry, similarity, affine, projective, or topological transformation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:3e4997ae-7c11-4053-adb1-0f1cca9a9c59",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "transformation-invariant",
+    "label": "Transformation invariant",
+    "definition": "A property or quantity preserved by every transformation in a declared class.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:060ecd6e-36ca-4172-aa74-bfd26a54f3c1",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "transformation-composition-inverse",
+    "label": "Transformation composition and inverse",
+    "definition": "Transformations compose as functions; invertibility and preserved structure depend on the declared class and parameters.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:984e2e3b-3289-4aa8-8f45-a576dbbb9f63",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "transformation-mapping-coordinate-rule",
+    "label": "Transformation mapping and coordinate rule",
+    "definition": "Arrow diagrams, matrices, coordinate rules, and before–after figures representing point mappings and compositions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:c58c1bea-b18e-49af-9b00-3bbae325013a",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "apply-represent-transformations-family",
+    "label": "Apply and represent transformations",
+    "definition": "A capability family within geometric-transformations grouping performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:193ed989-9b82-4553-ab00-b4f7f87aa455",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "apply-geometric-transformation",
+    "label": "Apply a geometric transformation",
+    "definition": "Given a figure and a fully specified transformation, construct the image in coordinates or a diagram and track corresponding points and orientation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a figure and a fully specified transformation, construct the image in coordinates or a diagram and track corresponding points and orientation.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:975bf1da-5962-4ce6-bf90-be9b729c37e1",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "determine-transformation-from-images",
+    "label": "Determine a transformation from images",
+    "definition": "Given sufficient original and image data within a declared transformation class, determine compatible parameters or state nonuniqueness.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given sufficient original and image data within a declared transformation class, determine compatible parameters or state nonuniqueness.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:eee4659f-426f-47a9-9a29-4a438a9abf24",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "compose-classify-transformations-family",
+    "label": "Compose and classify transformations",
+    "definition": "A capability family within geometric-transformations grouping performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:dd055b47-9989-4c0e-a97b-8de3a4598054",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compose-invert-geometric-transformations",
+    "label": "Compose or invert geometric transformations",
+    "definition": "Given compatible transformations, determine their composition or inverse, apply correct order, and verify the result on defining points or rules.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given compatible transformations, determine their composition or inverse, apply correct order, and verify the result on defining points or rules.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:afb9a1dd-1b2f-4fec-9b0d-c1c5c7cf42ef",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "classify-transformation-by-invariants",
+    "label": "Classify a transformation by invariants",
+    "definition": "Given a transformation rule or mapping evidence, determine whether it is an isometry, similarity, affine map, or another declared class by checking preserved structure.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a transformation rule or mapping evidence, determine whether it is an isometry, similarity, affine map, or another declared class by checking preserved structure.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:74a510c1-c6a4-497d-8a39-146a962edbfa",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "reason-about-transformations-family",
+    "label": "Reason about transformations",
+    "definition": "A capability family within geometric-transformations grouping performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:06509175-f593-48b1-bd06-88fccc1d50e4",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "determine-transformation-invariants",
+    "label": "Determine transformation invariants",
+    "definition": "Given a transformation class and geometric objects, identify which incidences, ratios, distances, angles, orientation, or topology are preserved and justify from definitions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a transformation class and geometric objects, identify which incidences, ratios, distances, angles, orientation, or topology are preserved and justify from definitions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:94f5372a-de1a-4fe1-bc88-a13bc40acf6d",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "prove-transformation-equivalence",
+    "label": "Prove a transformation equivalence",
+    "definition": "Given two finite transformation compositions, establish equality on the declared space using algebraic rules or determining data, or refute with a point image.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given two finite transformation compositions, establish equality on the declared space using algebraic rules or determining data, or refute with a point image.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:6de4762a-0ff5-43ea-b18f-b1f9c73c63aa",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "angle-unit-circle",
+    "label": "Angle and unit circle",
+    "definition": "Directed angular displacement and its unit-circle coordinates under radian or degree convention.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:c5a97fa4-d0f7-414b-9407-fecca2bb9b22",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "trigonometric-function",
+    "label": "Trigonometric function",
+    "definition": "A periodic function defined through unit-circle coordinates, triangle ratios, or compatible analytic extensions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:aa469bd7-a757-4858-91b0-4ba35a45ebfc",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "trigonometric-identities-inverse-periodicity",
+    "label": "Trigonometric identities, inverses, and periodicity",
+    "definition": "Unit-circle definitions imply periodicity and identities; inverse functions require restricted domains and equation solutions require all periodic branches.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:fcca1c10-77c9-4a3e-82d9-0b2880bd5185",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "triangle-unit-circle-trig-graph",
+    "label": "Triangle, unit-circle, and trigonometric graph",
+    "definition": "Geometric and graphical representations connecting angles, ratios, coordinates, amplitude, period, phase, and solutions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:67d6b695-de75-4ada-9086-e04475cce891",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "evaluate-interpret-trigonometry-family",
+    "label": "Evaluate and interpret trigonometric quantities",
+    "definition": "A capability family within trigonometry grouping performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:2a883a24-6002-4d3f-8517-e0196e6a931f",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "evaluate-trigonometric-value",
+    "label": "Evaluate a trigonometric value",
+    "definition": "Given an angle or compatible geometric data, determine exact or approximate trigonometric values with the correct angle unit, quadrant, and sign.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given an angle or compatible geometric data, determine exact or approximate trigonometric values with the correct angle unit, quadrant, and sign.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:8bc6d462-39b9-4387-9951-4650e1660a41",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "solve-triangle-in-scope",
+    "label": "Solve a triangle in scope",
+    "definition": "Given sufficient side and angle data for a nondegenerate triangle, determine requested remaining measures, select valid laws, and check ambiguity and reasonableness.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given sufficient side and angle data for a nondegenerate triangle, determine requested remaining measures, select valid laws, and check ambiguity and reasonableness.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:4d58e850-85a3-485b-b47d-9e38e03b72e9",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "analyze-trigonometric-functions-family",
+    "label": "Analyze trigonometric functions",
+    "definition": "A capability family within trigonometry grouping performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:fd41da07-2abf-4678-9b5d-d72fe0da0db6",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "analyze-trigonometric-graph",
+    "label": "Analyze a trigonometric graph",
+    "definition": "Given a trigonometric function or graph, determine amplitude where defined, period, phase, midline, extrema, zeros, and domain restrictions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a trigonometric function or graph, determine amplitude where defined, period, phase, midline, extrema, zeros, and domain restrictions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:026b54e3-9946-435a-8981-dafa6b6dfe37",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "solve-trigonometric-equation",
+    "label": "Solve a trigonometric equation",
+    "definition": "Given a trigonometric equation and declared interval or general-solution requirement, determine all solutions and verify periodic branches and domain restrictions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a trigonometric equation and declared interval or general-solution requirement, determine all solutions and verify periodic branches and domain restrictions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:721cd39a-aeb5-40b8-a1cd-518287ac37f1",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "justify-model-trigonometry-family",
+    "label": "Justify and model with trigonometry",
+    "definition": "A capability family within trigonometry grouping performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:058bb6b6-b90f-4154-adf2-451ed2f0a786",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "verify-trigonometric-identity",
+    "label": "Verify a trigonometric identity",
+    "definition": "Given a proposed identity, transform one or both sides using valid identities and domains to prove it, or provide an admissible counterexample.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a proposed identity, transform one or both sides using valid identities and domains to prove it, or provide an admissible counterexample.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:da596ac1-7cc6-4b61-836d-c575c39f2292",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-periodic-trigonometric-model",
+    "label": "Construct a periodic trigonometric model",
+    "definition": "Given bounded periodic data or a process with defensible sinusoidal structure, determine parameters, units, phase convention, and limitations and check against the evidence.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:25e1b9b0-e70f-44cd-b950-2a641d12eec7",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given bounded periodic data or a process with defensible sinusoidal structure, determine parameters, units, phase convention, and limitations and check against the evidence.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:195757ed-3b39-429a-85f9-917a5155633b",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "smooth-manifold-curvature",
+    "label": "Smooth manifold and curvature",
+    "definition": "A locally Euclidean smooth space together with differential structure and local or global curvature quantities.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:b29bbe39-419c-4146-9998-69d63c2f905b",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:bfb13869-a79a-421d-9af1-09c5bcfc74b8",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "algebraic-variety-scheme-interface",
+    "label": "Algebraic geometric solution space",
+    "definition": "A geometric object defined by polynomial relations, with classical variety or scheme-level structure declared explicitly.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:b29bbe39-419c-4146-9998-69d63c2f905b",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:c2ce0c47-a855-496c-8ee5-f184aaee7a21",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "local-global-geometric-invariants",
+    "label": "Local–global geometric invariants",
+    "definition": "Tangent, curvature, dimension, singularity, intersection, and cohomological information connect local coordinate or algebraic data to global geometry under distinct hypotheses.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:b29bbe39-419c-4146-9998-69d63c2f905b",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:55efbe8c-a44a-4837-bb70-144fac63bc10",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "chart-tangent-polynomial-locus",
+    "label": "Chart, tangent, and polynomial-locus representation",
+    "definition": "Local coordinates, tangent constructions, curvature diagrams, and polynomial equations representing smooth or algebraic geometry.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:b29bbe39-419c-4146-9998-69d63c2f905b",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:4d4cb65f-8422-4459-b2ad-d04d348978fe",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "analyze-differential-geometry-family",
+    "label": "Analyze differential geometry",
+    "definition": "A capability family within differential-algebraic-geometry grouping performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:b29bbe39-419c-4146-9998-69d63c2f905b",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:c4e90a8b-273d-4e8e-8541-c0cf72342aca",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compute-tangent-curvature-in-scope",
+    "label": "Compute tangent or curvature data in scope",
+    "definition": "Given a parameterized curve, surface, metric, or local chart in a declared class, compute requested tangent, normal, connection, or curvature quantities and state coordinate dependence.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:b29bbe39-419c-4146-9998-69d63c2f905b",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a parameterized curve, surface, metric, or local chart in a declared class, compute requested tangent, normal, connection, or curvature quantities and state coordinate dependence.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:0df4e617-f69f-435a-bebb-a029f12d9e1c",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "analyze-geodesic-local-geometry",
+    "label": "Analyze geodesic or local geometry",
+    "definition": "Given a smooth geometric structure and admissible equations, determine local geodesic, metric, or curvature behavior and distinguish local conclusions from global ones.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:b29bbe39-419c-4146-9998-69d63c2f905b",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a smooth geometric structure and admissible equations, determine local geodesic, metric, or curvature behavior and distinguish local conclusions from global ones.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:ae7b9174-f0d3-4c18-bb8e-e32407868c24",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "analyze-algebraic-geometry-family",
+    "label": "Analyze algebraic geometry",
+    "definition": "A capability family within differential-algebraic-geometry grouping performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:b29bbe39-419c-4146-9998-69d63c2f905b",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:b0450f42-2ff1-4d83-aa23-177c55c7a2b1",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "determine-algebraic-locus-structure",
+    "label": "Determine algebraic-locus structure",
+    "definition": "Given finitely many polynomial equations over a declared field, determine requested solution-set, dimension, component, or singularity information within an admitted method class.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:b29bbe39-419c-4146-9998-69d63c2f905b",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given finitely many polynomial equations over a declared field, determine requested solution-set, dimension, component, or singularity information within an admitted method class.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:7b32384e-3a9d-46fe-a9be-04a1e49368e2",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "analyze-algebraic-intersection",
+    "label": "Analyze an algebraic intersection",
+    "definition": "Given algebraic curves or varieties in a bounded setting, determine intersection points or multiplicity information and state field, projective, and degeneracy conditions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:b29bbe39-419c-4146-9998-69d63c2f905b",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given algebraic curves or varieties in a bounded setting, determine intersection points or multiplicity information and state field, projective, and degeneracy conditions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:82cbd7aa-264a-486f-8fcf-f65772ac01ad",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "connect-justify-advanced-geometry-family",
+    "label": "Connect and justify advanced geometry",
+    "definition": "A capability family within differential-algebraic-geometry grouping performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:b29bbe39-419c-4146-9998-69d63c2f905b",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:361fd392-4c1f-40d4-b411-727f12a46f07",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "translate-local-geometric-representations",
+    "label": "Translate local geometric representations",
+    "definition": "Given compatible coordinate, intrinsic, differential, or algebraic descriptions, translate a specified invariant while stating assumptions that make the descriptions equivalent.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:b29bbe39-419c-4146-9998-69d63c2f905b",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given compatible coordinate, intrinsic, differential, or algebraic descriptions, translate a specified invariant while stating assumptions that make the descriptions equivalent.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:9089624c-4fed-4cb2-bc3a-d7ae45d1b9e0",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "prove-bounded-geometric-invariant-claim",
+    "label": "Prove a bounded geometric-invariant claim",
+    "definition": "Given a scoped claim about smooth or algebraic geometry and admitted results, construct a proof that tracks coordinate, field, regularity, and local–global conditions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:b29bbe39-419c-4146-9998-69d63c2f905b",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a scoped claim about smooth or algebraic geometry and admitted results, construct a proof that tracks coordinate, field, regularity, and local–global conditions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:1bb5ea92-8462-462d-80ed-c985fa65ae24",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "topological-space-continuity",
+    "label": "Topological space and continuity",
+    "definition": "A set with a topology of open sets and maps preserving neighborhood structure through inverse images.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:b29bbe39-419c-4146-9998-69d63c2f905b",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:ba8ac19b-2a05-47f1-81c6-8ff17a439ee9",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "topological-manifold",
+    "label": "Topological manifold",
+    "definition": "A Hausdorff, second-countable, locally Euclidean space of declared dimension, with boundary or added structure when specified.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:b29bbe39-419c-4146-9998-69d63c2f905b",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:9f720c78-48d3-40be-b4c0-a2f28e8bf226",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "topological-invariance-compact-connected",
+    "label": "Topological invariance, compactness, and connectedness",
+    "definition": "Homeomorphisms preserve topological properties; compactness, connectedness, separation, and manifold conditions have distinct local and global definitions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:b29bbe39-419c-4146-9998-69d63c2f905b",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:cb37218e-31bc-454b-9017-33f4a1f133f2",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "open-set-map-atlas-diagram",
+    "label": "Open-set, map, and atlas diagram",
+    "definition": "Neighborhood diagrams, quotient identifications, coordinate charts, atlases, and simplicial or cell models representing topology.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:b29bbe39-419c-4146-9998-69d63c2f905b",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:37e931db-9fd6-48f3-b15b-8328a6879c45",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "verify-topological-structures-family",
+    "label": "Verify topological structures",
+    "definition": "A capability family within topology-manifolds grouping performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:b29bbe39-419c-4146-9998-69d63c2f905b",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:f14ea225-bb08-4031-9e7a-b2320dcee5d4",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "verify-topology-basis",
+    "label": "Verify a topology or basis",
+    "definition": "Given a collection of subsets or proposed basis, check the relevant union, intersection, and coverage axioms and identify the generated topology when in scope.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:b29bbe39-419c-4146-9998-69d63c2f905b",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a collection of subsets or proposed basis, check the relevant union, intersection, and coverage axioms and identify the generated topology when in scope.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:73ef6b8c-9109-423f-8b5d-bb10b8b4c71b",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "verify-manifold-charts",
+    "label": "Verify manifold charts",
+    "definition": "Given a candidate space with charts, check local Euclidean form, transition compatibility at the declared category, and required separation or countability conditions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:b29bbe39-419c-4146-9998-69d63c2f905b",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a candidate space with charts, check local Euclidean form, transition compatibility at the declared category, and required separation or countability conditions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:c146a79a-16bd-4966-bf00-b72a926e673a",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "analyze-topological-maps-properties-family",
+    "label": "Analyze topological maps and properties",
+    "definition": "A capability family within topology-manifolds grouping performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:b29bbe39-419c-4146-9998-69d63c2f905b",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:6248323b-8e72-45b1-b2d2-47b9464820b7",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "analyze-continuity-homeomorphism",
+    "label": "Analyze continuity or homeomorphism",
+    "definition": "Given a map between declared topological spaces, establish continuity and, when claimed, bijectivity and continuity of the inverse, or provide a failed condition.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:b29bbe39-419c-4146-9998-69d63c2f905b",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a map between declared topological spaces, establish continuity and, when claimed, bijectivity and continuity of the inverse, or provide a failed condition.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:aea377b7-d41a-4854-9f8b-69c3453819ff",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "determine-compact-connected-properties",
+    "label": "Determine compactness or connectedness",
+    "definition": "Given a space in a declared class, establish or refute compactness, connectedness, or path connectedness using valid criteria and distinguish the properties.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:b29bbe39-419c-4146-9998-69d63c2f905b",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a space in a declared class, establish or refute compactness, connectedness, or path connectedness using valid criteria and distinguish the properties.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:bd9d266e-7ac8-4d31-b70a-b8354be105f4",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "compute-justify-topological-invariants-family",
+    "label": "Compute and justify topological invariants",
+    "definition": "A capability family within topology-manifolds grouping performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:b29bbe39-419c-4146-9998-69d63c2f905b",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:59ae9808-a5fb-4dce-9120-71a800de2209",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compute-elementary-topological-invariant",
+    "label": "Compute an elementary topological invariant",
+    "definition": "Given a finite cell, simplicial, graph-like, or standard manifold model, determine a requested component, Euler characteristic, fundamental-group, or homology quantity within scope.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:b29bbe39-419c-4146-9998-69d63c2f905b",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a finite cell, simplicial, graph-like, or standard manifold model, determine a requested component, Euler characteristic, fundamental-group, or homology quantity within scope.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:e210b454-a120-462b-86ab-1d70f56b8f5c",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-topological-counterexample",
+    "label": "Construct a topological counterexample",
+    "definition": "Given a false implication among continuity, compactness, connectedness, separation, or manifold properties, construct a valid counterexample and verify hypotheses and failure.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:b29bbe39-419c-4146-9998-69d63c2f905b",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a false implication among continuity, compactness, connectedness, separation, or manifold properties, construct a valid counterexample and verify hypotheses and failure.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:91a1e097-e4a7-4978-b5a5-e4bf1a67af9d",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "convex-set-polytope",
+    "label": "Convex set and polytope",
+    "definition": "A set containing every segment between its points and a finitely generated or finitely constrained convex body.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:b29bbe39-419c-4146-9998-69d63c2f905b",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:78e989f1-0443-4ae4-b273-7f6b9e0d6619",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "geometric-arrangement-algorithm",
+    "label": "Geometric arrangement and algorithm",
+    "definition": "A finite configuration of points, segments, hyperplanes, polygons, or polyhedra together with procedures for spatial queries and constructions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:b29bbe39-419c-4146-9998-69d63c2f905b",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:72eee44a-814c-46a6-a5da-49091e1f01c2",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "convex-hull-separation-robustness",
+    "label": "Convex hull, separation, and robustness",
+    "definition": "Convex hull and separation principles organize feasibility, while computational geometry also requires complexity and numerical-degeneracy conditions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:b29bbe39-419c-4146-9998-69d63c2f905b",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:8d9254fa-09b7-4142-a501-f15f3d24d735",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "point-cloud-polytope-mesh",
+    "label": "Point-cloud, polytope, and mesh representation",
+    "definition": "Coordinate point sets, half-space systems, meshes, arrangements, and data structures representing finite geometry.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:b29bbe39-419c-4146-9998-69d63c2f905b",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:11135dcc-8ec7-4fe3-b863-160b113ab2f6",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "analyze-convex-geometry-family",
+    "label": "Analyze convex geometry",
+    "definition": "A capability family within convex-discrete-computational-geometry grouping performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:b29bbe39-419c-4146-9998-69d63c2f905b",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:062e9caa-3724-4031-bdc1-12f2ae412eba",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "verify-convexity",
+    "label": "Verify convexity",
+    "definition": "Given a set by points, inequalities, functions, or a standard description, establish convexity using segment or closure criteria, or provide two points whose segment leaves the set.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:b29bbe39-419c-4146-9998-69d63c2f905b",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a set by points, inequalities, functions, or a standard description, establish convexity using segment or closure criteria, or provide two points whose segment leaves the set.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:3f8bd05b-cfd1-4155-9bae-aa52828a03aa",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compute-convex-hull-or-separation",
+    "label": "Compute a convex hull or separation",
+    "definition": "Given a finite point set or bounded convex sets, construct a hull or valid separating object with evidence sufficient to verify containment and extremality.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:b29bbe39-419c-4146-9998-69d63c2f905b",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a finite point set or bounded convex sets, construct a hull or valid separating object with evidence sufficient to verify containment and extremality.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:04419467-5317-40f0-aa35-f7813e5794c1",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "construct-discrete-geometry-family",
+    "label": "Construct discrete geometry",
+    "definition": "A capability family within convex-discrete-computational-geometry grouping performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:b29bbe39-419c-4146-9998-69d63c2f905b",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:775ce576-4c7f-4eb0-9579-17742bf0a16b",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "analyze-finite-geometric-arrangement",
+    "label": "Analyze a finite geometric arrangement",
+    "definition": "Given finitely many geometric objects, determine requested incidences, cells, intersections, visibility, or combinatorial structure while handling declared degeneracies.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:b29bbe39-419c-4146-9998-69d63c2f905b",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given finitely many geometric objects, determine requested incidences, cells, intersections, visibility, or combinatorial structure while handling declared degeneracies.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:93a580c5-f51c-4221-94c6-2ee0a8573a40",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-triangulation-or-mesh",
+    "label": "Construct a triangulation or mesh",
+    "definition": "Given a polygonal region or finite point set under stated conditions, construct a valid triangulation or mesh and verify coverage, nonoverlap, and boundary conformity.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:b29bbe39-419c-4146-9998-69d63c2f905b",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a polygonal region or finite point set under stated conditions, construct a valid triangulation or mesh and verify coverage, nonoverlap, and boundary conformity.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:b8619587-1ae0-4b87-a761-cabe962f192e",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "design-audit-geometric-algorithms-family",
+    "label": "Design and audit geometric algorithms",
+    "definition": "A capability family within convex-discrete-computational-geometry grouping performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:b29bbe39-419c-4146-9998-69d63c2f905b",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:95d359f7-e117-4668-bd77-97aee462a250",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "execute-geometric-algorithm",
+    "label": "Execute a geometric algorithm",
+    "definition": "Given finite geometric input and a specified hull, intersection, nearest-neighbor, or point-location method, execute it, report output, and track relevant invariants and complexity.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:b29bbe39-419c-4146-9998-69d63c2f905b",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given finite geometric input and a specified hull, intersection, nearest-neighbor, or point-location method, execute it, report output, and track relevant invariants and complexity.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:6afcdf42-0f73-458b-835c-4e4c9c30d694",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "audit-computational-geometry-result",
+    "label": "Audit a computational-geometry result",
+    "definition": "Given an algorithmic result, check coordinate conventions, orientation tests, degeneracies, numerical tolerance, and geometric validity and identify unsupported robustness claims.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:b29bbe39-419c-4146-9998-69d63c2f905b",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given an algorithmic result, check coordinate conventions, orientation tests, degeneracies, numerical tolerance, and geometric validity and identify unsupported robustness claims.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  }
+]

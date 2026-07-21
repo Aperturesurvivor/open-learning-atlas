@@ -1,0 +1,1617 @@
+[
+  {
+    "id": "ola:n:5c0eb729-50e2-4d20-ac27-355390a00b89",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "measurable-quantity-unit",
+    "label": "Measurable quantity and unit",
+    "definition": "A property represented by a numerical value relative to a defined reference unit under a measurement procedure.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:de74d165-d872-4bdb-88cb-f137f7b2924b",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "measurement-scale-type",
+    "label": "Measurement scale type",
+    "definition": "A nominal, ordinal, interval, ratio, logarithmic, or other declared scale whose permissible comparisons and transformations differ.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:8b0ca475-3d6c-4d55-be2d-30b30b9b9ae8",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "si-quantity-unit-coherence",
+    "label": "SI quantity and unit coherence",
+    "definition": "The SI defines units through fixed constants and coherent derived relations; quantity equations and unit symbols obey conventions distinct from numerical value.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:17208f6e-851c-4936-87de-c495cf3f0d7c",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "instrument-scale-unit-expression",
+    "label": "Instrument scale and unit expression",
+    "definition": "Instrument readings, calibration marks, quantity values, unit symbols, and scale transformations representing measurement results.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:938aedfc-13c3-40da-8c64-3463b8e33bef",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "identify-represent-measurement-family",
+    "label": "Identify and represent measurement",
+    "definition": "A capability family within measurable-attributes-units-scales grouping performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:33fd0f05-d0ba-42a4-b6ff-a4914aca632e",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "identify-measurable-attribute",
+    "label": "Identify a measurable attribute",
+    "definition": "Given an object, event, or process and a question, distinguish the target measurable attribute from the object and select an operationally meaningful quantity.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given an object, event, or process and a question, distinguish the target measurable attribute from the object and select an operationally meaningful quantity.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:0ee8b42d-40bf-492f-b7ac-0e32d3cfc973",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "read-calibrated-scale",
+    "label": "Read a calibrated scale",
+    "definition": "Given a calibrated analog or digital representation, determine the indicated value with unit, sign, resolution-aware precision, and stated interpolation convention.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a calibrated analog or digital representation, determine the indicated value with unit, sign, resolution-aware precision, and stated interpolation convention.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:3ccffa4b-4f4f-4e7c-a463-667a4b559900",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "choose-convert-units-family",
+    "label": "Choose and convert units",
+    "definition": "A capability family within measurable-attributes-units-scales grouping performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:8d31b809-de72-4eeb-b20a-419c9e66f176",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "select-appropriate-unit-scale",
+    "label": "Select an appropriate unit and scale",
+    "definition": "Given a quantity and intended comparison or communication, choose a compatible unit and scale that preserves meaning and avoids misleading precision.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a quantity and intended comparison or communication, choose a compatible unit and scale that preserves meaning and avoids misleading precision.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:a74fb345-a29e-4aac-bd40-bbd416cd0aae",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "convert-compatible-units",
+    "label": "Convert compatible units",
+    "definition": "Given a quantity value and compatible source and target units, apply a valid conversion factor or affine scale rule and preserve significant meaning and dimension.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a quantity value and compatible source and target units, apply a valid conversion factor or affine scale rule and preserve significant meaning and dimension.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:a62b208a-763e-4bf7-9f5b-342e292aa9e2",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "reason-about-scales-units-family",
+    "label": "Reason about scales and units",
+    "definition": "A capability family within measurable-attributes-units-scales grouping performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:b3e79953-5562-4eed-aa87-bb091986f6b8",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "interpret-measurement-scale",
+    "label": "Interpret a measurement scale",
+    "definition": "Given values on a declared scale type, determine which differences, ratios, orderings, or averages are meaningful and justify from permissible transformations.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given values on a declared scale type, determine which differences, ratios, orderings, or averages are meaningful and justify from permissible transformations.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:e583b3f8-eb53-488c-853f-0606c650e31d",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "audit-unit-notation-claim",
+    "label": "Audit unit notation or a quantity claim",
+    "definition": "Given a measurement statement, check quantity–unit separation, symbols, prefixes, dimensions, scale conventions, and reported precision and correct material errors.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a measurement statement, check quantity–unit separation, symbols, prefixes, dimensions, scale conventions, and reported precision and correct material errors.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:a0e0b7e6-8a79-4d18-9e5d-84112e688804",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "geometric-measure",
+    "label": "Geometric measure",
+    "definition": "A length, angle, area, surface area, or volume assigned to a geometric object under declared metric and unit conventions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:61ac2d54-2895-466b-bb04-d4e5ba7b961f",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "measure-decomposition-additivity",
+    "label": "Measure decomposition and additivity",
+    "definition": "Compatible nonoverlapping parts combine additively for length, area, or volume under boundary and overlap conditions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:f22d313e-7bca-415d-a201-47a08dbf85d1",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "geometric-measure-formulas-scaling",
+    "label": "Geometric measure formulas and scaling",
+    "definition": "Measure formulas follow from definitions or decompositions, and uniform scaling by a factor changes lengths, areas, and volumes by first, second, and third powers.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:02ccec48-59b3-442c-9ab3-b82b6603666a",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "dimensioned-geometric-diagram",
+    "label": "Dimensioned geometric diagram",
+    "definition": "A diagram, net, coordinate model, or dissection with labeled dimensions, angles, units, and decomposition boundaries.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:42bf2102-06ea-4228-9ded-5ffff21e5921",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "measure-basic-geometry-family",
+    "label": "Measure basic geometry",
+    "definition": "A capability family within length-area-volume-angle grouping performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:e2a1f03c-5685-4f69-a510-515c6c586e74",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "determine-length-or-angle",
+    "label": "Determine a length or angle",
+    "definition": "Given a calibrated representation, coordinates, or sufficient exact relations, determine a length or angle with appropriate units and precision.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a calibrated representation, coordinates, or sufficient exact relations, determine a length or angle with appropriate units and precision.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:e3416120-f03f-4fc1-834e-107816c8d9a1",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-measurement-from-scale-drawing",
+    "label": "Construct a measurement from a scale drawing",
+    "definition": "Given a valid scale drawing and scale factor, determine or construct requested dimensions and state accuracy limitations from the representation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a valid scale drawing and scale factor, determine or construct requested dimensions and state accuracy limitations from the representation.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:4da10494-fec2-4aed-9bb8-67cb81cc2c36",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "calculate-area-volume-family",
+    "label": "Calculate area and volume",
+    "definition": "A capability family within length-area-volume-angle grouping performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:4de3625a-8dd4-465f-bb11-e87db7bd92bc",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "determine-area-surface-area",
+    "label": "Determine area or surface area",
+    "definition": "Given a planar figure or solid with sufficient dimensions, decompose or select valid formulas to determine area or surface area with squared units.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a planar figure or solid with sufficient dimensions, decompose or select valid formulas to determine area or surface area with squared units.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:fb7e4a84-0270-4723-86ed-32500836858f",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "determine-volume",
+    "label": "Determine volume",
+    "definition": "Given a solid or cross-sectional description in scope, use decomposition, Cavalieri-style reasoning, or valid formulas to determine volume with cubed units.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a solid or cross-sectional description in scope, use decomposition, Cavalieri-style reasoning, or valid formulas to determine volume with cubed units.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:4d14654c-694c-40f6-a5f3-8dd0fad22bfe",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "justify-geometric-measure-family",
+    "label": "Justify geometric measure",
+    "definition": "A capability family within length-area-volume-angle grouping performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:d140b54d-fa28-46ff-ae9d-751c3da9eab1",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "derive-geometric-measure-formula",
+    "label": "Derive a geometric measure formula",
+    "definition": "Given an admitted base formula and a bounded geometric class, derive a requested length, area, or volume relation by dissection, transformation, coordinates, or integration as appropriate.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given an admitted base formula and a bounded geometric class, derive a requested length, area, or volume relation by dissection, transformation, coordinates, or integration as appropriate.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:7249ef89-adfc-4df4-a2cf-8f37a4e51fd8",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "bound-geometric-measure",
+    "label": "Bound a geometric measure",
+    "definition": "Given incomplete dimensions, approximation, or measurement tolerance, produce justified lower and upper bounds for a length, angle, area, or volume and track unit powers.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given incomplete dimensions, approximation, or measurement tolerance, produce justified lower and upper bounds for a length, angle, area, or volume and track unit powers.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:eace1382-5d63-4c37-a693-7e5d141ec8ee",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "derived-quantity",
+    "label": "Derived quantity",
+    "definition": "A quantity defined through algebraic relations among other quantities, such as speed, density, pressure, concentration, or productivity.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:c3cb579d-4577-4e61-9b1c-8b12dab8482a",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "rate-density-specific-quantity",
+    "label": "Rate, density, and specific quantity",
+    "definition": "Compound comparisons expressed per unit time, length, area, volume, mass, count, or another base quantity.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:dcadaaae-f296-4931-b2fd-a96d25fef839",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "derived-unit-quantity-equation",
+    "label": "Derived unit and quantity equation",
+    "definition": "A derived quantity's units follow the quantity equation and may be expressed in coherent base-unit products or named units.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:29419ca4-45d6-4d10-b4ca-a7dd1a466506",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "compound-unit-table-formula",
+    "label": "Compound-unit table and formula",
+    "definition": "Tables, formulas, graphs, and unit expressions coordinating component quantities and a derived measure.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:d28e65be-d531-46e4-9ec0-c53775ecdf63",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "compute-derived-quantities-family",
+    "label": "Compute derived quantities",
+    "definition": "A capability family within derived-measurement grouping performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:3411978d-fd5b-4656-8671-a160109afb15",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compute-rate-density-derived-value",
+    "label": "Compute a rate, density, or derived value",
+    "definition": "Given compatible component quantities and a declared relation, compute the derived quantity, preserve unit algebra, and state zero-denominator or domain restrictions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given compatible component quantities and a declared relation, compute the derived quantity, preserve unit algebra, and state zero-denominator or domain restrictions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:741e28ea-7b7b-4573-9163-62e30c4bd18c",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "convert-compound-unit",
+    "label": "Convert a compound unit",
+    "definition": "Given a derived quantity in one compound unit, convert numerator and denominator units consistently and verify magnitude and dimension.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a derived quantity in one compound unit, convert numerator and denominator units consistently and verify magnitude and dimension.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:32d9a721-4f30-4fd7-8486-61d60c0956b8",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "construct-interpret-derived-measures-family",
+    "label": "Construct and interpret derived measures",
+    "definition": "A capability family within derived-measurement grouping performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:9b8c4ec8-64dd-42ae-a3d7-f6b0b711d769",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-derived-measure",
+    "label": "Construct a derived measure",
+    "definition": "Given a comparison goal, define a ratio, rate, index, or other derived quantity with numerator, denominator, units, reference population, and scope.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a comparison goal, define a ratio, rate, index, or other derived quantity with numerator, denominator, units, reference population, and scope.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:d0ca2d4f-af94-44ca-bdbd-0b3dce5d2c33",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "interpret-derived-measure",
+    "label": "Interpret a derived measure",
+    "definition": "Given a derived value, explain what one unit means, identify numerator and denominator populations or quantities, and avoid reversing or decontextualizing the ratio.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a derived value, explain what one unit means, identify numerator and denominator populations or quantities, and avoid reversing or decontextualizing the ratio.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:21d03ebe-5921-47ed-a989-4e5d36f047ae",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "compare-audit-derived-measures-family",
+    "label": "Compare and audit derived measures",
+    "definition": "A capability family within derived-measurement grouping performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:94ef34c7-c967-4136-8c3b-14799b2d22fc",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compare-normalized-quantities",
+    "label": "Compare normalized quantities",
+    "definition": "Given raw quantities of different scale and a defensible normalizer, compute and compare normalized values while stating how the normalizer affects interpretation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given raw quantities of different scale and a defensible normalizer, compute and compare normalized values while stating how the normalizer affects interpretation.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:6443232c-3f5a-4cab-83a5-6a6a29774ad8",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "audit-derived-measurement-claim",
+    "label": "Audit a derived-measurement claim",
+    "definition": "Given a claim using rates, densities, percentages, or indices, check unit compatibility, denominator choice, aggregation, scale, and whether the comparison supports the conclusion.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a claim using rates, densities, percentages, or indices, check unit compatibility, denominator choice, aggregation, scale, and whether the comparison supports the conclusion.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:854d9a71-6e34-41fb-ba3a-b55fffd87c14",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "physical-dimension",
+    "label": "Physical dimension",
+    "definition": "A classification of quantities by dependence on base dimensions, independent of the chosen unit system.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:10e2880d-0f3b-4838-a15f-27775faf49d9",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "dimensionless-group",
+    "label": "Dimensionless group",
+    "definition": "A product or ratio of quantities whose combined exponents cancel all base dimensions and can express scale-independent relations.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:b37047c2-fdad-46da-9bd1-b26bb654a27f",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "dimensional-homogeneity-scaling",
+    "label": "Dimensional homogeneity and scaling",
+    "definition": "Terms combined by addition or equality must share dimensions; dimensional constraints can restrict but do not uniquely determine physical laws.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:7c6f6a99-174d-41f9-9ab7-6da776e97d16",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "dimension-vector-unit-equation",
+    "label": "Dimension vector and unit equation",
+    "definition": "Exponent vectors, unit-factor chains, and quantity equations representing dimensional structure and conversions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:863c929f-c417-42e2-9119-16949d4b4b51",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "determine-check-dimensions-family",
+    "label": "Determine and check dimensions",
+    "definition": "A capability family within dimensional-analysis grouping performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:5b161da1-2a4e-415f-816b-eb20400a9138",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "determine-derived-dimension",
+    "label": "Determine a derived dimension",
+    "definition": "Given a quantity equation and dimensions of components, compute the resulting dimension by exponent algebra and simplify it in base dimensions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a quantity equation and dimensions of components, compute the resulting dimension by exponent algebra and simplify it in base dimensions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:f5a23ef7-c377-47f4-94fb-11c7714340ea",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "check-dimensional-homogeneity",
+    "label": "Check dimensional homogeneity",
+    "definition": "Given a proposed equation or expression, determine whether all combined terms and sides are dimensionally compatible and identify mismatches.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a proposed equation or expression, determine whether all combined terms and sides are dimensionally compatible and identify mismatches.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:b696d34d-54fa-4c0e-ae52-94fee324c180",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "convert-scale-dimensionally-family",
+    "label": "Convert and scale dimensionally",
+    "definition": "A capability family within dimensional-analysis grouping performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:a940f92d-2062-4002-9cf1-b58191b405e3",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "perform-unit-factor-analysis",
+    "label": "Perform unit-factor analysis",
+    "definition": "Given a quantity and a chain of compatible conversions, construct cancellation factors, compute the result, and check remaining units and magnitude.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a quantity and a chain of compatible conversions, construct cancellation factors, compute the result, and check remaining units and magnitude.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:df6d08e3-ef03-4dfe-bf99-ccdb7c069b71",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "derive-scaling-relation",
+    "label": "Derive a scaling relation",
+    "definition": "Given a model form, relevant dimensions, and declared dependence assumptions, derive admissible exponent constraints and state what dimension analysis cannot decide.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a model form, relevant dimensions, and declared dependence assumptions, derive admissible exponent constraints and state what dimension analysis cannot decide.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:4ad93f22-43ca-4bef-9225-4d6e30d35f87",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "construct-critique-dimensionless-family",
+    "label": "Construct and critique dimensionless relations",
+    "definition": "A capability family within dimensional-analysis grouping performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:7747a8fd-cfac-4820-89f9-273b13b2e79f",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-dimensionless-group",
+    "label": "Construct a dimensionless group",
+    "definition": "Given relevant dimensional quantities and sufficient rank information, construct a valid independent dimensionless product and verify cancellation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given relevant dimensional quantities and sufficient rank information, construct a valid independent dimensionless product and verify cancellation.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:d8f26f4b-cdee-4e61-9b19-f4046da3552a",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "audit-dimensional-argument",
+    "label": "Audit a dimensional argument",
+    "definition": "Given a dimensional derivation, check selected variables, independence, homogeneity, affine units, hidden constants, and whether the claimed physical conclusion exceeds dimensional evidence.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:a636de1c-1b20-4fd5-8d9a-8bf86d929f9c",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a dimensional derivation, check selected variables, independence, homogeneity, affine units, hidden constants, and whether the claimed physical conclusion exceeds dimensional evidence.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:7f760dca-87f4-4441-a430-33811a5178cb",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "measurement-uncertainty",
+    "label": "Measurement uncertainty",
+    "definition": "A quantified dispersion of values reasonably attributable to a measurand under a specified measurement model and available information.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:44e975c0-43e6-4e3d-a147-e84559b87a90",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "tolerance-resolution-error",
+    "label": "Tolerance, resolution, and measurement error",
+    "definition": "Distinct notions describing allowable variation, instrument discrimination, and difference between a measured value and a reference value when known.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:bfd61276-a001-4b1e-88ce-f49ff67121d0",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "uncertainty-combination-reporting",
+    "label": "Uncertainty combination and reporting",
+    "definition": "Uncertainty components propagate through a measurement model with correlation and distribution assumptions; a result is reported with value, unit, uncertainty, and coverage information.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:28e27510-6d4f-40fd-96fb-ef72db63c7e2",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "uncertainty-interval-error-bar",
+    "label": "Uncertainty interval and error-bar representation",
+    "definition": "Tables, intervals, error bars, significant figures, and uncertainty budgets representing measurement information and quality.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:965b1aa8-a15d-43e4-b4a6-f56d006ef0b9",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "report-interpret-precision-family",
+    "label": "Report and interpret precision",
+    "definition": "A capability family within precision-tolerance-measurement-uncertainty grouping performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:63c8a4c0-25d4-46eb-bb02-a7769337bfca",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "report-measurement-with-uncertainty",
+    "label": "Report a measurement with uncertainty",
+    "definition": "Given a measurement result and evaluated uncertainty, report value, unit, uncertainty form, coverage information, and rounding consistently without false precision.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a measurement result and evaluated uncertainty, report value, unit, uncertainty form, coverage information, and rounding consistently without false precision.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:7a58b63f-7418-471a-b5a9-55f825b3233e",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "distinguish-error-uncertainty-tolerance",
+    "label": "Distinguish error, uncertainty, resolution, and tolerance",
+    "definition": "Given a measurement scenario, classify statements about error, uncertainty, repeatability, resolution, accuracy, and tolerance and explain which can be known or controlled.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a measurement scenario, classify statements about error, uncertainty, repeatability, resolution, accuracy, and tolerance and explain which can be known or controlled.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:fc3d5081-60d3-4a05-8254-d8ffbe3ba0fa",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "combine-compare-uncertainty-family",
+    "label": "Combine and compare uncertainty",
+    "definition": "A capability family within precision-tolerance-measurement-uncertainty grouping performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:29b8f7e6-17ff-4e75-ad1e-64f25babfccb",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "propagate-measurement-uncertainty",
+    "label": "Propagate measurement uncertainty",
+    "definition": "Given a measurement model, component uncertainties, and stated independence or correlation assumptions, compute a combined uncertainty using an admissible linear, numerical, or simulation method.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a measurement model, component uncertainties, and stated independence or correlation assumptions, compute a combined uncertainty using an admissible linear, numerical, or simulation method.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:4dfef1ab-149d-401d-b9aa-e44937106eb9",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compare-result-with-tolerance-reference",
+    "label": "Compare a result with tolerance or reference",
+    "definition": "Given a measured result with uncertainty and a specification or reference interval, characterize conformity or ambiguity under a declared decision rule without ignoring uncertainty.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a measured result with uncertainty and a specification or reference interval, characterize conformity or ambiguity under a declared decision rule without ignoring uncertainty.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:ba4bc8a3-03ec-4821-84cd-a0d3f9441de9",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "audit-measurement-quality-family",
+    "label": "Audit measurement quality",
+    "definition": "A capability family within precision-tolerance-measurement-uncertainty grouping performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:e9d05f0b-1fd6-445c-8218-26cd83e2b006",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-uncertainty-budget",
+    "label": "Construct an uncertainty budget",
+    "definition": "Given a bounded measurement procedure, identify material uncertainty sources, quantify or bound contributions, record assumptions, and combine them transparently.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a bounded measurement procedure, identify material uncertainty sources, quantify or bound contributions, record assumptions, and combine them transparently.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:3f1af61c-b007-484b-adc6-69faf0c28dc4",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "audit-measurement-uncertainty-claim",
+    "label": "Audit a measurement-uncertainty claim",
+    "definition": "Given a reported measurement, check measurand definition, calibration, uncertainty components, propagation, coverage, rounding, and whether comparisons support the stated conclusion.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:c766b26e-bc3f-4a68-8d05-9b640e37ac09",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a reported measurement, check measurand definition, calibration, uncertainty components, propagation, coverage, rounding, and whether comparisons support the stated conclusion.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  }
+]
