@@ -10,7 +10,7 @@ import json
 
 
 ROOT = Path(__file__).resolve().parents[2]
-DEFAULT_RELEASE = ROOT / "map" / "releases" / "mathematics-v0.1.0-alpha.json"
+DEFAULT_RELEASE = ROOT / "map" / "releases" / "mathematics-v0.2.0-alpha.json"
 
 
 class QueryError(ValueError):
@@ -88,6 +88,8 @@ class Atlas:
                 self.nodes[edge["object"]]
                 for edge in self.outgoing[identity]
                 if edge["relation"] == "composed_of"
+                and edge.get("status") != "deprecated"
+                and self.nodes[edge["object"]].get("status") != "deprecated"
             ),
             key=lambda node: (node["label"].casefold(), node["id"]),
         )
@@ -98,6 +100,8 @@ class Atlas:
                 self.nodes[edge["subject"]]
                 for edge in self.incoming[identity]
                 if edge["relation"] == "composed_of"
+                and edge.get("status") != "deprecated"
+                and self.nodes[edge["subject"]].get("status") != "deprecated"
             ),
             key=lambda node: (node["label"].casefold(), node["id"]),
         )

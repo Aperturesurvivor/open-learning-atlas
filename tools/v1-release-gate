@@ -17,6 +17,7 @@ COMMANDS = [
     (["tools/build-release", "--check"], ROOT),
     (["tools/run-conformance"], ROOT),
     (["tools/validate-migrations"], ROOT),
+    (["tools/validate-crosswalks"], ROOT),
     (["tools/build-review-inventory", "--check"], ROOT),
     (["tools/build-review-queue", "--check"], ROOT),
     (["tools/validate-reviews", "--require-complete"], ROOT),

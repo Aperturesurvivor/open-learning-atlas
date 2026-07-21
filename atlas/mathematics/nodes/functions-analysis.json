@@ -2262,7 +2262,7 @@
   },
   {
     "id": "ola:n:32594cce-0b88-401b-bbff-d520c82f9095",
-    "revision": 1,
+    "revision": 2,
     "kind": "concept",
     "assessable": false,
     "slug": "measure-norm-analytic-structure",
@@ -2274,6 +2274,9 @@
     "status": "candidate",
     "confidence": "medium",
     "source_ids": [
+      "ola:s:b0873062-b819-49c9-a7d1-a3db4423e06f",
+      "ola:s:d09d1f76-f8e4-4e41-8971-29c6608c219f",
+      "ola:s:179d86cc-3dd3-4ea2-b6fc-eec4304caad8",
       "ola:s:a90ff663-4b01-4140-9a78-b9751666e72a",
       "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
       "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
@@ -2282,7 +2285,7 @@
   },
   {
     "id": "ola:n:8299633f-151e-47ab-bf62-b59487835a87",
-    "revision": 1,
+    "revision": 2,
     "kind": "concept",
     "assessable": false,
     "slug": "linear-operator-transform",
@@ -2294,6 +2297,9 @@
     "status": "candidate",
     "confidence": "medium",
     "source_ids": [
+      "ola:s:b0873062-b819-49c9-a7d1-a3db4423e06f",
+      "ola:s:d09d1f76-f8e4-4e41-8971-29c6608c219f",
+      "ola:s:179d86cc-3dd3-4ea2-b6fc-eec4304caad8",
       "ola:s:a90ff663-4b01-4140-9a78-b9751666e72a",
       "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
       "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
@@ -2302,7 +2308,7 @@
   },
   {
     "id": "ola:n:d4209ab2-6b76-44d1-8a2b-45e83ac62d56",
-    "revision": 1,
+    "revision": 2,
     "kind": "knowledge",
     "assessable": false,
     "slug": "analysis-convergence-representation-theorems",
@@ -2314,6 +2320,9 @@
     "status": "candidate",
     "confidence": "medium",
     "source_ids": [
+      "ola:s:b0873062-b819-49c9-a7d1-a3db4423e06f",
+      "ola:s:d09d1f76-f8e4-4e41-8971-29c6608c219f",
+      "ola:s:179d86cc-3dd3-4ea2-b6fc-eec4304caad8",
       "ola:s:a90ff663-4b01-4140-9a78-b9751666e72a",
       "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
       "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
@@ -2322,7 +2331,7 @@
   },
   {
     "id": "ola:n:04f5d136-37f7-4e32-ac66-81927ecafc31",
-    "revision": 1,
+    "revision": 2,
     "kind": "representation",
     "assessable": false,
     "slug": "function-space-contour-spectrum-representation",
@@ -2334,6 +2343,9 @@
     "status": "candidate",
     "confidence": "medium",
     "source_ids": [
+      "ola:s:b0873062-b819-49c9-a7d1-a3db4423e06f",
+      "ola:s:d09d1f76-f8e4-4e41-8971-29c6608c219f",
+      "ola:s:179d86cc-3dd3-4ea2-b6fc-eec4304caad8",
       "ola:s:a90ff663-4b01-4140-9a78-b9751666e72a",
       "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
       "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
@@ -2342,18 +2354,19 @@
   },
   {
     "id": "ola:n:21aa5cde-6be6-4d0e-9e55-29cd97b6faae",
-    "revision": 2,
+    "revision": 3,
     "kind": "composite",
     "assessable": false,
     "slug": "measure-functional-analysis-family",
     "label": "Work with measure and function-space structure",
-    "definition": "Within Measure, Functional, Complex, and Harmonic Analysis, this family groups bounded performances under the shared purpose \"Work with measure and function-space structure\": Analyze function-space convergence; Compute a measure or Lebesgue integral in scope.",
+    "definition": "Within Measure and Functional Analysis, this family groups bounded performances under the shared purpose \"Work with measure and function-space structure\": Analyze function-space convergence; Compute a measure or Lebesgue integral in scope.",
     "domains": [
       "mathematics"
     ],
     "status": "candidate",
     "confidence": "medium",
     "source_ids": [
+      "ola:s:b0873062-b819-49c9-a7d1-a3db4423e06f",
       "ola:s:a90ff663-4b01-4140-9a78-b9751666e72a",
       "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
       "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
@@ -2363,7 +2376,7 @@
   },
   {
     "id": "ola:n:df0c8cea-2880-4827-b763-604d64815afa",
-    "revision": 1,
+    "revision": 2,
     "kind": "capability",
     "assessable": true,
     "slug": "compute-measure-or-lebesgue-integral",
@@ -2375,6 +2388,7 @@
     "status": "candidate",
     "confidence": "medium",
     "source_ids": [
+      "ola:s:b0873062-b819-49c9-a7d1-a3db4423e06f",
       "ola:s:a90ff663-4b01-4140-9a78-b9751666e72a",
       "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
       "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
@@ -2393,7 +2407,7 @@
   },
   {
     "id": "ola:n:0400e33f-e549-49fb-84d6-0cea45adf9cb",
-    "revision": 1,
+    "revision": 2,
     "kind": "capability",
     "assessable": true,
     "slug": "analyze-function-space-convergence",
@@ -2405,6 +2419,7 @@
     "status": "candidate",
     "confidence": "medium",
     "source_ids": [
+      "ola:s:b0873062-b819-49c9-a7d1-a3db4423e06f",
       "ola:s:a90ff663-4b01-4140-9a78-b9751666e72a",
       "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
       "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
@@ -2423,18 +2438,19 @@
   },
   {
     "id": "ola:n:96b09fed-7cca-4094-ae57-e39cc68bd8c9",
-    "revision": 2,
+    "revision": 3,
     "kind": "composite",
     "assessable": false,
     "slug": "complex-analysis-family",
     "label": "Analyze complex functions",
-    "definition": "Within Measure, Functional, Complex, and Harmonic Analysis, this family groups bounded performances under the shared purpose \"Analyze complex functions\": Analyze complex differentiability; Evaluate a bounded contour integral.",
+    "definition": "Within Complex Analysis, this family groups bounded performances under the shared purpose \"Analyze complex functions\": Analyze complex differentiability; Evaluate a bounded contour integral.",
     "domains": [
       "mathematics"
     ],
     "status": "candidate",
     "confidence": "medium",
     "source_ids": [
+      "ola:s:d09d1f76-f8e4-4e41-8971-29c6608c219f",
       "ola:s:a90ff663-4b01-4140-9a78-b9751666e72a",
       "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
       "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
@@ -2444,7 +2460,7 @@
   },
   {
     "id": "ola:n:a045bf6a-40b0-455d-86eb-1a1182e88bb8",
-    "revision": 1,
+    "revision": 2,
     "kind": "capability",
     "assessable": true,
     "slug": "analyze-complex-differentiability",
@@ -2456,6 +2472,7 @@
     "status": "candidate",
     "confidence": "medium",
     "source_ids": [
+      "ola:s:d09d1f76-f8e4-4e41-8971-29c6608c219f",
       "ola:s:a90ff663-4b01-4140-9a78-b9751666e72a",
       "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
       "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
@@ -2474,7 +2491,7 @@
   },
   {
     "id": "ola:n:6de0131a-6d80-43f1-bc37-3c0106a618c2",
-    "revision": 1,
+    "revision": 2,
     "kind": "capability",
     "assessable": true,
     "slug": "evaluate-bounded-contour-integral",
@@ -2486,6 +2503,7 @@
     "status": "candidate",
     "confidence": "medium",
     "source_ids": [
+      "ola:s:d09d1f76-f8e4-4e41-8971-29c6608c219f",
       "ola:s:a90ff663-4b01-4140-9a78-b9751666e72a",
       "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
       "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
@@ -2504,18 +2522,19 @@
   },
   {
     "id": "ola:n:bc2a8064-df39-4856-990b-b92f5b68c20e",
-    "revision": 2,
+    "revision": 3,
     "kind": "composite",
     "assessable": false,
     "slug": "harmonic-operator-analysis-family",
     "label": "Use operators and harmonic representations",
-    "definition": "Within Measure, Functional, Complex, and Harmonic Analysis, this family groups bounded performances under the shared purpose \"Use operators and harmonic representations\": Analyze a Fourier representation; Apply and analyze a bounded linear operator.",
+    "definition": "Within Harmonic and Operator Analysis, this family groups bounded performances under the shared purpose \"Use operators and harmonic representations\": Analyze a Fourier representation; Apply and analyze a bounded linear operator.",
     "domains": [
       "mathematics"
     ],
     "status": "candidate",
     "confidence": "medium",
     "source_ids": [
+      "ola:s:179d86cc-3dd3-4ea2-b6fc-eec4304caad8",
       "ola:s:a90ff663-4b01-4140-9a78-b9751666e72a",
       "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
       "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
@@ -2525,7 +2544,7 @@
   },
   {
     "id": "ola:n:3c5ee761-5222-40f9-a8a2-a8cd06926a8e",
-    "revision": 1,
+    "revision": 2,
     "kind": "capability",
     "assessable": true,
     "slug": "apply-bounded-linear-operator",
@@ -2537,6 +2556,7 @@
     "status": "candidate",
     "confidence": "medium",
     "source_ids": [
+      "ola:s:179d86cc-3dd3-4ea2-b6fc-eec4304caad8",
       "ola:s:a90ff663-4b01-4140-9a78-b9751666e72a",
       "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
       "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
@@ -2555,7 +2575,7 @@
   },
   {
     "id": "ola:n:b7d9775b-6410-48f7-88f9-984e5b6b7099",
-    "revision": 1,
+    "revision": 2,
     "kind": "capability",
     "assessable": true,
     "slug": "analyze-fourier-representation",
@@ -2567,6 +2587,7 @@
     "status": "candidate",
     "confidence": "medium",
     "source_ids": [
+      "ola:s:179d86cc-3dd3-4ea2-b6fc-eec4304caad8",
       "ola:s:a90ff663-4b01-4140-9a78-b9751666e72a",
       "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
       "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"

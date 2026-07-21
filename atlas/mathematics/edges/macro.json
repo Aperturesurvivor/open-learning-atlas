@@ -818,7 +818,7 @@
   },
   {
     "id": "ola:e:699f0bb4-771f-454a-8b7e-cb3f1930ae2d",
-    "revision": 1,
+    "revision": 2,
     "subject": "ola:n:65a97823-0cd0-4058-889f-1da87e07fcee",
     "relation": "composed_of",
     "object": "ola:n:921ce5ef-565c-4e34-abbc-3a569226e533",
@@ -827,13 +827,13 @@
       "contributor-analysis"
     ],
     "evidence_strength": "reasoned",
-    "status": "candidate",
+    "status": "deprecated",
     "confidence": "medium",
     "source_ids": [
       "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
       "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
     ],
-    "review_notes": "Membership is non-exclusive and may be revised after mathematical and educational review."
+    "review_notes": "Deprecated with the split of the former combined advanced-analysis territory; preserved as a historical relationship record."
   },
   {
     "id": "ola:e:74699c81-80b2-41e9-8c6f-88467ca00ab7",

@@ -26,7 +26,10 @@ def main() -> int:
     try:
         atlas = Atlas.load(args.release)
         document = json.loads(args.reviews.read_text(encoding="utf-8"))
-        territories = {node["id"]: node for node in atlas.nodes.values() if node.get("subtype") == "atlas-territory"}
+        territories = {
+            node["id"]: node for node in atlas.nodes.values()
+            if node.get("subtype") == "atlas-territory" and node.get("status") != "deprecated"
+        }
         entries = document["entries"]
         errors: list[str] = []
         if document["map_id"] != atlas.release["map"]["id"] or document["map_version"] != atlas.release["map"]["version"]:

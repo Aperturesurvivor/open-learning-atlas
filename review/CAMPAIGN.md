@@ -1,15 +1,15 @@
 # Mathematics v1.0 territory review campaign
 
-Open Learning Atlas: Mathematics has reached its machine-verifiable breadth floor, but it is not v1.0. All 85 territories still require accountable qualitative review, and all mathematical records remain candidates.
+Open Learning Atlas: Mathematics has reached its machine-verifiable breadth floor, but it is not v1.0. All 87 active territories still require accountable qualitative review, and all active mathematical records remain candidates.
 
 ## Current progress
 
-- Approved: **0/85 territories**
-- Changes requested: **0/85 territories**
-- Pending: **85/85 territories**
+- Approved: **0/87 territories**
+- Changes requested: **0/87 territories**
+- Pending: **87/87 territories**
 
 The generated [review queue](QUEUE.md) is the human-readable territory picker,
-the [territory inventory](inventory/mathematics-0.1.0-alpha.json) provides
+the [territory inventory](inventory/mathematics-0.2.0-alpha.json) provides
 structural evidence, and the [review ledger](territory-reviews.json) stores
 attributed decisions. Automated evidence must not be copied into the decision
 ledger as if it were human approval.
@@ -17,7 +17,7 @@ ledger as if it were human approval.
 ## How to participate
 
 1. Choose a territory from the [review queue](QUEUE.md) whose mathematics or teaching you can evaluate.
-2. Pin `mathematics-v0.1.0-alpha` or a later stated commit.
+2. Pin `mathematics-v0.2.0-alpha` or a later stated commit.
 3. Inspect the territory, descendants, capability statements, relationships, sources, and coverage gaps through the [public atlas](https://aperturesurvivor.github.io/open-learning-atlas/) and release data.
 4. Open a “Review a mathematics territory” issue or a focused pull request.
 5. State your relevant background and give explicit findings for the dimensions you actually reviewed.

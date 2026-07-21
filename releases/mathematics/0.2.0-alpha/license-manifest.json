@@ -1,0 +1,24 @@
+{
+  "data_and_authored_content": {
+    "applies_to": [
+      "atlas.json",
+      "CHANGELOG.md",
+      "README.md",
+      "statistics.json",
+      "diff.json"
+    ],
+    "attribution": "Open Learning Atlas contributors, Open Learning Atlas: Mathematics 0.2.0-alpha",
+    "legal_text": "LICENSE-data.txt",
+    "license": "CC-BY-4.0"
+  },
+  "package": "Open Learning Atlas: Mathematics",
+  "release": "0.2.0-alpha",
+  "schema_and_build_software": {
+    "applies_to": [
+      "schema.json"
+    ],
+    "license": "Apache-2.0",
+    "repository_license": "https://github.com/Aperturesurvivor/open-learning-atlas/blob/main/LICENSE"
+  },
+  "third_party_sources": "Citations in atlas.json retain their original rights; citation does not relicense source material."
+}

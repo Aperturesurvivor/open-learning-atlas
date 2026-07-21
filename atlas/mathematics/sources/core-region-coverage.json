@@ -95,18 +95,19 @@
   },
   {
     "id": "ola:s:a90ff663-4b01-4140-9a78-b9751666e72a",
-    "revision": 1,
+    "revision": 2,
     "title": "MIT OpenCourseWare analysis courses",
     "source_type": "curriculum",
     "citation": "MIT OpenCourseWare. 18.100B Real Analysis and 18.125 Measure and Integration.",
     "url": "https://ocw.mit.edu/courses/18-100b-real-analysis-spring-2025/",
     "accessed_at": "2026-07-21",
     "coverage_for": [
-      "ola:n:921ce5ef-565c-4e34-abbc-3a569226e533"
+      "ola:n:921ce5ef-565c-4e34-abbc-3a569226e533",
+      "ola:n:552eff8f-c77c-405c-bc1a-322ce217dc7b"
     ],
     "coverage_scope": "Real analysis, proof-based convergence, continuity, differentiation, integration, measure, Lebesgue integration, and function spaces.",
     "coverage_gaps": [
-      "Complex, functional, and harmonic analysis require additional specialist sources; the combined macro territory remains over-aggregated and needs future splitting.",
+      "This source does not exhaust functional analysis; the successor territory also uses a dedicated functional-analysis coverage source.",
       "The source audits coverage and terminology; its hierarchy is not treated as a dependency graph."
     ],
     "notes": "Coverage source only; no source prose or exercise content was imported."

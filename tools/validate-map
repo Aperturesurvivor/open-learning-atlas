@@ -316,6 +316,13 @@ def validate_document(path: Path) -> Validation:
             validation.error(f"{location}.status", f"must be one of {sorted(STATUSES)}")
         if edge.get("confidence") not in CONFIDENCES:
             validation.error(f"{location}.confidence", f"must be one of {sorted(CONFIDENCES)}")
+        if edge.get("status") != "deprecated":
+            for endpoint_name, endpoint in (("subject", subject), ("object", obj)):
+                if endpoint in node_by_id and node_by_id[endpoint].get("status") == "deprecated":
+                    validation.error(
+                        f"{location}.{endpoint_name}",
+                        "active relationships may not reference deprecated nodes",
+                    )
         conditions = edge.get("conditions", [])
         if not isinstance(conditions, list):
             validation.error(f"{location}.conditions", "must be an array")
@@ -335,12 +342,12 @@ def validate_document(path: Path) -> Validation:
                 validation.error(f"{location}.subject", "requires must originate at an assessable node")
             if obj in node_by_id and not node_by_id[obj].get("assessable"):
                 validation.error(f"{location}.object", "requires must terminate at an assessable node")
-            if isinstance(subject, str) and isinstance(obj, str):
+            if edge.get("status") != "deprecated" and isinstance(subject, str) and isinstance(obj, str):
                 requires[subject].add(obj)
         if relation == "composed_of":
             if subject in node_by_id and node_by_id[subject].get("kind") != "composite":
                 validation.error(f"{location}.subject", "composed_of must originate at a composite node")
-            if isinstance(subject, str) and isinstance(obj, str):
+            if edge.get("status") != "deprecated" and isinstance(subject, str) and isinstance(obj, str):
                 components[subject].add(obj)
         expected_object_kind = {
             "uses_concept": "concept",
@@ -424,7 +431,7 @@ def validate_document(path: Path) -> Validation:
             for edge in edges:
                 subject = edge.get("subject")
                 obj = edge.get("object")
-                if isinstance(subject, str) and isinstance(obj, str):
+                if edge.get("status") != "deprecated" and isinstance(subject, str) and isinstance(obj, str):
                     adjacency[subject].add(obj)
             reachable = {roots[0]}
             pending = [roots[0]]

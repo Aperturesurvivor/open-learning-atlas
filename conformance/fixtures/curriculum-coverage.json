@@ -2,7 +2,7 @@
   "fixture_version": "0.1",
   "id": "ola-conformance-curriculum-coverage-001",
   "operation": "curriculum-coverage",
-  "release_version": "0.1.0-alpha",
+  "release_version": "0.2.0-alpha",
   "boundary_note": "Synthetic downstream overlay; these fields are not part of the canonical atlas.",
   "input": {
     "target": "ola:n:3a6a6a58-944c-47b0-b31b-885d043bb733",

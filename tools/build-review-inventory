@@ -20,7 +20,10 @@ def output_path(version: str) -> Path:
 
 def build(atlas: Atlas) -> dict:
     territories = sorted(
-        (node for node in atlas.nodes.values() if node.get("subtype") == "atlas-territory"),
+        (
+            node for node in atlas.nodes.values()
+            if node.get("subtype") == "atlas-territory" and node.get("status") != "deprecated"
+        ),
         key=lambda node: (node["label"].casefold(), node["id"]),
     )
     entries = []
@@ -65,7 +68,10 @@ def build(atlas: Atlas) -> dict:
 
 def initial_reviews(atlas: Atlas) -> dict:
     territories = sorted(
-        (node for node in atlas.nodes.values() if node.get("subtype") == "atlas-territory"),
+        (
+            node for node in atlas.nodes.values()
+            if node.get("subtype") == "atlas-territory" and node.get("status") != "deprecated"
+        ),
         key=lambda node: (node["label"].casefold(), node["id"]),
     )
     return {
@@ -103,7 +109,10 @@ def main() -> int:
             if not target.exists() or target.read_bytes() != content:
                 print(f"ERROR review inventory is missing or stale: {target}", file=sys.stderr)
                 return 1
-            print(f"OK {target}: deterministic evidence for 85 territories")
+            print(
+                f"OK {target}: deterministic evidence for "
+                f"{len(build(atlas)['entries'])} territories"
+            )
         else:
             target.parent.mkdir(parents=True, exist_ok=True)
             target.write_bytes(content)

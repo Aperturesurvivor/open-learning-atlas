@@ -12,7 +12,7 @@ from typing import Any
 
 
 ROOT = Path(__file__).resolve().parents[1]
-DEFAULT_MAP = ROOT / "map" / "releases" / "mathematics-v0.1.0-alpha.json"
+DEFAULT_MAP = ROOT / "map" / "releases" / "mathematics-v0.2.0-alpha.json"
 CONTENT_KINDS = {"concept", "knowledge", "representation"}
 
 
@@ -21,7 +21,7 @@ def audit(document: dict[str, Any]) -> dict[str, Any]:
     node_by_id = {node["id"]: node for node in nodes}
     composition: dict[str, set[str]] = defaultdict(set)
     for edge in document["edges"]:
-        if edge["relation"] == "composed_of":
+        if edge["relation"] == "composed_of" and edge.get("status") != "deprecated":
             composition[edge["subject"]].add(edge["object"])
 
     coverage: dict[str, list[str]] = defaultdict(list)
@@ -31,7 +31,10 @@ def audit(document: dict[str, Any]) -> dict[str, Any]:
 
     results: list[dict[str, Any]] = []
     territories = sorted(
-        (node for node in nodes if node.get("subtype") == "atlas-territory"),
+        (
+            node for node in nodes
+            if node.get("subtype") == "atlas-territory" and node.get("status") != "deprecated"
+        ),
         key=lambda node: node["slug"],
     )
     for territory in territories:

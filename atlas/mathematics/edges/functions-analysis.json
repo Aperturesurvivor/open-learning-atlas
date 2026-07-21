@@ -4621,7 +4621,7 @@
   },
   {
     "id": "ola:e:bc9e7774-53b5-4e4d-b64d-469d611e8d32",
-    "revision": 1,
+    "revision": 2,
     "subject": "ola:n:921ce5ef-565c-4e34-abbc-3a569226e533",
     "relation": "composed_of",
     "object": "ola:n:32594cce-0b88-401b-bbff-d520c82f9095",
@@ -4630,18 +4630,18 @@
       "contributor-analysis"
     ],
     "evidence_strength": "reasoned",
-    "status": "candidate",
+    "status": "deprecated",
     "confidence": "medium",
     "source_ids": [
       "ola:s:a90ff663-4b01-4140-9a78-b9751666e72a",
       "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
       "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
     ],
-    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+    "review_notes": "Deprecated with the split of the former combined advanced-analysis territory; preserved as a historical relationship record."
   },
   {
     "id": "ola:e:25f87064-cacc-4003-9c79-4be22dd29a98",
-    "revision": 1,
+    "revision": 2,
     "subject": "ola:n:921ce5ef-565c-4e34-abbc-3a569226e533",
     "relation": "composed_of",
     "object": "ola:n:8299633f-151e-47ab-bf62-b59487835a87",
@@ -4650,18 +4650,18 @@
       "contributor-analysis"
     ],
     "evidence_strength": "reasoned",
-    "status": "candidate",
+    "status": "deprecated",
     "confidence": "medium",
     "source_ids": [
       "ola:s:a90ff663-4b01-4140-9a78-b9751666e72a",
       "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
       "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
     ],
-    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+    "review_notes": "Deprecated with the split of the former combined advanced-analysis territory; preserved as a historical relationship record."
   },
   {
     "id": "ola:e:058a8137-3306-47f9-a9ff-91b5258a65fb",
-    "revision": 1,
+    "revision": 2,
     "subject": "ola:n:921ce5ef-565c-4e34-abbc-3a569226e533",
     "relation": "composed_of",
     "object": "ola:n:d4209ab2-6b76-44d1-8a2b-45e83ac62d56",
@@ -4670,18 +4670,18 @@
       "contributor-analysis"
     ],
     "evidence_strength": "reasoned",
-    "status": "candidate",
+    "status": "deprecated",
     "confidence": "medium",
     "source_ids": [
       "ola:s:a90ff663-4b01-4140-9a78-b9751666e72a",
       "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
       "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
     ],
-    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+    "review_notes": "Deprecated with the split of the former combined advanced-analysis territory; preserved as a historical relationship record."
   },
   {
     "id": "ola:e:61cae910-d746-4af4-8004-fc26b97496f3",
-    "revision": 1,
+    "revision": 2,
     "subject": "ola:n:921ce5ef-565c-4e34-abbc-3a569226e533",
     "relation": "composed_of",
     "object": "ola:n:04f5d136-37f7-4e32-ac66-81927ecafc31",
@@ -4690,18 +4690,18 @@
       "contributor-analysis"
     ],
     "evidence_strength": "reasoned",
-    "status": "candidate",
+    "status": "deprecated",
     "confidence": "medium",
     "source_ids": [
       "ola:s:a90ff663-4b01-4140-9a78-b9751666e72a",
       "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
       "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
     ],
-    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+    "review_notes": "Deprecated with the split of the former combined advanced-analysis territory; preserved as a historical relationship record."
   },
   {
     "id": "ola:e:6f46f417-fddc-480d-ab80-1cb43ebec0fa",
-    "revision": 1,
+    "revision": 2,
     "subject": "ola:n:921ce5ef-565c-4e34-abbc-3a569226e533",
     "relation": "composed_of",
     "object": "ola:n:21aa5cde-6be6-4d0e-9e55-29cd97b6faae",
@@ -4710,18 +4710,18 @@
       "contributor-analysis"
     ],
     "evidence_strength": "reasoned",
-    "status": "candidate",
+    "status": "deprecated",
     "confidence": "medium",
     "source_ids": [
       "ola:s:a90ff663-4b01-4140-9a78-b9751666e72a",
       "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
       "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
     ],
-    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+    "review_notes": "Deprecated with the split of the former combined advanced-analysis territory; preserved as a historical relationship record."
   },
   {
     "id": "ola:e:ba1a021a-bcec-47ca-95ad-a96e553ee9e9",
-    "revision": 1,
+    "revision": 2,
     "subject": "ola:n:21aa5cde-6be6-4d0e-9e55-29cd97b6faae",
     "relation": "composed_of",
     "object": "ola:n:df0c8cea-2880-4827-b763-604d64815afa",
@@ -4733,6 +4733,7 @@
     "status": "candidate",
     "confidence": "medium",
     "source_ids": [
+      "ola:s:b0873062-b819-49c9-a7d1-a3db4423e06f",
       "ola:s:a90ff663-4b01-4140-9a78-b9751666e72a",
       "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
       "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
@@ -4801,7 +4802,7 @@
   },
   {
     "id": "ola:e:b24f4152-57f1-4f34-afc8-343324272636",
-    "revision": 1,
+    "revision": 2,
     "subject": "ola:n:21aa5cde-6be6-4d0e-9e55-29cd97b6faae",
     "relation": "composed_of",
     "object": "ola:n:0400e33f-e549-49fb-84d6-0cea45adf9cb",
@@ -4813,6 +4814,7 @@
     "status": "candidate",
     "confidence": "medium",
     "source_ids": [
+      "ola:s:b0873062-b819-49c9-a7d1-a3db4423e06f",
       "ola:s:a90ff663-4b01-4140-9a78-b9751666e72a",
       "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
       "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
@@ -4881,7 +4883,7 @@
   },
   {
     "id": "ola:e:568804b3-8ce7-4816-af1f-8b91fa579805",
-    "revision": 1,
+    "revision": 2,
     "subject": "ola:n:921ce5ef-565c-4e34-abbc-3a569226e533",
     "relation": "composed_of",
     "object": "ola:n:96b09fed-7cca-4094-ae57-e39cc68bd8c9",
@@ -4890,18 +4892,18 @@
       "contributor-analysis"
     ],
     "evidence_strength": "reasoned",
-    "status": "candidate",
+    "status": "deprecated",
     "confidence": "medium",
     "source_ids": [
       "ola:s:a90ff663-4b01-4140-9a78-b9751666e72a",
       "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
       "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
     ],
-    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+    "review_notes": "Deprecated with the split of the former combined advanced-analysis territory; preserved as a historical relationship record."
   },
   {
     "id": "ola:e:089493c7-a109-4059-aff9-bb329dccbe8c",
-    "revision": 1,
+    "revision": 2,
     "subject": "ola:n:96b09fed-7cca-4094-ae57-e39cc68bd8c9",
     "relation": "composed_of",
     "object": "ola:n:a045bf6a-40b0-455d-86eb-1a1182e88bb8",
@@ -4913,6 +4915,7 @@
     "status": "candidate",
     "confidence": "medium",
     "source_ids": [
+      "ola:s:d09d1f76-f8e4-4e41-8971-29c6608c219f",
       "ola:s:a90ff663-4b01-4140-9a78-b9751666e72a",
       "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
       "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
@@ -4981,7 +4984,7 @@
   },
   {
     "id": "ola:e:682ca90d-8348-4d00-a6ba-e3e6908e1a37",
-    "revision": 1,
+    "revision": 2,
     "subject": "ola:n:96b09fed-7cca-4094-ae57-e39cc68bd8c9",
     "relation": "composed_of",
     "object": "ola:n:6de0131a-6d80-43f1-bc37-3c0106a618c2",
@@ -4993,6 +4996,7 @@
     "status": "candidate",
     "confidence": "medium",
     "source_ids": [
+      "ola:s:d09d1f76-f8e4-4e41-8971-29c6608c219f",
       "ola:s:a90ff663-4b01-4140-9a78-b9751666e72a",
       "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
       "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
@@ -5061,7 +5065,7 @@
   },
   {
     "id": "ola:e:903bc886-119c-41a3-be85-89079a4d0ef1",
-    "revision": 1,
+    "revision": 2,
     "subject": "ola:n:921ce5ef-565c-4e34-abbc-3a569226e533",
     "relation": "composed_of",
     "object": "ola:n:bc2a8064-df39-4856-990b-b92f5b68c20e",
@@ -5070,18 +5074,18 @@
       "contributor-analysis"
     ],
     "evidence_strength": "reasoned",
-    "status": "candidate",
+    "status": "deprecated",
     "confidence": "medium",
     "source_ids": [
       "ola:s:a90ff663-4b01-4140-9a78-b9751666e72a",
       "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
       "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
     ],
-    "review_notes": "AI-assisted candidate relationship requiring mathematical and educational review."
+    "review_notes": "Deprecated with the split of the former combined advanced-analysis territory; preserved as a historical relationship record."
   },
   {
     "id": "ola:e:a2768845-5215-4219-a22f-2903fda6dae8",
-    "revision": 1,
+    "revision": 2,
     "subject": "ola:n:bc2a8064-df39-4856-990b-b92f5b68c20e",
     "relation": "composed_of",
     "object": "ola:n:3c5ee761-5222-40f9-a8a2-a8cd06926a8e",
@@ -5093,6 +5097,7 @@
     "status": "candidate",
     "confidence": "medium",
     "source_ids": [
+      "ola:s:179d86cc-3dd3-4ea2-b6fc-eec4304caad8",
       "ola:s:a90ff663-4b01-4140-9a78-b9751666e72a",
       "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
       "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
@@ -5181,7 +5186,7 @@
   },
   {
     "id": "ola:e:5657909a-6dab-4329-b1c0-a0fdd47047d3",
-    "revision": 1,
+    "revision": 2,
     "subject": "ola:n:bc2a8064-df39-4856-990b-b92f5b68c20e",
     "relation": "composed_of",
     "object": "ola:n:b7d9775b-6410-48f7-88f9-984e5b6b7099",
@@ -5193,6 +5198,7 @@
     "status": "candidate",
     "confidence": "medium",
     "source_ids": [
+      "ola:s:179d86cc-3dd3-4ea2-b6fc-eec4304caad8",
       "ola:s:a90ff663-4b01-4140-9a78-b9751666e72a",
       "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
       "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"

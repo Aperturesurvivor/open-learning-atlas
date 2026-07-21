@@ -5,7 +5,7 @@
 [Explore the mathematics atlas](https://aperturesurvivor.github.io/open-learning-atlas/)
 on desktop or phone.
 
-[Download the checksummed Mathematics 0.1.0-alpha package](https://github.com/Aperturesurvivor/open-learning-atlas/releases/tag/mathematics-v0.1.0-alpha).
+[Download the checksummed Mathematics 0.2.0-alpha package](https://github.com/Aperturesurvivor/open-learning-atlas/releases/tag/mathematics-v0.2.0-alpha).
 
 Open Learning Atlas is public semantic infrastructure for describing what can
 be known or done, how those things relate, and which relationship claims are
@@ -22,8 +22,8 @@ routes without controlling the base map.
 The project is in public-alpha construction. Current validated artifacts
 include:
 
-- one connected mathematics release containing 13 regions, 85 territories,
-  1,210 records, and 2,937 typed relationships;
+- one connected mathematics release containing 13 regions, 87 active
+  territories, 1,213 records, and 2,955 typed relationships;
 - modular canonical authoring data and a deterministic release compiler;
 - a typed graph schema and semantic validator;
 - a tested, responsive atlas viewer generated from the canonical release;
@@ -53,7 +53,7 @@ Start with [`llms.txt`](llms.txt), then inspect:
   for the structural contract;
 - [`architecture/map-data-model.md`](architecture/map-data-model.md) for record
   semantics and invariants;
-- [`map/releases/mathematics-v0.1.0-alpha.json`](map/releases/mathematics-v0.1.0-alpha.json)
+- [`map/releases/mathematics-v0.2.0-alpha.json`](map/releases/mathematics-v0.2.0-alpha.json)
   for the current complete graph snapshot;
 - [`tools/validate-map`](tools/validate-map) for executable semantic checks.
 
@@ -97,6 +97,7 @@ Agent-access and release checks:
 tools/query-atlas --pretty stats
 tools/run-conformance
 tools/validate-migrations
+tools/validate-crosswalks
 tools/build-release --check
 tools/build-review-inventory --check
 tools/validate-reviews

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "ola:s:b0873062-b819-49c9-a7d1-a3db4423e06f",
+    "revision": 1,
+    "title": "MIT OpenCourseWare 18.102 Introduction to Functional Analysis",
+    "source_type": "curriculum",
+    "citation": "Rodriguez, Casey. 18.102 Introduction to Functional Analysis. MIT OpenCourseWare, Spring 2021.",
+    "url": "https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/",
+    "accessed_at": "2026-07-21",
+    "coverage_for": [
+      "ola:n:552eff8f-c77c-405c-bc1a-322ce217dc7b"
+    ],
+    "coverage_scope": "Normed and Hilbert spaces, completeness, functionals, duality, bounded and compact operators, Lebesgue measure and integration, Lp spaces, and spectral structure.",
+    "coverage_gaps": [
+      "This course does not exhaust measure theory, nonlinear functional analysis, distributions, Banach algebras, or every operator-theoretic specialization.",
+      "Course sequence is not imported as dependency structure."
+    ],
+    "notes": "Coverage source only; no source prose, problems, or hierarchy were imported."
+  },
+  {
+    "id": "ola:s:d09d1f76-f8e4-4e41-8971-29c6608c219f",
+    "revision": 1,
+    "title": "MIT OpenCourseWare 18.04 Complex Variables with Applications",
+    "source_type": "curriculum",
+    "citation": "Orloff, Jeremy. 18.04 Complex Variables with Applications. MIT OpenCourseWare, Spring 2018.",
+    "url": "https://ocw.mit.edu/courses/18-04-complex-variables-with-applications-spring-2018/",
+    "accessed_at": "2026-07-21",
+    "coverage_for": [
+      "ola:n:2789e8ed-9858-47b9-83d8-59c15a0180cc"
+    ],
+    "coverage_scope": "Complex algebra and geometry, analyticity, Cauchy theory, contour integration, series, singularities, residues, conformal mapping, and analytic continuation.",
+    "coverage_gaps": [
+      "Several complex variables, Riemann surfaces, complex geometry, and specialist potential theory require further sources.",
+      "Course sequence is not imported as dependency structure."
+    ],
+    "notes": "Coverage source only; no source prose, problems, or hierarchy were imported."
+  },
+  {
+    "id": "ola:s:179d86cc-3dd3-4ea2-b6fc-eec4304caad8",
+    "revision": 1,
+    "title": "MIT OpenCourseWare 18.103 Fourier Analysis",
+    "source_type": "curriculum",
+    "citation": "Jerison, David. 18.103 Fourier Analysis. MIT OpenCourseWare, Fall 2013.",
+    "url": "https://ocw.mit.edu/courses/18-103-fourier-analysis-fall-2013/",
+    "accessed_at": "2026-07-21",
+    "coverage_for": [
+      "ola:n:dd589d45-354d-4075-9de1-5b9b95dbb644"
+    ],
+    "coverage_scope": "Fourier series and integrals, orthonormal bases, Hilbert-space and Lp structure, convergence, transform representations, and probabilistic interfaces.",
+    "coverage_gaps": [
+      "Abstract harmonic analysis, noncommutative analysis, wavelets, distributions, and the full breadth of operator theory require additional specialist sources.",
+      "Course sequence is not imported as dependency structure."
+    ],
+    "notes": "Coverage source only; no source prose, problems, or hierarchy were imported."
+  }
+]

@@ -9,7 +9,7 @@ import sys
 
 
 ROOT = Path(__file__).resolve().parents[1]
-EXAMPLES = ROOT / "migrations" / "examples"
+MIGRATIONS = ROOT / "migrations"
 
 
 def validate(path: Path) -> list[str]:
@@ -51,13 +51,56 @@ def validate(path: Path) -> list[str]:
     unexplained = set(redirects) - changed_replacements
     if unexplained:
         errors.append(f"{path.name}: redirects without lifecycle changes: {sorted(unexplained)}")
+
+    if document.get("status") != "example":
+        prior_path = ROOT / "map" / "releases" / f"mathematics-v{document['from_release']}.json"
+        current_path = ROOT / "map" / "releases" / f"mathematics-v{document['to_release']}.json"
+        if not prior_path.exists() or not current_path.exists():
+            errors.append(
+                f"{path.name}: canonical migration releases do not both exist: "
+                f"{prior_path.name}, {current_path.name}"
+            )
+            return errors
+        prior = json.loads(prior_path.read_text(encoding="utf-8"))
+        current = json.loads(current_path.read_text(encoding="utf-8"))
+        if prior["map"]["id"] != document["map_id"] or current["map"]["id"] != document["map_id"]:
+            errors.append(f"{path.name}: map ID differs from a pinned release")
+        prior_nodes = {node["id"]: node for node in prior["nodes"]}
+        current_nodes = {node["id"]: node for node in current["nodes"]}
+        current_sources = {source["id"] for source in current["sources"]}
+        snapshot_fields = ("label", "slug", "status")
+        for index, change in enumerate(changes):
+            location = f"{path.name}.changes[{index}]"
+            identity = change["identity"]
+            before = prior_nodes.get(identity)
+            after = current_nodes.get(identity)
+            if before is None or after is None:
+                errors.append(f"{location}: changed identity must resolve in both releases")
+                continue
+            if before.get("revision") != change["from_revision"]:
+                errors.append(f"{location}: from_revision differs from prior release")
+            if after.get("revision") != change["to_revision"]:
+                errors.append(f"{location}: to_revision differs from current release")
+            if any(before.get(field) != change["before"].get(field) for field in snapshot_fields):
+                errors.append(f"{location}: before snapshot differs from prior release")
+            if any(after.get(field) != change["after"].get(field) for field in snapshot_fields):
+                errors.append(f"{location}: after snapshot differs from current release")
+            for replacement in change.get("replaced_by", []):
+                node = current_nodes.get(replacement)
+                if node is None:
+                    errors.append(f"{location}: replacement does not resolve: {replacement}")
+                elif node.get("status") == "deprecated":
+                    errors.append(f"{location}: replacement is deprecated: {replacement}")
+            unknown_sources = set(change.get("source_ids", [])) - current_sources
+            if unknown_sources:
+                errors.append(f"{location}: unknown source IDs: {sorted(unknown_sources)}")
     return errors
 
 
 def main() -> int:
-    paths = sorted(EXAMPLES.glob("*.json"))
+    paths = sorted(MIGRATIONS.glob("*/*.json"))
     if not paths:
-        print(f"ERROR no migration examples under {EXAMPLES}", file=sys.stderr)
+        print(f"ERROR no migration documents under {MIGRATIONS}", file=sys.stderr)
         return 1
     errors = [error for path in paths for error in validate(path)]
     if errors:

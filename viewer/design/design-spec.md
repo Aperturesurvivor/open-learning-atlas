@@ -25,7 +25,7 @@ Do not add grade bands, courses, learning progress, completion percentages, proj
 
 Desktop uses a fixed header, 272px navigation rail, flexible map canvas, 360px inspector, and a compact status bar. Below 900px, navigation becomes an overlay drawer and the inspector becomes a bottom sheet. Below 620px, the header becomes two rows, the map fills the remaining viewport, and the inspector rests at approximately 38% height with an expanded state.
 
-The central canvas is always the dominant surface. It renders a progressive local graph rather than placing all 1,210 records in the DOM at once:
+The central canvas is always the dominant surface. It renders a progressive local graph rather than placing all 1,213 records in the DOM at once:
 
 1. Atlas overview: root plus thirteen regions.
 2. Region view: region, its territories, and immediate cross-links.

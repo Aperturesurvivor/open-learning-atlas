@@ -4,7 +4,7 @@ Migration documents describe meaning-preserving and lifecycle changes between pi
 
 The document format is defined by [`map/schema/open-learning-atlas-migration.schema.json`](../map/schema/open-learning-atlas-migration.schema.json). `tools/validate-migrations` enforces revision progression, operation semantics, and complete redirects.
 
-The current file under `examples/` is deliberately synthetic. It demonstrates the required mechanics without pretending that an unreleased change occurred in the canonical mathematics atlas.
+Files under `examples/` are deliberately synthetic. Canonical release-to-release migrations live under `mathematics/` and are referenced from release packages.
 
 Rules:
 

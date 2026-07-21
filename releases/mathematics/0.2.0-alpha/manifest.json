@@ -1,0 +1,91 @@
+{
+  "artifacts": [
+    {
+      "bytes": 1340,
+      "media_type": "text/markdown",
+      "path": "CHANGELOG.md",
+      "role": "changelog",
+      "sha256": "0894d56ad25b4f1ed0e6ec88f0d46206a71cd756a10ee744f9dce5b2caff49ab"
+    },
+    {
+      "bytes": 18656,
+      "media_type": "text/plain",
+      "path": "LICENSE-data.txt",
+      "role": "license-text",
+      "sha256": "9e5f1b3c610b9c2da5c313bf81d577a7d1acec686bdb0384edefa6df0f90cd94"
+    },
+    {
+      "bytes": 601,
+      "media_type": "text/plain",
+      "path": "NOTICE.txt",
+      "role": "notice",
+      "sha256": "05f6a816551ea382ced258ce79d7b712ad5cd6d15a33e32cc0c37974bab391f0"
+    },
+    {
+      "bytes": 1094,
+      "media_type": "text/markdown",
+      "path": "README.md",
+      "role": "documentation",
+      "sha256": "dda5de4185378238769be6923718616b7480fcd4e059720ae18d3c9fcb8dd84f"
+    },
+    {
+      "bytes": 3810416,
+      "media_type": "application/json",
+      "path": "atlas.json",
+      "role": "dataset",
+      "sha256": "297e4b92a3c866fd1d3b011cf3331000db21f5293df4e53c68723a340c70d0e7"
+    },
+    {
+      "bytes": 8399,
+      "media_type": "application/json",
+      "path": "diff.json",
+      "role": "machine-readable-diff",
+      "sha256": "5eecba49b87d0bc58cb943d8ccaa68a8b1d89915b2337492335b0f33c875a662"
+    },
+    {
+      "bytes": 758,
+      "media_type": "application/json",
+      "path": "license-manifest.json",
+      "role": "license-manifest",
+      "sha256": "0afcd7da79d924c4b045f2f00fbc359d1964fa2972cbd3e4d8cfe00d1f62615a"
+    },
+    {
+      "bytes": 211,
+      "media_type": "application/json",
+      "path": "migrations.json",
+      "role": "migration-pointer",
+      "sha256": "50233c784e3551eeafda6ac9651c203f69d013c42b082a21867fd01fef1ea2fb"
+    },
+    {
+      "bytes": 14222,
+      "media_type": "application/json",
+      "path": "schema.json",
+      "role": "schema",
+      "sha256": "60285b18e59652981b28a501c72ff03404ff448456e61da3259a7c9b536ce90a"
+    },
+    {
+      "bytes": 1173,
+      "media_type": "application/json",
+      "path": "statistics.json",
+      "role": "statistics",
+      "sha256": "17a80bc5dac9ced66326713cdc9bbe0b2d5587961b39155789cbbb076b19248d"
+    }
+  ],
+  "canonical_repository": "https://github.com/Aperturesurvivor/open-learning-atlas",
+  "format_version": "0.1",
+  "package_format": "0.1",
+  "prior_release": "0.1.0-alpha",
+  "release": {
+    "description": "A grade-, course-, curriculum-, and provider-independent map of mathematical knowledge and observable capability.",
+    "domain": "mathematics",
+    "id": "ola:m:71a7897f-806f-40fa-a88d-051a92562907",
+    "language": "en",
+    "last_updated": "2026-07-21",
+    "license": "CC-BY-4.0",
+    "slug": "mathematics",
+    "status": "candidate",
+    "title": "Open Learning Atlas: Mathematics",
+    "version": "0.2.0-alpha"
+  },
+  "release_date": "2026-07-21"
+}

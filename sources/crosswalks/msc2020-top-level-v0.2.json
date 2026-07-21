@@ -1,0 +1,407 @@
+{
+  "format_version": "0.1",
+  "id": "msc2020-top-level-to-ola-mathematics-0.2.0-alpha",
+  "source": {
+    "name": "Mathematics Subject Classification 2020",
+    "url": "https://msc2020.org/",
+    "scope": "All 63 two-digit MSC2020 classes, used only as a breadth-audit checklist",
+    "consulted_on": "2026-07-21",
+    "license_note": "Only class codes are reproduced. MSC labels and hierarchy are not imported; mapping notes are original OLA analysis."
+  },
+  "atlas_map_id": "ola:m:71a7897f-806f-40fa-a88d-051a92562907",
+  "atlas_release": "0.2.0-alpha",
+  "method": [
+    "A covered code has one or more active OLA territories that expose its mathematical terrain at the atlas educational resolution.",
+    "A downstream-interface code is represented by mathematical methods and interfaces, while nonmathematical domain knowledge remains outside this base map.",
+    "An excluded-nonterrain code classifies history or education about mathematics rather than mathematical knowledge or capability terrain.",
+    "Crosswalk membership does not import MSC ordering, definitions, hierarchy, prerequisites, or instructional assumptions."
+  ],
+  "entries": [
+    {
+      "code": "00",
+      "disposition": "covered",
+      "target_ids": [
+        "ola:n:c686a2f1-9583-463c-b33c-219822a370a9",
+        "ola:n:ef46286d-a69f-4a0c-8f97-0536a736ae89"
+      ],
+      "note": "General mathematical work is represented through cross-cutting abstraction and modeling terrain; publication collections are not imported."
+    },
+    {
+      "code": "01",
+      "disposition": "excluded-nonterrain",
+      "target_ids": [],
+      "note": "History and biography concern mathematics but are not mathematical knowledge or capability terrain in this base map."
+    },
+    {
+      "code": "03",
+      "disposition": "covered",
+      "target_ids": [
+        "ola:n:b079694e-93de-442b-9b17-5e9828267aba",
+        "ola:n:57301c82-bc6a-45c4-8d3d-701bd69b1e74",
+        "ola:n:2b86a211-1be1-490c-a35c-4c7a749ff3d5",
+        "ola:n:1ddffc3d-bbbe-4d3a-9e56-3231255a907f"
+      ],
+      "note": "Logic, set, model, type, proof, and category foundations are explicit territories."
+    },
+    {
+      "code": "05",
+      "disposition": "covered",
+      "target_ids": ["ola:n:2b5a234b-0ef4-47fa-900b-4188758d604e", "ola:n:6554260b-2e0c-41ac-b9b9-cdaa7109cffa"],
+      "note": "Counting, combinatorial structures, graphs, and networks are explicit terrain."
+    },
+    {
+      "code": "06",
+      "disposition": "covered",
+      "target_ids": ["ola:n:c168151c-5f3a-479b-b349-234ad99d1120"],
+      "note": "Order, lattices, and general algebra provide the corresponding terrain."
+    },
+    {
+      "code": "08",
+      "disposition": "covered",
+      "target_ids": ["ola:n:c168151c-5f3a-479b-b349-234ad99d1120", "ola:n:dec0e1cc-e42d-4cd4-ac04-9096fce32821"],
+      "note": "General algebraic systems are represented across general algebra and major algebraic structures."
+    },
+    {
+      "code": "11",
+      "disposition": "covered",
+      "target_ids": ["ola:n:0e63b46b-7ec0-4641-b8bf-14017474d82a"],
+      "note": "Divisibility and number theory are explicit terrain."
+    },
+    {
+      "code": "12",
+      "disposition": "covered",
+      "target_ids": ["ola:n:344d96fb-d7f4-48ff-9896-7b455896c020", "ola:n:dec0e1cc-e42d-4cd4-ac04-9096fce32821"],
+      "note": "Polynomial and field structures are represented across two algebra territories."
+    },
+    {
+      "code": "13",
+      "disposition": "covered",
+      "target_ids": ["ola:n:dec0e1cc-e42d-4cd4-ac04-9096fce32821", "ola:n:344d96fb-d7f4-48ff-9896-7b455896c020"],
+      "note": "Commutative algebra is aggregated within ring, module, and polynomial terrain at this resolution."
+    },
+    {
+      "code": "14",
+      "disposition": "covered",
+      "target_ids": ["ola:n:32960293-70d7-4413-9230-99dc0d4dd424"],
+      "note": "Algebraic geometry shares an explicit territory with differential geometry at the atlas resolution."
+    },
+    {
+      "code": "15",
+      "disposition": "covered",
+      "target_ids": ["ola:n:b95a03f3-93a8-4709-b5d3-d74e3cb13a09", "ola:n:5e93135e-be13-4a65-98c8-686318db26ce", "ola:n:55f86545-9bab-46c9-80f2-79c3f17f3cef"],
+      "note": "Vector, matrix, linear, and multilinear structures are separately visible."
+    },
+    {
+      "code": "16",
+      "disposition": "covered",
+      "target_ids": ["ola:n:dec0e1cc-e42d-4cd4-ac04-9096fce32821"],
+      "note": "Associative rings and algebras are aggregated within the major-structures territory."
+    },
+    {
+      "code": "17",
+      "disposition": "covered",
+      "target_ids": ["ola:n:dec0e1cc-e42d-4cd4-ac04-9096fce32821", "ola:n:c168151c-5f3a-479b-b349-234ad99d1120"],
+      "note": "Nonassociative structures are represented at a broader algebraic-structures resolution."
+    },
+    {
+      "code": "18",
+      "disposition": "covered",
+      "target_ids": ["ola:n:1ddffc3d-bbbe-4d3a-9e56-3231255a907f"],
+      "note": "Category and related proof foundations are explicit terrain."
+    },
+    {
+      "code": "19",
+      "disposition": "covered",
+      "target_ids": ["ola:n:1ddffc3d-bbbe-4d3a-9e56-3231255a907f", "ola:n:f128be18-b96a-4b03-a840-556f95b84a99"],
+      "note": "K-theoretic terrain is visible through category foundations and topology, though not a standalone territory."
+    },
+    {
+      "code": "20",
+      "disposition": "covered",
+      "target_ids": ["ola:n:dec0e1cc-e42d-4cd4-ac04-9096fce32821"],
+      "note": "Group theory is explicit within the major-structures territory."
+    },
+    {
+      "code": "22",
+      "disposition": "covered",
+      "target_ids": ["ola:n:dec0e1cc-e42d-4cd4-ac04-9096fce32821", "ola:n:32960293-70d7-4413-9230-99dc0d4dd424"],
+      "note": "Topological and Lie group terrain is represented across algebraic and differential-geometric territories."
+    },
+    {
+      "code": "26",
+      "disposition": "covered",
+      "target_ids": ["ola:n:676d8217-3356-4081-9a3b-3a45922c99f3", "ola:n:f5bed58e-448c-4db8-a672-5f98d77796d1", "ola:n:22b56d73-55c3-47f4-9468-901f304e6555"],
+      "note": "Real-function terrain spans function families, continuity, differentiation, and integration."
+    },
+    {
+      "code": "28",
+      "disposition": "covered",
+      "target_ids": ["ola:n:552eff8f-c77c-405c-bc1a-322ce217dc7b"],
+      "note": "Measure and integration are explicit in the revised advanced-analysis split."
+    },
+    {
+      "code": "30",
+      "disposition": "covered",
+      "target_ids": ["ola:n:2789e8ed-9858-47b9-83d8-59c15a0180cc"],
+      "note": "Complex analysis is an explicit territory."
+    },
+    {
+      "code": "31",
+      "disposition": "covered",
+      "target_ids": ["ola:n:2789e8ed-9858-47b9-83d8-59c15a0180cc"],
+      "note": "Potential-theoretic terrain is aggregated within complex analysis at this resolution."
+    },
+    {
+      "code": "32",
+      "disposition": "covered",
+      "target_ids": ["ola:n:2789e8ed-9858-47b9-83d8-59c15a0180cc"],
+      "note": "Several-variable and analytic-space terrain is aggregated within complex analysis."
+    },
+    {
+      "code": "33",
+      "disposition": "covered",
+      "target_ids": ["ola:n:676d8217-3356-4081-9a3b-3a45922c99f3", "ola:n:5cc96e68-f0e8-4eca-b07d-b3056a265aa5"],
+      "note": "Special-function terrain is represented through function families and series."
+    },
+    {
+      "code": "34",
+      "disposition": "covered",
+      "target_ids": ["ola:n:18b61ff2-8aa1-4a9f-b3d8-e6e68f8328d4"],
+      "note": "Ordinary differential equations are explicit within a differential-equations territory."
+    },
+    {
+      "code": "35",
+      "disposition": "covered",
+      "target_ids": ["ola:n:18b61ff2-8aa1-4a9f-b3d8-e6e68f8328d4"],
+      "note": "Partial differential equations are explicit within a differential-equations territory."
+    },
+    {
+      "code": "37",
+      "disposition": "covered",
+      "target_ids": ["ola:n:18b61ff2-8aa1-4a9f-b3d8-e6e68f8328d4"],
+      "note": "Dynamical systems are named within the differential-equations territory."
+    },
+    {
+      "code": "39",
+      "disposition": "covered",
+      "target_ids": ["ola:n:18b61ff2-8aa1-4a9f-b3d8-e6e68f8328d4", "ola:n:5cc96e68-f0e8-4eca-b07d-b3056a265aa5"],
+      "note": "Difference and functional equations are represented through recurrence and differential-equation terrain."
+    },
+    {
+      "code": "40",
+      "disposition": "covered",
+      "target_ids": ["ola:n:5cc96e68-f0e8-4eca-b07d-b3056a265aa5"],
+      "note": "Sequences and series are an explicit territory."
+    },
+    {
+      "code": "41",
+      "disposition": "covered",
+      "target_ids": ["ola:n:e5adb154-f003-4dcf-85d2-459188862c9b"],
+      "note": "Approximation is explicit within numerical analysis."
+    },
+    {
+      "code": "42",
+      "disposition": "covered",
+      "target_ids": ["ola:n:dd589d45-354d-4075-9de1-5b9b95dbb644"],
+      "note": "Harmonic analysis is explicit in the revised advanced-analysis split."
+    },
+    {
+      "code": "43",
+      "disposition": "covered",
+      "target_ids": ["ola:n:dd589d45-354d-4075-9de1-5b9b95dbb644"],
+      "note": "Abstract harmonic analysis is represented in the harmonic-and-operator territory."
+    },
+    {
+      "code": "44",
+      "disposition": "covered",
+      "target_ids": ["ola:n:dd589d45-354d-4075-9de1-5b9b95dbb644"],
+      "note": "Transform and operational terrain is represented in the harmonic-and-operator territory."
+    },
+    {
+      "code": "45",
+      "disposition": "covered",
+      "target_ids": ["ola:n:22a97e52-0a7e-4700-ae5d-7494ac4fed2b", "ola:n:dd589d45-354d-4075-9de1-5b9b95dbb644"],
+      "note": "Integral-equation terrain spans inverse-problem and operator-analysis structures."
+    },
+    {
+      "code": "46",
+      "disposition": "covered",
+      "target_ids": ["ola:n:552eff8f-c77c-405c-bc1a-322ce217dc7b"],
+      "note": "Functional analysis is explicit in the revised advanced-analysis split."
+    },
+    {
+      "code": "47",
+      "disposition": "covered",
+      "target_ids": ["ola:n:dd589d45-354d-4075-9de1-5b9b95dbb644"],
+      "note": "Operator theory is explicit in the harmonic-and-operator territory."
+    },
+    {
+      "code": "49",
+      "disposition": "covered",
+      "target_ids": ["ola:n:8471c304-6761-4f51-b8ad-e8a308617edc", "ola:n:22a97e52-0a7e-4700-ae5d-7494ac4fed2b"],
+      "note": "Variational, optimal-control, and optimization terrain spans two explicit territories."
+    },
+    {
+      "code": "51",
+      "disposition": "covered",
+      "target_ids": ["ola:n:be3c8b0f-dd6a-49a3-b9e0-59e3144c7e52", "ola:n:53c25a30-0b50-4d17-9e52-ceaa73728f8f"],
+      "note": "Synthetic and coordinate geometry are separately visible."
+    },
+    {
+      "code": "52",
+      "disposition": "covered",
+      "target_ids": ["ola:n:798b2d05-3369-425f-9c8b-5b1b7300f636"],
+      "note": "Convex, discrete, and computational geometry is an explicit territory."
+    },
+    {
+      "code": "53",
+      "disposition": "covered",
+      "target_ids": ["ola:n:32960293-70d7-4413-9230-99dc0d4dd424"],
+      "note": "Differential geometry is explicitly named."
+    },
+    {
+      "code": "54",
+      "disposition": "covered",
+      "target_ids": ["ola:n:f128be18-b96a-4b03-a840-556f95b84a99"],
+      "note": "General topology is represented within the topology-and-manifolds territory."
+    },
+    {
+      "code": "55",
+      "disposition": "covered",
+      "target_ids": ["ola:n:f128be18-b96a-4b03-a840-556f95b84a99", "ola:n:1ddffc3d-bbbe-4d3a-9e56-3231255a907f"],
+      "note": "Algebraic topology spans topology and category-foundational terrain at this resolution."
+    },
+    {
+      "code": "57",
+      "disposition": "covered",
+      "target_ids": ["ola:n:f128be18-b96a-4b03-a840-556f95b84a99"],
+      "note": "Manifolds and cell-complex terrain is represented within topology and manifolds."
+    },
+    {
+      "code": "58",
+      "disposition": "covered",
+      "target_ids": ["ola:n:32960293-70d7-4413-9230-99dc0d4dd424", "ola:n:f128be18-b96a-4b03-a840-556f95b84a99"],
+      "note": "Global analysis on manifolds spans differential geometry and topology terrain."
+    },
+    {
+      "code": "60",
+      "disposition": "covered",
+      "target_ids": ["ola:n:91b00c32-4004-479a-90b4-1cb6c5df6640", "ola:n:04a0a2e0-eefb-4f5e-9e5f-a6632c4e2c8f"],
+      "note": "Probability distributions and stochastic processes are explicit terrain."
+    },
+    {
+      "code": "62",
+      "disposition": "covered",
+      "target_ids": ["ola:n:f9c03c23-cc3a-41b3-a723-48eee030ffff", "ola:n:21ca64ce-13d4-4ac9-9ed2-41250d24f019", "ola:n:77411999-33ee-403c-b09e-f79165832eca"],
+      "note": "Statistical modeling, inference, and multivariate or computational statistics are explicit."
+    },
+    {
+      "code": "65",
+      "disposition": "covered",
+      "target_ids": ["ola:n:e5adb154-f003-4dcf-85d2-459188862c9b", "ola:n:585c8112-102f-4c8f-b68c-55585074e49f", "ola:n:b3c80783-dd26-458e-aab0-f26daf282f0f"],
+      "note": "Numerical analysis, numerical linear algebra, and error representation are explicit."
+    },
+    {
+      "code": "68",
+      "disposition": "covered",
+      "target_ids": ["ola:n:e842fff4-2b60-4328-9386-8c6f7a5bda24", "ola:n:51cb46fd-37cc-4fc4-9148-33fb10aa4588", "ola:n:f5e4494a-1177-411e-8103-26220b2ee736"],
+      "note": "Theoretical computer science, computability, complexity, and symbolic computation are explicit."
+    },
+    {
+      "code": "70",
+      "disposition": "downstream-interface",
+      "target_ids": ["ola:n:7d804ff3-0faf-4ca6-8fa2-f0f0c5cec3da"],
+      "note": "The mathematical structures of mechanics are mapped; physical domain knowledge remains downstream."
+    },
+    {
+      "code": "74",
+      "disposition": "downstream-interface",
+      "target_ids": ["ola:n:7d804ff3-0faf-4ca6-8fa2-f0f0c5cec3da"],
+      "note": "Continuum and solid-mechanics mathematics is represented at the application interface."
+    },
+    {
+      "code": "76",
+      "disposition": "downstream-interface",
+      "target_ids": ["ola:n:7d804ff3-0faf-4ca6-8fa2-f0f0c5cec3da"],
+      "note": "Fluid-mechanics mathematics is represented at the application interface."
+    },
+    {
+      "code": "78",
+      "disposition": "downstream-interface",
+      "target_ids": ["ola:n:73008d58-e92d-43b9-9c5c-47d7115a72b0"],
+      "note": "Mathematical structures used in optics and electromagnetism are represented through mathematical physics."
+    },
+    {
+      "code": "80",
+      "disposition": "downstream-interface",
+      "target_ids": ["ola:n:7d804ff3-0faf-4ca6-8fa2-f0f0c5cec3da", "ola:n:73008d58-e92d-43b9-9c5c-47d7115a72b0"],
+      "note": "Thermal and transfer models are represented through mechanics and mathematical-physics interfaces."
+    },
+    {
+      "code": "81",
+      "disposition": "downstream-interface",
+      "target_ids": ["ola:n:73008d58-e92d-43b9-9c5c-47d7115a72b0"],
+      "note": "Quantum-theoretic mathematics is represented through mathematical physics."
+    },
+    {
+      "code": "82",
+      "disposition": "downstream-interface",
+      "target_ids": ["ola:n:73008d58-e92d-43b9-9c5c-47d7115a72b0"],
+      "note": "Statistical-mechanical mathematics is represented through mathematical physics."
+    },
+    {
+      "code": "83",
+      "disposition": "downstream-interface",
+      "target_ids": ["ola:n:73008d58-e92d-43b9-9c5c-47d7115a72b0"],
+      "note": "Relativistic and gravitational mathematics is represented through mathematical physics."
+    },
+    {
+      "code": "85",
+      "disposition": "downstream-interface",
+      "target_ids": ["ola:n:2e58af24-2dcf-476c-94d4-7b6bb35a3ae1"],
+      "note": "Astronomical and space-science mathematics is represented at an application interface."
+    },
+    {
+      "code": "86",
+      "disposition": "downstream-interface",
+      "target_ids": ["ola:n:2e58af24-2dcf-476c-94d4-7b6bb35a3ae1"],
+      "note": "Geophysical mathematics is represented at an earth-and-environment interface."
+    },
+    {
+      "code": "90",
+      "disposition": "covered",
+      "target_ids": ["ola:n:35f2c3ac-3cb8-43a1-8257-816e76102c48", "ola:n:8471c304-6761-4f51-b8ad-e8a308617edc", "ola:n:7a1e2e34-46fb-4a29-9585-70cb4d929be5"],
+      "note": "Operations research and continuous and discrete optimization are explicit."
+    },
+    {
+      "code": "91",
+      "disposition": "downstream-interface",
+      "target_ids": ["ola:n:fa1944ef-f4a0-489d-85fb-8e2f673c3342"],
+      "note": "Game-theoretic, economic, financial, and social-system mathematics is an explicit interface."
+    },
+    {
+      "code": "92",
+      "disposition": "downstream-interface",
+      "target_ids": ["ola:n:b8882f8f-c6b6-46ba-a7f5-b93c326d7ca6"],
+      "note": "Biological and medical mathematics is an explicit application interface."
+    },
+    {
+      "code": "93",
+      "disposition": "covered",
+      "target_ids": ["ola:n:22a97e52-0a7e-4700-ae5d-7494ac4fed2b"],
+      "note": "Systems, control, and inverse-problem mathematics is explicit terrain."
+    },
+    {
+      "code": "94",
+      "disposition": "covered",
+      "target_ids": ["ola:n:194a3600-e568-42b6-a4c4-e635a6775cef"],
+      "note": "Coding and information theory is an explicit territory."
+    },
+    {
+      "code": "97",
+      "disposition": "excluded-nonterrain",
+      "target_ids": [],
+      "note": "Mathematics education concerns the teaching and learning of mathematics; curricula and pedagogy are downstream overlays, not canonical terrain."
+    }
+  ]
+}

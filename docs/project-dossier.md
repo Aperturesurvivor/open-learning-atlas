@@ -21,11 +21,12 @@ No downstream impact has yet been demonstrated at institutional scale.
 ## What Exists
 
 The repository currently includes a constitution, data model, JSON Schema,
-semantic validator, deterministic compiler, 1,210-node connected mathematics
-alpha with 2,937 typed relationships, territory coverage notes, checksummed
+semantic validator, deterministic compiler, 1,213-node connected mathematics
+alpha with 2,955 typed relationships, territory coverage notes, checksummed
 release package, dependency-free query interface, downstream conformance
-fixtures, and a responsive interactive viewer. All 85 current territories pass
-the measurable breadth floor. Qualitative mathematical and educational review
+fixtures, and a responsive interactive viewer. All 87 active territories pass
+the measurable breadth floor, and a validated crosswalk dispositions all 63
+top-level MSC2020 codes. Qualitative mathematical and educational review
 needed for v1 remains open.
 
 ## Origin and Attribution
@@ -37,9 +38,10 @@ research assistance, drafting, data generation, validation, and implementation.
 AI-generated claims begin as candidates and are not represented as independent
 expert review.
 
-MSC2020 was used as an external breadth checklist. Its codes, hierarchy, and
-classification text were not imported. Additional sources remain subject to
-their own rights and are cited rather than relicensed.
+MSC2020 was used as an external breadth checklist. The public crosswalk records
+only its two-digit codes; its labels, hierarchy, definitions, and record set
+were not imported. Additional sources remain subject to their own rights and
+are cited rather than relicensed.
 
 ## Risks and Limitations
 

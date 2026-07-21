@@ -32,6 +32,8 @@ jobs:
         run: tools/query-atlas stats > /dev/null && tools/run-conformance
       - name: Validate migration semantics
         run: tools/validate-migrations
+      - name: Validate authoritative breadth crosswalk
+        run: tools/validate-crosswalks
       - name: Verify review inventory and ledger structure
         run: tools/build-review-inventory --check && tools/validate-reviews && tools/build-review-queue --check
       - name: Check repository documentation links
@@ -45,7 +47,7 @@ jobs:
         run: >-
           check-jsonschema
           --schemafile map/schema/open-learning-atlas-migration.schema.json
-          migrations/examples/*.json
+          migrations/examples/*.json migrations/mathematics/*.json
       - name: Validate territory review JSON Schema
         run: >-
           check-jsonschema

@@ -20,7 +20,7 @@ model, assessment product, or tutoring application.
 ## Current Canonical Artifacts
 
 - [`atlas/mathematics/`](atlas/mathematics/) — modular editable source of truth.
-- [`map/releases/mathematics-v0.1.0-alpha.json`](map/releases/mathematics-v0.1.0-alpha.json)
+- [`map/releases/mathematics-v0.2.0-alpha.json`](map/releases/mathematics-v0.2.0-alpha.json)
   — generated connected snapshot and the authoritative countable artifact.
 - [`map/domains/mathematics-macro-v0.1.json`](map/domains/mathematics-macro-v0.1.json)
   and [`map/examples/rational-proportional-v0.1.json`](map/examples/rational-proportional-v0.1.json)
@@ -33,7 +33,7 @@ model, assessment product, or tutoring application.
   human and machine access.
 - [`docs/v1-status.md`](docs/v1-status.md) — requirement-by-requirement evidence
   and explicit pending review counts.
-- [`releases/mathematics/0.1.0-alpha/`](releases/mathematics/0.1.0-alpha/)
+- [`releases/mathematics/0.2.0-alpha/`](releases/mathematics/0.2.0-alpha/)
   — self-contained package with manifest, checksums, licenses, statistics, and changelog.
 - [`docs/agent-query-guide.md`](docs/agent-query-guide.md) — exact resolve,
   traversal, expansion, filtering, and citation examples.
@@ -80,8 +80,8 @@ To change data, edit a focused array under `atlas/mathematics/`, run
 
 ## Current Development State
 
-The v0.1 constitution is ratified. The connected alpha release contains 1,210
-nodes and 2,937 relationships; all 85 territories pass the measurable breadth
+The v0.1 constitution is ratified. The connected alpha release contains 1,213
+nodes and 2,955 relationships; all 87 active territories pass the measurable breadth
 floor. The responsive viewer, pinned release package, query interface, migration
 example, and downstream conformance fixtures are implemented. Mathematical
 claims remain candidates pending qualitative scope, correctness, duplication,

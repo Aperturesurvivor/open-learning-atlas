@@ -1,0 +1,8 @@
+{
+  "documents": [
+    "migrations/mathematics/0.1.0-alpha-to-0.2.0-alpha.json"
+  ],
+  "from_release": "0.1.0-alpha",
+  "note": "Apply every listed migration document in order.",
+  "to_release": "0.2.0-alpha"
+}

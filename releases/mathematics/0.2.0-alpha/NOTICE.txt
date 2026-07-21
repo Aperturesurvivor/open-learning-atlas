@@ -1,0 +1,11 @@
+Open Learning Atlas
+Copyright 2026 Josiah Wilson and contributors
+
+Open Learning Atlas was initiated by Josiah Wilson. Its initial architecture,
+methodology, datasets, documentation, and software were developed with
+substantial assistance from OpenAI Codex. AI-assisted records are published as
+candidate contributor analysis unless accountable human review is recorded.
+
+The Mathematics Subject Classification 2020 was consulted only as a coverage
+audit. MSC codes, descriptions, and hierarchy are not included in the atlas.
+See sources/msc2020-coverage-audit.md for the boundary and source license.

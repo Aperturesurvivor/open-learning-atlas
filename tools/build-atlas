@@ -12,7 +12,6 @@ from typing import Any
 
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_SOURCE = ROOT / "atlas" / "mathematics"
-DEFAULT_OUTPUT = ROOT / "map" / "releases" / "mathematics-v0.1.0-alpha.json"
 
 
 class BuildError(RuntimeError):
@@ -81,7 +80,11 @@ def serialize(document: dict[str, Any]) -> str:
 def main(argv: list[str]) -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--source", type=Path, default=DEFAULT_SOURCE)
-    parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT)
+    parser.add_argument(
+        "--output",
+        type=Path,
+        help="output path (defaults to map/releases/mathematics-v<metadata version>.json)",
+    )
     parser.add_argument(
         "--check",
         action="store_true",
@@ -90,12 +93,17 @@ def main(argv: list[str]) -> int:
     args = parser.parse_args(argv[1:])
 
     try:
-        rendered = serialize(compile_atlas(args.source.resolve()))
+        document = compile_atlas(args.source.resolve())
+        rendered = serialize(document)
     except BuildError as exc:
         print(f"BUILD ERROR: {exc}", file=sys.stderr)
         return 1
 
-    output = args.output.resolve()
+    output = (
+        args.output.resolve()
+        if args.output is not None
+        else ROOT / "map" / "releases" / f"mathematics-v{document['map']['version']}.json"
+    )
     if args.check:
         try:
             committed = output.read_text(encoding="utf-8")

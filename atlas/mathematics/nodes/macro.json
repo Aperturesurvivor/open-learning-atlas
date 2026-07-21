@@ -881,7 +881,7 @@
   },
   {
     "id": "ola:n:921ce5ef-565c-4e34-abbc-3a569226e533",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "subtype": "atlas-territory",
     "assessable": false,
@@ -891,13 +891,13 @@
     "domains": [
       "mathematics"
     ],
-    "status": "candidate",
+    "status": "deprecated",
     "confidence": "medium",
     "source_ids": [
       "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f",
       "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a"
     ],
-    "review_notes": "Candidate atlas node. Its placement is navigational and makes no claim about grade, course, difficulty, or instructional order."
+    "review_notes": "Deprecated after a documented split into Measure and Functional Analysis, Complex Analysis, and Harmonic and Operator Analysis. Resolve this stable identity through the 0.1.0-alpha to 0.2.0-alpha migration document."
   },
   {
     "id": "ola:n:be3c8b0f-dd6a-49a3-b9e0-59e3144c7e52",

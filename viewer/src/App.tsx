@@ -38,7 +38,7 @@ import type { AtlasIndex } from './atlas'
 import type { AtlasEdge, AtlasNode, AtlasRelease, GraphView, NodeKind, PositionedNode } from './types'
 
 const REPOSITORY = 'https://github.com/Aperturesurvivor/open-learning-atlas'
-const DATA_URL = `${import.meta.env.BASE_URL}data/mathematics-v0.1.0-alpha.json`
+const DATA_URL = `${import.meta.env.BASE_URL}data/mathematics-v0.2.0-alpha.json`
 const nodeKinds: NodeKind[] = ['capability', 'concept', 'knowledge', 'representation', 'practice', 'composite']
 
 const kindColors: Record<NodeKind, string> = {

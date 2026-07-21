@@ -1,0 +1,94 @@
+#!/usr/bin/env python3
+"""Rebase a review ledger to the current active territories without losing decisions."""
+
+from __future__ import annotations
+
+from pathlib import Path
+import json
+import sys
+
+from lib.atlas_query import Atlas, DEFAULT_RELEASE
+from lib.build_review_dimensions import DIMENSIONS
+
+
+ROOT = Path(__file__).resolve().parents[1]
+LEDGER = ROOT / "review" / "territory-reviews.json"
+
+
+def pending_entry(territory: dict) -> dict:
+    return {
+        "decisions": [
+            {"dimension": dimension, "status": "pending"}
+            for dimension in DIMENSIONS
+        ],
+        "overall_status": "pending",
+        "territory_id": territory["id"],
+        "territory_revision": territory["revision"],
+    }
+
+
+def fully_pending(entry: dict) -> bool:
+    return entry["overall_status"] == "pending" and all(
+        decision["status"] == "pending" for decision in entry["decisions"]
+    )
+
+
+def main() -> int:
+    try:
+        atlas = Atlas.load(DEFAULT_RELEASE)
+        ledger = json.loads(LEDGER.read_text(encoding="utf-8"))
+        existing = {entry["territory_id"]: entry for entry in ledger["entries"]}
+        territories = sorted(
+            (
+                node for node in atlas.nodes.values()
+                if node.get("subtype") == "atlas-territory"
+                and node.get("status") != "deprecated"
+            ),
+            key=lambda node: (node["label"].casefold(), node["id"]),
+        )
+        active_ids = {territory["id"] for territory in territories}
+        removed_with_evidence = [
+            identity for identity, entry in existing.items()
+            if identity not in active_ids and not fully_pending(entry)
+        ]
+        if removed_with_evidence:
+            raise ValueError(
+                "refusing to drop review evidence for inactive territories: "
+                + ", ".join(sorted(removed_with_evidence))
+            )
+
+        entries = []
+        for territory in territories:
+            entry = existing.get(territory["id"])
+            if entry is None:
+                entry = pending_entry(territory)
+            elif entry["territory_revision"] != territory["revision"]:
+                if not fully_pending(entry):
+                    raise ValueError(
+                        f"reviewed territory changed revision: {territory['id']}"
+                    )
+                entry = pending_entry(territory)
+            entries.append(entry)
+
+        rebased = {
+            "entries": entries,
+            "format_version": ledger["format_version"],
+            "map_id": atlas.release["map"]["id"],
+            "map_version": atlas.release["map"]["version"],
+            "review_scope": ledger["review_scope"],
+        }
+        LEDGER.write_text(
+            json.dumps(rebased, ensure_ascii=False, indent=2, sort_keys=True) + "\n",
+            encoding="utf-8",
+        )
+        print(
+            f"Rebased {LEDGER} from {len(existing)} to {len(entries)} active territories"
+        )
+        return 0
+    except (OSError, json.JSONDecodeError, KeyError, ValueError) as error:
+        print(f"ERROR {error}", file=sys.stderr)
+        return 1
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

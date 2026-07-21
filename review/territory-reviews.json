@@ -309,6 +309,45 @@
         }
       ],
       "overall_status": "pending",
+      "territory_id": "ola:n:2789e8ed-9858-47b9-83d8-59c15a0180cc",
+      "territory_revision": 1
+    },
+    {
+      "decisions": [
+        {
+          "dimension": "scope-boundary",
+          "status": "pending"
+        },
+        {
+          "dimension": "material-omissions",
+          "status": "pending"
+        },
+        {
+          "dimension": "aggregation-split-quality",
+          "status": "pending"
+        },
+        {
+          "dimension": "multi-region-membership",
+          "status": "pending"
+        },
+        {
+          "dimension": "mathematical-correctness",
+          "status": "pending"
+        },
+        {
+          "dimension": "capability-observability",
+          "status": "pending"
+        },
+        {
+          "dimension": "representation-coverage",
+          "status": "pending"
+        },
+        {
+          "dimension": "dependency-state-honesty",
+          "status": "pending"
+        }
+      ],
+      "overall_status": "pending",
       "territory_id": "ola:n:51cb46fd-37cc-4fc4-9148-33fb10aa4588",
       "territory_revision": 1
     },
@@ -1635,6 +1674,45 @@
         }
       ],
       "overall_status": "pending",
+      "territory_id": "ola:n:dd589d45-354d-4075-9de1-5b9b95dbb644",
+      "territory_revision": 1
+    },
+    {
+      "decisions": [
+        {
+          "dimension": "scope-boundary",
+          "status": "pending"
+        },
+        {
+          "dimension": "material-omissions",
+          "status": "pending"
+        },
+        {
+          "dimension": "aggregation-split-quality",
+          "status": "pending"
+        },
+        {
+          "dimension": "multi-region-membership",
+          "status": "pending"
+        },
+        {
+          "dimension": "mathematical-correctness",
+          "status": "pending"
+        },
+        {
+          "dimension": "capability-observability",
+          "status": "pending"
+        },
+        {
+          "dimension": "representation-coverage",
+          "status": "pending"
+        },
+        {
+          "dimension": "dependency-state-honesty",
+          "status": "pending"
+        }
+      ],
+      "overall_status": "pending",
       "territory_id": "ola:n:b35547fe-875f-4eff-a5f5-7fdfc18363e8",
       "territory_revision": 1
     },
@@ -2025,7 +2103,7 @@
         }
       ],
       "overall_status": "pending",
-      "territory_id": "ola:n:921ce5ef-565c-4e34-abbc-3a569226e533",
+      "territory_id": "ola:n:552eff8f-c77c-405c-bc1a-322ce217dc7b",
       "territory_revision": 1
     },
     {
@@ -3318,6 +3396,6 @@
   ],
   "format_version": "0.1",
   "map_id": "ola:m:71a7897f-806f-40fa-a88d-051a92562907",
-  "map_version": "0.1.0-alpha",
+  "map_version": "0.2.0-alpha",
   "review_scope": "atlas-territories"
 }

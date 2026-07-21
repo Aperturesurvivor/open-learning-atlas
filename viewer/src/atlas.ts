@@ -1,6 +1,6 @@
 import type { AtlasEdge, AtlasNode, AtlasRelease, GraphView, PositionedNode } from './types'
 
-export const releaseDataPath = 'data/mathematics-v0.1.0-alpha.json'
+export const releaseDataPath = 'data/mathematics-v0.2.0-alpha.json'
 
 export async function loadAtlas(): Promise<AtlasRelease> {
   const response = await fetch(`${import.meta.env.BASE_URL}${releaseDataPath}`)
@@ -30,17 +30,17 @@ export type AtlasIndex = ReturnType<typeof buildIndex>
 
 export function structuralChildren(id: string, index: AtlasIndex): AtlasNode[] {
   return (index.outgoing.get(id) ?? [])
-    .filter((edge) => edge.relation === 'composed_of')
+    .filter((edge) => edge.relation === 'composed_of' && edge.status !== 'deprecated')
     .map((edge) => index.nodes.get(edge.object))
-    .filter((node): node is AtlasNode => Boolean(node))
+    .filter((node): node is AtlasNode => node !== undefined && node.status !== 'deprecated')
     .sort((a, b) => a.label.localeCompare(b.label))
 }
 
 export function structuralParents(id: string, index: AtlasIndex): AtlasNode[] {
   return (index.incoming.get(id) ?? [])
-    .filter((edge) => edge.relation === 'composed_of')
+    .filter((edge) => edge.relation === 'composed_of' && edge.status !== 'deprecated')
     .map((edge) => index.nodes.get(edge.subject))
-    .filter((node): node is AtlasNode => Boolean(node))
+    .filter((node): node is AtlasNode => node !== undefined && node.status !== 'deprecated')
     .sort((a, b) => a.label.localeCompare(b.label))
 }
 
