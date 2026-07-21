@@ -1,0 +1,48 @@
+[
+  {
+    "id": "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+    "revision": 1,
+    "title": "Standards for Mathematical Practice",
+    "source_type": "standard",
+    "citation": "Common Core State Standards Initiative. Standards for Mathematical Practice.",
+    "url": "https://www.thecorestandards.org/Math/Practice/",
+    "accessed_at": "2026-07-21",
+    "coverage_for": [
+      "ola:n:5613fb3b-eba6-485a-9d52-85a24fb0368f",
+      "ola:n:4e3af406-856e-44bf-8967-d7d0925eb98f",
+      "ola:n:c686a2f1-9583-463c-b33c-219822a370a9",
+      "ola:n:d3952861-bde5-4ee1-bb51-6596d0fa0a58",
+      "ola:n:5663694c-4ce4-4007-9de5-e8048f3343eb",
+      "ola:n:ef46286d-a69f-4a0c-8f97-0536a736ae89",
+      "ola:n:8d2aa761-fea5-4ed2-b1aa-c3140a3670f5",
+      "ola:n:c314db6a-d2d4-45d0-93b7-4f22eab59de9"
+    ],
+    "coverage_scope": "Problem solving, reasoning, argument, modeling, tools, precision, structure, and repeated reasoning as cross-cutting mathematical practices.",
+    "coverage_gaps": [
+      "The source is a standards document and does not supply territory-level dependency evidence or advanced-mathematics coverage."
+    ],
+    "notes": "Coverage audit only; no source prose, examples, or assessment content was imported."
+  },
+  {
+    "id": "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+    "revision": 1,
+    "title": "MIT OpenCourseWare 18.06 Linear Algebra",
+    "source_type": "curriculum",
+    "citation": "Strang, Gilbert. 18.06SC Linear Algebra. MIT OpenCourseWare, Fall 2011.",
+    "url": "https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/",
+    "accessed_at": "2026-07-21",
+    "coverage_for": [
+      "ola:n:b95a03f3-93a8-4709-b5d3-d74e3cb13a09",
+      "ola:n:5e93135e-be13-4a65-98c8-686318db26ce",
+      "ola:n:d8f31787-941c-45dc-94e9-ca9e600ab4ec",
+      "ola:n:2d5fe090-adbe-4824-991b-57329846a5ac",
+      "ola:n:55f86545-9bab-46c9-80f2-79c3f17f3cef",
+      "ola:n:585c8112-102f-4c8f-b68c-55585074e49f"
+    ],
+    "coverage_scope": "Systems, matrices, vector spaces, bases, orthogonality, least squares, determinants, eigenstructure, positive definiteness, transformations, and SVD.",
+    "coverage_gaps": [
+      "Tensors and advanced numerical linear algebra extend beyond the main course and require specialist supplementation."
+    ],
+    "notes": "Coverage audit only; no source prose, examples, or assessment content was imported."
+  }
+]

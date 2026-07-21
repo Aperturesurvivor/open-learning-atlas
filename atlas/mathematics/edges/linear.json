@@ -1,0 +1,3962 @@
+[
+  {
+    "id": "ola:e:47a07af9-a1e2-4291-8b51-6da7aea13ea4",
+    "revision": 1,
+    "subject": "ola:n:b95a03f3-93a8-4709-b5d3-d74e3cb13a09",
+    "relation": "composed_of",
+    "object": "ola:n:b8fbc0bb-6d35-4f04-982f-084a6fed0bc4",
+    "rationale": "Vector space and subspace is material terrain within vectors-vector-spaces; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:67691927-64bb-4e9f-b5d5-cfa424de270b",
+    "revision": 1,
+    "subject": "ola:n:b95a03f3-93a8-4709-b5d3-d74e3cb13a09",
+    "relation": "composed_of",
+    "object": "ola:n:642582fc-1a73-45bf-b15c-5e63a74f60cf",
+    "rationale": "Span, linear independence, and basis is material terrain within vectors-vector-spaces; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:166cbd72-84b2-438d-abe5-7eb665e5ad67",
+    "revision": 1,
+    "subject": "ola:n:b95a03f3-93a8-4709-b5d3-d74e3cb13a09",
+    "relation": "composed_of",
+    "object": "ola:n:8ac6bac3-ee57-4718-8271-b89c02141d72",
+    "rationale": "Basis, dimension, and coordinate uniqueness is material terrain within vectors-vector-spaces; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:bb89f60c-6baa-491d-b78f-6bbf07497de2",
+    "revision": 1,
+    "subject": "ola:n:b95a03f3-93a8-4709-b5d3-d74e3cb13a09",
+    "relation": "composed_of",
+    "object": "ola:n:5ccc6e83-5c10-4f7e-94cb-4945fc1558c6",
+    "rationale": "Vector coordinate and geometric subspace representation is material terrain within vectors-vector-spaces; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c8abf117-856c-424a-a005-1ec8119a7a52",
+    "revision": 1,
+    "subject": "ola:n:b95a03f3-93a8-4709-b5d3-d74e3cb13a09",
+    "relation": "composed_of",
+    "object": "ola:n:71cc2feb-4617-4f7f-ae44-11339ed6bab2",
+    "rationale": "Verify and generate vector spaces is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:532908b2-8d4d-4f73-aec9-c8dc124e9936",
+    "revision": 1,
+    "subject": "ola:n:71cc2feb-4617-4f7f-ae44-11339ed6bab2",
+    "relation": "composed_of",
+    "object": "ola:n:c4fe6eb0-39d6-41fe-ac5a-228edf1fb5ed",
+    "rationale": "Verify a vector space or subspace is a bounded performance within Verify and generate vector spaces.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e1745d1c-54d9-46f9-bf52-b34889cbf0ae",
+    "revision": 1,
+    "subject": "ola:n:c4fe6eb0-39d6-41fe-ac5a-228edf1fb5ed",
+    "relation": "uses_concept",
+    "object": "ola:n:b8fbc0bb-6d35-4f04-982f-084a6fed0bc4",
+    "rationale": "Demonstrating Verify a vector space or subspace materially invokes Vector space and subspace at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:95213e6d-e982-4077-9aab-51584cfe6e62",
+    "revision": 1,
+    "subject": "ola:n:c4fe6eb0-39d6-41fe-ac5a-228edf1fb5ed",
+    "relation": "uses_knowledge",
+    "object": "ola:n:8ac6bac3-ee57-4718-8271-b89c02141d72",
+    "rationale": "Demonstrating Verify a vector space or subspace materially invokes Basis, dimension, and coordinate uniqueness at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2de30613-2c78-48f9-b11d-7fa94f4a7d97",
+    "revision": 1,
+    "subject": "ola:n:c4fe6eb0-39d6-41fe-ac5a-228edf1fb5ed",
+    "relation": "uses_representation",
+    "object": "ola:n:5ccc6e83-5c10-4f7e-94cb-4945fc1558c6",
+    "rationale": "Demonstrating Verify a vector space or subspace materially invokes Vector coordinate and geometric subspace representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:5c470b0a-bee0-4ee3-bad3-8167654b7c86",
+    "revision": 1,
+    "subject": "ola:n:71cc2feb-4617-4f7f-ae44-11339ed6bab2",
+    "relation": "composed_of",
+    "object": "ola:n:1cc28928-889b-4806-80b2-4c6cdbec4c84",
+    "rationale": "Determine a linear span is a bounded performance within Verify and generate vector spaces.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:5962d754-e055-4684-a64d-d694f5be1b42",
+    "revision": 1,
+    "subject": "ola:n:1cc28928-889b-4806-80b2-4c6cdbec4c84",
+    "relation": "uses_concept",
+    "object": "ola:n:b8fbc0bb-6d35-4f04-982f-084a6fed0bc4",
+    "rationale": "Demonstrating Determine a linear span materially invokes Vector space and subspace at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4e4f9d85-b18e-4b3a-885a-7d3bc9e27614",
+    "revision": 1,
+    "subject": "ola:n:1cc28928-889b-4806-80b2-4c6cdbec4c84",
+    "relation": "uses_knowledge",
+    "object": "ola:n:8ac6bac3-ee57-4718-8271-b89c02141d72",
+    "rationale": "Demonstrating Determine a linear span materially invokes Basis, dimension, and coordinate uniqueness at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:cbd6dc3d-cdb8-42bb-b82d-79b9c7bbe9c8",
+    "revision": 1,
+    "subject": "ola:n:1cc28928-889b-4806-80b2-4c6cdbec4c84",
+    "relation": "uses_representation",
+    "object": "ola:n:5ccc6e83-5c10-4f7e-94cb-4945fc1558c6",
+    "rationale": "Demonstrating Determine a linear span materially invokes Vector coordinate and geometric subspace representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ee8ebc45-4826-4a96-a53e-b2fd7b3450a4",
+    "revision": 1,
+    "subject": "ola:n:b95a03f3-93a8-4709-b5d3-d74e3cb13a09",
+    "relation": "composed_of",
+    "object": "ola:n:1b793a93-2649-4eb4-9c04-c3ac263179cf",
+    "rationale": "Analyze bases and dimension is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a0e6772a-3e6f-4bca-963f-7bab5f454dcb",
+    "revision": 1,
+    "subject": "ola:n:1b793a93-2649-4eb4-9c04-c3ac263179cf",
+    "relation": "composed_of",
+    "object": "ola:n:67e297fa-759f-4829-a649-5e9c9c80ff7b",
+    "rationale": "Determine linear independence is a bounded performance within Analyze bases and dimension.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:bb6064a3-2421-4992-9993-f3d21745b057",
+    "revision": 1,
+    "subject": "ola:n:67e297fa-759f-4829-a649-5e9c9c80ff7b",
+    "relation": "uses_concept",
+    "object": "ola:n:642582fc-1a73-45bf-b15c-5e63a74f60cf",
+    "rationale": "Demonstrating Determine linear independence materially invokes Span, linear independence, and basis at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2683694c-ca58-4987-89ae-4e04c3475deb",
+    "revision": 1,
+    "subject": "ola:n:67e297fa-759f-4829-a649-5e9c9c80ff7b",
+    "relation": "uses_knowledge",
+    "object": "ola:n:8ac6bac3-ee57-4718-8271-b89c02141d72",
+    "rationale": "Demonstrating Determine linear independence materially invokes Basis, dimension, and coordinate uniqueness at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c7ba78a7-e537-453e-97f3-71f7d5539b07",
+    "revision": 1,
+    "subject": "ola:n:67e297fa-759f-4829-a649-5e9c9c80ff7b",
+    "relation": "uses_representation",
+    "object": "ola:n:5ccc6e83-5c10-4f7e-94cb-4945fc1558c6",
+    "rationale": "Demonstrating Determine linear independence materially invokes Vector coordinate and geometric subspace representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:fc9523df-9504-46a0-92d8-0679aafd01ac",
+    "revision": 1,
+    "subject": "ola:n:1b793a93-2649-4eb4-9c04-c3ac263179cf",
+    "relation": "composed_of",
+    "object": "ola:n:76e31abf-1b31-4950-8837-b67af43b675f",
+    "rationale": "Construct a basis and coordinates is a bounded performance within Analyze bases and dimension.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7ba80504-65ca-4799-9d59-a15315805945",
+    "revision": 1,
+    "subject": "ola:n:76e31abf-1b31-4950-8837-b67af43b675f",
+    "relation": "uses_concept",
+    "object": "ola:n:642582fc-1a73-45bf-b15c-5e63a74f60cf",
+    "rationale": "Demonstrating Construct a basis and coordinates materially invokes Span, linear independence, and basis at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7e991a12-78e4-408c-88ba-f1b5db91de3a",
+    "revision": 1,
+    "subject": "ola:n:76e31abf-1b31-4950-8837-b67af43b675f",
+    "relation": "uses_knowledge",
+    "object": "ola:n:8ac6bac3-ee57-4718-8271-b89c02141d72",
+    "rationale": "Demonstrating Construct a basis and coordinates materially invokes Basis, dimension, and coordinate uniqueness at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4fb9eb61-d0c6-4ea4-a116-0b975e4396f2",
+    "revision": 1,
+    "subject": "ola:n:76e31abf-1b31-4950-8837-b67af43b675f",
+    "relation": "uses_representation",
+    "object": "ola:n:5ccc6e83-5c10-4f7e-94cb-4945fc1558c6",
+    "rationale": "Demonstrating Construct a basis and coordinates materially invokes Vector coordinate and geometric subspace representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7a701bdc-3419-4eff-8358-e815486c2c15",
+    "revision": 1,
+    "subject": "ola:n:b95a03f3-93a8-4709-b5d3-d74e3cb13a09",
+    "relation": "composed_of",
+    "object": "ola:n:1ea10edf-d98c-486b-be4a-1946c7e92d82",
+    "rationale": "Justify vector-space claims is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2c6bbc0f-d683-4a85-8f9f-bc28d2843ff1",
+    "revision": 1,
+    "subject": "ola:n:1ea10edf-d98c-486b-be4a-1946c7e92d82",
+    "relation": "composed_of",
+    "object": "ola:n:0441718b-e255-43fa-824b-4f4c615ad386",
+    "rationale": "Prove a bounded vector-space claim is a bounded performance within Justify vector-space claims.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a18b22c1-5ef6-47ba-9b6f-955d568ac486",
+    "revision": 1,
+    "subject": "ola:n:0441718b-e255-43fa-824b-4f4c615ad386",
+    "relation": "uses_concept",
+    "object": "ola:n:b8fbc0bb-6d35-4f04-982f-084a6fed0bc4",
+    "rationale": "Demonstrating Prove a bounded vector-space claim materially invokes Vector space and subspace at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7a2ad472-7140-4a03-958e-4f2b6b14403e",
+    "revision": 1,
+    "subject": "ola:n:0441718b-e255-43fa-824b-4f4c615ad386",
+    "relation": "uses_concept",
+    "object": "ola:n:642582fc-1a73-45bf-b15c-5e63a74f60cf",
+    "rationale": "Demonstrating Prove a bounded vector-space claim materially invokes Span, linear independence, and basis at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7b39d537-5e61-4c9e-a02a-6c3094f3dfc3",
+    "revision": 1,
+    "subject": "ola:n:0441718b-e255-43fa-824b-4f4c615ad386",
+    "relation": "uses_knowledge",
+    "object": "ola:n:8ac6bac3-ee57-4718-8271-b89c02141d72",
+    "rationale": "Demonstrating Prove a bounded vector-space claim materially invokes Basis, dimension, and coordinate uniqueness at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8928b4b4-9ab2-46de-b703-a25fdd89e4a4",
+    "revision": 1,
+    "subject": "ola:n:0441718b-e255-43fa-824b-4f4c615ad386",
+    "relation": "uses_representation",
+    "object": "ola:n:5ccc6e83-5c10-4f7e-94cb-4945fc1558c6",
+    "rationale": "Demonstrating Prove a bounded vector-space claim materially invokes Vector coordinate and geometric subspace representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:dca03053-c2ae-49af-ab8b-34259e90bfcf",
+    "revision": 1,
+    "subject": "ola:n:1ea10edf-d98c-486b-be4a-1946c7e92d82",
+    "relation": "composed_of",
+    "object": "ola:n:e2193e67-8f91-4be0-8c19-18328f03f741",
+    "rationale": "Translate vector representations is a bounded performance within Justify vector-space claims.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:6e190508-12d0-428a-9a56-88714e583fee",
+    "revision": 1,
+    "subject": "ola:n:e2193e67-8f91-4be0-8c19-18328f03f741",
+    "relation": "uses_concept",
+    "object": "ola:n:b8fbc0bb-6d35-4f04-982f-084a6fed0bc4",
+    "rationale": "Demonstrating Translate vector representations materially invokes Vector space and subspace at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4123c211-a040-4eea-8bef-1c4fad3a521d",
+    "revision": 1,
+    "subject": "ola:n:e2193e67-8f91-4be0-8c19-18328f03f741",
+    "relation": "uses_concept",
+    "object": "ola:n:642582fc-1a73-45bf-b15c-5e63a74f60cf",
+    "rationale": "Demonstrating Translate vector representations materially invokes Span, linear independence, and basis at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:918d241b-78fd-45f7-9479-043f90ffd33a",
+    "revision": 1,
+    "subject": "ola:n:e2193e67-8f91-4be0-8c19-18328f03f741",
+    "relation": "uses_knowledge",
+    "object": "ola:n:8ac6bac3-ee57-4718-8271-b89c02141d72",
+    "rationale": "Demonstrating Translate vector representations materially invokes Basis, dimension, and coordinate uniqueness at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d8aa5b93-89d9-4541-bfde-4a0233dbe982",
+    "revision": 1,
+    "subject": "ola:n:e2193e67-8f91-4be0-8c19-18328f03f741",
+    "relation": "uses_representation",
+    "object": "ola:n:5ccc6e83-5c10-4f7e-94cb-4945fc1558c6",
+    "rationale": "Demonstrating Translate vector representations materially invokes Vector coordinate and geometric subspace representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ce129144-3a25-4aaf-a940-fdff9481119e",
+    "revision": 1,
+    "subject": "ola:n:5e93135e-be13-4a65-98c8-686318db26ce",
+    "relation": "composed_of",
+    "object": "ola:n:3b6e9e91-01aa-4aad-a4f5-793a242ac8ae",
+    "rationale": "Matrix and linear system is material terrain within matrices-linear-systems; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8cf15207-06b1-4e62-87ca-c274ec31af05",
+    "revision": 1,
+    "subject": "ola:n:5e93135e-be13-4a65-98c8-686318db26ce",
+    "relation": "composed_of",
+    "object": "ola:n:84085d78-b654-475d-a206-f0d4dd0b702b",
+    "rationale": "Rank, nullity, and solution structure is material terrain within matrices-linear-systems; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:73fb520d-9d87-49f8-9143-3beeb406cc6a",
+    "revision": 1,
+    "subject": "ola:n:5e93135e-be13-4a65-98c8-686318db26ce",
+    "relation": "composed_of",
+    "object": "ola:n:13e69b98-db55-4c43-87ca-5e67b66ae5f3",
+    "rationale": "Row equivalence, factorization, and solution preservation is material terrain within matrices-linear-systems; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4ee3fde2-3438-4edf-870c-da01a7bf2899",
+    "revision": 1,
+    "subject": "ola:n:5e93135e-be13-4a65-98c8-686318db26ce",
+    "relation": "composed_of",
+    "object": "ola:n:684a3c6d-d566-458a-b503-81c63bdd854f",
+    "rationale": "Augmented matrix and row-space diagram is material terrain within matrices-linear-systems; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:fa97db3a-ea68-4d47-8c68-6123d46837ad",
+    "revision": 1,
+    "subject": "ola:n:5e93135e-be13-4a65-98c8-686318db26ce",
+    "relation": "composed_of",
+    "object": "ola:n:cb0cc99b-2953-42b0-9863-c1231ea5db89",
+    "rationale": "Solve linear systems is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:37d6025a-81b6-4532-a92f-c491976e147e",
+    "revision": 1,
+    "subject": "ola:n:cb0cc99b-2953-42b0-9863-c1231ea5db89",
+    "relation": "composed_of",
+    "object": "ola:n:3cba0bc9-ea6d-4f31-b2ff-30ce94276714",
+    "rationale": "Row-reduce a linear system is a bounded performance within Solve linear systems.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a3a00d2d-09d8-4e3e-8dc5-3f3cbf84aab0",
+    "revision": 1,
+    "subject": "ola:n:3cba0bc9-ea6d-4f31-b2ff-30ce94276714",
+    "relation": "uses_concept",
+    "object": "ola:n:3b6e9e91-01aa-4aad-a4f5-793a242ac8ae",
+    "rationale": "Demonstrating Row-reduce a linear system materially invokes Matrix and linear system at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:dbeeed8b-e222-4824-8cab-b75454736979",
+    "revision": 1,
+    "subject": "ola:n:3cba0bc9-ea6d-4f31-b2ff-30ce94276714",
+    "relation": "uses_knowledge",
+    "object": "ola:n:13e69b98-db55-4c43-87ca-5e67b66ae5f3",
+    "rationale": "Demonstrating Row-reduce a linear system materially invokes Row equivalence, factorization, and solution preservation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:99292329-1dee-45f9-84c8-41e0b14e468f",
+    "revision": 1,
+    "subject": "ola:n:3cba0bc9-ea6d-4f31-b2ff-30ce94276714",
+    "relation": "uses_representation",
+    "object": "ola:n:684a3c6d-d566-458a-b503-81c63bdd854f",
+    "rationale": "Demonstrating Row-reduce a linear system materially invokes Augmented matrix and row-space diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ae3ba17b-ad32-4062-b140-4d9849a6aeae",
+    "revision": 1,
+    "subject": "ola:n:cb0cc99b-2953-42b0-9863-c1231ea5db89",
+    "relation": "composed_of",
+    "object": "ola:n:24041403-dd65-4250-a5b9-7ac1d8f91c9e",
+    "rationale": "Classify linear-system solutions is a bounded performance within Solve linear systems.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:af9ee65f-32a3-4b6e-9b8e-35778a5054b7",
+    "revision": 1,
+    "subject": "ola:n:24041403-dd65-4250-a5b9-7ac1d8f91c9e",
+    "relation": "uses_concept",
+    "object": "ola:n:3b6e9e91-01aa-4aad-a4f5-793a242ac8ae",
+    "rationale": "Demonstrating Classify linear-system solutions materially invokes Matrix and linear system at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:da1c849e-9f47-4aaf-8edc-1e4fb8d526f6",
+    "revision": 1,
+    "subject": "ola:n:24041403-dd65-4250-a5b9-7ac1d8f91c9e",
+    "relation": "uses_knowledge",
+    "object": "ola:n:13e69b98-db55-4c43-87ca-5e67b66ae5f3",
+    "rationale": "Demonstrating Classify linear-system solutions materially invokes Row equivalence, factorization, and solution preservation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:170576c8-4e50-4c5d-a5b0-e8b997476390",
+    "revision": 1,
+    "subject": "ola:n:24041403-dd65-4250-a5b9-7ac1d8f91c9e",
+    "relation": "uses_representation",
+    "object": "ola:n:684a3c6d-d566-458a-b503-81c63bdd854f",
+    "rationale": "Demonstrating Classify linear-system solutions materially invokes Augmented matrix and row-space diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:6fa3a2b5-f228-4f50-8641-86c486e14c60",
+    "revision": 1,
+    "subject": "ola:n:5e93135e-be13-4a65-98c8-686318db26ce",
+    "relation": "composed_of",
+    "object": "ola:n:e9ebf30e-29dc-414d-a9c6-e028147580b1",
+    "rationale": "Compute with matrices is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c7858377-6ae2-442e-aeee-94fd5743af4f",
+    "revision": 1,
+    "subject": "ola:n:e9ebf30e-29dc-414d-a9c6-e028147580b1",
+    "relation": "composed_of",
+    "object": "ola:n:6ab61228-cfbc-4f65-aaa5-b56e774bebc2",
+    "rationale": "Compute matrix operations is a bounded performance within Compute with matrices.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:85034394-5848-48d8-8e10-9ec8d3518ccf",
+    "revision": 1,
+    "subject": "ola:n:6ab61228-cfbc-4f65-aaa5-b56e774bebc2",
+    "relation": "uses_concept",
+    "object": "ola:n:84085d78-b654-475d-a206-f0d4dd0b702b",
+    "rationale": "Demonstrating Compute matrix operations materially invokes Rank, nullity, and solution structure at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:59b78aea-394f-469a-9d8e-251f78f2278b",
+    "revision": 1,
+    "subject": "ola:n:6ab61228-cfbc-4f65-aaa5-b56e774bebc2",
+    "relation": "uses_knowledge",
+    "object": "ola:n:13e69b98-db55-4c43-87ca-5e67b66ae5f3",
+    "rationale": "Demonstrating Compute matrix operations materially invokes Row equivalence, factorization, and solution preservation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:cdc5258d-2729-48b8-a008-6417777c75b4",
+    "revision": 1,
+    "subject": "ola:n:6ab61228-cfbc-4f65-aaa5-b56e774bebc2",
+    "relation": "uses_representation",
+    "object": "ola:n:684a3c6d-d566-458a-b503-81c63bdd854f",
+    "rationale": "Demonstrating Compute matrix operations materially invokes Augmented matrix and row-space diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e4a22bef-459f-4bb3-82c9-1f7b43780458",
+    "revision": 1,
+    "subject": "ola:n:e9ebf30e-29dc-414d-a9c6-e028147580b1",
+    "relation": "composed_of",
+    "object": "ola:n:9e832462-7ba5-4274-bfc3-80df5c60393c",
+    "rationale": "Factor a matrix in scope is a bounded performance within Compute with matrices.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:cbdf8d90-3142-4b08-b089-3c0620bee02a",
+    "revision": 1,
+    "subject": "ola:n:9e832462-7ba5-4274-bfc3-80df5c60393c",
+    "relation": "uses_concept",
+    "object": "ola:n:84085d78-b654-475d-a206-f0d4dd0b702b",
+    "rationale": "Demonstrating Factor a matrix in scope materially invokes Rank, nullity, and solution structure at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:5a889ef3-ddce-4f97-a115-996c36e1c51b",
+    "revision": 1,
+    "subject": "ola:n:9e832462-7ba5-4274-bfc3-80df5c60393c",
+    "relation": "uses_knowledge",
+    "object": "ola:n:13e69b98-db55-4c43-87ca-5e67b66ae5f3",
+    "rationale": "Demonstrating Factor a matrix in scope materially invokes Row equivalence, factorization, and solution preservation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:fb209b94-a954-4694-81ac-752cb8c5f1cf",
+    "revision": 1,
+    "subject": "ola:n:9e832462-7ba5-4274-bfc3-80df5c60393c",
+    "relation": "uses_representation",
+    "object": "ola:n:684a3c6d-d566-458a-b503-81c63bdd854f",
+    "rationale": "Demonstrating Factor a matrix in scope materially invokes Augmented matrix and row-space diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:dd473693-e3d7-49b5-9ecf-1e5995548910",
+    "revision": 1,
+    "subject": "ola:n:5e93135e-be13-4a65-98c8-686318db26ce",
+    "relation": "composed_of",
+    "object": "ola:n:99133dd4-7202-4118-9c15-26730b40a11b",
+    "rationale": "Model and audit linear systems is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:fc5caf3c-0db7-4893-b8a6-cb1f4088352d",
+    "revision": 1,
+    "subject": "ola:n:99133dd4-7202-4118-9c15-26730b40a11b",
+    "relation": "composed_of",
+    "object": "ola:n:ad609456-323a-4f58-9a40-b3927cddbcc9",
+    "rationale": "Construct a linear-system model is a bounded performance within Model and audit linear systems.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e66d28db-d736-4cca-9f52-9474db5f3901",
+    "revision": 1,
+    "subject": "ola:n:ad609456-323a-4f58-9a40-b3927cddbcc9",
+    "relation": "uses_concept",
+    "object": "ola:n:3b6e9e91-01aa-4aad-a4f5-793a242ac8ae",
+    "rationale": "Demonstrating Construct a linear-system model materially invokes Matrix and linear system at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d06119d4-6f6d-4cc1-89d9-6f9c8b3e57c9",
+    "revision": 1,
+    "subject": "ola:n:ad609456-323a-4f58-9a40-b3927cddbcc9",
+    "relation": "uses_concept",
+    "object": "ola:n:84085d78-b654-475d-a206-f0d4dd0b702b",
+    "rationale": "Demonstrating Construct a linear-system model materially invokes Rank, nullity, and solution structure at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:cf10106a-6361-4c89-b3b4-49bc0249740e",
+    "revision": 1,
+    "subject": "ola:n:ad609456-323a-4f58-9a40-b3927cddbcc9",
+    "relation": "uses_knowledge",
+    "object": "ola:n:13e69b98-db55-4c43-87ca-5e67b66ae5f3",
+    "rationale": "Demonstrating Construct a linear-system model materially invokes Row equivalence, factorization, and solution preservation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b4da0eda-d8c4-4b85-8c51-c73eed7c185a",
+    "revision": 1,
+    "subject": "ola:n:ad609456-323a-4f58-9a40-b3927cddbcc9",
+    "relation": "uses_representation",
+    "object": "ola:n:684a3c6d-d566-458a-b503-81c63bdd854f",
+    "rationale": "Demonstrating Construct a linear-system model materially invokes Augmented matrix and row-space diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:089caa60-84f9-4821-847a-72c3bb340bf1",
+    "revision": 1,
+    "subject": "ola:n:99133dd4-7202-4118-9c15-26730b40a11b",
+    "relation": "composed_of",
+    "object": "ola:n:84d563f1-bcdf-4234-a4d2-436cad4294dd",
+    "rationale": "Audit a linear-system solution is a bounded performance within Model and audit linear systems.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:fb4c16a5-e8ae-4dd1-b4f7-71e40f9d3db9",
+    "revision": 1,
+    "subject": "ola:n:84d563f1-bcdf-4234-a4d2-436cad4294dd",
+    "relation": "uses_concept",
+    "object": "ola:n:3b6e9e91-01aa-4aad-a4f5-793a242ac8ae",
+    "rationale": "Demonstrating Audit a linear-system solution materially invokes Matrix and linear system at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:dc501984-64d0-413f-b979-55ca6face7ec",
+    "revision": 1,
+    "subject": "ola:n:84d563f1-bcdf-4234-a4d2-436cad4294dd",
+    "relation": "uses_concept",
+    "object": "ola:n:84085d78-b654-475d-a206-f0d4dd0b702b",
+    "rationale": "Demonstrating Audit a linear-system solution materially invokes Rank, nullity, and solution structure at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:79f362e0-80b3-4461-a66e-510692c166db",
+    "revision": 1,
+    "subject": "ola:n:84d563f1-bcdf-4234-a4d2-436cad4294dd",
+    "relation": "uses_knowledge",
+    "object": "ola:n:13e69b98-db55-4c43-87ca-5e67b66ae5f3",
+    "rationale": "Demonstrating Audit a linear-system solution materially invokes Row equivalence, factorization, and solution preservation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8fb302ca-d574-445e-8db5-1f3fbb83c1dc",
+    "revision": 1,
+    "subject": "ola:n:84d563f1-bcdf-4234-a4d2-436cad4294dd",
+    "relation": "uses_representation",
+    "object": "ola:n:684a3c6d-d566-458a-b503-81c63bdd854f",
+    "rationale": "Demonstrating Audit a linear-system solution materially invokes Augmented matrix and row-space diagram at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:24208e93-7c99-44f3-bcd8-c35f4f06ca84",
+    "revision": 1,
+    "subject": "ola:n:d8f31787-941c-45dc-94e9-ca9e600ab4ec",
+    "relation": "composed_of",
+    "object": "ola:n:bd69f0e4-5a04-40bf-b3dd-aa9e4ccd554f",
+    "rationale": "Linear transformation, kernel, and image is material terrain within linear-transformations; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d64b5179-a99c-44af-820f-7be4c96ccbf7",
+    "revision": 1,
+    "subject": "ola:n:d8f31787-941c-45dc-94e9-ca9e600ab4ec",
+    "relation": "composed_of",
+    "object": "ola:n:552f81b2-2136-4b42-8ee6-42a211f662e4",
+    "rationale": "Change of basis and similarity is material terrain within linear-transformations; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:3783656c-5d49-4099-b329-3fa0ccb7da51",
+    "revision": 1,
+    "subject": "ola:n:d8f31787-941c-45dc-94e9-ca9e600ab4ec",
+    "relation": "composed_of",
+    "object": "ola:n:a3bb31a9-9c0e-4776-92e6-a57c788edb6e",
+    "rationale": "Rank–nullity and matrix representation is material terrain within linear-transformations; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7bf532e9-1b11-44f5-8915-0bcef73f3e7d",
+    "revision": 1,
+    "subject": "ola:n:d8f31787-941c-45dc-94e9-ca9e600ab4ec",
+    "relation": "composed_of",
+    "object": "ola:n:29ecb36b-b14f-4267-bbce-a67b71c5a72b",
+    "rationale": "Linear-map diagram and matrix representation is material terrain within linear-transformations; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8822719e-af0a-42fc-ae51-249cd9574a7b",
+    "revision": 1,
+    "subject": "ola:n:d8f31787-941c-45dc-94e9-ca9e600ab4ec",
+    "relation": "composed_of",
+    "object": "ola:n:16e88466-55f9-481a-894e-fef2d7c33646",
+    "rationale": "Identify and represent linear maps is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:5fed50c3-b0b8-4e82-acd3-b21a70f1cfc3",
+    "revision": 1,
+    "subject": "ola:n:16e88466-55f9-481a-894e-fef2d7c33646",
+    "relation": "composed_of",
+    "object": "ola:n:f248aa88-c936-4cb2-838b-7bb433e9cb14",
+    "rationale": "Verify map linearity is a bounded performance within Identify and represent linear maps.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:840574a7-7bb5-4472-a6d3-969baa2eff1f",
+    "revision": 1,
+    "subject": "ola:n:f248aa88-c936-4cb2-838b-7bb433e9cb14",
+    "relation": "uses_concept",
+    "object": "ola:n:bd69f0e4-5a04-40bf-b3dd-aa9e4ccd554f",
+    "rationale": "Demonstrating Verify map linearity materially invokes Linear transformation, kernel, and image at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b90face6-b518-4765-8d07-16cfc53b6aa4",
+    "revision": 1,
+    "subject": "ola:n:f248aa88-c936-4cb2-838b-7bb433e9cb14",
+    "relation": "uses_knowledge",
+    "object": "ola:n:a3bb31a9-9c0e-4776-92e6-a57c788edb6e",
+    "rationale": "Demonstrating Verify map linearity materially invokes Rank–nullity and matrix representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:0d87569c-5e24-4860-bd79-a11a1e8b635d",
+    "revision": 1,
+    "subject": "ola:n:f248aa88-c936-4cb2-838b-7bb433e9cb14",
+    "relation": "uses_representation",
+    "object": "ola:n:29ecb36b-b14f-4267-bbce-a67b71c5a72b",
+    "rationale": "Demonstrating Verify map linearity materially invokes Linear-map diagram and matrix representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:9b182cf1-b07f-44eb-8c3d-24f9f20bd2ac",
+    "revision": 1,
+    "subject": "ola:n:16e88466-55f9-481a-894e-fef2d7c33646",
+    "relation": "composed_of",
+    "object": "ola:n:020b017c-8ae4-4dbd-be5f-4ca8e5f81fd6",
+    "rationale": "Construct a matrix of a linear map is a bounded performance within Identify and represent linear maps.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:1eb4be8b-7840-4c2e-ba90-4b775fce8738",
+    "revision": 1,
+    "subject": "ola:n:020b017c-8ae4-4dbd-be5f-4ca8e5f81fd6",
+    "relation": "uses_concept",
+    "object": "ola:n:bd69f0e4-5a04-40bf-b3dd-aa9e4ccd554f",
+    "rationale": "Demonstrating Construct a matrix of a linear map materially invokes Linear transformation, kernel, and image at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c848c0e3-0aa1-46f6-917b-64eef575727b",
+    "revision": 1,
+    "subject": "ola:n:020b017c-8ae4-4dbd-be5f-4ca8e5f81fd6",
+    "relation": "uses_knowledge",
+    "object": "ola:n:a3bb31a9-9c0e-4776-92e6-a57c788edb6e",
+    "rationale": "Demonstrating Construct a matrix of a linear map materially invokes Rank–nullity and matrix representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:9e0e25d6-6a82-422b-a143-25aa614da991",
+    "revision": 1,
+    "subject": "ola:n:020b017c-8ae4-4dbd-be5f-4ca8e5f81fd6",
+    "relation": "uses_representation",
+    "object": "ola:n:29ecb36b-b14f-4267-bbce-a67b71c5a72b",
+    "rationale": "Demonstrating Construct a matrix of a linear map materially invokes Linear-map diagram and matrix representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:1bd7d43a-d779-4820-aac0-e8c589086bae",
+    "revision": 1,
+    "subject": "ola:n:d8f31787-941c-45dc-94e9-ca9e600ab4ec",
+    "relation": "composed_of",
+    "object": "ola:n:2c433e68-023d-4e8c-ae88-012ab17db16a",
+    "rationale": "Analyze linear-map structure is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:cf11e52e-17d4-449b-81f7-5d46fd8bd272",
+    "revision": 1,
+    "subject": "ola:n:2c433e68-023d-4e8c-ae88-012ab17db16a",
+    "relation": "composed_of",
+    "object": "ola:n:f4fd1802-9f26-41e0-bbcb-ef8f67ca2f9e",
+    "rationale": "Determine kernel, image, rank, and nullity is a bounded performance within Analyze linear-map structure.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ccdba49c-c428-4074-91d0-143475adf017",
+    "revision": 1,
+    "subject": "ola:n:f4fd1802-9f26-41e0-bbcb-ef8f67ca2f9e",
+    "relation": "uses_concept",
+    "object": "ola:n:552f81b2-2136-4b42-8ee6-42a211f662e4",
+    "rationale": "Demonstrating Determine kernel, image, rank, and nullity materially invokes Change of basis and similarity at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:281a6325-2200-40d4-ba0e-2880603cabfa",
+    "revision": 1,
+    "subject": "ola:n:f4fd1802-9f26-41e0-bbcb-ef8f67ca2f9e",
+    "relation": "uses_knowledge",
+    "object": "ola:n:a3bb31a9-9c0e-4776-92e6-a57c788edb6e",
+    "rationale": "Demonstrating Determine kernel, image, rank, and nullity materially invokes Rank–nullity and matrix representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e3ced3bf-e993-4e1d-b59d-446e28660389",
+    "revision": 1,
+    "subject": "ola:n:f4fd1802-9f26-41e0-bbcb-ef8f67ca2f9e",
+    "relation": "uses_representation",
+    "object": "ola:n:29ecb36b-b14f-4267-bbce-a67b71c5a72b",
+    "rationale": "Demonstrating Determine kernel, image, rank, and nullity materially invokes Linear-map diagram and matrix representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:fd8b6f7b-d16f-4f83-9944-9cfa79df9dce",
+    "revision": 1,
+    "subject": "ola:n:2c433e68-023d-4e8c-ae88-012ab17db16a",
+    "relation": "composed_of",
+    "object": "ola:n:3c23a366-5d4b-406b-a7f9-b7566aace893",
+    "rationale": "Compose or invert linear maps is a bounded performance within Analyze linear-map structure.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8520dc15-5b41-43cc-8754-139a9fd197c3",
+    "revision": 1,
+    "subject": "ola:n:3c23a366-5d4b-406b-a7f9-b7566aace893",
+    "relation": "uses_concept",
+    "object": "ola:n:552f81b2-2136-4b42-8ee6-42a211f662e4",
+    "rationale": "Demonstrating Compose or invert linear maps materially invokes Change of basis and similarity at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:3bc22822-17b3-4ca6-81f0-8eca75574cda",
+    "revision": 1,
+    "subject": "ola:n:3c23a366-5d4b-406b-a7f9-b7566aace893",
+    "relation": "uses_knowledge",
+    "object": "ola:n:a3bb31a9-9c0e-4776-92e6-a57c788edb6e",
+    "rationale": "Demonstrating Compose or invert linear maps materially invokes Rank–nullity and matrix representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f90f2b5c-38d0-4224-b0c2-e17a5821e300",
+    "revision": 1,
+    "subject": "ola:n:3c23a366-5d4b-406b-a7f9-b7566aace893",
+    "relation": "uses_representation",
+    "object": "ola:n:29ecb36b-b14f-4267-bbce-a67b71c5a72b",
+    "rationale": "Demonstrating Compose or invert linear maps materially invokes Linear-map diagram and matrix representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f9cd5e87-53e9-425c-9b5f-05794c9b94ad",
+    "revision": 1,
+    "subject": "ola:n:d8f31787-941c-45dc-94e9-ca9e600ab4ec",
+    "relation": "composed_of",
+    "object": "ola:n:30b7d544-a804-460b-9d82-8f8269a5c3e5",
+    "rationale": "Change basis and prove map claims is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:0bb25d24-376c-4f0b-aa43-726218da9aec",
+    "revision": 1,
+    "subject": "ola:n:30b7d544-a804-460b-9d82-8f8269a5c3e5",
+    "relation": "composed_of",
+    "object": "ola:n:ccd40203-b7ec-49c0-ad13-fedbab0e3097",
+    "rationale": "Change basis for a linear operator is a bounded performance within Change basis and prove map claims.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:44c56a0b-24ed-4dda-a913-010fb23ea271",
+    "revision": 1,
+    "subject": "ola:n:ccd40203-b7ec-49c0-ad13-fedbab0e3097",
+    "relation": "uses_concept",
+    "object": "ola:n:bd69f0e4-5a04-40bf-b3dd-aa9e4ccd554f",
+    "rationale": "Demonstrating Change basis for a linear operator materially invokes Linear transformation, kernel, and image at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:70fc2b2c-8984-4aa1-ad74-ceb006bda569",
+    "revision": 1,
+    "subject": "ola:n:ccd40203-b7ec-49c0-ad13-fedbab0e3097",
+    "relation": "uses_concept",
+    "object": "ola:n:552f81b2-2136-4b42-8ee6-42a211f662e4",
+    "rationale": "Demonstrating Change basis for a linear operator materially invokes Change of basis and similarity at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:1149645c-60bb-469a-985e-eac5fb167fcc",
+    "revision": 1,
+    "subject": "ola:n:ccd40203-b7ec-49c0-ad13-fedbab0e3097",
+    "relation": "uses_knowledge",
+    "object": "ola:n:a3bb31a9-9c0e-4776-92e6-a57c788edb6e",
+    "rationale": "Demonstrating Change basis for a linear operator materially invokes Rank–nullity and matrix representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7024eaae-96f4-4f2d-a4d2-e539613ea72b",
+    "revision": 1,
+    "subject": "ola:n:ccd40203-b7ec-49c0-ad13-fedbab0e3097",
+    "relation": "uses_representation",
+    "object": "ola:n:29ecb36b-b14f-4267-bbce-a67b71c5a72b",
+    "rationale": "Demonstrating Change basis for a linear operator materially invokes Linear-map diagram and matrix representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:baba8126-1303-42fe-8ca8-5a02aa44777c",
+    "revision": 1,
+    "subject": "ola:n:30b7d544-a804-460b-9d82-8f8269a5c3e5",
+    "relation": "composed_of",
+    "object": "ola:n:578d2b4e-6e75-4169-834e-286031facf27",
+    "rationale": "Prove a bounded linear-map claim is a bounded performance within Change basis and prove map claims.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d0d83b38-b84f-425a-aa15-31ad9475e8f3",
+    "revision": 1,
+    "subject": "ola:n:578d2b4e-6e75-4169-834e-286031facf27",
+    "relation": "uses_concept",
+    "object": "ola:n:bd69f0e4-5a04-40bf-b3dd-aa9e4ccd554f",
+    "rationale": "Demonstrating Prove a bounded linear-map claim materially invokes Linear transformation, kernel, and image at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:9dbc25a9-39d5-4aa4-9df3-419cf9cabaa3",
+    "revision": 1,
+    "subject": "ola:n:578d2b4e-6e75-4169-834e-286031facf27",
+    "relation": "uses_concept",
+    "object": "ola:n:552f81b2-2136-4b42-8ee6-42a211f662e4",
+    "rationale": "Demonstrating Prove a bounded linear-map claim materially invokes Change of basis and similarity at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4e6951d6-d7a7-4ecc-93c9-bd848b1c888c",
+    "revision": 1,
+    "subject": "ola:n:578d2b4e-6e75-4169-834e-286031facf27",
+    "relation": "uses_knowledge",
+    "object": "ola:n:a3bb31a9-9c0e-4776-92e6-a57c788edb6e",
+    "rationale": "Demonstrating Prove a bounded linear-map claim materially invokes Rank–nullity and matrix representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:5cfdddfd-4a56-42b0-888d-7e32bd7aab23",
+    "revision": 1,
+    "subject": "ola:n:578d2b4e-6e75-4169-834e-286031facf27",
+    "relation": "uses_representation",
+    "object": "ola:n:29ecb36b-b14f-4267-bbce-a67b71c5a72b",
+    "rationale": "Demonstrating Prove a bounded linear-map claim materially invokes Linear-map diagram and matrix representation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:91b7b5ea-407f-49f3-9be8-2edd5883a278",
+    "revision": 1,
+    "subject": "ola:n:2d5fe090-adbe-4824-991b-57329846a5ac",
+    "relation": "composed_of",
+    "object": "ola:n:9981c98f-46c4-4106-9435-29460aa8db8d",
+    "rationale": "Eigenvalue, eigenvector, and spectrum is material terrain within eigen-spectral-inner-product-structure; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:10d733b4-3a7f-4202-b328-0cbc7ae4fad0",
+    "revision": 1,
+    "subject": "ola:n:2d5fe090-adbe-4824-991b-57329846a5ac",
+    "relation": "composed_of",
+    "object": "ola:n:b73e4683-7d33-4fb4-bb1e-df148d6951c9",
+    "rationale": "Inner product and orthogonality is material terrain within eigen-spectral-inner-product-structure; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4c78aea4-e3ae-4371-b161-0726613154e5",
+    "revision": 1,
+    "subject": "ola:n:2d5fe090-adbe-4824-991b-57329846a5ac",
+    "relation": "composed_of",
+    "object": "ola:n:f97ea256-c70f-481d-b41e-df2b12b891cc",
+    "rationale": "Spectral, orthogonal, and singular-value principles is material terrain within eigen-spectral-inner-product-structure; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:95e3c204-949c-41f9-bcce-a86c91be463c",
+    "revision": 1,
+    "subject": "ola:n:2d5fe090-adbe-4824-991b-57329846a5ac",
+    "relation": "composed_of",
+    "object": "ola:n:c72a6d0c-c516-4a79-8ab3-094869d4e4c8",
+    "rationale": "Eigenbasis, projection, and singular-value geometry is material terrain within eigen-spectral-inner-product-structure; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:db9d4792-2ac8-4a6b-8111-1ebcdc2a0301",
+    "revision": 1,
+    "subject": "ola:n:2d5fe090-adbe-4824-991b-57329846a5ac",
+    "relation": "composed_of",
+    "object": "ola:n:fa804a1a-d3d2-4720-9c16-2cb535930b17",
+    "rationale": "Compute spectral structure is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:28f6473c-308c-4f8c-b995-1612213db5a2",
+    "revision": 1,
+    "subject": "ola:n:fa804a1a-d3d2-4720-9c16-2cb535930b17",
+    "relation": "composed_of",
+    "object": "ola:n:ed3f9a67-24d2-4a22-a4f8-7457b3fb4919",
+    "rationale": "Compute eigenvalues and eigenvectors is a bounded performance within Compute spectral structure.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:6d3b7197-c956-4b52-9ff9-7d61a6da69cf",
+    "revision": 1,
+    "subject": "ola:n:ed3f9a67-24d2-4a22-a4f8-7457b3fb4919",
+    "relation": "uses_concept",
+    "object": "ola:n:9981c98f-46c4-4106-9435-29460aa8db8d",
+    "rationale": "Demonstrating Compute eigenvalues and eigenvectors materially invokes Eigenvalue, eigenvector, and spectrum at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:afbf730c-faf8-4497-814a-1fbce7d32ca8",
+    "revision": 1,
+    "subject": "ola:n:ed3f9a67-24d2-4a22-a4f8-7457b3fb4919",
+    "relation": "uses_knowledge",
+    "object": "ola:n:f97ea256-c70f-481d-b41e-df2b12b891cc",
+    "rationale": "Demonstrating Compute eigenvalues and eigenvectors materially invokes Spectral, orthogonal, and singular-value principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:84f630b2-f425-43e2-91bb-b811a83bb670",
+    "revision": 1,
+    "subject": "ola:n:ed3f9a67-24d2-4a22-a4f8-7457b3fb4919",
+    "relation": "uses_representation",
+    "object": "ola:n:c72a6d0c-c516-4a79-8ab3-094869d4e4c8",
+    "rationale": "Demonstrating Compute eigenvalues and eigenvectors materially invokes Eigenbasis, projection, and singular-value geometry at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:763897a2-e4f4-4a8a-b9ec-b2b150e75ea9",
+    "revision": 1,
+    "subject": "ola:n:fa804a1a-d3d2-4720-9c16-2cb535930b17",
+    "relation": "composed_of",
+    "object": "ola:n:576243ab-491d-431f-a7d0-53de22acdf5a",
+    "rationale": "Diagonalize an operator in scope is a bounded performance within Compute spectral structure.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:11ae1376-05de-4f11-94aa-86f13ba85f2e",
+    "revision": 1,
+    "subject": "ola:n:576243ab-491d-431f-a7d0-53de22acdf5a",
+    "relation": "uses_concept",
+    "object": "ola:n:9981c98f-46c4-4106-9435-29460aa8db8d",
+    "rationale": "Demonstrating Diagonalize an operator in scope materially invokes Eigenvalue, eigenvector, and spectrum at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2f1bce14-0218-4b42-af8a-6ab6901554bc",
+    "revision": 1,
+    "subject": "ola:n:576243ab-491d-431f-a7d0-53de22acdf5a",
+    "relation": "uses_knowledge",
+    "object": "ola:n:f97ea256-c70f-481d-b41e-df2b12b891cc",
+    "rationale": "Demonstrating Diagonalize an operator in scope materially invokes Spectral, orthogonal, and singular-value principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7f6bdbc6-0179-4ed3-ae87-1ac672d72c1f",
+    "revision": 1,
+    "subject": "ola:n:576243ab-491d-431f-a7d0-53de22acdf5a",
+    "relation": "uses_representation",
+    "object": "ola:n:c72a6d0c-c516-4a79-8ab3-094869d4e4c8",
+    "rationale": "Demonstrating Diagonalize an operator in scope materially invokes Eigenbasis, projection, and singular-value geometry at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:0178b666-bf72-4ecf-9f6e-3eb7c274d4f6",
+    "revision": 1,
+    "subject": "ola:n:2d5fe090-adbe-4824-991b-57329846a5ac",
+    "relation": "composed_of",
+    "object": "ola:n:f7fc7b33-1d50-477f-8bbe-d41c6dea36ad",
+    "rationale": "Apply inner-product structure is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c68f49db-8f09-4ae9-a1eb-05c669c7a9e0",
+    "revision": 1,
+    "subject": "ola:n:f7fc7b33-1d50-477f-8bbe-d41c6dea36ad",
+    "relation": "composed_of",
+    "object": "ola:n:6d55dcd5-d9d8-432c-a800-36e3060a8931",
+    "rationale": "Orthogonalize or project vectors is a bounded performance within Apply inner-product structure.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:bd0b52e6-e2d6-4132-80a9-18eb276bea89",
+    "revision": 1,
+    "subject": "ola:n:6d55dcd5-d9d8-432c-a800-36e3060a8931",
+    "relation": "uses_concept",
+    "object": "ola:n:b73e4683-7d33-4fb4-bb1e-df148d6951c9",
+    "rationale": "Demonstrating Orthogonalize or project vectors materially invokes Inner product and orthogonality at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:64859778-c84a-44bc-b472-7c4ed50d7648",
+    "revision": 1,
+    "subject": "ola:n:6d55dcd5-d9d8-432c-a800-36e3060a8931",
+    "relation": "uses_knowledge",
+    "object": "ola:n:f97ea256-c70f-481d-b41e-df2b12b891cc",
+    "rationale": "Demonstrating Orthogonalize or project vectors materially invokes Spectral, orthogonal, and singular-value principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7ba8c00d-1310-4bd8-be93-01b39be1a208",
+    "revision": 1,
+    "subject": "ola:n:6d55dcd5-d9d8-432c-a800-36e3060a8931",
+    "relation": "uses_representation",
+    "object": "ola:n:c72a6d0c-c516-4a79-8ab3-094869d4e4c8",
+    "rationale": "Demonstrating Orthogonalize or project vectors materially invokes Eigenbasis, projection, and singular-value geometry at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ecffbe93-7e70-4bfe-89c3-6643a6788545",
+    "revision": 1,
+    "subject": "ola:n:f7fc7b33-1d50-477f-8bbe-d41c6dea36ad",
+    "relation": "composed_of",
+    "object": "ola:n:49750543-fd97-4708-ab7f-bef10962c688",
+    "rationale": "Solve a linear least-squares problem is a bounded performance within Apply inner-product structure.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:65b4c778-c74c-40a3-803a-780d625868f1",
+    "revision": 1,
+    "subject": "ola:n:49750543-fd97-4708-ab7f-bef10962c688",
+    "relation": "uses_concept",
+    "object": "ola:n:b73e4683-7d33-4fb4-bb1e-df148d6951c9",
+    "rationale": "Demonstrating Solve a linear least-squares problem materially invokes Inner product and orthogonality at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e31d4310-30ee-4db7-8c55-9b079b4e3c9a",
+    "revision": 1,
+    "subject": "ola:n:49750543-fd97-4708-ab7f-bef10962c688",
+    "relation": "uses_knowledge",
+    "object": "ola:n:f97ea256-c70f-481d-b41e-df2b12b891cc",
+    "rationale": "Demonstrating Solve a linear least-squares problem materially invokes Spectral, orthogonal, and singular-value principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4f36fbd9-f117-4149-a081-f5dbaea3d2b0",
+    "revision": 1,
+    "subject": "ola:n:49750543-fd97-4708-ab7f-bef10962c688",
+    "relation": "uses_representation",
+    "object": "ola:n:c72a6d0c-c516-4a79-8ab3-094869d4e4c8",
+    "rationale": "Demonstrating Solve a linear least-squares problem materially invokes Eigenbasis, projection, and singular-value geometry at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:314874df-3350-49f0-b402-0a0aba9d0569",
+    "revision": 1,
+    "subject": "ola:n:2d5fe090-adbe-4824-991b-57329846a5ac",
+    "relation": "composed_of",
+    "object": "ola:n:7e05c2ce-f915-4b75-b788-83c31892eae5",
+    "rationale": "Analyze spectral decompositions is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d530904f-8053-4bac-8ede-60eb4016eaf4",
+    "revision": 1,
+    "subject": "ola:n:7e05c2ce-f915-4b75-b788-83c31892eae5",
+    "relation": "composed_of",
+    "object": "ola:n:a73ae13f-9a6a-4c49-b230-50fc84d6565f",
+    "rationale": "Compute or interpret a singular value decomposition is a bounded performance within Analyze spectral decompositions.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:6e02165e-f162-460b-b555-4d0b27669ff4",
+    "revision": 1,
+    "subject": "ola:n:a73ae13f-9a6a-4c49-b230-50fc84d6565f",
+    "relation": "uses_concept",
+    "object": "ola:n:9981c98f-46c4-4106-9435-29460aa8db8d",
+    "rationale": "Demonstrating Compute or interpret a singular value decomposition materially invokes Eigenvalue, eigenvector, and spectrum at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:66fe10aa-18a3-4084-8d10-030a2cdc68ac",
+    "revision": 1,
+    "subject": "ola:n:a73ae13f-9a6a-4c49-b230-50fc84d6565f",
+    "relation": "uses_concept",
+    "object": "ola:n:b73e4683-7d33-4fb4-bb1e-df148d6951c9",
+    "rationale": "Demonstrating Compute or interpret a singular value decomposition materially invokes Inner product and orthogonality at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2bc01b0e-fc17-4b57-8b6f-f05ad6e2a108",
+    "revision": 1,
+    "subject": "ola:n:a73ae13f-9a6a-4c49-b230-50fc84d6565f",
+    "relation": "uses_knowledge",
+    "object": "ola:n:f97ea256-c70f-481d-b41e-df2b12b891cc",
+    "rationale": "Demonstrating Compute or interpret a singular value decomposition materially invokes Spectral, orthogonal, and singular-value principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2a0b2942-0a4a-434d-af62-61918fe0fbf9",
+    "revision": 1,
+    "subject": "ola:n:a73ae13f-9a6a-4c49-b230-50fc84d6565f",
+    "relation": "uses_representation",
+    "object": "ola:n:c72a6d0c-c516-4a79-8ab3-094869d4e4c8",
+    "rationale": "Demonstrating Compute or interpret a singular value decomposition materially invokes Eigenbasis, projection, and singular-value geometry at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b2a622dc-81be-4ad5-9ce5-269c8cd4a7dc",
+    "revision": 1,
+    "subject": "ola:n:7e05c2ce-f915-4b75-b788-83c31892eae5",
+    "relation": "composed_of",
+    "object": "ola:n:596741e7-efea-4859-81d5-d022122d6e18",
+    "rationale": "Analyze a quadratic or positive-definite form is a bounded performance within Analyze spectral decompositions.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8ed81ca1-7e08-44ff-9938-8378c7bcedea",
+    "revision": 1,
+    "subject": "ola:n:596741e7-efea-4859-81d5-d022122d6e18",
+    "relation": "uses_concept",
+    "object": "ola:n:9981c98f-46c4-4106-9435-29460aa8db8d",
+    "rationale": "Demonstrating Analyze a quadratic or positive-definite form materially invokes Eigenvalue, eigenvector, and spectrum at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:4b4b4555-602e-48b1-82af-8ac585a46cf9",
+    "revision": 1,
+    "subject": "ola:n:596741e7-efea-4859-81d5-d022122d6e18",
+    "relation": "uses_concept",
+    "object": "ola:n:b73e4683-7d33-4fb4-bb1e-df148d6951c9",
+    "rationale": "Demonstrating Analyze a quadratic or positive-definite form materially invokes Inner product and orthogonality at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b36eb1ea-e4ac-4d52-8ce8-0f9d9306c1f8",
+    "revision": 1,
+    "subject": "ola:n:596741e7-efea-4859-81d5-d022122d6e18",
+    "relation": "uses_knowledge",
+    "object": "ola:n:f97ea256-c70f-481d-b41e-df2b12b891cc",
+    "rationale": "Demonstrating Analyze a quadratic or positive-definite form materially invokes Spectral, orthogonal, and singular-value principles at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:0d0a1ba5-93d0-4758-8ea7-5b69f06fde51",
+    "revision": 1,
+    "subject": "ola:n:596741e7-efea-4859-81d5-d022122d6e18",
+    "relation": "uses_representation",
+    "object": "ola:n:c72a6d0c-c516-4a79-8ab3-094869d4e4c8",
+    "rationale": "Demonstrating Analyze a quadratic or positive-definite form materially invokes Eigenbasis, projection, and singular-value geometry at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ca9ca13f-d226-4751-bacc-f0c12562bebd",
+    "revision": 1,
+    "subject": "ola:n:55f86545-9bab-46c9-80f2-79c3f17f3cef",
+    "relation": "composed_of",
+    "object": "ola:n:153ce09d-5e88-4615-bb4d-40b67052a9bd",
+    "rationale": "Multilinear map and tensor is material terrain within tensors-multilinear-structure; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:11127369-fa92-4798-94e8-71e8e4b5dc46",
+    "revision": 1,
+    "subject": "ola:n:55f86545-9bab-46c9-80f2-79c3f17f3cef",
+    "relation": "composed_of",
+    "object": "ola:n:71464cae-8cb8-4232-9d73-88fe9958ad54",
+    "rationale": "Tensor product, contraction, and symmetry is material terrain within tensors-multilinear-structure; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:5893cadb-5b57-448e-a8eb-c7ee0c6a0952",
+    "revision": 1,
+    "subject": "ola:n:55f86545-9bab-46c9-80f2-79c3f17f3cef",
+    "relation": "composed_of",
+    "object": "ola:n:8bcb774a-c11c-49be-ba62-bd5817e482e7",
+    "rationale": "Tensor universality and coordinate transformation is material terrain within tensors-multilinear-structure; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:5bc66716-b3d7-4385-ba14-62fbab269dff",
+    "revision": 1,
+    "subject": "ola:n:55f86545-9bab-46c9-80f2-79c3f17f3cef",
+    "relation": "composed_of",
+    "object": "ola:n:805f81da-8b9a-4118-a16b-971a78c59a68",
+    "rationale": "Tensor index, diagram, and multidimensional array is material terrain within tensors-multilinear-structure; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:d48fb416-33cc-46b2-91bd-72f895fc6519",
+    "revision": 1,
+    "subject": "ola:n:55f86545-9bab-46c9-80f2-79c3f17f3cef",
+    "relation": "composed_of",
+    "object": "ola:n:00bce9dd-cfc9-42e8-abe7-b7ca591ca139",
+    "rationale": "Construct and evaluate multilinear objects is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:abbbf44b-f010-4e3a-b194-a9477bb25ad1",
+    "revision": 1,
+    "subject": "ola:n:00bce9dd-cfc9-42e8-abe7-b7ca591ca139",
+    "relation": "composed_of",
+    "object": "ola:n:6c5d25e5-2e16-418b-b641-c1e54aa36eea",
+    "rationale": "Evaluate a multilinear map is a bounded performance within Construct and evaluate multilinear objects.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7c8d34d2-6791-409c-91be-4b09630b2e17",
+    "revision": 1,
+    "subject": "ola:n:6c5d25e5-2e16-418b-b641-c1e54aa36eea",
+    "relation": "uses_concept",
+    "object": "ola:n:153ce09d-5e88-4615-bb4d-40b67052a9bd",
+    "rationale": "Demonstrating Evaluate a multilinear map materially invokes Multilinear map and tensor at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c248266e-0037-4dda-9c42-4739a2497959",
+    "revision": 1,
+    "subject": "ola:n:6c5d25e5-2e16-418b-b641-c1e54aa36eea",
+    "relation": "uses_knowledge",
+    "object": "ola:n:8bcb774a-c11c-49be-ba62-bd5817e482e7",
+    "rationale": "Demonstrating Evaluate a multilinear map materially invokes Tensor universality and coordinate transformation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:279073ad-d664-4950-abb5-48570d4761c0",
+    "revision": 1,
+    "subject": "ola:n:6c5d25e5-2e16-418b-b641-c1e54aa36eea",
+    "relation": "uses_representation",
+    "object": "ola:n:805f81da-8b9a-4118-a16b-971a78c59a68",
+    "rationale": "Demonstrating Evaluate a multilinear map materially invokes Tensor index, diagram, and multidimensional array at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c9a60ee5-15a7-47bb-968d-88d2503ba1ab",
+    "revision": 1,
+    "subject": "ola:n:00bce9dd-cfc9-42e8-abe7-b7ca591ca139",
+    "relation": "composed_of",
+    "object": "ola:n:163df797-d7f0-4f85-b2b7-63bb42bed4e1",
+    "rationale": "Construct a tensor-product element is a bounded performance within Construct and evaluate multilinear objects.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:93ef24c1-9157-4c2f-8f93-5ac79b6300f3",
+    "revision": 1,
+    "subject": "ola:n:163df797-d7f0-4f85-b2b7-63bb42bed4e1",
+    "relation": "uses_concept",
+    "object": "ola:n:153ce09d-5e88-4615-bb4d-40b67052a9bd",
+    "rationale": "Demonstrating Construct a tensor-product element materially invokes Multilinear map and tensor at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:61da98a1-8b7e-4b59-924b-b2183b168e2a",
+    "revision": 1,
+    "subject": "ola:n:163df797-d7f0-4f85-b2b7-63bb42bed4e1",
+    "relation": "uses_knowledge",
+    "object": "ola:n:8bcb774a-c11c-49be-ba62-bd5817e482e7",
+    "rationale": "Demonstrating Construct a tensor-product element materially invokes Tensor universality and coordinate transformation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:59fc253c-0e2e-41f6-8c10-69e11f941d56",
+    "revision": 1,
+    "subject": "ola:n:163df797-d7f0-4f85-b2b7-63bb42bed4e1",
+    "relation": "uses_representation",
+    "object": "ola:n:805f81da-8b9a-4118-a16b-971a78c59a68",
+    "rationale": "Demonstrating Construct a tensor-product element materially invokes Tensor index, diagram, and multidimensional array at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:cd5383a3-0db2-46b3-b3cc-e3221ae85e0f",
+    "revision": 1,
+    "subject": "ola:n:55f86545-9bab-46c9-80f2-79c3f17f3cef",
+    "relation": "composed_of",
+    "object": "ola:n:48aa9249-161f-46e4-99dd-ba5399abb453",
+    "rationale": "Transform and contract tensors is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:1f18a2d3-f185-41a3-9593-82577ec8b5ba",
+    "revision": 1,
+    "subject": "ola:n:48aa9249-161f-46e4-99dd-ba5399abb453",
+    "relation": "composed_of",
+    "object": "ola:n:322a2a33-ebac-47a5-84e3-7522d585aeae",
+    "rationale": "Change basis for tensor components is a bounded performance within Transform and contract tensors.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:23b48502-e0b7-44e1-99ab-b421717ffaa7",
+    "revision": 1,
+    "subject": "ola:n:322a2a33-ebac-47a5-84e3-7522d585aeae",
+    "relation": "uses_concept",
+    "object": "ola:n:71464cae-8cb8-4232-9d73-88fe9958ad54",
+    "rationale": "Demonstrating Change basis for tensor components materially invokes Tensor product, contraction, and symmetry at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:35cc6195-ad1e-4a9d-b178-073358491c51",
+    "revision": 1,
+    "subject": "ola:n:322a2a33-ebac-47a5-84e3-7522d585aeae",
+    "relation": "uses_knowledge",
+    "object": "ola:n:8bcb774a-c11c-49be-ba62-bd5817e482e7",
+    "rationale": "Demonstrating Change basis for tensor components materially invokes Tensor universality and coordinate transformation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2e2c3dfa-9b82-4c20-bcf7-eb7e0daa1019",
+    "revision": 1,
+    "subject": "ola:n:322a2a33-ebac-47a5-84e3-7522d585aeae",
+    "relation": "uses_representation",
+    "object": "ola:n:805f81da-8b9a-4118-a16b-971a78c59a68",
+    "rationale": "Demonstrating Change basis for tensor components materially invokes Tensor index, diagram, and multidimensional array at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e4d9e5f4-f545-4c3f-832d-e7a4ed79005f",
+    "revision": 1,
+    "subject": "ola:n:48aa9249-161f-46e4-99dd-ba5399abb453",
+    "relation": "composed_of",
+    "object": "ola:n:a268e810-ca29-4d22-ae11-04cbf403808f",
+    "rationale": "Perform a tensor contraction is a bounded performance within Transform and contract tensors.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c38f51a8-a508-4e41-b548-7dfadbec6ba0",
+    "revision": 1,
+    "subject": "ola:n:a268e810-ca29-4d22-ae11-04cbf403808f",
+    "relation": "uses_concept",
+    "object": "ola:n:71464cae-8cb8-4232-9d73-88fe9958ad54",
+    "rationale": "Demonstrating Perform a tensor contraction materially invokes Tensor product, contraction, and symmetry at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:701582cd-0251-44a9-a06b-f63927cd679d",
+    "revision": 1,
+    "subject": "ola:n:a268e810-ca29-4d22-ae11-04cbf403808f",
+    "relation": "uses_knowledge",
+    "object": "ola:n:8bcb774a-c11c-49be-ba62-bd5817e482e7",
+    "rationale": "Demonstrating Perform a tensor contraction materially invokes Tensor universality and coordinate transformation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2570d97e-dfb9-4988-bce9-7937444ae8c1",
+    "revision": 1,
+    "subject": "ola:n:a268e810-ca29-4d22-ae11-04cbf403808f",
+    "relation": "uses_representation",
+    "object": "ola:n:805f81da-8b9a-4118-a16b-971a78c59a68",
+    "rationale": "Demonstrating Perform a tensor contraction materially invokes Tensor index, diagram, and multidimensional array at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:682a0a6f-1528-4a31-9cfd-bed25cf44f73",
+    "revision": 1,
+    "subject": "ola:n:55f86545-9bab-46c9-80f2-79c3f17f3cef",
+    "relation": "composed_of",
+    "object": "ola:n:34906beb-1245-42e6-a23b-8a1047229b66",
+    "rationale": "Analyze and use tensor structure is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c73de22d-3647-4ff2-9867-bcb7fe9cbb24",
+    "revision": 1,
+    "subject": "ola:n:34906beb-1245-42e6-a23b-8a1047229b66",
+    "relation": "composed_of",
+    "object": "ola:n:9a0288fd-4cb6-446c-9afc-fec23cd5a5c2",
+    "rationale": "Analyze tensor symmetry or rank is a bounded performance within Analyze and use tensor structure.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:ba3a1e82-fa70-4e96-9a62-e05ec450a7c6",
+    "revision": 1,
+    "subject": "ola:n:9a0288fd-4cb6-446c-9afc-fec23cd5a5c2",
+    "relation": "uses_concept",
+    "object": "ola:n:153ce09d-5e88-4615-bb4d-40b67052a9bd",
+    "rationale": "Demonstrating Analyze tensor symmetry or rank materially invokes Multilinear map and tensor at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:25e25868-1c6e-4561-8138-f11c0c45620f",
+    "revision": 1,
+    "subject": "ola:n:9a0288fd-4cb6-446c-9afc-fec23cd5a5c2",
+    "relation": "uses_concept",
+    "object": "ola:n:71464cae-8cb8-4232-9d73-88fe9958ad54",
+    "rationale": "Demonstrating Analyze tensor symmetry or rank materially invokes Tensor product, contraction, and symmetry at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7f8530e3-7f6a-4adc-8dea-5dfde58165cd",
+    "revision": 1,
+    "subject": "ola:n:9a0288fd-4cb6-446c-9afc-fec23cd5a5c2",
+    "relation": "uses_knowledge",
+    "object": "ola:n:8bcb774a-c11c-49be-ba62-bd5817e482e7",
+    "rationale": "Demonstrating Analyze tensor symmetry or rank materially invokes Tensor universality and coordinate transformation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:86706203-68be-4f8d-bca4-632baae619cd",
+    "revision": 1,
+    "subject": "ola:n:9a0288fd-4cb6-446c-9afc-fec23cd5a5c2",
+    "relation": "uses_representation",
+    "object": "ola:n:805f81da-8b9a-4118-a16b-971a78c59a68",
+    "rationale": "Demonstrating Analyze tensor symmetry or rank materially invokes Tensor index, diagram, and multidimensional array at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:7b1a01d8-468e-45b2-9659-504d96049515",
+    "revision": 1,
+    "subject": "ola:n:34906beb-1245-42e6-a23b-8a1047229b66",
+    "relation": "composed_of",
+    "object": "ola:n:4b6705d0-3a01-464f-aab7-de4d8f96d5c5",
+    "rationale": "Construct a multilinear model is a bounded performance within Analyze and use tensor structure.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:5d658c2d-56c4-4619-88b4-1023d6a370ce",
+    "revision": 1,
+    "subject": "ola:n:4b6705d0-3a01-464f-aab7-de4d8f96d5c5",
+    "relation": "uses_concept",
+    "object": "ola:n:153ce09d-5e88-4615-bb4d-40b67052a9bd",
+    "rationale": "Demonstrating Construct a multilinear model materially invokes Multilinear map and tensor at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:b33b35ca-57f5-4ee0-8293-7274cda7eeef",
+    "revision": 1,
+    "subject": "ola:n:4b6705d0-3a01-464f-aab7-de4d8f96d5c5",
+    "relation": "uses_concept",
+    "object": "ola:n:71464cae-8cb8-4232-9d73-88fe9958ad54",
+    "rationale": "Demonstrating Construct a multilinear model materially invokes Tensor product, contraction, and symmetry at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:087115d3-802e-4866-ac4b-c15ada274eda",
+    "revision": 1,
+    "subject": "ola:n:4b6705d0-3a01-464f-aab7-de4d8f96d5c5",
+    "relation": "uses_knowledge",
+    "object": "ola:n:8bcb774a-c11c-49be-ba62-bd5817e482e7",
+    "rationale": "Demonstrating Construct a multilinear model materially invokes Tensor universality and coordinate transformation at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:0d314e7f-1eae-4f03-ad78-e93b5a45b28b",
+    "revision": 1,
+    "subject": "ola:n:4b6705d0-3a01-464f-aab7-de4d8f96d5c5",
+    "relation": "uses_representation",
+    "object": "ola:n:805f81da-8b9a-4118-a16b-971a78c59a68",
+    "rationale": "Demonstrating Construct a multilinear model materially invokes Tensor index, diagram, and multidimensional array at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:098d95aa-eed3-46d1-9f91-584c8772b930",
+    "revision": 1,
+    "subject": "ola:n:585c8112-102f-4c8f-b68c-55585074e49f",
+    "relation": "composed_of",
+    "object": "ola:n:d9658f44-4cae-4203-b5f8-5e14d4e91d77",
+    "rationale": "Matrix conditioning and numerical stability is material terrain within numerical-linear-algebra; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:96596215-1135-47aa-97cd-4414308fa83e",
+    "revision": 1,
+    "subject": "ola:n:585c8112-102f-4c8f-b68c-55585074e49f",
+    "relation": "composed_of",
+    "object": "ola:n:1a8fb4a1-2adf-4f72-b60d-b73c3be2bec2",
+    "rationale": "Matrix factorization and iterative method is material terrain within numerical-linear-algebra; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:56319992-c438-4216-a2a2-9153650d7730",
+    "revision": 1,
+    "subject": "ola:n:585c8112-102f-4c8f-b68c-55585074e49f",
+    "relation": "composed_of",
+    "object": "ola:n:296767d3-3700-4815-8bd8-e57ac05c1a23",
+    "rationale": "Backward error, condition, and complexity is material terrain within numerical-linear-algebra; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8bb54a9a-53f7-48c4-8cbf-c56614ac927b",
+    "revision": 1,
+    "subject": "ola:n:585c8112-102f-4c8f-b68c-55585074e49f",
+    "relation": "composed_of",
+    "object": "ola:n:5f17c199-ea33-4db6-afc1-a0ba3c6b99f9",
+    "rationale": "Sparse matrix, convergence, and residual display is material terrain within numerical-linear-algebra; membership does not prescribe sequence.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:6370e5b4-583e-400e-b6ea-de48eb35e61e",
+    "revision": 1,
+    "subject": "ola:n:585c8112-102f-4c8f-b68c-55585074e49f",
+    "relation": "composed_of",
+    "object": "ola:n:0461f01c-3321-4228-a990-5eac3003f723",
+    "rationale": "Solve numerical linear systems is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:09fb31d7-501f-4956-b5cf-eeafa819913f",
+    "revision": 1,
+    "subject": "ola:n:0461f01c-3321-4228-a990-5eac3003f723",
+    "relation": "composed_of",
+    "object": "ola:n:8d98250b-d216-4e99-85d3-cd9aa3ddf0db",
+    "rationale": "Solve a linear system by numerical factorization is a bounded performance within Solve numerical linear systems.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:354db1da-cf29-4fe3-a159-43a24c795416",
+    "revision": 1,
+    "subject": "ola:n:8d98250b-d216-4e99-85d3-cd9aa3ddf0db",
+    "relation": "uses_concept",
+    "object": "ola:n:d9658f44-4cae-4203-b5f8-5e14d4e91d77",
+    "rationale": "Demonstrating Solve a linear system by numerical factorization materially invokes Matrix conditioning and numerical stability at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:bcbf3a81-27e1-4f75-89c0-1e94baa0520e",
+    "revision": 1,
+    "subject": "ola:n:8d98250b-d216-4e99-85d3-cd9aa3ddf0db",
+    "relation": "uses_knowledge",
+    "object": "ola:n:296767d3-3700-4815-8bd8-e57ac05c1a23",
+    "rationale": "Demonstrating Solve a linear system by numerical factorization materially invokes Backward error, condition, and complexity at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:c8a08560-69e0-457f-8117-978e6b0f91c7",
+    "revision": 1,
+    "subject": "ola:n:8d98250b-d216-4e99-85d3-cd9aa3ddf0db",
+    "relation": "uses_representation",
+    "object": "ola:n:5f17c199-ea33-4db6-afc1-a0ba3c6b99f9",
+    "rationale": "Demonstrating Solve a linear system by numerical factorization materially invokes Sparse matrix, convergence, and residual display at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:48194fbf-7e44-467d-a7c9-594bd8b2892e",
+    "revision": 1,
+    "subject": "ola:n:0461f01c-3321-4228-a990-5eac3003f723",
+    "relation": "composed_of",
+    "object": "ola:n:50b26f58-74d7-4d4c-bda8-b427c8070d51",
+    "rationale": "Solve a linear system iteratively is a bounded performance within Solve numerical linear systems.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f2baafcf-40ab-47ad-9125-28ac21707e84",
+    "revision": 1,
+    "subject": "ola:n:50b26f58-74d7-4d4c-bda8-b427c8070d51",
+    "relation": "uses_concept",
+    "object": "ola:n:d9658f44-4cae-4203-b5f8-5e14d4e91d77",
+    "rationale": "Demonstrating Solve a linear system iteratively materially invokes Matrix conditioning and numerical stability at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:935cbaad-a54a-4af1-8792-ac0f6065a83c",
+    "revision": 1,
+    "subject": "ola:n:50b26f58-74d7-4d4c-bda8-b427c8070d51",
+    "relation": "uses_knowledge",
+    "object": "ola:n:296767d3-3700-4815-8bd8-e57ac05c1a23",
+    "rationale": "Demonstrating Solve a linear system iteratively materially invokes Backward error, condition, and complexity at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2852a05a-dc80-4c61-9693-5417d2d80f3b",
+    "revision": 1,
+    "subject": "ola:n:50b26f58-74d7-4d4c-bda8-b427c8070d51",
+    "relation": "uses_representation",
+    "object": "ola:n:5f17c199-ea33-4db6-afc1-a0ba3c6b99f9",
+    "rationale": "Demonstrating Solve a linear system iteratively materially invokes Sparse matrix, convergence, and residual display at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:1107d5a1-2ca3-4410-97ee-c67d7434f04e",
+    "revision": 1,
+    "subject": "ola:n:585c8112-102f-4c8f-b68c-55585074e49f",
+    "relation": "composed_of",
+    "object": "ola:n:03ca5ef0-d68e-46ad-bd49-d8050124b934",
+    "rationale": "Compute numerical spectral and least-squares results is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:6ae7d638-ffe1-4748-90a2-f5e9513de9cd",
+    "revision": 1,
+    "subject": "ola:n:03ca5ef0-d68e-46ad-bd49-d8050124b934",
+    "relation": "composed_of",
+    "object": "ola:n:509594c5-9936-451b-9a13-409babc6011a",
+    "rationale": "Solve a numerical least-squares problem is a bounded performance within Compute numerical spectral and least-squares results.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:a3f675ea-6221-4eb2-b4b1-8850d3bb7c44",
+    "revision": 1,
+    "subject": "ola:n:509594c5-9936-451b-9a13-409babc6011a",
+    "relation": "uses_concept",
+    "object": "ola:n:1a8fb4a1-2adf-4f72-b60d-b73c3be2bec2",
+    "rationale": "Demonstrating Solve a numerical least-squares problem materially invokes Matrix factorization and iterative method at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:45bbc502-1e66-40b5-ab8a-cb538d69a77d",
+    "revision": 1,
+    "subject": "ola:n:509594c5-9936-451b-9a13-409babc6011a",
+    "relation": "uses_knowledge",
+    "object": "ola:n:296767d3-3700-4815-8bd8-e57ac05c1a23",
+    "rationale": "Demonstrating Solve a numerical least-squares problem materially invokes Backward error, condition, and complexity at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:6c2de512-ebde-4ede-a85a-da40dcf44dd3",
+    "revision": 1,
+    "subject": "ola:n:509594c5-9936-451b-9a13-409babc6011a",
+    "relation": "uses_representation",
+    "object": "ola:n:5f17c199-ea33-4db6-afc1-a0ba3c6b99f9",
+    "rationale": "Demonstrating Solve a numerical least-squares problem materially invokes Sparse matrix, convergence, and residual display at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:2a4bbf8d-2ad9-4081-987d-ed94ce59b9a9",
+    "revision": 1,
+    "subject": "ola:n:03ca5ef0-d68e-46ad-bd49-d8050124b934",
+    "relation": "composed_of",
+    "object": "ola:n:4d01780c-1279-4628-b104-0e9bece03e22",
+    "rationale": "Approximate eigen or singular structure is a bounded performance within Compute numerical spectral and least-squares results.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:21ce6cc9-5179-4e3d-aef8-27031a158c9e",
+    "revision": 1,
+    "subject": "ola:n:4d01780c-1279-4628-b104-0e9bece03e22",
+    "relation": "uses_concept",
+    "object": "ola:n:1a8fb4a1-2adf-4f72-b60d-b73c3be2bec2",
+    "rationale": "Demonstrating Approximate eigen or singular structure materially invokes Matrix factorization and iterative method at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:5a2b5fa4-a048-4709-90e4-7c3bfd1fb91b",
+    "revision": 1,
+    "subject": "ola:n:4d01780c-1279-4628-b104-0e9bece03e22",
+    "relation": "uses_knowledge",
+    "object": "ola:n:296767d3-3700-4815-8bd8-e57ac05c1a23",
+    "rationale": "Demonstrating Approximate eigen or singular structure materially invokes Backward error, condition, and complexity at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8f5a4666-e92e-4904-bacf-0ec036aa6ca3",
+    "revision": 1,
+    "subject": "ola:n:4d01780c-1279-4628-b104-0e9bece03e22",
+    "relation": "uses_representation",
+    "object": "ola:n:5f17c199-ea33-4db6-afc1-a0ba3c6b99f9",
+    "rationale": "Demonstrating Approximate eigen or singular structure materially invokes Sparse matrix, convergence, and residual display at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:097092e8-c1f5-4492-a22d-897a69da4b86",
+    "revision": 1,
+    "subject": "ola:n:585c8112-102f-4c8f-b68c-55585074e49f",
+    "relation": "composed_of",
+    "object": "ola:n:89ef3354-ab83-4170-a79a-9f6b7e656ba7",
+    "rationale": "Analyze and select numerical linear methods is a navigational family within the territory.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:e5737f8f-e1a4-4729-ba21-d529d27ee3f7",
+    "revision": 1,
+    "subject": "ola:n:89ef3354-ab83-4170-a79a-9f6b7e656ba7",
+    "relation": "composed_of",
+    "object": "ola:n:afe75d21-4393-4fb2-a5b7-f97f77faead8",
+    "rationale": "Estimate matrix conditioning and error is a bounded performance within Analyze and select numerical linear methods.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:fb92cf80-4a60-4233-8822-b1996c0c651d",
+    "revision": 1,
+    "subject": "ola:n:afe75d21-4393-4fb2-a5b7-f97f77faead8",
+    "relation": "uses_concept",
+    "object": "ola:n:d9658f44-4cae-4203-b5f8-5e14d4e91d77",
+    "rationale": "Demonstrating Estimate matrix conditioning and error materially invokes Matrix conditioning and numerical stability at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:f70e4cd0-cd52-4fb2-bbd4-860e2716e3cf",
+    "revision": 1,
+    "subject": "ola:n:afe75d21-4393-4fb2-a5b7-f97f77faead8",
+    "relation": "uses_concept",
+    "object": "ola:n:1a8fb4a1-2adf-4f72-b60d-b73c3be2bec2",
+    "rationale": "Demonstrating Estimate matrix conditioning and error materially invokes Matrix factorization and iterative method at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:8a0156d6-e234-48fd-86d5-3115f9c30dac",
+    "revision": 1,
+    "subject": "ola:n:afe75d21-4393-4fb2-a5b7-f97f77faead8",
+    "relation": "uses_knowledge",
+    "object": "ola:n:296767d3-3700-4815-8bd8-e57ac05c1a23",
+    "rationale": "Demonstrating Estimate matrix conditioning and error materially invokes Backward error, condition, and complexity at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:53d6dfb8-cb97-4a26-bc88-afca8fd30bc9",
+    "revision": 1,
+    "subject": "ola:n:afe75d21-4393-4fb2-a5b7-f97f77faead8",
+    "relation": "uses_representation",
+    "object": "ola:n:5f17c199-ea33-4db6-afc1-a0ba3c6b99f9",
+    "rationale": "Demonstrating Estimate matrix conditioning and error materially invokes Sparse matrix, convergence, and residual display at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:1aedc19b-65e3-4ffe-853a-c5d6396de9f5",
+    "revision": 1,
+    "subject": "ola:n:89ef3354-ab83-4170-a79a-9f6b7e656ba7",
+    "relation": "composed_of",
+    "object": "ola:n:a7d88a4f-1e2a-46a0-9c9f-fd5eafbe8b09",
+    "rationale": "Select a numerical linear-algebra algorithm is a bounded performance within Analyze and select numerical linear methods.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:5606c8b5-08d2-406b-b0f9-9f5ad4dfbde9",
+    "revision": 1,
+    "subject": "ola:n:a7d88a4f-1e2a-46a0-9c9f-fd5eafbe8b09",
+    "relation": "uses_concept",
+    "object": "ola:n:d9658f44-4cae-4203-b5f8-5e14d4e91d77",
+    "rationale": "Demonstrating Select a numerical linear-algebra algorithm materially invokes Matrix conditioning and numerical stability at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:dc47c16c-04e7-482d-94e9-e718263738df",
+    "revision": 1,
+    "subject": "ola:n:a7d88a4f-1e2a-46a0-9c9f-fd5eafbe8b09",
+    "relation": "uses_concept",
+    "object": "ola:n:1a8fb4a1-2adf-4f72-b60d-b73c3be2bec2",
+    "rationale": "Demonstrating Select a numerical linear-algebra algorithm materially invokes Matrix factorization and iterative method at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:1a74367c-d818-4697-bc5a-c6fead555466",
+    "revision": 1,
+    "subject": "ola:n:a7d88a4f-1e2a-46a0-9c9f-fd5eafbe8b09",
+    "relation": "uses_knowledge",
+    "object": "ola:n:296767d3-3700-4815-8bd8-e57ac05c1a23",
+    "rationale": "Demonstrating Select a numerical linear-algebra algorithm materially invokes Backward error, condition, and complexity at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  },
+  {
+    "id": "ola:e:9d6339e0-d55d-4cfd-a0ad-d7b2e1e97581",
+    "revision": 1,
+    "subject": "ola:n:a7d88a4f-1e2a-46a0-9c9f-fd5eafbe8b09",
+    "relation": "uses_representation",
+    "object": "ola:n:5f17c199-ea33-4db6-afc1-a0ba3c6b99f9",
+    "rationale": "Demonstrating Select a numerical linear-algebra algorithm materially invokes Sparse matrix, convergence, and residual display at the declared scope.",
+    "claim_basis": [
+      "contributor-analysis"
+    ],
+    "evidence_strength": "reasoned",
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate relationship requiring scope and direction review."
+  }
+]

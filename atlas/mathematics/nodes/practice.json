@@ -1,0 +1,2586 @@
+[
+  {
+    "id": "ola:n:70cf9408-57bd-4d80-aaaa-39c9b7078412",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "mathematical-representation-system",
+    "label": "Mathematical representation system",
+    "definition": "A coordinated set of marks, objects, rules, and interpretations used to express mathematical objects or relations.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:784a44f6-6ef9-45e1-8ff0-c750800b99e5",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "representation-translation-correspondence",
+    "label": "Representational correspondence",
+    "definition": "A meaning-preserving, approximate, partial, or lossy relation between mathematical representations.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:69473920-c141-4d9a-889b-5854f734a331",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "representation-affordance-equivalence-loss",
+    "label": "Representational affordance, equivalence, and loss",
+    "definition": "Different representations expose different operations and invariants; translation must track domain, convention, equivalence, approximation, and information loss.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:3adff6de-2a62-4aaa-bb26-a641c020c0ab",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "linked-multiple-representations",
+    "label": "Linked multiple representations",
+    "definition": "Coordinated symbolic, graphical, tabular, numerical, spatial, verbal, or computational views connected by explicit correspondences.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:ff88140c-309e-44c1-8256-9ddcd99821c3",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "interpret-construct-representations-family",
+    "label": "Interpret and construct representations",
+    "definition": "A capability family within representation-translation grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:b416702d-94c3-4f8a-8997-f53e989cebe5",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "interpret-mathematical-representation",
+    "label": "Interpret a mathematical representation",
+    "definition": "Given a representation and its conventions, identify the mathematical objects, variables, relations, scale, domain, and features it encodes without treating display artifacts as intrinsic.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a representation and its conventions, identify the mathematical objects, variables, relations, scale, domain, and features it encodes without treating display artifacts as intrinsic.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:c449e3c8-d403-4a32-b7d5-f789947101db",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "construct-purposeful-mathematical-representation",
+    "label": "Construct a purposeful mathematical representation",
+    "definition": "Given mathematical information and a purpose, construct a compatible representation that makes relevant structure visible and labels conventions, units, domain, and approximation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given mathematical information and a purpose, construct a compatible representation that makes relevant structure visible and labels conventions, units, domain, and approximation.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:593660af-81b6-4f89-8160-b7284fa1ef3e",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "translate-compare-representations-family",
+    "label": "Translate and compare representations",
+    "definition": "A capability family within representation-translation grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:4f715cf2-2ca7-46f3-839c-d32020737dfe",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "translate-mathematical-representation",
+    "label": "Translate a mathematical representation",
+    "definition": "Given two compatible representation systems, translate specified objects or relations while preserving meaning and explicitly tracking restrictions, multiplicity, and approximation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given two compatible representation systems, translate specified objects or relations while preserving meaning and explicitly tracking restrictions, multiplicity, and approximation.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:22f3de70-3908-450e-87e0-5e797b01850f",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "compare-representation-affordances",
+    "label": "Compare representational affordances",
+    "definition": "Given multiple representations of related terrain, identify which features, operations, and failure modes each makes visible or obscures and select one for a declared task.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given multiple representations of related terrain, identify which features, operations, and failure modes each makes visible or obscures and select one for a declared task.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:8450a32a-8ffd-481d-95eb-30253c26478a",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "audit-representational-meaning-family",
+    "label": "Audit representational meaning",
+    "definition": "A capability family within representation-translation grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:573b83c7-e6e5-47a5-bc7d-f8b857d95565",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "detect-representation-information-loss",
+    "label": "Detect representational information loss",
+    "definition": "Given a translation or simplification, determine which distinctions, scale, uncertainty, orientation, multiplicity, or domain information is lost and whether recovery is possible.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a translation or simplification, determine which distinctions, scale, uncertainty, orientation, multiplicity, or domain information is lost and whether recovery is possible.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:b5637be4-1aff-49ec-8181-d491e3dc914d",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "justify-representation-equivalence",
+    "label": "Justify representation equivalence",
+    "definition": "Given two proposed representations, establish the conditions under which they encode the same mathematical object or relation, or provide a discrepancy or counterexample.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given two proposed representations, establish the conditions under which they encode the same mathematical object or relation, or provide a discrepancy or counterexample.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:14caad5a-6ba0-4867-95b4-d5fc921ea337",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "mathematical-pattern",
+    "label": "Mathematical pattern",
+    "definition": "A regularity, recurrence, symmetry, invariant, or structural relationship across mathematical objects or cases.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:3cfe58f3-e3f5-4b4a-ace2-2aff882484d8",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "structural-invariant",
+    "label": "Structural invariant",
+    "definition": "A property unchanged across specified transformations, cases, or stages and usable to classify or constrain behavior.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:86168600-757c-45c6-978c-77d271fc62cb",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "pattern-rule-evidence-generalization",
+    "label": "Pattern rule, evidence, and generalization",
+    "definition": "Finite observations can suggest a rule but do not establish its universal validity; structural explanation and proof distinguish genuine generalization from curve fitting.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:4d9cac65-f376-460b-ae93-4ba5de43a13e",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "pattern-table-diagram-sequence",
+    "label": "Pattern table, diagram, and sequence",
+    "definition": "Visual, tabular, recursive, symbolic, and spatial representations exposing repeated or changing structure.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:d0ecd4a8-b10a-43d4-9bd3-48cd5f04f3c7",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "identify-represent-patterns-family",
+    "label": "Identify and represent patterns",
+    "definition": "A capability family within pattern-structure grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:1eacb2d0-87fc-4d2c-beb8-4182f2c75fbe",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "identify-mathematical-pattern",
+    "label": "Identify a mathematical pattern",
+    "definition": "Given a bounded collection of cases, identify candidate regularities and describe exactly which features vary, remain invariant, or repeat.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a bounded collection of cases, identify candidate regularities and describe exactly which features vary, remain invariant, or repeat.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:7aa5cbac-aee8-4660-965b-6f1fc7497322",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "encode-pattern-rule",
+    "label": "Encode a pattern rule",
+    "definition": "Given a well-specified pattern, construct an explicit, recursive, verbal, graphical, or structural rule with declared index domain and initial conditions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a well-specified pattern, construct an explicit, recursive, verbal, graphical, or structural rule with declared index domain and initial conditions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:9b5f2822-3515-4a80-9853-15923ee4fd7e",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "extend-test-patterns-family",
+    "label": "Extend and test patterns",
+    "definition": "A capability family within pattern-structure grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:c3bdbd3c-e06c-4aea-a5e0-d7fcda00ff56",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "extend-pattern-under-rule",
+    "label": "Extend a pattern under a stated rule",
+    "definition": "Given a pattern and an unambiguous generating rule, produce requested cases and distinguish consequences of the rule from guesses based only on appearance.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a pattern and an unambiguous generating rule, produce requested cases and distinguish consequences of the rule from guesses based only on appearance.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:7a3e3ebb-a8a3-4778-b402-bcea87294ccf",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "test-pattern-conjecture",
+    "label": "Test a pattern conjecture",
+    "definition": "Given a conjectured regularity, generate strategically selected cases, boundary cases, or computations that can expose limitations, while stating that testing alone is not proof.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a conjectured regularity, generate strategically selected cases, boundary cases, or computations that can expose limitations, while stating that testing alone is not proof.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:2adacdd1-753e-4710-8c86-a16791948f72",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "explain-generalize-patterns-family",
+    "label": "Explain and generalize patterns",
+    "definition": "A capability family within pattern-structure grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:0cf4584d-1bb1-4256-a9e6-c9d812067631",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "explain-pattern-structure",
+    "label": "Explain a pattern structurally",
+    "definition": "Given a valid pattern, explain why it occurs using decomposition, invariance, algebra, geometry, counting, or another relevant structure rather than only listing cases.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a valid pattern, explain why it occurs using decomposition, invariance, algebra, geometry, counting, or another relevant structure rather than only listing cases.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:18a48f3c-d9ab-47b2-97af-fdbf6a6c525f",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "refute-overgeneralized-pattern",
+    "label": "Refute an overgeneralized pattern",
+    "definition": "Given a pattern claim that exceeds its valid scope, construct a counterexample or failed boundary case and identify the missing condition.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a pattern claim that exceeds its valid scope, construct a counterexample or failed boundary case and identify the missing condition.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:a7099805-25d7-4841-9a17-4df15faedf61",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "mathematical-abstraction",
+    "label": "Mathematical abstraction",
+    "definition": "A structure retaining selected relations or operations while suppressing features irrelevant to a declared purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:4ca2b3e1-fbe2-419c-9441-bd003d1bda47",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "mathematical-generalization",
+    "label": "Mathematical generalization",
+    "definition": "A claim, definition, or method extending across a precisely stated class of objects or situations.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:a4876b21-afe2-4179-9f8d-88d7c5d8b8b0",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "abstraction-preservation-generalization-conditions",
+    "label": "Abstraction preservation and generalization conditions",
+    "definition": "A useful abstraction states what structure is preserved; a valid generalization quantifies its domain and conditions and requires proof beyond supporting cases.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:c8cb0def-215e-4877-b7b3-4c86f607defd",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "structural-schema-morphism-diagram",
+    "label": "Structural schema and correspondence diagram",
+    "definition": "Schemas, commutative diagrams, type signatures, and parameterized forms representing common structure and maps between instances.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:afa218b7-f36b-4af1-9eac-bd30e39610c8",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "form-abstractions-family",
+    "label": "Form mathematical abstractions",
+    "definition": "A capability family within abstraction-generalization grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:a9baa424-5a86-4c7c-8e89-dcc249a076e7",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "identify-common-mathematical-structure",
+    "label": "Identify common mathematical structure",
+    "definition": "Given varied examples, identify shared objects, operations, relations, and invariants while distinguishing surface features that can be omitted.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given varied examples, identify shared objects, operations, relations, and invariants while distinguishing surface features that can be omitted.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:16695df8-685a-4bd0-b4d5-eaeffa237558",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "define-abstract-mathematical-object",
+    "label": "Define an abstract mathematical object",
+    "definition": "Given intended instances and operations, state a definition with domain, axioms, equality, and morphisms or admissible transformations sufficient to test membership.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given intended instances and operations, state a definition with domain, axioms, equality, and morphisms or admissible transformations sufficient to test membership.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:168418f2-682b-45d1-bc5d-540f507f4833",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "form-test-generalizations-family",
+    "label": "Form and test generalizations",
+    "definition": "A capability family within abstraction-generalization grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:5c73b794-1347-493c-80e3-1d9902f48250",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "formulate-mathematical-generalization",
+    "label": "Formulate a mathematical generalization",
+    "definition": "Given a pattern or family of results, state a quantified claim with explicit domain, hypotheses, conclusion, and boundary conditions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a pattern or family of results, state a quantified claim with explicit domain, hypotheses, conclusion, and boundary conditions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:95dd28c8-225b-43c6-85ea-25d83a33419d",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "test-generalization-boundaries",
+    "label": "Test generalization boundaries",
+    "definition": "Given a proposed generalization, examine small, extreme, degenerate, and structurally different cases to locate necessary conditions or counterexamples.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a proposed generalization, examine small, extreme, degenerate, and structurally different cases to locate necessary conditions or counterexamples.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:6daae6a7-2cc5-4c5a-a159-07cf49903ca6",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "justify-specialize-abstractions-family",
+    "label": "Justify and specialize abstractions",
+    "definition": "A capability family within abstraction-generalization grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:b6004253-3ba2-4457-8e1a-82a26e424190",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "prove-bounded-generalization",
+    "label": "Prove a bounded generalization",
+    "definition": "Given a precisely scoped general claim and admissible prior results, construct a proof that uses its structural hypotheses rather than only representative cases.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a precisely scoped general claim and admissible prior results, construct a proof that uses its structural hypotheses rather than only representative cases.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:a8c44df6-f4c2-4019-ba75-98d2efc2924f",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "specialize-abstract-result",
+    "label": "Specialize an abstract result",
+    "definition": "Given a theorem on an abstract structure and a concrete candidate instance, verify every hypothesis, translate the conclusion, and identify information hidden by the abstraction.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a theorem on an abstract structure and a concrete candidate instance, verify every hypothesis, translate the conclusion, and identify information hidden by the abstraction.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:e8467db0-a538-4058-8055-bc5a8e69ed30",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "mathematical-problem-formulation",
+    "label": "Mathematical problem formulation",
+    "definition": "A precise specification of objects, givens, constraints, unknowns, permissible operations, and criteria for an answer.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:e4edfb81-d98d-4a35-9454-6f13b912c295",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "mathematical-conjecture",
+    "label": "Mathematical conjecture",
+    "definition": "A precisely stated claim proposed on evidence or structural reasoning but not yet proved or refuted.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:2a05462e-b7cf-4b35-98cd-4895aa528ec4",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "well-posedness-conjecture-evidence",
+    "label": "Well-posedness and conjecture evidence",
+    "definition": "A problem must be sufficiently specified to admit meaningful solutions; examples motivate and test conjectures but logical justification determines truth.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:d0283acf-5402-4912-b06f-f63cd73fa50f",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "problem-state-assumption-conjecture-map",
+    "label": "Problem-state and conjecture map",
+    "definition": "Diagrams, variable tables, constraint graphs, cases, examples, and claim maps representing what is known, sought, assumed, and unresolved.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:af9f8524-947e-4d58-9eaf-b41f11b76ffe",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "formulate-mathematical-problems-family",
+    "label": "Formulate mathematical problems",
+    "definition": "A capability family within problem-formulation-conjecture grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:e0d943eb-2676-459c-93f3-3101fd234943",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "formulate-bounded-mathematical-problem",
+    "label": "Formulate a bounded mathematical problem",
+    "definition": "Given a question or situation, define mathematical objects, variables, domain, givens, constraints, unknowns, and success criteria so that candidate answers can be checked.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a question or situation, define mathematical objects, variables, domain, givens, constraints, unknowns, and success criteria so that candidate answers can be checked.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:82c5cfb6-4747-4d3e-a903-2b2cafb25252",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "diagnose-problem-well-posedness",
+    "label": "Diagnose problem well-posedness",
+    "definition": "Given a problem statement, identify ambiguity, inconsistency, missing data, nonuniqueness, or instability and propose the smallest clarifications needed for the intended question.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a problem statement, identify ambiguity, inconsistency, missing data, nonuniqueness, or instability and propose the smallest clarifications needed for the intended question.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:23436cd2-fad6-4359-a8b5-6079c6436b80",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "generate-test-conjectures-family",
+    "label": "Generate and test conjectures",
+    "definition": "A capability family within problem-formulation-conjecture grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:bda2d6d3-ba53-48b0-8968-d600d762fd43",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "generate-mathematical-conjecture",
+    "label": "Generate a mathematical conjecture",
+    "definition": "Given patterns, examples, computations, or analogies, state a falsifiable mathematical claim with explicit scope and a rationale for investigating it.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given patterns, examples, computations, or analogies, state a falsifiable mathematical claim with explicit scope and a rationale for investigating it.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:8a837de0-4af9-4f71-9034-4a7748462201",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "design-conjecture-tests",
+    "label": "Design conjecture tests",
+    "definition": "Given a conjecture, select cases, constructions, computations, or searches likely to distinguish valid structure from coincidence and document what the tests can establish.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a conjecture, select cases, constructions, computations, or searches likely to distinguish valid structure from coincidence and document what the tests can establish.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:b36889c1-486d-4e7d-a3fe-005c5446439a",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "refine-prioritize-problems-family",
+    "label": "Refine and prioritize mathematical problems",
+    "definition": "A capability family within problem-formulation-conjecture grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:58eec1d3-5286-4130-97e1-dabc58c17e54",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "refine-conjecture-after-evidence",
+    "label": "Refine a conjecture after evidence",
+    "definition": "Given confirming cases, counterexamples, or partial results, revise hypotheses or conclusion without hiding disconfirming evidence and preserve links to the original claim.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given confirming cases, counterexamples, or partial results, revise hypotheses or conclusion without hiding disconfirming evidence and preserve links to the original claim.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:28d28ea1-54a0-4ee5-a2ed-13ffed34c025",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "decompose-mathematical-problem",
+    "label": "Decompose a mathematical problem",
+    "definition": "Given a complex problem, identify subproblems, lemmas, cases, invariants, and dependencies whose resolution would materially advance the target conclusion.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a complex problem, identify subproblems, lemmas, cases, invariants, and dependencies whose resolution would materially advance the target conclusion.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:badaba81-245c-40d2-96f8-a7e94669b565",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "mathematical-estimate-bound",
+    "label": "Estimate and bound",
+    "definition": "An approximate value and a justified lower or upper limit on a quantity, expression, error, or solution.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:b0bd577e-7295-411b-93f6-ed43cb48e267",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "order-of-magnitude",
+    "label": "Order of magnitude",
+    "definition": "A scale classification capturing approximate power, exponent, or multiplicative size rather than fine precision.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:e3cbf74d-6f40-459a-8d19-96c72ab6bd17",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "approximation-error-interval-arithmetic",
+    "label": "Approximation error and interval arithmetic",
+    "definition": "Approximate operations require tracked absolute or relative error; monotonicity and interval operations can propagate guaranteed bounds under stated conditions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:091cb30d-096a-4e29-8c21-71ab78f22164",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "interval-order-magnitude-error-display",
+    "label": "Interval, order-of-magnitude, and error display",
+    "definition": "Number lines, interval notation, log scales, uncertainty bands, and leading-term representations of approximation and bounds.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:f503908b-bbb1-4f12-b616-8e91452b70b6",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "estimate-quantities-family",
+    "label": "Estimate quantities",
+    "definition": "A capability family within estimation-bounding grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:652c5a98-088e-489d-8a1d-f2d4057812cb",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "produce-scale-appropriate-estimate",
+    "label": "Produce a scale-appropriate estimate",
+    "definition": "Given quantities or a bounded expression, select defensible reference values, round or approximate at a declared precision, and produce an estimate with units and rationale.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given quantities or a bounded expression, select defensible reference values, round or approximate at a declared precision, and produce an estimate with units and rationale.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:935ff3f7-f86b-4261-8a5b-20d0abd01dd9",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "determine-order-of-magnitude",
+    "label": "Determine an order of magnitude",
+    "definition": "Given a positive quantity or expression, determine its approximate multiplicative scale under a stated convention and distinguish additive from multiplicative closeness.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a positive quantity or expression, determine its approximate multiplicative scale under a stated convention and distinguish additive from multiplicative closeness.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:4d99dc05-be11-4414-984c-2327692f2207",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "construct-propagate-bounds-family",
+    "label": "Construct and propagate bounds",
+    "definition": "A capability family within estimation-bounding grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:f607363f-fe8b-413e-a8eb-f802560babc1",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "construct-valid-numerical-bounds",
+    "label": "Construct valid numerical bounds",
+    "definition": "Given exact, partial, or approximate information, derive lower and upper bounds using order, monotonicity, inequalities, or decomposition and state endpoint conditions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given exact, partial, or approximate information, derive lower and upper bounds using order, monotonicity, inequalities, or decomposition and state endpoint conditions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:645e08a7-ac42-4d88-a833-5f6a8a7ae166",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "propagate-approximation-error",
+    "label": "Propagate approximation error",
+    "definition": "Given input approximations with valid error bounds and an operation or function in scope, derive an output error or interval and state dependence and regularity assumptions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given input approximations with valid error bounds and an operation or function in scope, derive an output error or interval and state dependence and regularity assumptions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:1eaff0da-0b78-4280-bb46-ff341200bfbe",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "compare-audit-estimates-family",
+    "label": "Compare and audit estimates",
+    "definition": "A capability family within estimation-bounding grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:53456f5b-b218-4284-a23b-27bd59f111a4",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "compare-approximation-quality",
+    "label": "Compare approximation quality",
+    "definition": "Given multiple approximations and a reference or bound, compute or reason about absolute, relative, or task-specific error and select an appropriate comparison metric.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given multiple approximations and a reference or bound, compute or reason about absolute, relative, or task-specific error and select an appropriate comparison metric.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:3a64fcf6-b4d5-4c12-9064-1925b87d808f",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "audit-estimate-or-bound",
+    "label": "Audit an estimate or bound",
+    "definition": "Given an estimation argument, check scale, sign, units, rounding direction, hidden cancellation, monotonicity, confidence versus guarantee, and whether the claimed precision is supported.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given an estimation argument, check scale, sign, units, rounding direction, hidden cancellation, monotonicity, confidence versus guarantee, and whether the claimed precision is supported.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:2706304a-18d9-4b0a-b330-6802f4972cd8",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "mathematical-model",
+    "label": "Mathematical model",
+    "definition": "A deliberately simplified mathematical representation of selected features of a system, process, or question.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:7f8e2358-39cc-4937-83dd-0c4c9faa30f1",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "model-variable-parameter-assumption",
+    "label": "Model variable, parameter, and assumption",
+    "definition": "Quantities that vary, quantities treated as fixed within analysis, and claims defining the model’s scope and mechanisms.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:fc7ddbcc-d91f-447a-86d1-870368180ecd",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "model-cycle-validation-sensitivity",
+    "label": "Model cycle, validation, and sensitivity",
+    "definition": "Modeling iterates among formulation, analysis, interpretation, comparison with evidence, sensitivity, and revision; fit does not by itself establish mechanism or transportability.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:35f809b1-ac09-422d-b819-5861c241a68c",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "model-diagram-equation-simulation",
+    "label": "Model diagram, equation, and simulation",
+    "definition": "Influence diagrams, equations, state models, algorithms, simulations, and residual displays representing assumptions and behavior.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:04718bb6-f4f9-4649-b34a-e25cc92843c0",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "formulate-analyze-models-family",
+    "label": "Formulate and analyze models",
+    "definition": "A capability family within mathematical-modeling grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:9f9a59f6-056a-4169-b46c-285248604f9f",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "formulate-mathematical-model",
+    "label": "Formulate a mathematical model",
+    "definition": "Given a bounded question and system, define target, variables, parameters, units, domain, relations, initial or boundary conditions, and simplifying assumptions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a bounded question and system, define target, variables, parameters, units, domain, relations, initial or boundary conditions, and simplifying assumptions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:67883825-f7f1-41fc-bfe3-97fa604a2f06",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "analyze-mathematical-model",
+    "label": "Analyze a mathematical model",
+    "definition": "Given a specified model, determine requested exact, qualitative, numerical, or simulated behavior using a valid method and distinguish model output from observed fact.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a specified model, determine requested exact, qualitative, numerical, or simulated behavior using a valid method and distinguish model output from observed fact.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:a914dc49-af20-442a-8a4a-ebf0e6c8ac4e",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "calibrate-validate-models-family",
+    "label": "Calibrate and validate models",
+    "definition": "A capability family within mathematical-modeling grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:f678242f-989e-47b0-a08b-0453f719cd8a",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "estimate-model-parameters",
+    "label": "Estimate model parameters",
+    "definition": "Given a model and compatible data or constraints, determine parameter values using a declared criterion and report uncertainty, identifiability, and settings.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a model and compatible data or constraints, determine parameter values using a declared criterion and report uncertainty, identifiability, and settings.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:f0523ccf-ed5b-4c2a-a7e9-17cb22021ac0",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "validate-model-against-evidence",
+    "label": "Validate a model against evidence",
+    "definition": "Given model outputs and relevant observations or constraints, compare residual, predictive, qualitative, and structural behavior and document mismatch and domain of use.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given model outputs and relevant observations or constraints, compare residual, predictive, qualitative, and structural behavior and document mismatch and domain of use.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:3c130296-f32e-46f0-bdb4-8e0b7e648111",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "evaluate-communicate-models-family",
+    "label": "Evaluate and communicate models",
+    "definition": "A capability family within mathematical-modeling grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:934e9f4f-17f2-4245-8699-a18bebfb9a53",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "analyze-model-sensitivity",
+    "label": "Analyze model sensitivity",
+    "definition": "Given a model and plausible ranges for inputs, parameters, or assumptions, quantify or characterize how outputs change and identify dominant and unstable features.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a model and plausible ranges for inputs, parameters, or assumptions, quantify or characterize how outputs change and identify dominant and unstable features.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:5dd0e23e-3e0b-41a0-9e3b-d34732f4ed45",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "communicate-model-limitations",
+    "label": "Communicate model limitations",
+    "definition": "Given a model-based result, state the modeled question, assumptions, parameter sources, uncertainty, validation evidence, excluded mechanisms, and conditions under which the result should not be used.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a model-based result, state the modeled question, assumptions, parameter sources, uncertainty, validation evidence, excluded mechanisms, and conditions under which the result should not be used.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:c61b1ca8-10f5-4af7-8b9d-d72d23b2307e",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "mathematical-error-failure-mode",
+    "label": "Mathematical error and failure mode",
+    "definition": "A discrepancy from a valid result, definition, procedure, or claim, together with the mechanism by which reasoning or computation fails.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:9bbb694e-78b9-4ae8-be4d-f370cadd8469",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "epistemic-aleatory-approximation-uncertainty",
+    "label": "Epistemic, aleatory, and approximation uncertainty",
+    "definition": "Uncertainty from limited knowledge, modeled variation, measurement, or numerical approximation, which requires different representations and responses.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:f88ebc3f-86b5-468b-903d-8b9a02411066",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "verification-validation-uncertainty-separation",
+    "label": "Verification, validation, and uncertainty separation",
+    "definition": "Verification checks implementation against mathematics; validation checks a model against intended use and evidence; uncertainty must be traced to sources rather than collapsed into one confidence label.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:ca0812dc-5f5d-45ce-b406-2d2aac2bba1c",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "error-trace-uncertainty-budget-argument-map",
+    "label": "Error trace, uncertainty budget, and argument map",
+    "definition": "Annotated calculations, dependency graphs, residuals, intervals, provenance, and claim–evidence maps locating errors and uncertainty sources.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:a94cf2d7-0e60-4fbe-8082-d92cc59d6e51",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "detect-classify-errors-family",
+    "label": "Detect and classify errors",
+    "definition": "A capability family within error-uncertainty-critique grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:964be2d5-61fe-425b-a8d3-3af4d05bf376",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "locate-first-material-error",
+    "label": "Locate the first material error",
+    "definition": "Given a bounded mathematical solution or argument, verify steps in dependency order and identify the earliest unsupported inference, invalid operation, representation error, or domain violation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a bounded mathematical solution or argument, verify steps in dependency order and identify the earliest unsupported inference, invalid operation, representation error, or domain violation.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:0ce61a4d-4eb9-46a4-8d06-c59be9e248fa",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "classify-mathematical-failure-mode",
+    "label": "Classify a mathematical failure mode",
+    "definition": "Given an error, distinguish conceptual, representational, logical, algebraic, computational, numerical, modeling, or communication mechanisms and explain why the distinction matters.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given an error, distinguish conceptual, representational, logical, algebraic, computational, numerical, modeling, or communication mechanisms and explain why the distinction matters.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:a35c36f8-4952-496d-9bf2-4fac5c0f9276",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "quantify-check-uncertainty-family",
+    "label": "Quantify and check uncertainty",
+    "definition": "A capability family within error-uncertainty-critique grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:1579d9a6-56a3-4c8c-947e-cf60ce8b7847",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "bound-or-represent-uncertainty",
+    "label": "Bound or represent uncertainty",
+    "definition": "Given stated uncertainty sources and a quantity or claim, construct a suitable interval, distribution, scenario set, sensitivity range, or qualitative limitation and state its interpretation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given stated uncertainty sources and a quantity or claim, construct a suitable interval, distribution, scenario set, sensitivity range, or qualitative limitation and state its interpretation.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:94458a20-9921-448b-98bd-e4b8f4fb098e",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "verify-result-by-independent-method",
+    "label": "Verify a result by an independent method",
+    "definition": "Given a mathematical result, select a meaningfully independent check such as substitution, inverse operation, alternative representation, limiting case, dimensional check, or separate algorithm and reconcile discrepancies.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a mathematical result, select a meaningfully independent check such as substitution, inverse operation, alternative representation, limiting case, dimensional check, or separate algorithm and reconcile discrepancies.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:7b1a2deb-9b67-431e-9890-eaee65b04f03",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "critique-revise-claims-family",
+    "label": "Critique and revise claims",
+    "definition": "A capability family within error-uncertainty-critique grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:a8159bac-f3cc-4e84-ada6-71294d130b51",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "critique-mathematical-claim-evidence",
+    "label": "Critique a mathematical claim and its evidence",
+    "definition": "Given a claim, identify scope, definitions, assumptions, provenance, method, counterevidence, uncertainty, and whether the conclusion is stronger than the evidence.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a claim, identify scope, definitions, assumptions, provenance, method, counterevidence, uncertainty, and whether the conclusion is stronger than the evidence.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:63aa6291-948b-4877-9133-45e5307864bb",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "revise-solution-after-error",
+    "label": "Revise a solution after error",
+    "definition": "Given a located error or uncertainty, repair affected steps, propagate the change through dependent results, preserve a record of the correction, and restate the conclusion at an honest scope.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a located error or uncertainty, repair affected steps, propagate the change through dependent results, preserve a record of the correction, and restate the conclusion at an honest scope.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:62f0638d-ca57-4ddc-b502-d11bca816ac8",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "mathematical-claim-audience",
+    "label": "Mathematical claim and audience",
+    "definition": "A mathematical assertion or explanation shaped for readers or listeners while preserving exact meaning and epistemic status.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:2b8989dc-da6f-4020-8024-45d01828e670",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "notation-definition-reference",
+    "label": "Notation, definition, and reference",
+    "definition": "Conventions that identify objects and scope and allow statements, equations, figures, evidence, and sources to be interpreted consistently.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:eda6f18b-ef4c-49c5-8896-e55662516753",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "communication-coherence-precision-accessibility",
+    "label": "Communication coherence, precision, and accessibility",
+    "definition": "Good mathematical communication aligns words, notation, figures, definitions, logical dependencies, and audience needs without hiding assumptions or weakening correctness.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:1c254c75-322f-4c32-bccb-e4a3b1b2fe00",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "multimodal-mathematical-exposition",
+    "label": "Multimodal mathematical exposition",
+    "definition": "Coordinated prose, equations, tables, diagrams, code, citations, and spoken explanation representing a mathematical argument or result.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:99467612-1d3d-4cfc-b2fa-cd2019bebe76",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "produce-mathematical-exposition-family",
+    "label": "Produce mathematical exposition",
+    "definition": "A capability family within mathematical-communication grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:02f863c3-b207-4f06-9697-76e37771d665",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "write-checkable-mathematical-solution",
+    "label": "Write a checkable mathematical solution",
+    "definition": "Given a problem and completed reasoning, present objects, assumptions, steps, justifications, and conclusion in a sequence another person can verify without reconstructing missing logic.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a problem and completed reasoning, present objects, assumptions, steps, justifications, and conclusion in a sequence another person can verify without reconstructing missing logic.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:19dc4291-6714-4fe4-aad1-3b01c4935a5f",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "explain-mathematical-idea-for-audience",
+    "label": "Explain a mathematical idea for an audience",
+    "definition": "Given a mathematical idea and audience context, select accurate language, examples, representations, and level of detail while preserving definitions and limitations.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a mathematical idea and audience context, select accurate language, examples, representations, and level of detail while preserving definitions and limitations.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:7f359369-2cbf-42c0-9935-433c874f1be5",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "integrate-interpret-communication-family",
+    "label": "Integrate and interpret mathematical communication",
+    "definition": "A capability family within mathematical-communication grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:f203277a-2195-46b2-ae2e-7160cdacc178",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "construct-coherent-math-figure-text",
+    "label": "Construct coherent mathematical figure and text",
+    "definition": "Given a result requiring a diagram, table, graph, or code output, create and reference a labeled representation whose conventions and claims agree with the prose and notation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a result requiring a diagram, table, graph, or code output, create and reference a labeled representation whose conventions and claims agree with the prose and notation.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:78004c0a-327f-4af1-bdb1-fdc4ece9d4b9",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "interpret-another-mathematical-explanation",
+    "label": "Interpret another mathematical explanation",
+    "definition": "Given a mathematical text or presentation, reconstruct its claim, definitions, assumptions, dependencies, evidence, and unresolved ambiguities before evaluating it.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a mathematical text or presentation, reconstruct its claim, definitions, assumptions, dependencies, evidence, and unresolved ambiguities before evaluating it.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:fadf4972-ad84-4d5b-94da-c43a24b3f684",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "revise-cite-mathematics-family",
+    "label": "Revise and cite mathematical work",
+    "definition": "A capability family within mathematical-communication grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:6b4c56a8-6929-4fa3-b576-d14f84930167",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "revise-mathematical-exposition",
+    "label": "Revise mathematical exposition",
+    "definition": "Given feedback or a self-audit, improve correctness, structure, notation, accessibility, and evidentiary clarity while preserving provenance and noting substantive changes.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given feedback or a self-audit, improve correctness, structure, notation, accessibility, and evidentiary clarity while preserving provenance and noting substantive changes.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:f3514468-3561-4129-bdde-9019a8e8094c",
+    "revision": 1,
+    "kind": "practice",
+    "assessable": true,
+    "slug": "attribute-mathematical-sources-evidence",
+    "label": "Attribute mathematical sources and evidence",
+    "definition": "Given mathematical material derived from external work, cite the relevant source and distinguish quoted, adapted, computed, proved, assumed, and contributor-synthesized content.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:dd511ebe-3acb-4329-af4c-a7cbe34f35a3",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given mathematical material derived from external work, cite the relevant source and distinguish quoted, adapted, computed, proved, assumed, and contributor-synthesized content.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  }
+]

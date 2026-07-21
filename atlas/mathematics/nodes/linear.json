@@ -1,0 +1,1940 @@
+[
+  {
+    "id": "ola:n:b8fbc0bb-6d35-4f04-982f-084a6fed0bc4",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "vector-space-subspace",
+    "label": "Vector space and subspace",
+    "definition": "A set with vector addition and scalar multiplication satisfying vector-space axioms, and a subset closed under those operations.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:642582fc-1a73-45bf-b15c-5e63a74f60cf",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "linear-span-independence-basis",
+    "label": "Span, linear independence, and basis",
+    "definition": "Generated linear combinations, absence of nontrivial dependence, and minimal spanning coordinate systems for vector spaces.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:8ac6bac3-ee57-4718-8271-b89c02141d72",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "basis-dimension-coordinate-uniqueness",
+    "label": "Basis, dimension, and coordinate uniqueness",
+    "definition": "A basis gives each vector unique coordinates; finite-dimensional bases have equal cardinality and connect span, independence, and dimension.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:5ccc6e83-5c10-4f7e-94cb-4945fc1558c6",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "vector-coordinate-geometric-subspace",
+    "label": "Vector coordinate and geometric subspace representation",
+    "definition": "Coordinate columns, arrows, parametric sets, basis diagrams, and subspace geometry representing vectors and linear combinations.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:71cc2feb-4617-4f7f-ae44-11339ed6bab2",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "verify-generate-vector-spaces-family",
+    "label": "Verify and generate vector spaces",
+    "definition": "A capability family within vectors-vector-spaces grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:c4fe6eb0-39d6-41fe-ac5a-228edf1fb5ed",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "verify-vector-space-or-subspace",
+    "label": "Verify a vector space or subspace",
+    "definition": "Given a set, scalar field, and operations or a candidate subset, verify the required axioms or closure criteria, or exhibit a failed condition.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a set, scalar field, and operations or a candidate subset, verify the required axioms or closure criteria, or exhibit a failed condition.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:1cc28928-889b-4806-80b2-4c6cdbec4c84",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "determine-linear-span",
+    "label": "Determine a linear span",
+    "definition": "Given finitely many vectors, characterize their span by combinations, equations, or a basis and determine whether specified vectors belong.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given finitely many vectors, characterize their span by combinations, equations, or a basis and determine whether specified vectors belong.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:1b793a93-2649-4eb4-9c04-c3ac263179cf",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "analyze-bases-dimension-family",
+    "label": "Analyze bases and dimension",
+    "definition": "A capability family within vectors-vector-spaces grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:67e297fa-759f-4829-a649-5e9c9c80ff7b",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "determine-linear-independence",
+    "label": "Determine linear independence",
+    "definition": "Given finitely many vectors or functions, establish independence or produce a nontrivial dependence relation using valid algebraic or structural reasoning.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given finitely many vectors or functions, establish independence or produce a nontrivial dependence relation using valid algebraic or structural reasoning.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:76e31abf-1b31-4950-8837-b67af43b675f",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-basis-coordinate-vector",
+    "label": "Construct a basis and coordinates",
+    "definition": "Given a finite-dimensional subspace and spanning or constraint data, construct a basis, determine dimension, and express requested vectors in that basis.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a finite-dimensional subspace and spanning or constraint data, construct a basis, determine dimension, and express requested vectors in that basis.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:1ea10edf-d98c-486b-be4a-1946c7e92d82",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "justify-vector-space-claims-family",
+    "label": "Justify vector-space claims",
+    "definition": "A capability family within vectors-vector-spaces grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:0441718b-e255-43fa-824b-4f4c615ad386",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "prove-bounded-vector-space-claim",
+    "label": "Prove a bounded vector-space claim",
+    "definition": "Given a scoped claim about span, independence, basis, dimension, or subspaces, construct a proof from vector-space definitions and admitted theorems.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a scoped claim about span, independence, basis, dimension, or subspaces, construct a proof from vector-space definitions and admitted theorems.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:e2193e67-8f91-4be0-8c19-18328f03f741",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "translate-vector-representations",
+    "label": "Translate vector representations",
+    "definition": "Given compatible geometric, coordinate, function, or abstract vector representations, translate specified operations or relations while preserving scalar field and basis information.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given compatible geometric, coordinate, function, or abstract vector representations, translate specified operations or relations while preserving scalar field and basis information.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:3b6e9e91-01aa-4aad-a4f5-793a242ac8ae",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "matrix-linear-system",
+    "label": "Matrix and linear system",
+    "definition": "A rectangular scalar array representing a linear map, bilinear data, or coefficients of simultaneous linear equations.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:84085d78-b654-475d-a206-f0d4dd0b702b",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "rank-null-solution-structure",
+    "label": "Rank, nullity, and solution structure",
+    "definition": "Dimensions of image and kernel controlling consistency, uniqueness, degrees of freedom, and affine solution sets.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:13e69b98-db55-4c43-87ca-5e67b66ae5f3",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "row-equivalence-factorization-solution",
+    "label": "Row equivalence, factorization, and solution preservation",
+    "definition": "Elementary row operations preserve a linear system’s solution set; matrix factorizations expose reusable transformations under pivot and conditioning assumptions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:684a3c6d-d566-458a-b503-81c63bdd854f",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "augmented-matrix-row-space-diagram",
+    "label": "Augmented matrix and row-space diagram",
+    "definition": "Arrays, echelon forms, geometric intersections, and block diagrams representing equations, transformations, pivots, and solution spaces.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:cb0cc99b-2953-42b0-9863-c1231ea5db89",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "solve-linear-systems-family",
+    "label": "Solve linear systems",
+    "definition": "A capability family within matrices-linear-systems grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:3cba0bc9-ea6d-4f31-b2ff-30ce94276714",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "row-reduce-linear-system",
+    "label": "Row-reduce a linear system",
+    "definition": "Given a finite linear system over a declared field, perform valid elimination to echelon or reduced form and track pivots and row-equivalent equations.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a finite linear system over a declared field, perform valid elimination to echelon or reduced form and track pivots and row-equivalent equations.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:24041403-dd65-4250-a5b9-7ac1d8f91c9e",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "classify-linear-system-solutions",
+    "label": "Classify linear-system solutions",
+    "definition": "Given a linear system or echelon form, determine consistency, uniqueness, free variables, and a complete parametric solution set and verify it.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a linear system or echelon form, determine consistency, uniqueness, free variables, and a complete parametric solution set and verify it.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:e9ebf30e-29dc-414d-a9c6-e028147580b1",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "compute-with-matrices-family",
+    "label": "Compute with matrices",
+    "definition": "A capability family within matrices-linear-systems grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:6ab61228-cfbc-4f65-aaa5-b56e774bebc2",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compute-matrix-operations",
+    "label": "Compute matrix operations",
+    "definition": "Given compatible finite matrices, compute requested sums, products, transposes, powers, or inverses and check dimensions and noncommutative order.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given compatible finite matrices, compute requested sums, products, transposes, powers, or inverses and check dimensions and noncommutative order.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:9e832462-7ba5-4274-bfc3-80df5c60393c",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "factor-matrix-in-scope",
+    "label": "Factor a matrix in scope",
+    "definition": "Given a matrix and a declared factorization such as LU or QR with satisfied conditions, compute factors and verify their product and structural properties.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a matrix and a declared factorization such as LU or QR with satisfied conditions, compute factors and verify their product and structural properties.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:99133dd4-7202-4118-9c15-26730b40a11b",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "model-audit-linear-systems-family",
+    "label": "Model and audit linear systems",
+    "definition": "A capability family within matrices-linear-systems grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:ad609456-323a-4f58-9a40-b3927cddbcc9",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-linear-system-model",
+    "label": "Construct a linear-system model",
+    "definition": "Given a bounded set of linear constraints or balance relations, define variables and units, construct matrix form, and interpret rows, columns, and solution conditions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a bounded set of linear constraints or balance relations, define variables and units, construct matrix form, and interpret rows, columns, and solution conditions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:84d563f1-bcdf-4234-a4d2-436cad4294dd",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "audit-linear-system-solution",
+    "label": "Audit a linear-system solution",
+    "definition": "Given a proposed solution or elimination, check row operations, pivot logic, arithmetic, rank, parameterization, and substitution into the original system.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a proposed solution or elimination, check row operations, pivot logic, arithmetic, rank, parameterization, and substitution into the original system.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:bd69f0e4-5a04-40bf-b3dd-aa9e4ccd554f",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "linear-transformation-kernel-image",
+    "label": "Linear transformation, kernel, and image",
+    "definition": "A map preserving linear combinations, with subspaces mapped to zero or reached as outputs.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:552f81b2-2136-4b42-8ee6-42a211f662e4",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "change-of-basis-similarity",
+    "label": "Change of basis and similarity",
+    "definition": "Coordinate transformations representing the same linear map in different bases, related by invertible conjugation in finite dimensions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:a3bb31a9-9c0e-4776-92e6-a57c788edb6e",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "rank-nullity-matrix-representation",
+    "label": "Rank–nullity and matrix representation",
+    "definition": "A finite-dimensional linear map is determined by basis images, represented by a matrix, and satisfies dimension equal to rank plus nullity.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:29ecb36b-b14f-4267-bbce-a67b71c5a72b",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "linear-map-commutative-matrix-diagram",
+    "label": "Linear-map diagram and matrix representation",
+    "definition": "Commutative diagrams, basis arrows, matrices, and geometric deformation pictures representing maps and coordinate choices.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:16e88466-55f9-481a-894e-fef2d7c33646",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "identify-represent-linear-maps-family",
+    "label": "Identify and represent linear maps",
+    "definition": "A capability family within linear-transformations grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:f248aa88-c936-4cb2-838b-7bb433e9cb14",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "verify-map-linearity",
+    "label": "Verify map linearity",
+    "definition": "Given a map between vector spaces, verify preservation of addition and scalar multiplication for all admissible inputs or provide a counterexample.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a map between vector spaces, verify preservation of addition and scalar multiplication for all admissible inputs or provide a counterexample.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:020b017c-8ae4-4dbd-be5f-4ca8e5f81fd6",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-matrix-of-linear-map",
+    "label": "Construct a matrix of a linear map",
+    "definition": "Given finite-dimensional bases and a linear map or basis images, construct its matrix and verify action on general coordinates.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given finite-dimensional bases and a linear map or basis images, construct its matrix and verify action on general coordinates.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:2c433e68-023d-4e8c-ae88-012ab17db16a",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "analyze-linear-map-structure-family",
+    "label": "Analyze linear-map structure",
+    "definition": "A capability family within linear-transformations grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:f4fd1802-9f26-41e0-bbcb-ef8f67ca2f9e",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "determine-kernel-image-rank-nullity",
+    "label": "Determine kernel, image, rank, and nullity",
+    "definition": "Given a finite-dimensional linear map or matrix, determine bases for kernel and image, compute rank and nullity, and verify rank–nullity.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a finite-dimensional linear map or matrix, determine bases for kernel and image, compute rank and nullity, and verify rank–nullity.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:3c23a366-5d4b-406b-a7f9-b7566aace893",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compose-invert-linear-maps",
+    "label": "Compose or invert linear maps",
+    "definition": "Given compatible linear maps, compute their composition or, when bijective, inverse, and relate the operations to matrix multiplication and inversion.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given compatible linear maps, compute their composition or, when bijective, inverse, and relate the operations to matrix multiplication and inversion.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:30b7d544-a804-460b-9d82-8f8269a5c3e5",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "change-basis-prove-linear-maps-family",
+    "label": "Change basis and prove map claims",
+    "definition": "A capability family within linear-transformations grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:ccd40203-b7ec-49c0-ad13-fedbab0e3097",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "change-basis-linear-operator",
+    "label": "Change basis for a linear operator",
+    "definition": "Given old and new bases, compute coordinate-change matrices and the new matrix representation, checking order and similarity relation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given old and new bases, compute coordinate-change matrices and the new matrix representation, checking order and similarity relation.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:578d2b4e-6e75-4169-834e-286031facf27",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "prove-bounded-linear-map-claim",
+    "label": "Prove a bounded linear-map claim",
+    "definition": "Given a scoped claim about kernel, image, rank, invertibility, composition, or invariant subspaces, construct a proof from definitions and admitted results.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a scoped claim about kernel, image, rank, invertibility, composition, or invariant subspaces, construct a proof from definitions and admitted results.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:9981c98f-46c4-4106-9435-29460aa8db8d",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "eigenvalue-eigenvector-spectrum",
+    "label": "Eigenvalue, eigenvector, and spectrum",
+    "definition": "Scalar–vector pairs preserved up to scale by a linear operator and the broader set of spectral values in a declared setting.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:b73e4683-7d33-4fb4-bb1e-df148d6951c9",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "inner-product-orthogonality",
+    "label": "Inner product and orthogonality",
+    "definition": "A positive-definite or declared sesquilinear form defining angle, norm, projection, and orthogonal decomposition.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:f97ea256-c70f-481d-b41e-df2b12b891cc",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "spectral-orthogonal-svd-principles",
+    "label": "Spectral, orthogonal, and singular-value principles",
+    "definition": "Symmetry or normality enables orthogonal spectral decomposition; singular values characterize arbitrary finite matrices through orthogonal input and output directions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:c72a6d0c-c516-4a79-8ab3-094869d4e4c8",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "eigenbasis-projection-singular-value-geometry",
+    "label": "Eigenbasis, projection, and singular-value geometry",
+    "definition": "Spectral plots, orthogonal bases, ellipsoid images, and decompositions representing invariant directions and energy or variance distribution.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:fa804a1a-d3d2-4720-9c16-2cb535930b17",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "compute-spectral-structure-family",
+    "label": "Compute spectral structure",
+    "definition": "A capability family within eigen-spectral-inner-product-structure grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:ed3f9a67-24d2-4a22-a4f8-7457b3fb4919",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compute-eigenvalues-eigenvectors",
+    "label": "Compute eigenvalues and eigenvectors",
+    "definition": "Given a finite matrix over a declared field and an admissible method, determine requested eigenvalues, eigenspaces, and algebraic or geometric multiplicities and verify them.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a finite matrix over a declared field and an admissible method, determine requested eigenvalues, eigenspaces, and algebraic or geometric multiplicities and verify them.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:576243ab-491d-431f-a7d0-53de22acdf5a",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "diagonalize-operator-in-scope",
+    "label": "Diagonalize an operator in scope",
+    "definition": "Given a diagonalizable finite operator, construct an eigenbasis and diagonal form, or explain the obstruction when the required eigenvectors do not span.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a diagonalizable finite operator, construct an eigenbasis and diagonal form, or explain the obstruction when the required eigenvectors do not span.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:f7fc7b33-1d50-477f-8bbe-d41c6dea36ad",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "apply-inner-product-structure-family",
+    "label": "Apply inner-product structure",
+    "definition": "A capability family within eigen-spectral-inner-product-structure grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:6d55dcd5-d9d8-432c-a800-36e3060a8931",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "orthogonalize-project-vector",
+    "label": "Orthogonalize or project vectors",
+    "definition": "Given vectors in a finite-dimensional inner-product space, construct an orthogonal or orthonormal set or projection and verify orthogonality and residual conditions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given vectors in a finite-dimensional inner-product space, construct an orthogonal or orthonormal set or projection and verify orthogonality and residual conditions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:49750543-fd97-4708-ab7f-bef10962c688",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "solve-linear-least-squares",
+    "label": "Solve a linear least-squares problem",
+    "definition": "Given an overdetermined linear system and inner product, determine a least-squares solution, fitted vector, and residual orthogonal to the column space.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given an overdetermined linear system and inner product, determine a least-squares solution, fitted vector, and residual orthogonal to the column space.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:7e05c2ce-f915-4b75-b788-83c31892eae5",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "analyze-spectral-decompositions-family",
+    "label": "Analyze spectral decompositions",
+    "definition": "A capability family within eigen-spectral-inner-product-structure grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:a73ae13f-9a6a-4c49-b230-50fc84d6565f",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "compute-interpret-svd",
+    "label": "Compute or interpret a singular value decomposition",
+    "definition": "Given a finite matrix or a supplied SVD, determine singular values and vectors, reconstruct the matrix, and interpret rank, norm, conditioning, or low-rank approximation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a finite matrix or a supplied SVD, determine singular values and vectors, reconstruct the matrix, and interpret rank, norm, conditioning, or low-rank approximation.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:596741e7-efea-4859-81d5-d022122d6e18",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "analyze-quadratic-positive-definite-form",
+    "label": "Analyze a quadratic or positive-definite form",
+    "definition": "Given a symmetric or Hermitian matrix, use eigenvalues, pivots, or completed-square structure to classify definiteness and interpret associated geometry.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a symmetric or Hermitian matrix, use eigenvalues, pivots, or completed-square structure to classify definiteness and interpret associated geometry.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:153ce09d-5e88-4615-bb4d-40b67052a9bd",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "multilinear-map-tensor",
+    "label": "Multilinear map and tensor",
+    "definition": "A map linear in each argument separately and an element representing multilinear structure through a tensor product or equivalent construction.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:71464cae-8cb8-4232-9d73-88fe9958ad54",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "tensor-product-contraction-symmetry",
+    "label": "Tensor product, contraction, and symmetry",
+    "definition": "Operations combining vector spaces, pairing covariant and contravariant slots, and imposing permutation symmetries.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:8bcb774a-c11c-49be-ba62-bd5817e482e7",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "tensor-universality-coordinate-transformation",
+    "label": "Tensor universality and coordinate transformation",
+    "definition": "Tensor products linearize multilinear maps; tensor components change with basis while the underlying tensor and valid contractions remain coordinate-independent.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:805f81da-8b9a-4118-a16b-971a78c59a68",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "tensor-index-diagram-array",
+    "label": "Tensor index, diagram, and multidimensional array",
+    "definition": "Index notation, tensor-network diagrams, and coordinate arrays representing slots, contractions, symmetries, and basis dependence.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:00bce9dd-cfc9-42e8-abe7-b7ca591ca139",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "construct-evaluate-multilinear-family",
+    "label": "Construct and evaluate multilinear objects",
+    "definition": "A capability family within tensors-multilinear-structure grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:6c5d25e5-2e16-418b-b641-c1e54aa36eea",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "evaluate-multilinear-map",
+    "label": "Evaluate a multilinear map",
+    "definition": "Given a multilinear map and admissible argument vectors, compute its value while preserving slot order, scalar field, and linearity conventions.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a multilinear map and admissible argument vectors, compute its value while preserving slot order, scalar field, and linearity conventions.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:163df797-d7f0-4f85-b2b7-63bb42bed4e1",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-tensor-product-element",
+    "label": "Construct a tensor-product element",
+    "definition": "Given finite-dimensional vectors, bases, or bilinear data, construct a tensor product representation and distinguish pure tensors from general sums.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given finite-dimensional vectors, bases, or bilinear data, construct a tensor product representation and distinguish pure tensors from general sums.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:48aa9249-161f-46e4-99dd-ba5399abb453",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "transform-contract-tensors-family",
+    "label": "Transform and contract tensors",
+    "definition": "A capability family within tensors-multilinear-structure grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:322a2a33-ebac-47a5-84e3-7522d585aeae",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "change-basis-tensor-components",
+    "label": "Change basis for tensor components",
+    "definition": "Given a tensor type and coordinate change, transform components with correct covariant and contravariant factors and verify an invariant quantity when available.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a tensor type and coordinate change, transform components with correct covariant and contravariant factors and verify an invariant quantity when available.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:a268e810-ca29-4d22-ae11-04cbf403808f",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "perform-tensor-contraction",
+    "label": "Perform a tensor contraction",
+    "definition": "Given a tensor with compatible slots or a tensor network, contract specified indices, determine the output type and dimensions, and verify index consistency.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a tensor with compatible slots or a tensor network, contract specified indices, determine the output type and dimensions, and verify index consistency.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:34906beb-1245-42e6-a23b-8a1047229b66",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "analyze-use-tensor-structure-family",
+    "label": "Analyze and use tensor structure",
+    "definition": "A capability family within tensors-multilinear-structure grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:9a0288fd-4cb6-446c-9afc-fec23cd5a5c2",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "analyze-tensor-symmetry-rank",
+    "label": "Analyze tensor symmetry or rank",
+    "definition": "Given a finite tensor, determine declared permutation symmetries, flattening ranks, or a bounded decomposition property and state dependence on tensor-rank convention.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a finite tensor, determine declared permutation symmetries, flattening ranks, or a bounded decomposition property and state dependence on tensor-rank convention.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:4b6705d0-3a01-464f-aab7-de4d8f96d5c5",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "construct-multilinear-model",
+    "label": "Construct a multilinear model",
+    "definition": "Given a bounded interaction involving several vector inputs, define a multilinear or tensor representation, specify bases and symmetries, and interpret contracted outputs and limitations.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a bounded interaction involving several vector inputs, define a multilinear or tensor representation, specify bases and symmetries, and interpret contracted outputs and limitations.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:d9658f44-4cae-4203-b5f8-5e14d4e91d77",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "matrix-conditioning-stability",
+    "label": "Matrix conditioning and numerical stability",
+    "definition": "Sensitivity of a linear-algebra problem to perturbations and behavior of an algorithm’s computed result under finite precision.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:1a8fb4a1-2adf-4f72-b60d-b73c3be2bec2",
+    "revision": 1,
+    "kind": "concept",
+    "assessable": false,
+    "slug": "matrix-factorization-iterative-method",
+    "label": "Matrix factorization and iterative method",
+    "definition": "Structured direct decompositions and convergent repeated updates used to solve large or specialized matrix problems.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:296767d3-3700-4815-8bd8-e57ac05c1a23",
+    "revision": 1,
+    "kind": "knowledge",
+    "assessable": false,
+    "slug": "backward-error-condition-complexity",
+    "label": "Backward error, condition, and complexity",
+    "definition": "A stable result solves a nearby problem; forward error combines backward error with conditioning, while cost and storage shape algorithm choice.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:5f17c199-ea33-4db6-afc1-a0ba3c6b99f9",
+    "revision": 1,
+    "kind": "representation",
+    "assessable": false,
+    "slug": "sparse-matrix-convergence-residual-display",
+    "label": "Sparse matrix, convergence, and residual display",
+    "definition": "Sparse patterns, factorization diagrams, residual histories, spectra, and error bounds representing numerical matrix computation.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review."
+  },
+  {
+    "id": "ola:n:0461f01c-3321-4228-a990-5eac3003f723",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "solve-numerical-linear-systems-family",
+    "label": "Solve numerical linear systems",
+    "definition": "A capability family within numerical-linear-algebra grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:8d98250b-d216-4e99-85d3-cd9aa3ddf0db",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "solve-linear-system-by-factorization",
+    "label": "Solve a linear system by numerical factorization",
+    "definition": "Given a finite matrix with satisfied pivot or structure conditions, compute a direct factorization and solution, then report residual and relevant stability information.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a finite matrix with satisfied pivot or structure conditions, compute a direct factorization and solution, then report residual and relevant stability information.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:50b26f58-74d7-4d4c-bda8-b427c8070d51",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "solve-linear-system-iteratively",
+    "label": "Solve a linear system iteratively",
+    "definition": "Given a large or structured system, initial iterate, stopping rule, and compatible iterative method, compute an approximate solution and document convergence and residual behavior.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a large or structured system, initial iterate, stopping rule, and compatible iterative method, compute an approximate solution and document convergence and residual behavior.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:03ca5ef0-d68e-46ad-bd49-d8050124b934",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "compute-numerical-spectral-least-squares-family",
+    "label": "Compute numerical spectral and least-squares results",
+    "definition": "A capability family within numerical-linear-algebra grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:509594c5-9936-451b-9a13-409babc6011a",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "solve-numerical-least-squares",
+    "label": "Solve a numerical least-squares problem",
+    "definition": "Given a finite possibly ill-conditioned matrix and data, use QR, SVD, or another justified method to compute a solution and diagnose rank and residual.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a finite possibly ill-conditioned matrix and data, use QR, SVD, or another justified method to compute a solution and diagnose rank and residual.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:4d01780c-1279-4628-b104-0e9bece03e22",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "approximate-eigen-singular-structure",
+    "label": "Approximate eigen or singular structure",
+    "definition": "Given a matrix and target spectral information, apply an admissible numerical method, state convergence conditions, and report residual or perturbation evidence.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a matrix and target spectral information, apply an admissible numerical method, state convergence conditions, and report residual or perturbation evidence.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:89ef3354-ab83-4170-a79a-9f6b7e656ba7",
+    "revision": 1,
+    "kind": "composite",
+    "assessable": false,
+    "slug": "analyze-select-numerical-linear-methods-family",
+    "label": "Analyze and select numerical linear methods",
+    "definition": "A capability family within numerical-linear-algebra grouping bounded performances with a shared mathematical purpose.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "subtype": "capability-family"
+  },
+  {
+    "id": "ola:n:afe75d21-4393-4fb2-a5b7-f97f77faead8",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "estimate-matrix-condition-error",
+    "label": "Estimate matrix conditioning and error",
+    "definition": "Given a matrix problem and computed result, estimate condition, residual, backward error, or forward-error bound and explain which source dominates uncertainty.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given a matrix problem and computed result, estimate condition, residual, backward error, or forward-error bound and explain which source dominates uncertainty.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  },
+  {
+    "id": "ola:n:a7d88a4f-1e2a-46a0-9c9f-fd5eafbe8b09",
+    "revision": 1,
+    "kind": "capability",
+    "assessable": true,
+    "slug": "select-numerical-linear-algorithm",
+    "label": "Select a numerical linear-algebra algorithm",
+    "definition": "Given matrix size, sparsity, structure, conditioning, accuracy, and resource constraints, select a method and justify tradeoffs in stability, complexity, and storage.",
+    "domains": [
+      "mathematics"
+    ],
+    "status": "candidate",
+    "confidence": "medium",
+    "source_ids": [
+      "ola:s:60cbec29-66ed-44b2-af77-28c97e3d7745",
+      "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+      "ola:s:10f4f235-1c15-4959-a64b-25d0f766996f"
+    ],
+    "review_notes": "AI-assisted candidate synthesis requiring accountable mathematical and educational review.",
+    "capability_statement": "Given matrix size, sparsity, structure, conditioning, accuracy, and resource constraints, select a method and justify tradeoffs in stability, complexity, and storage.",
+    "evidence_dimensions": [
+      "accuracy",
+      "representation",
+      "explanation",
+      "justification",
+      "variation",
+      "error-analysis"
+    ],
+    "dependency_review": "unreviewed"
+  }
+]
