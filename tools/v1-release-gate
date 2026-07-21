@@ -18,6 +18,7 @@ COMMANDS = [
     (["tools/run-conformance"], ROOT),
     (["tools/validate-migrations"], ROOT),
     (["tools/build-review-inventory", "--check"], ROOT),
+    (["tools/build-review-queue", "--check"], ROOT),
     (["tools/validate-reviews", "--require-complete"], ROOT),
     (["tools/check-links"], ROOT),
     (["deno", "task", "test"], ROOT / "viewer"),

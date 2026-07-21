@@ -1,0 +1,181 @@
+#!/usr/bin/env python3
+"""Build a deterministic, human-readable mathematics territory review queue."""
+
+from __future__ import annotations
+
+from collections import Counter
+from pathlib import Path
+from urllib.parse import quote, urlencode
+import argparse
+import json
+import sys
+
+from lib.atlas_query import Atlas, DEFAULT_RELEASE
+
+
+ROOT = Path(__file__).resolve().parents[1]
+REVIEWS = ROOT / "review" / "territory-reviews.json"
+TARGET = ROOT / "review" / "QUEUE.md"
+ATLAS_URL = "https://aperturesurvivor.github.io/open-learning-atlas/"
+NEW_REVIEW_URL = "https://github.com/Aperturesurvivor/open-learning-atlas/issues/new"
+
+
+def inventory_path(version: str) -> Path:
+    return ROOT / "review" / "inventory" / f"mathematics-{version}.json"
+
+
+def read_json(path: Path) -> dict:
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
+def node_url(identity: str) -> str:
+    return f"{ATLAS_URL}#/node/{quote(identity, safe='')}"
+
+
+def issue_url(label: str, identity: str, version: str) -> str:
+    query = urlencode({
+        "template": "review-territory.yml",
+        "title": f"[Review]: {label}",
+        "territory": f"{identity} — {label}",
+        "release": version,
+    })
+    return f"{NEW_REVIEW_URL}?{query}"
+
+
+def dependency_summary(states: dict[str, int]) -> str:
+    if not states:
+        return "none recorded"
+    return ", ".join(f"{state.replace('-', ' ')} {count}" for state, count in sorted(states.items()))
+
+
+def render(atlas: Atlas, inventory: dict, reviews: dict) -> str:
+    regions = {
+        node["id"]: node for node in atlas.nodes.values()
+        if node.get("subtype") == "atlas-region"
+    }
+    inventory_by_id = {entry["territory"]["id"]: entry for entry in inventory["entries"]}
+    reviews_by_id = {entry["territory_id"]: entry for entry in reviews["entries"]}
+    if set(inventory_by_id) != set(reviews_by_id):
+        raise ValueError("review queue inputs contain different territory sets")
+
+    status_counts = Counter(entry["overall_status"] for entry in reviews["entries"])
+    completed_dimensions = sum(
+        decision["status"] != "pending"
+        for entry in reviews["entries"]
+        for decision in entry["decisions"]
+    )
+    dimension_count = sum(len(entry["decisions"]) for entry in reviews["entries"])
+    lines = [
+        "# Mathematics territory review queue",
+        "",
+        "> This queue is generated from the pinned structural inventory and the",
+        "> human-editable review ledger. Machine evidence is not human approval.",
+        "",
+        f"Map version: **{atlas.release['map']['version']}**  ",
+        f"Territories: **{len(reviews_by_id)}**  ",
+        f"Approved: **{status_counts.get('approved', 0)}** · Changes requested: **{status_counts.get('changes-requested', 0)}** · Pending: **{status_counts.get('pending', 0)}**  ",
+        f"Review dimensions decided: **{completed_dimensions}/{dimension_count}**",
+        "",
+        "Choose a territory in an area you can evaluate. Open its atlas record,",
+        "inspect its descendants and relationships, then use **Start attributed",
+        "review** to submit findings. Shared territories appear in each relevant",
+        "region but have only one review-ledger identity.",
+        "",
+        "Reviewers should first read the [campaign guide](CAMPAIGN.md) and",
+        "[review rules](README.md). Every non-pending decision requires a named",
+        "human reviewer, date, and substantive note.",
+        "",
+    ]
+
+    grouped: dict[str, list[dict]] = {identity: [] for identity in regions}
+    unassigned: list[dict] = []
+    for identity, entry in inventory_by_id.items():
+        region_ids = entry["region_ids"]
+        if not region_ids:
+            unassigned.append(entry)
+        for region_id in region_ids:
+            if region_id not in grouped:
+                raise ValueError(f"unknown region in review inventory: {region_id}")
+            grouped[region_id].append(entry)
+
+    ordered_regions: list[tuple[str | None, str, list[dict]]] = [
+        (identity, region["label"], grouped[identity])
+        for identity, region in regions.items()
+        if grouped[identity]
+    ]
+    ordered_regions.sort(key=lambda item: (item[1].casefold(), item[0] or ""))
+    if unassigned:
+        ordered_regions.append((None, "Unassigned", unassigned))
+
+    for region_id, region_label, entries in ordered_regions:
+        lines.extend([f"## {region_label}", ""])
+        for entry in sorted(entries, key=lambda item: (item["territory"]["label"].casefold(), item["territory"]["id"])):
+            territory = entry["territory"]
+            review = reviews_by_id[territory["id"]]
+            decided = sum(decision["status"] != "pending" for decision in review["decisions"])
+            region_labels = sorted(regions[identity]["label"] for identity in entry["region_ids"])
+            shared = ""
+            if len(region_labels) > 1:
+                other_regions = [label for label in region_labels if label != region_label]
+                if other_regions:
+                    shared = f" · also in {', '.join(other_regions)}"
+            floor_passes = all(entry["automated_floor"].values())
+            floor = "floor passes" if floor_passes else "floor finding"
+            lines.extend([
+                f"- **[{territory['label']}]({node_url(territory['id'])})** — {review['overall_status'].replace('-', ' ')} ({decided}/8 dimensions){shared}",
+                f"  - {entry['descendant_count']} descendants · {entry['assessable_descendant_count']} assessable · dependencies: {dependency_summary(entry['dependency_review_states'])} · {floor}",
+                f"  - [`{territory['id']}`]({node_url(territory['id'])}) · [Start attributed review]({issue_url(territory['label'], territory['id'], atlas.release['map']['version'])})",
+            ])
+        lines.append("")
+
+    lines.extend([
+        "## Reproduce this queue",
+        "",
+        "```sh",
+        "tools/build-review-inventory --check",
+        "tools/validate-reviews",
+        "tools/build-review-queue --check",
+        "```",
+        "",
+        "The canonical inputs are the generated",
+        f"[`inventory/mathematics-{atlas.release['map']['version']}.json`](inventory/mathematics-{atlas.release['map']['version']}.json)",
+        "and the attributed [`territory-reviews.json`](territory-reviews.json) ledger.",
+        "",
+    ])
+    return "\n".join(lines)
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--release", type=Path, default=DEFAULT_RELEASE)
+    parser.add_argument("--reviews", type=Path, default=REVIEWS)
+    parser.add_argument("--output", type=Path, default=TARGET)
+    parser.add_argument("--check", action="store_true")
+    args = parser.parse_args()
+    try:
+        atlas = Atlas.load(args.release)
+        inventory = read_json(inventory_path(atlas.release["map"]["version"]))
+        reviews = read_json(args.reviews)
+        expected_pin = (atlas.release["map"]["id"], atlas.release["map"]["version"])
+        inventory_pin = (inventory["map_id"], inventory["map_version"])
+        reviews_pin = (reviews["map_id"], reviews["map_version"])
+        if inventory_pin != expected_pin or reviews_pin != expected_pin:
+            raise ValueError("review inventory or ledger is not pinned to the selected map")
+        content = render(atlas, inventory, reviews).encode()
+        if args.check:
+            if not args.output.exists() or args.output.read_bytes() != content:
+                print(f"ERROR review queue is missing or stale: {args.output}", file=sys.stderr)
+                return 1
+            print(f"OK {args.output}: human-readable queue for {len(reviews['entries'])} territories")
+        else:
+            args.output.parent.mkdir(parents=True, exist_ok=True)
+            args.output.write_bytes(content)
+            print(f"Built {args.output}")
+        return 0
+    except (OSError, json.JSONDecodeError, KeyError, ValueError) as error:
+        print(f"ERROR {error}", file=sys.stderr)
+        return 1
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

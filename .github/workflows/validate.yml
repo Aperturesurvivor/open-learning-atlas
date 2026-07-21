@@ -33,7 +33,7 @@ jobs:
       - name: Validate migration semantics
         run: tools/validate-migrations
       - name: Verify review inventory and ledger structure
-        run: tools/build-review-inventory --check && tools/validate-reviews
+        run: tools/build-review-inventory --check && tools/validate-reviews && tools/build-review-queue --check
       - name: Check repository documentation links
         run: tools/check-links
       - name: Run JSON Schema validation

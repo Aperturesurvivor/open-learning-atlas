@@ -35,7 +35,8 @@ means a record is structurally coherent, not that its mathematical or
 educational claims have been independently accepted.
 
 The exact v1 evidence and remaining review work are tracked in
-[`docs/v1-status.md`](docs/v1-status.md).
+[`docs/v1-status.md`](docs/v1-status.md). Qualified reviewers can choose a
+territory from the mobile-readable [`review/QUEUE.md`](review/QUEUE.md).
 
 ## For People
 
@@ -99,6 +100,7 @@ tools/validate-migrations
 tools/build-release --check
 tools/build-review-inventory --check
 tools/validate-reviews
+tools/build-review-queue --check
 ```
 
 ## Repository Map
@@ -115,6 +117,8 @@ tools/validate-reviews
 - [`viewer/`](viewer/) — mobile-first human access built from the pinned release.
 - [`releases/`](releases/) — self-contained pinned packages and checksums.
 - [`conformance/`](conformance/) — downstream-operation fixtures.
+- [`review/`](review/) — accountable territory-review queue, evidence, schema,
+  and decision ledger.
 
 ## Contributing and Licensing
 

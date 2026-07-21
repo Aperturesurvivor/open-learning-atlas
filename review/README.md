@@ -4,6 +4,8 @@ Machine validation can prove structure, reachability, reproducibility, and measu
 
 ## Artifacts
 
+- `QUEUE.md` is a generated, mobile-readable territory picker with current
+  status, direct atlas links, and preselected review-issue links.
 - `inventory/mathematics-0.1.0-alpha.json` is generated structural evidence for all 85 territories.
 - `territory-reviews.json` is the human-editable decision ledger. It begins with every dimension pending.
 - `schema/territory-review.schema.json` defines the review interchange format.
@@ -36,6 +38,7 @@ An `approved` or `changes-requested` decision requires a reviewer name, date, an
 ```sh
 tools/build-review-inventory --check
 tools/validate-reviews
+tools/build-review-queue --check
 tools/validate-reviews --require-complete  # final v1 gate; intentionally fails while reviews are pending
 ```
 
