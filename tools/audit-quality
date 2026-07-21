@@ -1,0 +1,66 @@
+#!/usr/bin/env python3
+"""Audit deterministic textual and review-state quality signals."""
+
+from __future__ import annotations
+
+from collections import Counter, defaultdict
+from pathlib import Path
+import argparse
+import json
+import sys
+
+from lib.atlas_query import Atlas, DEFAULT_RELEASE
+
+
+def duplicates(nodes: list[dict], field: str, normalize=False) -> list[dict]:
+    grouped: dict[str, list[dict]] = defaultdict(list)
+    for node in nodes:
+        value = node.get(field)
+        if not value:
+            continue
+        key = value.casefold().strip() if normalize else value.strip()
+        grouped[key].append(node)
+    return [
+        {"value": key, "record_ids": sorted(node["id"] for node in records)}
+        for key, records in sorted(grouped.items()) if len(records) > 1
+    ]
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--release", type=Path, default=DEFAULT_RELEASE)
+    parser.add_argument("--pretty", action="store_true")
+    args = parser.parse_args()
+    try:
+        atlas = Atlas.load(args.release)
+        nodes = list(atlas.nodes.values())
+        assessable = [node for node in nodes if node["assessable"]]
+        findings = {
+            "duplicate_labels_casefolded": duplicates(nodes, "label", normalize=True),
+            "duplicate_definitions": duplicates(nodes, "definition"),
+            "duplicate_capability_statements": duplicates(assessable, "capability_statement"),
+            "short_definitions": [node["id"] for node in nodes if len(node["definition"].strip()) < 45],
+            "short_capability_statements": [node["id"] for node in assessable if len(node["capability_statement"].strip()) < 80],
+            "missing_evidence_dimensions": [node["id"] for node in assessable if not node.get("evidence_dimensions")],
+            "generic_family_definitions": [node["id"] for node in nodes if node["definition"].startswith("A capability family within ")],
+        }
+        metrics = {
+            "nodes": len(nodes),
+            "assessable_nodes": len(assessable),
+            "dependency_review_states": dict(sorted(Counter(node["dependency_review"] for node in assessable).items())),
+            "review_statuses": dict(sorted(Counter(node["status"] for node in nodes).items())),
+            "source_count": len(atlas.sources),
+        }
+        failed = {key: value for key, value in findings.items() if value}
+        output = {"release": atlas.release["map"]["version"], "status": "fail" if failed else "pass", "metrics": metrics, "findings": findings}
+        json.dump(output, sys.stdout, ensure_ascii=False, indent=2 if args.pretty else None, sort_keys=args.pretty)
+        sys.stdout.write("\n")
+        return 1 if failed else 0
+    except (OSError, json.JSONDecodeError, ValueError) as error:
+        json.dump({"status": "fail", "error": str(error)}, sys.stderr)
+        sys.stderr.write("\n")
+        return 1
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

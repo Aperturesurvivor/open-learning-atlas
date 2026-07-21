@@ -85,12 +85,12 @@
   },
   {
     "id": "ola:n:9ef95aaf-d649-4715-a5db-83ab7ad2ea9f",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "construct-interpret-sample-spaces-family",
     "label": "Construct and interpret sample spaces",
-    "definition": "A capability family within sample-spaces-events grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Sample Spaces and Events, this family groups bounded performances under the shared purpose \"Construct and interpret sample spaces\": Construct a sample space; Represent events in a sample space.",
     "domains": [
       "mathematics"
     ],
@@ -169,12 +169,12 @@
   },
   {
     "id": "ola:n:1955b084-e2db-4d4e-8c0a-4af7831cd343",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "calculate-event-probabilities-family",
     "label": "Calculate event probabilities",
-    "definition": "A capability family within sample-spaces-events grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Sample Spaces and Events, this family groups bounded performances under the shared purpose \"Calculate event probabilities\": Assign a probability model; Compute an event probability.",
     "domains": [
       "mathematics"
     ],
@@ -253,12 +253,12 @@
   },
   {
     "id": "ola:n:52ecdc74-43f8-4513-bb51-d3a98c7c10e3",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "simulate-audit-probability-model-family",
     "label": "Simulate and audit probability models",
-    "definition": "A capability family within sample-spaces-events grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Sample Spaces and Events, this family groups bounded performances under the shared purpose \"Simulate and audit probability models\": Audit a sample-space probability claim; Simulate a random experiment.",
     "domains": [
       "mathematics"
     ],
@@ -421,12 +421,12 @@
   },
   {
     "id": "ola:n:39b686f1-42ca-4c54-ac7f-8c01fc60400c",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "enumerate-count-configurations-family",
     "label": "Enumerate and count configurations",
-    "definition": "A capability family within combinatorics-counting-probability grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Combinatorics and Counting Probability, this family groups bounded performances under the shared purpose \"Enumerate and count configurations\": Apply sum or product counting; Enumerate combinatorial configurations.",
     "domains": [
       "mathematics"
     ],
@@ -505,12 +505,12 @@
   },
   {
     "id": "ola:n:bbccef60-e830-4141-ba34-62ce9225ae5a",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "apply-combinatorial-formulas-family",
     "label": "Apply combinatorial formulas",
-    "definition": "A capability family within combinatorics-counting-probability grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Combinatorics and Counting Probability, this family groups bounded performances under the shared purpose \"Apply combinatorial formulas\": Apply inclusion–exclusion; Count permutations or combinations.",
     "domains": [
       "mathematics"
     ],
@@ -589,12 +589,12 @@
   },
   {
     "id": "ola:n:89d254b4-8dc9-4fc7-af76-fea4d5e93ec0",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "connect-counting-probability-family",
     "label": "Connect counting and probability",
-    "definition": "A capability family within combinatorics-counting-probability grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Combinatorics and Counting Probability, this family groups bounded performances under the shared purpose \"Connect counting and probability\": Audit a combinatorial count; Compute probability by counting.",
     "domains": [
       "mathematics"
     ],
@@ -757,12 +757,12 @@
   },
   {
     "id": "ola:n:35b99d61-7273-434d-9346-31580e854e44",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "compute-conditional-dependence-family",
     "label": "Compute conditional probabilities and dependence",
-    "definition": "A capability family within conditional-probability-dependence grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Conditional Probability and Dependence, this family groups bounded performances under the shared purpose \"Compute conditional probabilities and dependence\": Compute a conditional probability; Determine probabilistic independence.",
     "domains": [
       "mathematics"
     ],
@@ -841,12 +841,12 @@
   },
   {
     "id": "ola:n:b938d43e-62fc-42d0-a9c7-050baed2b070",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "reverse-decompose-conditionals-family",
     "label": "Reverse and decompose conditional probabilities",
-    "definition": "A capability family within conditional-probability-dependence grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Conditional Probability and Dependence, this family groups bounded performances under the shared purpose \"Reverse and decompose conditional probabilities\": Apply Bayes rule; Apply the law of total probability.",
     "domains": [
       "mathematics"
     ],
@@ -925,12 +925,12 @@
   },
   {
     "id": "ola:n:879a6fe3-23e5-4d56-a7be-e83556d43dc8",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "interpret-audit-conditional-reasoning-family",
     "label": "Interpret and audit conditional reasoning",
-    "definition": "A capability family within conditional-probability-dependence grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Conditional Probability and Dependence, this family groups bounded performances under the shared purpose \"Interpret and audit conditional reasoning\": Audit a conditional-probability claim; Interpret a probability update.",
     "domains": [
       "mathematics"
     ],
@@ -1093,12 +1093,12 @@
   },
   {
     "id": "ola:n:5a89ebc6-0a02-4887-9190-c364d6e68f39",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "define-validate-distributions-family",
     "label": "Define and validate distributions",
-    "definition": "A capability family within random-variables-distributions grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Random Variables and Distributions, this family groups bounded performances under the shared purpose \"Define and validate distributions\": Define a random variable; Validate a probability distribution.",
     "domains": [
       "mathematics"
     ],
@@ -1177,12 +1177,12 @@
   },
   {
     "id": "ola:n:121bb10a-79e3-40e6-b7e6-317e07bcd132",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "compute-transform-distributions-family",
     "label": "Compute and transform distributions",
-    "definition": "A capability family within random-variables-distributions grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Random Variables and Distributions, this family groups bounded performances under the shared purpose \"Compute and transform distributions\": Compute a distribution probability or quantile; Derive a transformed random-variable distribution.",
     "domains": [
       "mathematics"
     ],
@@ -1261,12 +1261,12 @@
   },
   {
     "id": "ola:n:b2a64c98-07fe-483a-9ab8-4c3ca2c89af0",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "select-simulate-distribution-family",
     "label": "Select and simulate distributions",
-    "definition": "A capability family within random-variables-distributions grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Random Variables and Distributions, this family groups bounded performances under the shared purpose \"Select and simulate distributions\": Select a parametric distribution family; Simulate from a probability distribution.",
     "domains": [
       "mathematics"
     ],
@@ -1429,12 +1429,12 @@
   },
   {
     "id": "ola:n:1ea02dba-2519-485e-87a3-f46d5d68c800",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "compute-expectation-variability-family",
     "label": "Compute expectation and variability",
-    "definition": "A capability family within expectation-variability grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Expectation and Variability, this family groups bounded performances under the shared purpose \"Compute expectation and variability\": Compute an expected value; Compute variance or standard deviation.",
     "domains": [
       "mathematics"
     ],
@@ -1513,12 +1513,12 @@
   },
   {
     "id": "ola:n:bee6b939-f64b-48ba-ab80-738ae2c43f9e",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "analyze-joint-conditional-moments-family",
     "label": "Analyze joint and conditional moments",
-    "definition": "A capability family within expectation-variability grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Expectation and Variability, this family groups bounded performances under the shared purpose \"Analyze joint and conditional moments\": Apply total expectation or variance; Compute covariance or correlation from a distribution.",
     "domains": [
       "mathematics"
     ],
@@ -1597,12 +1597,12 @@
   },
   {
     "id": "ola:n:2fda7d39-e17c-4a9f-804d-ed74a910d1f7",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "reason-about-risk-variability-family",
     "label": "Reason about expectation and variability",
-    "definition": "A capability family within expectation-variability grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Expectation and Variability, this family groups bounded performances under the shared purpose \"Reason about expectation and variability\": Audit an expectation or variability claim; Bound probability with moments.",
     "domains": [
       "mathematics"
     ],
@@ -1765,12 +1765,12 @@
   },
   {
     "id": "ola:n:91f04868-ee77-4f8d-a97e-dc76a46f2f70",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "model-analyze-stochastic-process-family",
     "label": "Model and analyze stochastic processes",
-    "definition": "A capability family within stochastic-processes-decision-risk grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Stochastic Processes, Decision, and Risk, this family groups bounded performances under the shared purpose \"Model and analyze stochastic processes\": Compute a multi-step state probability; Construct a finite-state stochastic model.",
     "domains": [
       "mathematics"
     ],
@@ -1849,12 +1849,12 @@
   },
   {
     "id": "ola:n:f2d06a78-174d-4b8e-9e72-26ea904c2e0b",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "analyze-long-run-risk-family",
     "label": "Analyze long-run behavior and risk",
-    "definition": "A capability family within stochastic-processes-decision-risk grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Stochastic Processes, Decision, and Risk, this family groups bounded performances under the shared purpose \"Analyze long-run behavior and risk\": Analyze stationary or long-run behavior; Compute expected loss or a risk measure.",
     "domains": [
       "mathematics"
     ],
@@ -1933,12 +1933,12 @@
   },
   {
     "id": "ola:n:64ee746a-acff-40d3-b5f5-32b1d189e596",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "make-audit-decisions-uncertainty-family",
     "label": "Make and audit decisions under uncertainty",
-    "definition": "A capability family within stochastic-processes-decision-risk grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Stochastic Processes, Decision, and Risk, this family groups bounded performances under the shared purpose \"Make and audit decisions under uncertainty\": Audit a stochastic or decision model; Select an action under uncertainty.",
     "domains": [
       "mathematics"
     ],

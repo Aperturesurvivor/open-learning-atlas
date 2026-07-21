@@ -81,12 +81,12 @@
   },
   {
     "id": "ola:n:5084ef1a-268e-4e29-9340-a36e4ed2b1b5",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "construct-interpret-euclidean-configurations-family",
     "label": "Construct and interpret Euclidean configurations",
-    "definition": "A capability family within euclidean-synthetic-geometry grouping performances with a shared mathematical purpose.",
+    "definition": "Within Euclidean and Synthetic Geometry, this family groups bounded performances under the shared purpose \"Construct and interpret Euclidean configurations\": Construct a Euclidean configuration; Interpret a geometric diagram.",
     "domains": [
       "mathematics"
     ],
@@ -162,12 +162,12 @@
   },
   {
     "id": "ola:n:c303b282-f9c8-4dcb-b5f8-a0248e77af03",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "determine-euclidean-relations-family",
     "label": "Determine Euclidean relations",
-    "definition": "A capability family within euclidean-synthetic-geometry grouping performances with a shared mathematical purpose.",
+    "definition": "Within Euclidean and Synthetic Geometry, this family groups bounded performances under the shared purpose \"Determine Euclidean relations\": Determine a Euclidean length or angle; Determine incidence, parallelism, or perpendicularity.",
     "domains": [
       "mathematics"
     ],
@@ -243,12 +243,12 @@
   },
   {
     "id": "ola:n:7ce80820-589e-4631-9291-0f0026a1717d",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "justify-synthetic-geometry-family",
     "label": "Justify synthetic geometry claims",
-    "definition": "A capability family within euclidean-synthetic-geometry grouping performances with a shared mathematical purpose.",
+    "definition": "Within Euclidean and Synthetic Geometry, this family groups bounded performances under the shared purpose \"Justify synthetic geometry claims\": Audit a synthetic geometry argument; Construct a synthetic geometry proof.",
     "domains": [
       "mathematics"
     ],
@@ -404,12 +404,12 @@
   },
   {
     "id": "ola:n:97848b41-ca9e-4991-a920-58981d35d901",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "represent-coordinate-geometry-family",
     "label": "Represent coordinate geometry",
-    "definition": "A capability family within coordinate-analytic-geometry grouping performances with a shared mathematical purpose.",
+    "definition": "Within Coordinate and Analytic Geometry, this family groups bounded performances under the shared purpose \"Represent coordinate geometry\": Plot and interpret a coordinate object; Translate coordinate systems.",
     "domains": [
       "mathematics"
     ],
@@ -485,12 +485,12 @@
   },
   {
     "id": "ola:n:3de9d383-e495-40cb-af5a-b1ae1456f20e",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "compute-analytic-geometry-family",
     "label": "Compute analytic geometry relations",
-    "definition": "A capability family within coordinate-analytic-geometry grouping performances with a shared mathematical purpose.",
+    "definition": "Within Coordinate and Analytic Geometry, this family groups bounded performances under the shared purpose \"Compute analytic geometry relations\": Determine coordinate distance or slope; Solve a coordinate intersection or locus.",
     "domains": [
       "mathematics"
     ],
@@ -566,12 +566,12 @@
   },
   {
     "id": "ola:n:9c55c8b3-ffd3-447f-8534-3c57b891a1ff",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "justify-coordinate-geometry-family",
     "label": "Justify coordinate geometry claims",
-    "definition": "A capability family within coordinate-analytic-geometry grouping performances with a shared mathematical purpose.",
+    "definition": "Within Coordinate and Analytic Geometry, this family groups bounded performances under the shared purpose \"Justify coordinate geometry claims\": Construct an equation from a geometric condition; Prove a geometric relation with coordinates.",
     "domains": [
       "mathematics"
     ],
@@ -727,12 +727,12 @@
   },
   {
     "id": "ola:n:37d045cf-6539-4946-b3c1-55110d89befa",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "identify-establish-congruence-family",
     "label": "Identify and establish congruence",
-    "definition": "A capability family within congruence-similarity-symmetry grouping performances with a shared mathematical purpose.",
+    "definition": "Within Congruence, Similarity, and Symmetry, this family groups bounded performances under the shared purpose \"Identify and establish congruence\": Determine figure congruence; Prove triangle congruence.",
     "domains": [
       "mathematics"
     ],
@@ -808,12 +808,12 @@
   },
   {
     "id": "ola:n:40598c22-447b-45de-b743-23acee6f1312",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "analyze-similarity-scale-family",
     "label": "Analyze similarity and scale",
-    "definition": "A capability family within congruence-similarity-symmetry grouping performances with a shared mathematical purpose.",
+    "definition": "Within Congruence, Similarity, and Symmetry, this family groups bounded performances under the shared purpose \"Analyze similarity and scale\": Apply a geometric scale factor; Determine figure similarity.",
     "domains": [
       "mathematics"
     ],
@@ -889,12 +889,12 @@
   },
   {
     "id": "ola:n:6b4ecc95-5df3-480b-9875-818668357fc9",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "analyze-symmetry-family",
     "label": "Analyze geometric symmetry",
-    "definition": "A capability family within congruence-similarity-symmetry grouping performances with a shared mathematical purpose.",
+    "definition": "Within Congruence, Similarity, and Symmetry, this family groups bounded performances under the shared purpose \"Analyze geometric symmetry\": Audit a congruence or similarity claim; Identify figure symmetries.",
     "domains": [
       "mathematics"
     ],
@@ -1050,12 +1050,12 @@
   },
   {
     "id": "ola:n:c58c1bea-b18e-49af-9b00-3bbae325013a",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "apply-represent-transformations-family",
     "label": "Apply and represent transformations",
-    "definition": "A capability family within geometric-transformations grouping performances with a shared mathematical purpose.",
+    "definition": "Within Geometric Transformations, this family groups bounded performances under the shared purpose \"Apply and represent transformations\": Apply a geometric transformation; Determine a transformation from images.",
     "domains": [
       "mathematics"
     ],
@@ -1131,12 +1131,12 @@
   },
   {
     "id": "ola:n:eee4659f-426f-47a9-9a29-4a438a9abf24",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "compose-classify-transformations-family",
     "label": "Compose and classify transformations",
-    "definition": "A capability family within geometric-transformations grouping performances with a shared mathematical purpose.",
+    "definition": "Within Geometric Transformations, this family groups bounded performances under the shared purpose \"Compose and classify transformations\": Classify a transformation by invariants; Compose or invert geometric transformations.",
     "domains": [
       "mathematics"
     ],
@@ -1212,12 +1212,12 @@
   },
   {
     "id": "ola:n:74a510c1-c6a4-497d-8a39-146a962edbfa",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "reason-about-transformations-family",
     "label": "Reason about transformations",
-    "definition": "A capability family within geometric-transformations grouping performances with a shared mathematical purpose.",
+    "definition": "Within Geometric Transformations, this family groups bounded performances under the shared purpose \"Reason about transformations\": Determine transformation invariants; Prove a transformation equivalence.",
     "domains": [
       "mathematics"
     ],
@@ -1373,12 +1373,12 @@
   },
   {
     "id": "ola:n:67d6b695-de75-4ada-9086-e04475cce891",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "evaluate-interpret-trigonometry-family",
     "label": "Evaluate and interpret trigonometric quantities",
-    "definition": "A capability family within trigonometry grouping performances with a shared mathematical purpose.",
+    "definition": "Within Trigonometry, this family groups bounded performances under the shared purpose \"Evaluate and interpret trigonometric quantities\": Evaluate a trigonometric value; Solve a triangle in scope.",
     "domains": [
       "mathematics"
     ],
@@ -1454,12 +1454,12 @@
   },
   {
     "id": "ola:n:4d58e850-85a3-485b-b47d-9e38e03b72e9",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "analyze-trigonometric-functions-family",
     "label": "Analyze trigonometric functions",
-    "definition": "A capability family within trigonometry grouping performances with a shared mathematical purpose.",
+    "definition": "Within Trigonometry, this family groups bounded performances under the shared purpose \"Analyze trigonometric functions\": Analyze a trigonometric graph; Solve a trigonometric equation.",
     "domains": [
       "mathematics"
     ],
@@ -1535,12 +1535,12 @@
   },
   {
     "id": "ola:n:721cd39a-aeb5-40b8-a1cd-518287ac37f1",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "justify-model-trigonometry-family",
     "label": "Justify and model with trigonometry",
-    "definition": "A capability family within trigonometry grouping performances with a shared mathematical purpose.",
+    "definition": "Within Trigonometry, this family groups bounded performances under the shared purpose \"Justify and model with trigonometry\": Construct a periodic trigonometric model; Verify a trigonometric identity.",
     "domains": [
       "mathematics"
     ],
@@ -1696,12 +1696,12 @@
   },
   {
     "id": "ola:n:4d4cb65f-8422-4459-b2ad-d04d348978fe",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "analyze-differential-geometry-family",
     "label": "Analyze differential geometry",
-    "definition": "A capability family within differential-algebraic-geometry grouping performances with a shared mathematical purpose.",
+    "definition": "Within Differential and Algebraic Geometry, this family groups bounded performances under the shared purpose \"Analyze differential geometry\": Analyze geodesic or local geometry; Compute tangent or curvature data in scope.",
     "domains": [
       "mathematics"
     ],
@@ -1777,12 +1777,12 @@
   },
   {
     "id": "ola:n:ae7b9174-f0d3-4c18-bb8e-e32407868c24",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "analyze-algebraic-geometry-family",
     "label": "Analyze algebraic geometry",
-    "definition": "A capability family within differential-algebraic-geometry grouping performances with a shared mathematical purpose.",
+    "definition": "Within Differential and Algebraic Geometry, this family groups bounded performances under the shared purpose \"Analyze algebraic geometry\": Analyze an algebraic intersection; Determine algebraic-locus structure.",
     "domains": [
       "mathematics"
     ],
@@ -1858,12 +1858,12 @@
   },
   {
     "id": "ola:n:82cbd7aa-264a-486f-8fcf-f65772ac01ad",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "connect-justify-advanced-geometry-family",
     "label": "Connect and justify advanced geometry",
-    "definition": "A capability family within differential-algebraic-geometry grouping performances with a shared mathematical purpose.",
+    "definition": "Within Differential and Algebraic Geometry, this family groups bounded performances under the shared purpose \"Connect and justify advanced geometry\": Prove a bounded geometric-invariant claim; Translate local geometric representations.",
     "domains": [
       "mathematics"
     ],
@@ -2019,12 +2019,12 @@
   },
   {
     "id": "ola:n:37e931db-9fd6-48f3-b15b-8328a6879c45",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "verify-topological-structures-family",
     "label": "Verify topological structures",
-    "definition": "A capability family within topology-manifolds grouping performances with a shared mathematical purpose.",
+    "definition": "Within Topology and Manifolds, this family groups bounded performances under the shared purpose \"Verify topological structures\": Verify a topology or basis; Verify manifold charts.",
     "domains": [
       "mathematics"
     ],
@@ -2100,12 +2100,12 @@
   },
   {
     "id": "ola:n:c146a79a-16bd-4966-bf00-b72a926e673a",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "analyze-topological-maps-properties-family",
     "label": "Analyze topological maps and properties",
-    "definition": "A capability family within topology-manifolds grouping performances with a shared mathematical purpose.",
+    "definition": "Within Topology and Manifolds, this family groups bounded performances under the shared purpose \"Analyze topological maps and properties\": Analyze continuity or homeomorphism; Determine compactness or connectedness.",
     "domains": [
       "mathematics"
     ],
@@ -2181,12 +2181,12 @@
   },
   {
     "id": "ola:n:bd9d266e-7ac8-4d31-b70a-b8354be105f4",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "compute-justify-topological-invariants-family",
     "label": "Compute and justify topological invariants",
-    "definition": "A capability family within topology-manifolds grouping performances with a shared mathematical purpose.",
+    "definition": "Within Topology and Manifolds, this family groups bounded performances under the shared purpose \"Compute and justify topological invariants\": Compute an elementary topological invariant; Construct a topological counterexample.",
     "domains": [
       "mathematics"
     ],
@@ -2342,12 +2342,12 @@
   },
   {
     "id": "ola:n:11135dcc-8ec7-4fe3-b863-160b113ab2f6",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "analyze-convex-geometry-family",
     "label": "Analyze convex geometry",
-    "definition": "A capability family within convex-discrete-computational-geometry grouping performances with a shared mathematical purpose.",
+    "definition": "Within Convex, Discrete, and Computational Geometry, this family groups bounded performances under the shared purpose \"Analyze convex geometry\": Compute a convex hull or separation; Verify convexity.",
     "domains": [
       "mathematics"
     ],
@@ -2423,12 +2423,12 @@
   },
   {
     "id": "ola:n:04419467-5317-40f0-aa35-f7813e5794c1",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "construct-discrete-geometry-family",
     "label": "Construct discrete geometry",
-    "definition": "A capability family within convex-discrete-computational-geometry grouping performances with a shared mathematical purpose.",
+    "definition": "Within Convex, Discrete, and Computational Geometry, this family groups bounded performances under the shared purpose \"Construct discrete geometry\": Analyze a finite geometric arrangement; Construct a triangulation or mesh.",
     "domains": [
       "mathematics"
     ],
@@ -2504,12 +2504,12 @@
   },
   {
     "id": "ola:n:b8619587-1ae0-4b87-a761-cabe962f192e",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "design-audit-geometric-algorithms-family",
     "label": "Design and audit geometric algorithms",
-    "definition": "A capability family within convex-discrete-computational-geometry grouping performances with a shared mathematical purpose.",
+    "definition": "Within Convex, Discrete, and Computational Geometry, this family groups bounded performances under the shared purpose \"Design and audit geometric algorithms\": Audit a computational-geometry result; Execute a geometric algorithm.",
     "domains": [
       "mathematics"
     ],

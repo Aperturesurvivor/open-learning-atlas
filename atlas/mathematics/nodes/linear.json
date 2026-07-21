@@ -81,12 +81,12 @@
   },
   {
     "id": "ola:n:71cc2feb-4617-4f7f-ae44-11339ed6bab2",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "verify-generate-vector-spaces-family",
     "label": "Verify and generate vector spaces",
-    "definition": "A capability family within vectors-vector-spaces grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Vectors and Vector Spaces, this family groups bounded performances under the shared purpose \"Verify and generate vector spaces\": Determine a linear span; Verify a vector space or subspace.",
     "domains": [
       "mathematics"
     ],
@@ -162,12 +162,12 @@
   },
   {
     "id": "ola:n:1b793a93-2649-4eb4-9c04-c3ac263179cf",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "analyze-bases-dimension-family",
     "label": "Analyze bases and dimension",
-    "definition": "A capability family within vectors-vector-spaces grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Vectors and Vector Spaces, this family groups bounded performances under the shared purpose \"Analyze bases and dimension\": Construct a basis and coordinates; Determine linear independence.",
     "domains": [
       "mathematics"
     ],
@@ -243,12 +243,12 @@
   },
   {
     "id": "ola:n:1ea10edf-d98c-486b-be4a-1946c7e92d82",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "justify-vector-space-claims-family",
     "label": "Justify vector-space claims",
-    "definition": "A capability family within vectors-vector-spaces grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Vectors and Vector Spaces, this family groups bounded performances under the shared purpose \"Justify vector-space claims\": Prove a bounded vector-space claim; Translate vector representations.",
     "domains": [
       "mathematics"
     ],
@@ -404,12 +404,12 @@
   },
   {
     "id": "ola:n:cb0cc99b-2953-42b0-9863-c1231ea5db89",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "solve-linear-systems-family",
     "label": "Solve linear systems",
-    "definition": "A capability family within matrices-linear-systems grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Matrices and Linear Systems, this family groups bounded performances under the shared purpose \"Solve linear systems\": Classify linear-system solutions; Row-reduce a linear system.",
     "domains": [
       "mathematics"
     ],
@@ -485,12 +485,12 @@
   },
   {
     "id": "ola:n:e9ebf30e-29dc-414d-a9c6-e028147580b1",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "compute-with-matrices-family",
     "label": "Compute with matrices",
-    "definition": "A capability family within matrices-linear-systems grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Matrices and Linear Systems, this family groups bounded performances under the shared purpose \"Compute with matrices\": Compute matrix operations; Factor a matrix in scope.",
     "domains": [
       "mathematics"
     ],
@@ -566,12 +566,12 @@
   },
   {
     "id": "ola:n:99133dd4-7202-4118-9c15-26730b40a11b",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "model-audit-linear-systems-family",
     "label": "Model and audit linear systems",
-    "definition": "A capability family within matrices-linear-systems grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Matrices and Linear Systems, this family groups bounded performances under the shared purpose \"Model and audit linear systems\": Audit a linear-system solution; Construct a linear-system model.",
     "domains": [
       "mathematics"
     ],
@@ -727,12 +727,12 @@
   },
   {
     "id": "ola:n:16e88466-55f9-481a-894e-fef2d7c33646",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "identify-represent-linear-maps-family",
     "label": "Identify and represent linear maps",
-    "definition": "A capability family within linear-transformations grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Linear Transformations, this family groups bounded performances under the shared purpose \"Identify and represent linear maps\": Construct a matrix of a linear map; Verify map linearity.",
     "domains": [
       "mathematics"
     ],
@@ -808,12 +808,12 @@
   },
   {
     "id": "ola:n:2c433e68-023d-4e8c-ae88-012ab17db16a",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "analyze-linear-map-structure-family",
     "label": "Analyze linear-map structure",
-    "definition": "A capability family within linear-transformations grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Linear Transformations, this family groups bounded performances under the shared purpose \"Analyze linear-map structure\": Compose or invert linear maps; Determine kernel, image, rank, and nullity.",
     "domains": [
       "mathematics"
     ],
@@ -889,12 +889,12 @@
   },
   {
     "id": "ola:n:30b7d544-a804-460b-9d82-8f8269a5c3e5",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "change-basis-prove-linear-maps-family",
     "label": "Change basis and prove map claims",
-    "definition": "A capability family within linear-transformations grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Linear Transformations, this family groups bounded performances under the shared purpose \"Change basis and prove map claims\": Change basis for a linear operator; Prove a bounded linear-map claim.",
     "domains": [
       "mathematics"
     ],
@@ -1050,12 +1050,12 @@
   },
   {
     "id": "ola:n:fa804a1a-d3d2-4720-9c16-2cb535930b17",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "compute-spectral-structure-family",
     "label": "Compute spectral structure",
-    "definition": "A capability family within eigen-spectral-inner-product-structure grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Eigen, Spectral, and Inner-Product Structure, this family groups bounded performances under the shared purpose \"Compute spectral structure\": Compute eigenvalues and eigenvectors; Diagonalize an operator in scope.",
     "domains": [
       "mathematics"
     ],
@@ -1131,12 +1131,12 @@
   },
   {
     "id": "ola:n:f7fc7b33-1d50-477f-8bbe-d41c6dea36ad",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "apply-inner-product-structure-family",
     "label": "Apply inner-product structure",
-    "definition": "A capability family within eigen-spectral-inner-product-structure grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Eigen, Spectral, and Inner-Product Structure, this family groups bounded performances under the shared purpose \"Apply inner-product structure\": Orthogonalize or project vectors; Solve a linear least-squares problem.",
     "domains": [
       "mathematics"
     ],
@@ -1212,12 +1212,12 @@
   },
   {
     "id": "ola:n:7e05c2ce-f915-4b75-b788-83c31892eae5",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "analyze-spectral-decompositions-family",
     "label": "Analyze spectral decompositions",
-    "definition": "A capability family within eigen-spectral-inner-product-structure grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Eigen, Spectral, and Inner-Product Structure, this family groups bounded performances under the shared purpose \"Analyze spectral decompositions\": Analyze a quadratic or positive-definite form; Compute or interpret a singular value decomposition.",
     "domains": [
       "mathematics"
     ],
@@ -1373,12 +1373,12 @@
   },
   {
     "id": "ola:n:00bce9dd-cfc9-42e8-abe7-b7ca591ca139",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "construct-evaluate-multilinear-family",
     "label": "Construct and evaluate multilinear objects",
-    "definition": "A capability family within tensors-multilinear-structure grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Tensors and Multilinear Structure, this family groups bounded performances under the shared purpose \"Construct and evaluate multilinear objects\": Construct a tensor-product element; Evaluate a multilinear map.",
     "domains": [
       "mathematics"
     ],
@@ -1454,12 +1454,12 @@
   },
   {
     "id": "ola:n:48aa9249-161f-46e4-99dd-ba5399abb453",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "transform-contract-tensors-family",
     "label": "Transform and contract tensors",
-    "definition": "A capability family within tensors-multilinear-structure grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Tensors and Multilinear Structure, this family groups bounded performances under the shared purpose \"Transform and contract tensors\": Change basis for tensor components; Perform a tensor contraction.",
     "domains": [
       "mathematics"
     ],
@@ -1535,12 +1535,12 @@
   },
   {
     "id": "ola:n:34906beb-1245-42e6-a23b-8a1047229b66",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "analyze-use-tensor-structure-family",
     "label": "Analyze and use tensor structure",
-    "definition": "A capability family within tensors-multilinear-structure grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Tensors and Multilinear Structure, this family groups bounded performances under the shared purpose \"Analyze and use tensor structure\": Analyze tensor symmetry or rank; Construct a multilinear model.",
     "domains": [
       "mathematics"
     ],
@@ -1696,12 +1696,12 @@
   },
   {
     "id": "ola:n:0461f01c-3321-4228-a990-5eac3003f723",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "solve-numerical-linear-systems-family",
     "label": "Solve numerical linear systems",
-    "definition": "A capability family within numerical-linear-algebra grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Numerical Linear Algebra, this family groups bounded performances under the shared purpose \"Solve numerical linear systems\": Solve a linear system by numerical factorization; Solve a linear system iteratively.",
     "domains": [
       "mathematics"
     ],
@@ -1777,12 +1777,12 @@
   },
   {
     "id": "ola:n:03ca5ef0-d68e-46ad-bd49-d8050124b934",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "compute-numerical-spectral-least-squares-family",
     "label": "Compute numerical spectral and least-squares results",
-    "definition": "A capability family within numerical-linear-algebra grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Numerical Linear Algebra, this family groups bounded performances under the shared purpose \"Compute numerical spectral and least-squares results\": Approximate eigen or singular structure; Solve a numerical least-squares problem.",
     "domains": [
       "mathematics"
     ],
@@ -1858,12 +1858,12 @@
   },
   {
     "id": "ola:n:89ef3354-ab83-4170-a79a-9f6b7e656ba7",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "analyze-select-numerical-linear-methods-family",
     "label": "Analyze and select numerical linear methods",
-    "definition": "A capability family within numerical-linear-algebra grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Numerical Linear Algebra, this family groups bounded performances under the shared purpose \"Analyze and select numerical linear methods\": Estimate matrix conditioning and error; Select a numerical linear-algebra algorithm.",
     "domains": [
       "mathematics"
     ],

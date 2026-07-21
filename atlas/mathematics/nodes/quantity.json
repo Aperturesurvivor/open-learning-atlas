@@ -81,12 +81,12 @@
   },
   {
     "id": "ola:n:651af2b1-ce4e-4d3e-8aad-7202814b8af2",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "count-compare-finite-collections-family",
     "label": "Count and compare finite collections",
-    "definition": "A capability family within counting-numeration-cardinality grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Counting, Numeration, and Cardinality, this family groups bounded performances under the shared purpose \"Count and compare finite collections\": Compare finite cardinalities; Count a finite collection.",
     "domains": [
       "mathematics"
     ],
@@ -162,12 +162,12 @@
   },
   {
     "id": "ola:n:ec870665-0aa7-4692-bc81-30d1f42dd6bf",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "interpret-construct-numerals-family",
     "label": "Interpret and construct numerals",
-    "definition": "A capability family within counting-numeration-cardinality grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Counting, Numeration, and Cardinality, this family groups bounded performances under the shared purpose \"Interpret and construct numerals\": Compose and decompose by place value; Interpret a place-value numeral.",
     "domains": [
       "mathematics"
     ],
@@ -243,12 +243,12 @@
   },
   {
     "id": "ola:n:adf4d733-c470-40c2-b762-af77a11fa684",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "reason-about-counting-family",
     "label": "Reason about counting and cardinality",
-    "definition": "A capability family within counting-numeration-cardinality grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Counting, Numeration, and Cardinality, this family groups bounded performances under the shared purpose \"Reason about counting and cardinality\": Establish a one-to-one correspondence; Justify counting invariance.",
     "domains": [
       "mathematics"
     ],
@@ -404,12 +404,12 @@
   },
   {
     "id": "ola:n:856c73a3-45e0-471a-8610-6055e5406941",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "locate-order-values-family",
     "label": "Locate and order values",
-    "definition": "A capability family within magnitude-order-comparison grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Magnitude, Order, and Comparison, this family groups bounded performances under the shared purpose \"Locate and order values\": Locate a value on a number line; Order a finite set of values.",
     "domains": [
       "mathematics"
     ],
@@ -485,12 +485,12 @@
   },
   {
     "id": "ola:n:dc2de92b-876a-43fb-aee9-4837dda9997c",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "bound-quantify-difference-family",
     "label": "Bound and quantify differences",
-    "definition": "A capability family within magnitude-order-comparison grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Magnitude, Order, and Comparison, this family groups bounded performances under the shared purpose \"Bound and quantify differences\": Bound a value with an interval; Determine an absolute difference.",
     "domains": [
       "mathematics"
     ],
@@ -566,12 +566,12 @@
   },
   {
     "id": "ola:n:9b7ee315-c4ea-47a6-8294-1424e77e1d42",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "justify-order-claims-family",
     "label": "Justify order claims",
-    "definition": "A capability family within magnitude-order-comparison grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Magnitude, Order, and Comparison, this family groups bounded performances under the shared purpose \"Justify order claims\": Audit inequality reasoning; Compare equivalent number representations.",
     "domains": [
       "mathematics"
     ],
@@ -727,12 +727,12 @@
   },
   {
     "id": "ola:n:bdd2c932-a9dd-45c6-9d15-0a04c91c2997",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "represent-classify-integers-family",
     "label": "Represent and classify integers",
-    "definition": "A capability family within whole-numbers-integers grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Whole Numbers and Integers, this family groups bounded performances under the shared purpose \"Represent and classify integers\": Classify integer representations; Represent a signed change.",
     "domains": [
       "mathematics"
     ],
@@ -808,12 +808,12 @@
   },
   {
     "id": "ola:n:255fe287-f185-4fc5-a48a-cb74b671a09a",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "operate-solve-with-integers-family",
     "label": "Operate and solve with integers",
-    "definition": "A capability family within whole-numbers-integers grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Whole Numbers and Integers, this family groups bounded performances under the shared purpose \"Operate and solve with integers\": Compute with integers; Solve a bounded integer equation.",
     "domains": [
       "mathematics"
     ],
@@ -889,12 +889,12 @@
   },
   {
     "id": "ola:n:54b9c8ba-e9fb-40ab-9795-464bc85d8da4",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "reason-about-integer-structure-family",
     "label": "Reason about integer structure",
-    "definition": "A capability family within whole-numbers-integers grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Whole Numbers and Integers, this family groups bounded performances under the shared purpose \"Reason about integer structure\": Analyze parity and sign; Justify integer-operation equivalence.",
     "domains": [
       "mathematics"
     ],
@@ -1050,12 +1050,12 @@
   },
   {
     "id": "ola:n:877f31ad-5580-42e9-9e07-6dfd1c3c5a34",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "classify-represent-number-systems-family",
     "label": "Classify and represent real and complex numbers",
-    "definition": "A capability family within real-complex-number-systems grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Real and Complex Number Systems, this family groups bounded performances under the shared purpose \"Classify and represent real and complex numbers\": Classify real and complex values; Translate complex-number forms.",
     "domains": [
       "mathematics"
     ],
@@ -1131,12 +1131,12 @@
   },
   {
     "id": "ola:n:b2d20598-d97f-48e5-9fd6-55791d35b396",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "compute-solve-complex-family",
     "label": "Compute and solve in real and complex systems",
-    "definition": "A capability family within real-complex-number-systems grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Real and Complex Number Systems, this family groups bounded performances under the shared purpose \"Compute and solve in real and complex systems\": Compute complex arithmetic; Solve a bounded polynomial over the complex numbers.",
     "domains": [
       "mathematics"
     ],
@@ -1212,12 +1212,12 @@
   },
   {
     "id": "ola:n:a2c48bba-984c-4f7a-bc90-38661fcb2b67",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "reason-about-number-extensions-family",
     "label": "Reason about number-system extensions",
-    "definition": "A capability family within real-complex-number-systems grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Real and Complex Number Systems, this family groups bounded performances under the shared purpose \"Reason about number-system extensions\": Bound an irrational real value; Justify a real or complex identity.",
     "domains": [
       "mathematics"
     ],
@@ -1373,12 +1373,12 @@
   },
   {
     "id": "ola:n:ed699fe4-4174-4942-86a9-522d3fec5f8a",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "interpret-compute-arithmetic-family",
     "label": "Interpret and compute arithmetic",
-    "definition": "A capability family within arithmetic-operations-properties grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Arithmetic Operations and Properties, this family groups bounded performances under the shared purpose \"Interpret and compute arithmetic\": Compute a bounded arithmetic expression; Interpret an arithmetic expression.",
     "domains": [
       "mathematics"
     ],
@@ -1454,12 +1454,12 @@
   },
   {
     "id": "ola:n:83018455-95c2-481f-861d-10c68b6bc6d6",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "select-check-operation-family",
     "label": "Select and check operations",
-    "definition": "A capability family within arithmetic-operations-properties grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Arithmetic Operations and Properties, this family groups bounded performances under the shared purpose \"Select and check operations\": Estimate and check an arithmetic result; Select an arithmetic operation for a relation.",
     "domains": [
       "mathematics"
     ],
@@ -1535,12 +1535,12 @@
   },
   {
     "id": "ola:n:91fd629b-7db1-4ced-b612-a7b378e1bc00",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "justify-operation-transformations-family",
     "label": "Justify operation transformations",
-    "definition": "A capability family within arithmetic-operations-properties grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Arithmetic Operations and Properties, this family groups bounded performances under the shared purpose \"Justify operation transformations\": Explain arithmetic-procedure equivalence; Transform an expression with operation laws.",
     "domains": [
       "mathematics"
     ],
@@ -1696,12 +1696,12 @@
   },
   {
     "id": "ola:n:a8369832-3377-4855-a21f-1c1e35a264f0",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "analyze-factors-family",
     "label": "Analyze factors and multiples",
-    "definition": "A capability family within divisibility-number-theory grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Divisibility and Number Theory, this family groups bounded performances under the shared purpose \"Analyze factors and multiples\": Construct a prime factorization; Determine factors and multiples.",
     "domains": [
       "mathematics"
     ],
@@ -1777,12 +1777,12 @@
   },
   {
     "id": "ola:n:1683a547-58d3-429f-8082-e645e839f876",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "compute-divisibility-invariants-family",
     "label": "Compute divisibility invariants",
-    "definition": "A capability family within divisibility-number-theory grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Divisibility and Number Theory, this family groups bounded performances under the shared purpose \"Compute divisibility invariants\": Compute and use modular remainders; Determine a greatest common divisor or least common multiple.",
     "domains": [
       "mathematics"
     ],
@@ -1858,12 +1858,12 @@
   },
   {
     "id": "ola:n:053bd53f-78c1-499c-b426-3aff124c67c7",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "justify-number-theoretic-claims-family",
     "label": "Justify number-theoretic claims",
-    "definition": "A capability family within divisibility-number-theory grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Divisibility and Number Theory, this family groups bounded performances under the shared purpose \"Justify number-theoretic claims\": Prove a bounded divisibility claim; Solve a linear Diophantine condition.",
     "domains": [
       "mathematics"
     ],

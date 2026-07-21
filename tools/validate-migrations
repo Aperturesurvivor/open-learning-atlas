@@ -1,0 +1,72 @@
+#!/usr/bin/env python3
+"""Validate lifecycle migration semantics in addition to JSON Schema checks."""
+
+from __future__ import annotations
+
+from pathlib import Path
+import json
+import sys
+
+
+ROOT = Path(__file__).resolve().parents[1]
+EXAMPLES = ROOT / "migrations" / "examples"
+
+
+def validate(path: Path) -> list[str]:
+    with path.open(encoding="utf-8") as handle:
+        document = json.load(handle)
+    errors: list[str] = []
+    changes = document.get("changes", [])
+    redirects = {item["from"]: item for item in document.get("redirects", [])}
+    identities: set[str] = set()
+    for index, change in enumerate(changes):
+        location = f"{path.name}.changes[{index}]"
+        identity = change["identity"]
+        if identity in identities:
+            errors.append(f"{location}: duplicate identity {identity}")
+        identities.add(identity)
+        if change["to_revision"] <= change["from_revision"]:
+            errors.append(f"{location}: to_revision must increase")
+        operation = change["operation"]
+        replacements = change.get("replaced_by", [])
+        if operation == "rename":
+            if replacements:
+                errors.append(f"{location}: rename may not replace stable identity")
+            if change["before"]["label"] == change["after"]["label"] and change["before"]["slug"] == change["after"]["slug"]:
+                errors.append(f"{location}: rename changes neither label nor slug")
+        if operation in {"deprecate", "split", "merge", "replace"}:
+            if change["after"]["status"] != "deprecated":
+                errors.append(f"{location}: lifecycle replacement must deprecate the old record")
+            if not replacements:
+                errors.append(f"{location}: lifecycle replacement requires replaced_by")
+            redirect = redirects.get(identity)
+            if not redirect:
+                errors.append(f"{location}: missing redirect")
+            elif set(redirect["to"]) != set(replacements):
+                errors.append(f"{location}: redirect targets differ from replaced_by")
+    changed_replacements = {
+        change["identity"] for change in changes
+        if change["operation"] in {"deprecate", "split", "merge", "replace"}
+    }
+    unexplained = set(redirects) - changed_replacements
+    if unexplained:
+        errors.append(f"{path.name}: redirects without lifecycle changes: {sorted(unexplained)}")
+    return errors
+
+
+def main() -> int:
+    paths = sorted(EXAMPLES.glob("*.json"))
+    if not paths:
+        print(f"ERROR no migration examples under {EXAMPLES}", file=sys.stderr)
+        return 1
+    errors = [error for path in paths for error in validate(path)]
+    if errors:
+        for error in errors:
+            print(f"ERROR {error}", file=sys.stderr)
+        return 1
+    print(f"OK {len(paths)} migration document(s): non-destructive lifecycle semantics valid")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

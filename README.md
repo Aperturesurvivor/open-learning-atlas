@@ -2,6 +2,9 @@
 
 **An open map of knowledge and capability.**
 
+[Explore the mathematics atlas](https://aperturesurvivor.github.io/open-learning-atlas/)
+on desktop or phone.
+
 Open Learning Atlas is public semantic infrastructure for describing what can
 be known or done, how those things relate, and which relationship claims are
 accepted, proposed, conditional, or contested. Mathematics is the first
@@ -28,6 +31,9 @@ include:
 All AI-authored mathematical records begin as `candidate`. Passing validation
 means a record is structurally coherent, not that its mathematical or
 educational claims have been independently accepted.
+
+The exact v1 evidence and remaining review work are tracked in
+[`docs/v1-status.md`](docs/v1-status.md).
 
 ## For People
 
@@ -82,6 +88,17 @@ uvx --from check-jsonschema check-jsonschema \
   map/domains/*.json map/examples/*.json map/releases/*.json
 ```
 
+Agent-access and release checks:
+
+```sh
+tools/query-atlas --pretty stats
+tools/run-conformance
+tools/validate-migrations
+tools/build-release --check
+tools/build-review-inventory --check
+tools/validate-reviews
+```
+
 ## Repository Map
 
 - [`atlas/`](atlas/) — modular canonical authoring records.
@@ -94,6 +111,8 @@ uvx --from check-jsonschema check-jsonschema \
 - [`product/`](product/) — publication roadmap and downstream-user context.
 - [`tools/`](tools/) — validation and release tooling.
 - [`viewer/`](viewer/) — mobile-first human access built from the pinned release.
+- [`releases/`](releases/) — self-contained pinned packages and checksums.
+- [`conformance/`](conformance/) — downstream-operation fixtures.
 
 ## Contributing and Licensing
 

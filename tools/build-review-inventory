@@ -1,0 +1,125 @@
+#!/usr/bin/env python3
+"""Build deterministic territory evidence for accountable human review."""
+
+from __future__ import annotations
+
+from collections import Counter
+from pathlib import Path
+import argparse
+import json
+import sys
+
+from lib.atlas_query import Atlas, DEFAULT_RELEASE, compact_node
+from lib.build_review_dimensions import DIMENSIONS
+
+
+ROOT = Path(__file__).resolve().parents[1]
+def output_path(version: str) -> Path:
+    return ROOT / "review" / "inventory" / f"mathematics-{version}.json"
+
+
+def build(atlas: Atlas) -> dict:
+    territories = sorted(
+        (node for node in atlas.nodes.values() if node.get("subtype") == "atlas-territory"),
+        key=lambda node: (node["label"].casefold(), node["id"]),
+    )
+    entries = []
+    for territory in territories:
+        descendants = atlas.descendants(territory["id"])
+        direct_children = atlas.children(territory["id"])
+        parents = atlas.parents(territory["id"])
+        regions = [parent for parent in parents if parent.get("subtype") == "atlas-region"]
+        coverage_sources = sorted(
+            source["id"] for source in atlas.sources.values()
+            if territory["id"] in source.get("coverage_for", [])
+        )
+        assessable = [node for node in descendants if node["assessable"]]
+        entries.append({
+            "territory": compact_node(territory),
+            "region_ids": sorted(region["id"] for region in regions),
+            "direct_child_count": len(direct_children),
+            "direct_child_ids": sorted(node["id"] for node in direct_children),
+            "descendant_count": len(descendants),
+            "descendants_by_kind": dict(sorted(Counter(node["kind"] for node in descendants).items())),
+            "assessable_descendant_count": len(assessable),
+            "dependency_review_states": dict(sorted(Counter(node["dependency_review"] for node in assessable).items())),
+            "coverage_source_ids": coverage_sources,
+            "automated_floor": {
+                "five_direct_children": len(direct_children) >= 5,
+                "two_assessable_descendants": len(assessable) >= 2,
+                "has_concept": any(node["kind"] == "concept" for node in descendants),
+                "has_knowledge": any(node["kind"] == "knowledge" for node in descendants),
+                "has_representation": any(node["kind"] == "representation" for node in descendants),
+                "has_coverage_note": bool(coverage_sources),
+            },
+        })
+    return {
+        "format_version": "0.1",
+        "map_id": atlas.release["map"]["id"],
+        "map_version": atlas.release["map"]["version"],
+        "territory_count": len(entries),
+        "warning": "Automated evidence is necessary but is not human approval.",
+        "entries": entries,
+    }
+
+
+def initial_reviews(atlas: Atlas) -> dict:
+    territories = sorted(
+        (node for node in atlas.nodes.values() if node.get("subtype") == "atlas-territory"),
+        key=lambda node: (node["label"].casefold(), node["id"]),
+    )
+    return {
+        "format_version": "0.1",
+        "map_id": atlas.release["map"]["id"],
+        "map_version": atlas.release["map"]["version"],
+        "review_scope": "atlas-territories",
+        "entries": [
+            {
+                "territory_id": territory["id"],
+                "territory_revision": territory["revision"],
+                "overall_status": "pending",
+                "decisions": [{"dimension": dimension, "status": "pending"} for dimension in DIMENSIONS],
+            }
+            for territory in territories
+        ],
+    }
+
+
+def encoded(value: dict) -> bytes:
+    return (json.dumps(value, ensure_ascii=False, indent=2, sort_keys=True) + "\n").encode()
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--release", type=Path, default=DEFAULT_RELEASE)
+    parser.add_argument("--check", action="store_true")
+    parser.add_argument("--initialize-reviews", action="store_true")
+    args = parser.parse_args()
+    try:
+        atlas = Atlas.load(args.release)
+        target = output_path(atlas.release["map"]["version"])
+        content = encoded(build(atlas))
+        if args.check:
+            if not target.exists() or target.read_bytes() != content:
+                print(f"ERROR review inventory is missing or stale: {target}", file=sys.stderr)
+                return 1
+            print(f"OK {target}: deterministic evidence for 85 territories")
+        else:
+            target.parent.mkdir(parents=True, exist_ok=True)
+            target.write_bytes(content)
+            print(f"Built {target}")
+        if args.initialize_reviews:
+            reviews = ROOT / "review" / "territory-reviews.json"
+            if reviews.exists():
+                print(f"ERROR refusing to overwrite human review ledger: {reviews}", file=sys.stderr)
+                return 1
+            reviews.write_bytes(encoded(initial_reviews(atlas)))
+            print(f"Initialized pending review ledger: {reviews}")
+        return 0
+    except (OSError, json.JSONDecodeError, ValueError) as error:
+        print(f"ERROR {error}", file=sys.stderr)
+        return 1
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

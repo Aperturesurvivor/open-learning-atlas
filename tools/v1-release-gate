@@ -1,0 +1,40 @@
+#!/usr/bin/env python3
+"""Run the local Mathematics v1.0 release gate, including human review evidence."""
+
+from __future__ import annotations
+
+from pathlib import Path
+import subprocess
+import sys
+
+
+ROOT = Path(__file__).resolve().parents[1]
+COMMANDS = [
+    ["tools/build-atlas", "--check"],
+    ["tools/validate-map"],
+    ["tools/audit-v1", "--require-complete"],
+    ["tools/audit-quality"],
+    ["tools/build-release", "--check"],
+    ["tools/run-conformance"],
+    ["tools/validate-migrations"],
+    ["tools/build-review-inventory", "--check"],
+    ["tools/validate-reviews", "--require-complete"],
+    ["tools/check-links"],
+    ["npm", "test", "--prefix", "viewer"],
+    ["npm", "run", "build", "--prefix", "viewer"],
+]
+
+
+def main() -> int:
+    for command in COMMANDS:
+        print(f"\n==> {' '.join(command)}", flush=True)
+        result = subprocess.run(command, cwd=ROOT, check=False)
+        if result.returncode:
+            print(f"\nV1 GATE FAILED at: {' '.join(command)}", file=sys.stderr)
+            return result.returncode
+    print("\nV1 GATE PASSED")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

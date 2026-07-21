@@ -1,0 +1,106 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://openlearningatlas.org/schema/open-learning-atlas-migration-0.1.json",
+  "title": "Open Learning Atlas migration document",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "format_version",
+    "id",
+    "map_id",
+    "from_release",
+    "to_release",
+    "status",
+    "changes",
+    "redirects"
+  ],
+  "properties": {
+    "format_version": { "const": "0.1" },
+    "id": { "type": "string", "minLength": 1 },
+    "map_id": { "$ref": "#/$defs/mapId" },
+    "from_release": { "type": "string", "minLength": 1 },
+    "to_release": { "type": "string", "minLength": 1 },
+    "status": { "enum": ["example", "candidate", "accepted"] },
+    "description": { "type": "string", "minLength": 1 },
+    "changes": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/change" }
+    },
+    "redirects": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/redirect" }
+    }
+  },
+  "$defs": {
+    "uuid": {
+      "type": "string",
+      "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$"
+    },
+    "nodeId": {
+      "type": "string",
+      "pattern": "^ola:n:[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$"
+    },
+    "mapId": {
+      "type": "string",
+      "pattern": "^ola:m:[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$"
+    },
+    "snapshot": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["label", "slug", "status"],
+      "properties": {
+        "label": { "type": "string", "minLength": 1 },
+        "slug": { "type": "string", "minLength": 1 },
+        "status": { "type": "string", "minLength": 1 }
+      }
+    },
+    "change": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "operation",
+        "identity",
+        "from_revision",
+        "to_revision",
+        "before",
+        "after",
+        "rationale"
+      ],
+      "properties": {
+        "operation": { "enum": ["rename", "deprecate", "split", "merge", "replace"] },
+        "identity": { "$ref": "#/$defs/nodeId" },
+        "from_revision": { "type": "integer", "minimum": 1 },
+        "to_revision": { "type": "integer", "minimum": 2 },
+        "before": { "$ref": "#/$defs/snapshot" },
+        "after": { "$ref": "#/$defs/snapshot" },
+        "replaced_by": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/nodeId" },
+          "uniqueItems": true
+        },
+        "rationale": { "type": "string", "minLength": 1 },
+        "source_ids": {
+          "type": "array",
+          "items": { "type": "string", "pattern": "^ola:s:" },
+          "uniqueItems": true
+        }
+      }
+    },
+    "redirect": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["from", "to", "reason"],
+      "properties": {
+        "from": { "$ref": "#/$defs/nodeId" },
+        "to": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "$ref": "#/$defs/nodeId" },
+          "uniqueItems": true
+        },
+        "reason": { "enum": ["deprecated", "split", "merge", "replacement"] }
+      }
+    }
+  }
+}

@@ -153,12 +153,12 @@
   },
   {
     "id": "ola:n:5bafc580-1627-4f2c-bdc6-c30bd643061e",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "graph-representation-structure-family",
     "label": "Interpret and construct finite graphs",
-    "definition": "A capability family for moving between relational situations and finite graph structures or representations.",
+    "definition": "Within Graphs and Networks, this family groups bounded performances under the shared purpose \"Interpret and construct finite graphs\": Construct a finite graph model; Interpret a finite-graph representation.",
     "domains": [
       "mathematics"
     ],
@@ -172,12 +172,12 @@
   },
   {
     "id": "ola:n:dd8d7acd-9df8-4fe7-85fe-dbab1db0baf5",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "graph-path-connectivity-family",
     "label": "Analyze paths and connectivity",
-    "definition": "A capability family for local structure, traversals, paths, cycles, reachability, and connected components.",
+    "definition": "Within Graphs and Networks, this family groups bounded performances under the shared purpose \"Analyze paths and connectivity\": Analyze finite-graph connectivity; Construct a constrained graph walk; Determine local graph structure.",
     "domains": [
       "mathematics"
     ],
@@ -191,12 +191,12 @@
   },
   {
     "id": "ola:n:df38602d-d491-4872-99a9-0e3e60a30f26",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "network-optimization-structure-family",
     "label": "Solve bounded network-structure problems",
-    "definition": "A capability family for optimizing paths and constructing spanning structures in finite weighted graphs.",
+    "definition": "Within Graphs and Networks, this family groups bounded performances under the shared purpose \"Solve bounded network-structure problems\": Construct a finite spanning tree; Solve a finite shortest-path problem.",
     "domains": [
       "mathematics"
     ],

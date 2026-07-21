@@ -1,0 +1,21 @@
+{
+  "fixture_version": "0.1",
+  "id": "ola-conformance-curriculum-coverage-001",
+  "operation": "curriculum-coverage",
+  "release_version": "0.1.0-alpha",
+  "boundary_note": "Synthetic downstream overlay; these fields are not part of the canonical atlas.",
+  "input": {
+    "target": "ola:n:3a6a6a58-944c-47b0-b31b-885d043bb733",
+    "overlay_covered_ids": [
+      "ola:n:b2404799-3a95-4fea-8b82-b5dd7b4ce32a",
+      "ola:n:df6c0fa9-ee9b-475b-b110-dec5dc35cf70"
+    ]
+  },
+  "expected": {
+    "target_assessable_count": 10,
+    "covered_count": 9,
+    "gap_ids": [
+      "ola:n:a070f052-40ff-4be4-810a-b9a8b47a38b9"
+    ]
+  }
+}

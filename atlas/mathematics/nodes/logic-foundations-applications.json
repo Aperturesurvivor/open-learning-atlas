@@ -81,12 +81,12 @@
   },
   {
     "id": "ola:n:c8fcc3fa-821d-4468-82f2-6c46499291a9",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "operate-represent-finite-structures-family",
     "label": "Operate on and represent finite structures",
-    "definition": "A capability family within sets-relations-finite-structures grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Sets, Relations, and Finite Structures, this family groups bounded performances under the shared purpose \"Operate on and represent finite structures\": Compute set operations; Determine relation properties; Represent a finite relation.",
     "domains": [
       "mathematics"
     ],
@@ -192,12 +192,12 @@
   },
   {
     "id": "ola:n:9b251403-31e4-411f-8501-d673b664c89b",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "analyze-construct-finite-structures-family",
     "label": "Analyze and construct finite structures",
-    "definition": "A capability family within sets-relations-finite-structures grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Sets, Relations, and Finite Structures, this family groups bounded performances under the shared purpose \"Analyze and construct finite structures\": Compute equivalence classes; Compute relation closure or composition; Prove a finite set or relation claim.",
     "domains": [
       "mathematics"
     ],
@@ -383,12 +383,12 @@
   },
   {
     "id": "ola:n:82becf11-0d56-4f81-a3f7-f3ff6ea68a38",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "interpret-evaluate-logic-family",
     "label": "Interpret and evaluate formal logic",
-    "definition": "A capability family within propositions-predicates-inference grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Propositions, Predicates, and Inference, this family groups bounded performances under the shared purpose \"Interpret and evaluate formal logic\": Determine logical equivalence; Evaluate a formula under a valuation; Translate prose into predicate logic.",
     "domains": [
       "mathematics"
     ],
@@ -494,12 +494,12 @@
   },
   {
     "id": "ola:n:d6a7f4c3-05ee-4f04-bdaa-ded9b72b10a0",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "construct-audit-inferences-family",
     "label": "Construct and audit inferences",
-    "definition": "A capability family within propositions-predicates-inference grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Propositions, Predicates, and Inference, this family groups bounded performances under the shared purpose \"Construct and audit inferences\": Audit a quantified inference; Construct a formal derivation; Determine argument validity.",
     "domains": [
       "mathematics"
     ],
@@ -685,12 +685,12 @@
   },
   {
     "id": "ola:n:33e20b45-51bc-4a32-97cd-0ab3c9059d5d",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "construct-compare-sets-cardinals-family",
     "label": "Construct and compare sets and cardinals",
-    "definition": "A capability family within set-theoretic-foundations grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Set-Theoretic Foundations, this family groups bounded performances under the shared purpose \"Construct and compare sets and cardinals\": Analyze an ordinal or well-order; Compare set cardinalities; Construct a set using admitted axioms.",
     "domains": [
       "mathematics"
     ],
@@ -796,12 +796,12 @@
   },
   {
     "id": "ola:n:837927e6-55d4-406d-b91d-59b29980168e",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "reason-about-foundations-family",
     "label": "Reason about foundational claims",
-    "definition": "A capability family within set-theoretic-foundations grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Set-Theoretic Foundations, this family groups bounded performances under the shared purpose \"Reason about foundational claims\": Detect a naive set-theory paradox; Distinguish theorem, independence, and consistency claims; Prove a set-theoretic identity.",
     "domains": [
       "mathematics"
     ],
@@ -987,12 +987,12 @@
   },
   {
     "id": "ola:n:e1fa4834-e2b7-4bd8-9580-382c17adad10",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "evaluate-construct-models-family",
     "label": "Evaluate and construct models",
-    "definition": "A capability family within model-theory grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Model Theory, this family groups bounded performances under the shared purpose \"Evaluate and construct models\": Compare structures elementarily; Construct a model or countermodel; Evaluate first-order satisfaction.",
     "domains": [
       "mathematics"
     ],
@@ -1098,12 +1098,12 @@
   },
   {
     "id": "ola:n:676519ee-19e1-453d-bc70-6cb54a3d01dd",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "apply-model-theoretic-principles-family",
     "label": "Apply model-theoretic principles",
-    "definition": "A capability family within model-theory grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Model Theory, this family groups bounded performances under the shared purpose \"Apply model-theoretic principles\": Apply compactness in scope; Audit a model-theoretic claim; Connect syntax and semantics.",
     "domains": [
       "mathematics"
     ],
@@ -1289,12 +1289,12 @@
   },
   {
     "id": "ola:n:e85603e3-ba78-46d4-b23a-be1875bc2001",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "construct-analyze-computations-family",
     "label": "Construct and analyze formal computations",
-    "definition": "A capability family within computability-decidability grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Computability and Decidability, this family groups bounded performances under the shared purpose \"Construct and analyze formal computations\": Classify language computability; Construct a decider or recognizer; Execute a formal machine.",
     "domains": [
       "mathematics"
     ],
@@ -1400,12 +1400,12 @@
   },
   {
     "id": "ola:n:074cd823-f1aa-43f5-b749-40bd0ba111f5",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "prove-undecidability-reducibility-family",
     "label": "Prove and audit undecidability",
-    "definition": "A capability family within computability-decidability grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Computability and Decidability, this family groups bounded performances under the shared purpose \"Prove and audit undecidability\": Audit a computability proof; Construct a computability reduction; Prove undecidability by diagonalization.",
     "domains": [
       "mathematics"
     ],
@@ -1591,12 +1591,12 @@
   },
   {
     "id": "ola:n:e69bb70d-d2a3-443c-af0d-4d70052ee069",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "analyze-algorithms-complexity-family",
     "label": "Analyze algorithms and complexity",
-    "definition": "A capability family within theoretical-computer-science-complexity grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Theoretical Computer Science and Complexity, this family groups bounded performances under the shared purpose \"Analyze algorithms and complexity\": Classify a problem in a complexity class; Compare asymptotic complexity; Derive an algorithm resource bound.",
     "domains": [
       "mathematics"
     ],
@@ -1702,12 +1702,12 @@
   },
   {
     "id": "ola:n:9cec5d14-3141-465f-896d-31218d66249f",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "construct-audit-complexity-reductions-family",
     "label": "Construct and audit complexity reductions",
-    "definition": "A capability family within theoretical-computer-science-complexity grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Theoretical Computer Science and Complexity, this family groups bounded performances under the shared purpose \"Construct and audit complexity reductions\": Audit a complexity claim; Construct a polynomial-time reduction; Establish completeness in scope.",
     "domains": [
       "mathematics"
     ],
@@ -1893,12 +1893,12 @@
   },
   {
     "id": "ola:n:80658602-8067-43b6-b82e-d64d2f0a9be6",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "construct-check-typed-proofs-family",
     "label": "Construct and check typed proofs",
-    "definition": "A capability family within type-proof-category-foundations grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Type, Proof, and Category Foundations, this family groups bounded performances under the shared purpose \"Construct and check typed proofs\": Derive a typing judgment; Normalize a proof term in scope; Translate among proposition, type, and proof.",
     "domains": [
       "mathematics"
     ],
@@ -2004,12 +2004,12 @@
   },
   {
     "id": "ola:n:692d5914-1363-4867-bda4-db959ca6aebb",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "analyze-categorical-structure-family",
     "label": "Analyze categorical structure",
-    "definition": "A capability family within type-proof-category-foundations grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Type, Proof, and Category Foundations, this family groups bounded performances under the shared purpose \"Analyze categorical structure\": Audit a commutative-diagram argument; Use a universal property; Verify a category or functor.",
     "domains": [
       "mathematics"
     ],
@@ -2195,12 +2195,12 @@
   },
   {
     "id": "ola:n:6437f3a1-786b-4ada-814e-88fe6e98ec40",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "construct-analyze-codes-family",
     "label": "Construct and analyze codes",
-    "definition": "A capability family within coding-information-theory grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Coding and Information Theory, this family groups bounded performances under the shared purpose \"Construct and analyze codes\": Compute code rate or distance; Construct a prefix or block code; Encode or decode a message.",
     "domains": [
       "mathematics"
     ],
@@ -2306,12 +2306,12 @@
   },
   {
     "id": "ola:n:ebd57020-2d75-4bc3-be2b-7932c5e8d10b",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "quantify-information-limits-family",
     "label": "Quantify information and limits",
-    "definition": "A capability family within coding-information-theory grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Coding and Information Theory, this family groups bounded performances under the shared purpose \"Quantify information and limits\": Analyze channel capacity in scope; Audit an information-theoretic claim; Compute entropy or mutual information.",
     "domains": [
       "mathematics"
     ],

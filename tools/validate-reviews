@@ -1,0 +1,77 @@
+#!/usr/bin/env python3
+"""Validate territory review coverage and attribution semantics."""
+
+from __future__ import annotations
+
+from collections import Counter
+from pathlib import Path
+import argparse
+import json
+import sys
+
+from lib.atlas_query import Atlas, DEFAULT_RELEASE
+from lib.build_review_dimensions import DIMENSIONS
+
+
+ROOT = Path(__file__).resolve().parents[1]
+REVIEWS = ROOT / "review" / "territory-reviews.json"
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--release", type=Path, default=DEFAULT_RELEASE)
+    parser.add_argument("--reviews", type=Path, default=REVIEWS)
+    parser.add_argument("--require-complete", action="store_true")
+    args = parser.parse_args()
+    try:
+        atlas = Atlas.load(args.release)
+        document = json.loads(args.reviews.read_text(encoding="utf-8"))
+        territories = {node["id"]: node for node in atlas.nodes.values() if node.get("subtype") == "atlas-territory"}
+        entries = document["entries"]
+        errors: list[str] = []
+        if document["map_id"] != atlas.release["map"]["id"] or document["map_version"] != atlas.release["map"]["version"]:
+            errors.append("review ledger is pinned to a different map")
+        by_id = {entry["territory_id"]: entry for entry in entries}
+        if len(by_id) != len(entries):
+            errors.append("duplicate territory review entries")
+        if set(by_id) != set(territories):
+            errors.append(f"review territory set differs: missing={sorted(set(territories)-set(by_id))}, extra={sorted(set(by_id)-set(territories))}")
+        for identity, entry in by_id.items():
+            territory = territories.get(identity)
+            if not territory:
+                continue
+            if entry["territory_revision"] != territory["revision"]:
+                errors.append(f"{identity}: review revision is stale")
+            decisions = entry["decisions"]
+            by_dimension = {decision["dimension"]: decision for decision in decisions}
+            if len(by_dimension) != len(decisions) or set(by_dimension) != set(DIMENSIONS):
+                errors.append(f"{identity}: review dimensions are incomplete or duplicated")
+                continue
+            statuses = [decision["status"] for decision in decisions]
+            derived = "changes-requested" if "changes-requested" in statuses else "approved" if all(status == "approved" for status in statuses) else "pending"
+            if entry["overall_status"] != derived:
+                errors.append(f"{identity}: overall_status must be {derived}")
+            for decision in decisions:
+                if decision["status"] != "pending":
+                    reviewer = decision.get("reviewer", {})
+                    if reviewer.get("role") not in {"human-reviewer", "maintainer"} or not reviewer.get("name"):
+                        errors.append(f"{identity}/{decision['dimension']}: accountable human reviewer required")
+                    if not decision.get("reviewed_at") or not decision.get("notes", "").strip():
+                        errors.append(f"{identity}/{decision['dimension']}: date and substantive notes required")
+        if errors:
+            for error in errors:
+                print(f"ERROR {error}", file=sys.stderr)
+            return 1
+        counts = Counter(entry["overall_status"] for entry in entries)
+        print(f"Territory reviews: {counts.get('approved',0)} approved, {counts.get('changes-requested',0)} changes-requested, {counts.get('pending',0)} pending")
+        if args.require_complete and (counts.get("approved", 0) != len(territories)):
+            print("ERROR final review gate requires every territory to be approved", file=sys.stderr)
+            return 1
+        return 0
+    except (OSError, json.JSONDecodeError, KeyError, ValueError) as error:
+        print(f"ERROR {error}", file=sys.stderr)
+        return 1
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

@@ -1,0 +1,19 @@
+{
+  "fixture_version": "0.1",
+  "id": "ola-conformance-target-expansion-001",
+  "operation": "target-expansion",
+  "release_version": "0.1.0-alpha",
+  "input": {
+    "target": "ola:n:b2404799-3a95-4fea-8b82-b5dd7b4ce32a",
+    "assessable_only": true
+  },
+  "expected": {
+    "count": 6,
+    "contains_ids": [
+      "ola:n:0a9060ad-8834-4e50-8b94-44a52bddd0e8",
+      "ola:n:4f6e553a-26c7-46a8-86e3-c3527f3fcb61",
+      "ola:n:80dd02b4-f9af-416e-b6d0-9f2aa771f509",
+      "ola:n:f4c1632f-8a30-4f73-88da-c3252eff7726"
+    ]
+  }
+}

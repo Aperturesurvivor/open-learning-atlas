@@ -1,0 +1,27 @@
+{
+  "fixture_version": "0.1",
+  "id": "ola-conformance-learner-gap-001",
+  "operation": "learner-gap",
+  "release_version": "0.1.0-alpha",
+  "boundary_note": "Synthetic downstream state; it describes no real person and is not canonical atlas data.",
+  "input": {
+    "target": "ola:n:0a9060ad-8834-4e50-8b94-44a52bddd0e8",
+    "overlay_mastered_ids": [
+      "ola:n:4f6e553a-26c7-46a8-86e3-c3527f3fcb61"
+    ]
+  },
+  "expected": {
+    "missing_direct_ids": [
+      "ola:n:f4c1632f-8a30-4f73-88da-c3252eff7726"
+    ],
+    "requirement_groups": [
+      {
+        "id": "ola:r:9c681c7a-68c1-42f9-b97c-67720be73637",
+        "satisfied": true,
+        "satisfied_members": [
+          "ola:n:4f6e553a-26c7-46a8-86e3-c3527f3fcb61"
+        ]
+      }
+    ]
+  }
+}

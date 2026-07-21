@@ -81,12 +81,12 @@
   },
   {
     "id": "ola:n:f37572d6-cfbf-42e6-b134-1e0eebc85060",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "formulate-solve-continuous-optimization-family",
     "label": "Formulate and solve continuous optimization",
-    "definition": "A capability family within continuous-convex-optimization grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Continuous and Convex Optimization, this family groups bounded performances under the shared purpose \"Formulate and solve continuous optimization\": Formulate a continuous optimization problem; Solve a convex constrained problem; Solve an unconstrained smooth optimization problem.",
     "domains": [
       "mathematics"
     ],
@@ -192,12 +192,12 @@
   },
   {
     "id": "ola:n:07c77ab4-0d9a-45d8-91c0-5138f6364a0d",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "analyze-audit-continuous-optimization-family",
     "label": "Analyze and audit continuous optimization",
-    "definition": "A capability family within continuous-convex-optimization grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Continuous and Convex Optimization, this family groups bounded performances under the shared purpose \"Analyze and audit continuous optimization\": Analyze optimization sensitivity; Audit a continuous optimization result; Derive and interpret an optimization dual.",
     "domains": [
       "mathematics"
     ],
@@ -383,12 +383,12 @@
   },
   {
     "id": "ola:n:1b681f1d-bc93-47d2-8e6d-c40cd82b8dda",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "formulate-solve-discrete-optimization-family",
     "label": "Formulate and solve discrete optimization",
-    "definition": "A capability family within discrete-optimization grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Discrete Optimization, this family groups bounded performances under the shared purpose \"Formulate and solve discrete optimization\": Construct an approximation or heuristic solution; Formulate an integer or combinatorial model; Solve a discrete optimization problem exactly.",
     "domains": [
       "mathematics"
     ],
@@ -494,12 +494,12 @@
   },
   {
     "id": "ola:n:a21a70c5-eb00-4345-8eda-2766af1d31e2",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "analyze-audit-discrete-optimization-family",
     "label": "Analyze and audit discrete optimization",
-    "definition": "A capability family within discrete-optimization grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Discrete Optimization, this family groups bounded performances under the shared purpose \"Analyze and audit discrete optimization\": Analyze a discrete optimality gap; Audit a discrete optimization result; Derive a relaxation bound.",
     "domains": [
       "mathematics"
     ],
@@ -685,12 +685,12 @@
   },
   {
     "id": "ola:n:ec6f5124-2f54-48c6-b4c9-6c5b03fea762",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "build-run-simulations-family",
     "label": "Build and run simulations",
-    "definition": "A capability family within simulation-computational-modeling grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Simulation and Computational Modeling, this family groups bounded performances under the shared purpose \"Build and run simulations\": Design a simulation experiment; Execute a reproducible simulation; Specify a computational simulation.",
     "domains": [
       "mathematics"
     ],
@@ -796,12 +796,12 @@
   },
   {
     "id": "ola:n:196bf7dd-8b8a-46f7-8087-ff46640acd44",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "validate-analyze-simulation-family",
     "label": "Validate and analyze simulations",
-    "definition": "A capability family within simulation-computational-modeling grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Simulation and Computational Modeling, this family groups bounded performances under the shared purpose \"Validate and analyze simulations\": Audit a simulation claim; Quantify Monte Carlo uncertainty; Verify and validate a simulation.",
     "domains": [
       "mathematics"
     ],
@@ -987,12 +987,12 @@
   },
   {
     "id": "ola:n:f29f1c3b-d441-4a47-8b24-33c621d3bbca",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "analyze-design-control-family",
     "label": "Analyze and design control systems",
-    "definition": "A capability family within control-inverse-problems grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Control and Inverse Problems, this family groups bounded performances under the shared purpose \"Analyze and design control systems\": Analyze a linear control system; Design a bounded feedback controller; Simulate and interpret a control response.",
     "domains": [
       "mathematics"
     ],
@@ -1098,12 +1098,12 @@
   },
   {
     "id": "ola:n:2a38a517-0c05-46ba-b872-0eec99d7ecfc",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "solve-audit-inverse-problems-family",
     "label": "Solve and audit inverse problems",
-    "definition": "A capability family within control-inverse-problems grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Control and Inverse Problems, this family groups bounded performances under the shared purpose \"Solve and audit inverse problems\": Audit a control or inverse result; Formulate an inverse problem; Solve a regularized inverse problem.",
     "domains": [
       "mathematics"
     ],
@@ -1289,12 +1289,12 @@
   },
   {
     "id": "ola:n:7ca110b6-daa5-4d03-b374-47d550cb1155",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "formulate-analyze-operations-models-family",
     "label": "Formulate and analyze operations models",
-    "definition": "A capability family within operations-research-decision-science grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Operations Research and Decision Science, this family groups bounded performances under the shared purpose \"Formulate and analyze operations models\": Analyze a queue or service system; Formulate an operations-research model; Solve a resource-allocation or scheduling model.",
     "domains": [
       "mathematics"
     ],
@@ -1400,12 +1400,12 @@
   },
   {
     "id": "ola:n:9e65dd62-40be-41dc-b75b-ff88a1a308bd",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "evaluate-decisions-policies-family",
     "label": "Evaluate decisions and policies",
-    "definition": "A capability family within operations-research-decision-science grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Operations Research and Decision Science, this family groups bounded performances under the shared purpose \"Evaluate decisions and policies\": Audit an operations recommendation; Compare policies under uncertainty; Perform sensitivity or scenario analysis.",
     "domains": [
       "mathematics"
     ],

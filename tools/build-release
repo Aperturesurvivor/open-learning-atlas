@@ -1,0 +1,251 @@
+#!/usr/bin/env python3
+"""Build deterministic, self-contained Open Learning Atlas release packages."""
+
+from __future__ import annotations
+
+from hashlib import sha256
+from pathlib import Path
+from tempfile import TemporaryDirectory
+from typing import Any
+import argparse
+import json
+import mimetypes
+import shutil
+import sys
+
+from lib.atlas_query import Atlas
+
+
+ROOT = Path(__file__).resolve().parents[1]
+DEFINITIONS = ROOT / "release-definitions"
+OUTPUT_ROOT = ROOT / "releases" / "mathematics"
+
+
+def json_bytes(value: Any) -> bytes:
+    return (json.dumps(value, ensure_ascii=False, indent=2, sort_keys=True) + "\n").encode()
+
+
+def digest(path: Path) -> str:
+    return sha256(path.read_bytes()).hexdigest()
+
+
+def write_json(path: Path, value: Any) -> None:
+    path.write_bytes(json_bytes(value))
+
+
+def record_diff(current: list[dict[str, Any]], prior: list[dict[str, Any]] | None) -> dict[str, Any]:
+    current_by_id = {record["id"]: record for record in current}
+    prior_by_id = {record["id"]: record for record in (prior or [])}
+    modified = []
+    for identity in sorted(set(current_by_id) & set(prior_by_id)):
+        before = prior_by_id[identity]
+        after = current_by_id[identity]
+        if before == after:
+            continue
+        modified.append({
+            "id": identity,
+            "from_revision": before.get("revision"),
+            "to_revision": after.get("revision"),
+            "changed_fields": sorted(key for key in set(before) | set(after) if before.get(key) != after.get(key)),
+        })
+    return {
+        "added_ids": sorted(set(current_by_id) - set(prior_by_id)),
+        "removed_ids": sorted(set(prior_by_id) - set(current_by_id)),
+        "modified": modified,
+    }
+
+
+def build(definition_path: Path, output: Path) -> None:
+    definition = json.loads(definition_path.read_text(encoding="utf-8"))
+    dataset_path = ROOT / definition["dataset"]
+    schema_path = ROOT / definition["schema"]
+    atlas = Atlas.load(dataset_path)
+    version = atlas.release["map"]["version"]
+    if definition_path.stem != f"mathematics-{version}":
+        raise ValueError(f"Definition filename and release version differ: {definition_path.stem} vs {version}")
+
+    output.mkdir(parents=True, exist_ok=True)
+    shutil.copyfile(dataset_path, output / "atlas.json")
+    shutil.copyfile(schema_path, output / "schema.json")
+    license_bytes = (ROOT / "LICENSES" / "CC-BY-4.0.txt").read_bytes().rstrip(b"\n") + b"\n"
+    (output / "LICENSE-data.txt").write_bytes(license_bytes)
+    shutil.copyfile(ROOT / "NOTICE", output / "NOTICE.txt")
+
+    statistics = atlas.statistics()
+    write_json(output / "statistics.json", statistics)
+
+    license_manifest = {
+        "package": "Open Learning Atlas: Mathematics",
+        "release": version,
+        "data_and_authored_content": {
+            "license": "CC-BY-4.0",
+            "legal_text": "LICENSE-data.txt",
+            "applies_to": ["atlas.json", "CHANGELOG.md", "README.md", "statistics.json", "diff.json"],
+            "attribution": f"Open Learning Atlas contributors, Open Learning Atlas: Mathematics {version}",
+        },
+        "schema_and_build_software": {
+            "license": "Apache-2.0",
+            "applies_to": ["schema.json"],
+            "repository_license": "https://github.com/Aperturesurvivor/open-learning-atlas/blob/main/LICENSE",
+        },
+        "third_party_sources": "Citations in atlas.json retain their original rights; citation does not relicense source material.",
+    }
+    write_json(output / "license-manifest.json", license_manifest)
+
+    migration_manifest = {
+        "from_release": definition["prior_release"],
+        "to_release": version,
+        "documents": definition["migration_documents"],
+        "note": "No prior release exists." if definition["prior_release"] is None else "Apply every listed migration document in order.",
+    }
+    write_json(output / "migrations.json", migration_manifest)
+
+    prior_release = None
+    if definition["prior_release"] is not None:
+        prior_path = OUTPUT_ROOT / definition["prior_release"] / "atlas.json"
+        prior_release = json.loads(prior_path.read_text(encoding="utf-8"))
+    diff = {
+        "from_release": definition["prior_release"],
+        "to_release": version,
+        "nodes": record_diff(atlas.release["nodes"], prior_release["nodes"] if prior_release else None),
+        "edges": record_diff(atlas.release["edges"], prior_release["edges"] if prior_release else None),
+        "sources": record_diff(atlas.release["sources"], prior_release["sources"] if prior_release else None),
+        "requirement_groups": record_diff(
+            atlas.release["requirement_groups"],
+            prior_release["requirement_groups"] if prior_release else None,
+        ),
+    }
+    write_json(output / "diff.json", diff)
+
+    changelog = [
+        f"# Open Learning Atlas: Mathematics {version}",
+        "",
+        definition["summary"],
+        "",
+        "## Changes",
+        "",
+        *[f"- {item}" for item in definition["changes"]],
+        "",
+        "## Known limitations",
+        "",
+        *[f"- {item}" for item in definition["known_limitations"]],
+        "",
+    ]
+    (output / "CHANGELOG.md").write_text("\n".join(changelog), encoding="utf-8")
+
+    readme = [
+        f"# Open Learning Atlas: Mathematics {version}",
+        "",
+        "This is a self-contained, pinned open-data release package. All included mathematical records and claims retain their explicit record-level status; package inclusion is not expert acceptance.",
+        "",
+        "## Files",
+        "",
+        "- `atlas.json` — complete typed claim graph.",
+        "- `schema.json` — JSON Schema for the release format.",
+        "- `manifest.json` — package identity and per-artifact digests.",
+        "- `statistics.json` — status, confidence, kind, and relation distributions.",
+        "- `checksums.sha256` — SHA-256 verification for every other package file.",
+        "- `migrations.json` — prior-release and migration pointers.",
+        "- `diff.json` — added, removed, and revision/field changes from the prior release.",
+        "- `license-manifest.json`, `LICENSE-data.txt`, and `NOTICE.txt` — reuse terms and attribution.",
+        "- `CHANGELOG.md` — scope, changes, and known limitations.",
+        "",
+        "## Verify",
+        "",
+        "```sh",
+        "sha256sum --check checksums.sha256",
+        "```",
+        "",
+        "Agents should resolve and cite stable `ola:` IDs, preserve record revisions, filter status explicitly, and treat missing claims as unmapped rather than false.",
+        "",
+    ]
+    (output / "README.md").write_text("\n".join(readme), encoding="utf-8")
+
+    roles = {
+        "atlas.json": "dataset",
+        "schema.json": "schema",
+        "statistics.json": "statistics",
+        "license-manifest.json": "license-manifest",
+        "LICENSE-data.txt": "license-text",
+        "NOTICE.txt": "notice",
+        "migrations.json": "migration-pointer",
+        "diff.json": "machine-readable-diff",
+        "CHANGELOG.md": "changelog",
+        "README.md": "documentation",
+    }
+    artifacts = []
+    for name, role in sorted(roles.items()):
+        path = output / name
+        artifacts.append({
+            "path": name,
+            "role": role,
+            "media_type": mimetypes.guess_type(name)[0] or "application/octet-stream",
+            "bytes": path.stat().st_size,
+            "sha256": digest(path),
+        })
+    manifest = {
+        "package_format": definition["package_format"],
+        "release": atlas.release["map"],
+        "format_version": atlas.release["format_version"],
+        "release_date": definition["release_date"],
+        "prior_release": definition["prior_release"],
+        "canonical_repository": "https://github.com/Aperturesurvivor/open-learning-atlas",
+        "artifacts": artifacts,
+    }
+    write_json(output / "manifest.json", manifest)
+
+    checksum_files = sorted(path for path in output.iterdir() if path.is_file() and path.name != "checksums.sha256")
+    checksum_text = "".join(f"{digest(path)}  {path.name}\n" for path in checksum_files)
+    (output / "checksums.sha256").write_text(checksum_text, encoding="utf-8")
+
+
+def compare_directories(expected: Path, actual: Path) -> list[str]:
+    expected_files = {path.relative_to(expected) for path in expected.rglob("*") if path.is_file()}
+    actual_files = {path.relative_to(actual) for path in actual.rglob("*") if path.is_file()}
+    errors = [f"missing generated file: {path}" for path in sorted(expected_files - actual_files)]
+    errors.extend(f"unexpected generated file: {path}" for path in sorted(actual_files - expected_files))
+    for relative in sorted(expected_files & actual_files):
+        if (expected / relative).read_bytes() != (actual / relative).read_bytes():
+            errors.append(f"generated file differs: {relative}")
+    return errors
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--check", action="store_true", help="Verify committed packages are reproducible")
+    args = parser.parse_args()
+    definitions = sorted(DEFINITIONS.glob("mathematics-*.json"))
+    if not definitions:
+        print(f"ERROR no release definitions under {DEFINITIONS}", file=sys.stderr)
+        return 1
+    try:
+        for definition in definitions:
+            version = definition.stem.removeprefix("mathematics-")
+            target = OUTPUT_ROOT / version
+            if args.check:
+                with TemporaryDirectory(prefix="ola-release-") as temporary:
+                    generated = Path(temporary) / version
+                    build(definition, generated)
+                    errors = compare_directories(generated, target) if target.exists() else [f"missing package: {target}"]
+                    if errors:
+                        for error in errors:
+                            print(f"ERROR {version}: {error}", file=sys.stderr)
+                        return 1
+                print(f"OK Mathematics {version}: reproducible release package")
+            else:
+                temporary_parent = target.parent / f".{version}.building"
+                if temporary_parent.exists():
+                    shutil.rmtree(temporary_parent)
+                build(definition, temporary_parent)
+                if target.exists():
+                    shutil.rmtree(target)
+                temporary_parent.rename(target)
+                print(f"Built Mathematics {version}: {target}")
+        return 0
+    except (OSError, json.JSONDecodeError, ValueError) as error:
+        print(f"ERROR {error}", file=sys.stderr)
+        return 1
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

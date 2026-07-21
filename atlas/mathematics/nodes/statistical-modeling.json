@@ -210,12 +210,12 @@
   },
   {
     "id": "ola:n:864b81a1-209f-4d4a-907d-518823593166",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "formulate-statistical-model-family",
     "label": "Formulate statistical models",
-    "definition": "A capability family for turning a statistical question and data-generating context into an explicit model and estimand.",
+    "definition": "Within Statistical Modeling, this family groups bounded performances under the shared purpose \"Formulate statistical models\": Formulate a statistical modeling question; Specify a statistical model.",
     "domains": [
       "mathematics"
     ],
@@ -230,12 +230,12 @@
   },
   {
     "id": "ola:n:c77ba266-5186-4e24-99fb-47431eede57f",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "fit-compare-statistical-models-family",
     "label": "Fit and compare statistical models",
-    "definition": "A capability family for estimating model quantities and comparing candidate models under explicit criteria.",
+    "definition": "Within Statistical Modeling, this family groups bounded performances under the shared purpose \"Fit and compare statistical models\": Compare candidate statistical models; Fit a bounded statistical model.",
     "domains": [
       "mathematics"
     ],
@@ -250,12 +250,12 @@
   },
   {
     "id": "ola:n:bbf627c4-6456-4a4a-9d6a-44e97f4e2b2a",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "diagnose-interpret-statistical-model-family",
     "label": "Diagnose and interpret statistical models",
-    "definition": "A capability family for checking model adequacy and interpreting estimates or predictions with uncertainty and limitations.",
+    "definition": "Within Statistical Modeling, this family groups bounded performances under the shared purpose \"Diagnose and interpret statistical models\": Communicate statistical model limitations; Diagnose statistical model fit; Interpret a statistical model parameter; Interpret a statistical prediction.",
     "domains": [
       "mathematics"
     ],

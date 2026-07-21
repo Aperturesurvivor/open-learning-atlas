@@ -81,12 +81,12 @@
   },
   {
     "id": "ola:n:fc081d5f-95bb-43ba-b4d3-8649882b7351",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "interpret-evaluate-functions-family",
     "label": "Interpret and evaluate functions",
-    "definition": "A capability family within relations-functions-dependence grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Relations, Functions, and Dependence, this family groups bounded performances under the shared purpose \"Interpret and evaluate functions\": Determine whether a relation is a function; Evaluate a function with domain.",
     "domains": [
       "mathematics"
     ],
@@ -162,12 +162,12 @@
   },
   {
     "id": "ola:n:1f320ff1-928d-404f-bb62-2815de9cb4b5",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "compose-invert-functions-family",
     "label": "Compose and invert functions",
-    "definition": "A capability family within relations-functions-dependence grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Relations, Functions, and Dependence, this family groups bounded performances under the shared purpose \"Compose and invert functions\": Compose compatible functions; Construct a restricted function inverse.",
     "domains": [
       "mathematics"
     ],
@@ -243,12 +243,12 @@
   },
   {
     "id": "ola:n:21a84346-3ccc-4125-befa-27cd59589d71",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "analyze-model-dependence-family",
     "label": "Analyze and model dependence",
-    "definition": "A capability family within relations-functions-dependence grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Relations, Functions, and Dependence, this family groups bounded performances under the shared purpose \"Analyze and model dependence\": Analyze injectivity or surjectivity; Construct a function dependence model.",
     "domains": [
       "mathematics"
     ],
@@ -404,12 +404,12 @@
   },
   {
     "id": "ola:n:a50d128d-421b-4f45-b687-994485f563cc",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "generate-represent-sequences-family",
     "label": "Generate and represent sequences",
-    "definition": "A capability family within sequences-series-recurrence grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Sequences, Series, and Recurrence, this family groups bounded performances under the shared purpose \"Generate and represent sequences\": Generate a sequence from a rule; Translate sequence representations.",
     "domains": [
       "mathematics"
     ],
@@ -485,12 +485,12 @@
   },
   {
     "id": "ola:n:757b356c-41aa-47aa-893d-730cb87bddd1",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "analyze-recurrence-convergence-family",
     "label": "Analyze recurrence and convergence",
-    "definition": "A capability family within sequences-series-recurrence grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Sequences, Series, and Recurrence, this family groups bounded performances under the shared purpose \"Analyze recurrence and convergence\": Determine sequence or series convergence; Solve a bounded recurrence.",
     "domains": [
       "mathematics"
     ],
@@ -566,12 +566,12 @@
   },
   {
     "id": "ola:n:549f642d-ed43-4d07-8514-48948a0258e1",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "sum-approximate-justify-series-family",
     "label": "Sum, approximate, and justify series",
-    "definition": "A capability family within sequences-series-recurrence grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Sequences, Series, and Recurrence, this family groups bounded performances under the shared purpose \"Sum, approximate, and justify series\": Audit a convergence argument; Determine a series sum or approximation.",
     "domains": [
       "mathematics"
     ],
@@ -727,12 +727,12 @@
   },
   {
     "id": "ola:n:594c618c-6142-4daa-856c-f9284fd3c688",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "identify-represent-function-families-family",
     "label": "Identify and represent function families",
-    "definition": "A capability family within function-families-transformations grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Function Families and Transformations, this family groups bounded performances under the shared purpose \"Identify and represent function families\": Classify a function family; Translate function-family representations.",
     "domains": [
       "mathematics"
     ],
@@ -808,12 +808,12 @@
   },
   {
     "id": "ola:n:a3fa9e7c-c40e-451f-a433-fd0f3ae90de0",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "transform-fit-family-parameters-family",
     "label": "Transform and fit family parameters",
-    "definition": "A capability family within function-families-transformations grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Function Families and Transformations, this family groups bounded performances under the shared purpose \"Transform and fit family parameters\": Apply a function transformation; Determine function-family parameters.",
     "domains": [
       "mathematics"
     ],
@@ -889,12 +889,12 @@
   },
   {
     "id": "ola:n:88f685f1-1bd0-4a64-b5ae-d7e7ef9218d6",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "analyze-function-family-structure-family",
     "label": "Analyze function-family structure",
-    "definition": "A capability family within function-families-transformations grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Function Families and Transformations, this family groups bounded performances under the shared purpose \"Analyze function-family structure\": Analyze symmetry and asymptotes; Compare function-model families.",
     "domains": [
       "mathematics"
     ],
@@ -1050,12 +1050,12 @@
   },
   {
     "id": "ola:n:bb498f94-4a4b-4d56-90fc-43e518b5845c",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "determine-interpret-rates-family",
     "label": "Determine and interpret rates",
-    "definition": "A capability family within rates-change-local-behavior grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Rates of Change and Local Behavior, this family groups bounded performances under the shared purpose \"Determine and interpret rates\": Compute an average rate of change; Estimate an instantaneous rate.",
     "domains": [
       "mathematics"
     ],
@@ -1131,12 +1131,12 @@
   },
   {
     "id": "ola:n:02998641-dec8-4029-bc19-68722f501b56",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "analyze-local-behavior-family",
     "label": "Analyze local behavior",
-    "definition": "A capability family within rates-change-local-behavior grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Rates of Change and Local Behavior, this family groups bounded performances under the shared purpose \"Analyze local behavior\": Construct a local linear approximation; Determine local increase or decrease.",
     "domains": [
       "mathematics"
     ],
@@ -1212,12 +1212,12 @@
   },
   {
     "id": "ola:n:c4e21064-3d0f-4abc-b244-8139357744e2",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "reason-critique-rates-family",
     "label": "Reason about and critique rates",
-    "definition": "A capability family within rates-change-local-behavior grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Rates of Change and Local Behavior, this family groups bounded performances under the shared purpose \"Reason about and critique rates\": Audit a rate-of-change claim; Interpret rate units in context.",
     "domains": [
       "mathematics"
     ],
@@ -1373,12 +1373,12 @@
   },
   {
     "id": "ola:n:22e06531-4c06-4f65-8176-c5989904dc0e",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "estimate-evaluate-limits-family",
     "label": "Estimate and evaluate limits",
-    "definition": "A capability family within limits-continuity grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Limits and Continuity, this family groups bounded performances under the shared purpose \"Estimate and evaluate limits\": Estimate a limit from a representation; Evaluate a limit with valid laws.",
     "domains": [
       "mathematics"
     ],
@@ -1454,12 +1454,12 @@
   },
   {
     "id": "ola:n:e7499372-8de1-4ee0-a7e5-d9aade50d489",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "analyze-continuity-family",
     "label": "Analyze continuity",
-    "definition": "A capability family within limits-continuity grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Limits and Continuity, this family groups bounded performances under the shared purpose \"Analyze continuity\": Classify a discontinuity; Determine continuity at a point.",
     "domains": [
       "mathematics"
     ],
@@ -1535,12 +1535,12 @@
   },
   {
     "id": "ola:n:f3c3b412-3b23-47d5-9677-885383990c2d",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "justify-limit-claims-family",
     "label": "Justify limit claims",
-    "definition": "A capability family within limits-continuity grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Limits and Continuity, this family groups bounded performances under the shared purpose \"Justify limit claims\": Construct a continuity counterexample; Prove a bounded limit claim.",
     "domains": [
       "mathematics"
     ],
@@ -1696,12 +1696,12 @@
   },
   {
     "id": "ola:n:7454094d-f27f-4afc-9987-cc820ab77d98",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "differentiate-integrate-functions-family",
     "label": "Differentiate and integrate functions",
-    "definition": "A capability family within differentiation-integration grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Differentiation and Integration, this family groups bounded performances under the shared purpose \"Differentiate and integrate functions\": Differentiate a function in scope; Evaluate an integral in scope.",
     "domains": [
       "mathematics"
     ],
@@ -1777,12 +1777,12 @@
   },
   {
     "id": "ola:n:06d02116-c7f3-4f2e-84b3-805069d1460a",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "apply-calculus-structure-family",
     "label": "Apply calculus structure",
-    "definition": "A capability family within differentiation-integration grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Differentiation and Integration, this family groups bounded performances under the shared purpose \"Apply calculus structure\": Model accumulation from a rate; Solve a bounded optimization problem.",
     "domains": [
       "mathematics"
     ],
@@ -1858,12 +1858,12 @@
   },
   {
     "id": "ola:n:90faa4b3-b7e8-4631-8210-4d314447e898",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "connect-verify-calculus-family",
     "label": "Connect and verify differentiation and integration",
-    "definition": "A capability family within differentiation-integration grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Differentiation and Integration, this family groups bounded performances under the shared purpose \"Connect and verify differentiation and integration\": Apply the fundamental theorem of calculus; Audit a differentiation or integration solution.",
     "domains": [
       "mathematics"
     ],
@@ -2019,12 +2019,12 @@
   },
   {
     "id": "ola:n:ced782ef-a645-450c-bfce-9afa61a08010",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "formulate-solve-differential-equations-family",
     "label": "Formulate and solve differential equations",
-    "definition": "A capability family within differential-equations-dynamical-systems grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Differential Equations and Dynamical Systems, this family groups bounded performances under the shared purpose \"Formulate and solve differential equations\": Formulate a bounded differential equation; Solve an elementary differential equation.",
     "domains": [
       "mathematics"
     ],
@@ -2100,12 +2100,12 @@
   },
   {
     "id": "ola:n:1fa1b8ca-9400-435b-a4ab-3a08978092da",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "analyze-dynamics-family",
     "label": "Analyze dynamical behavior",
-    "definition": "A capability family within differential-equations-dynamical-systems grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Differential Equations and Dynamical Systems, this family groups bounded performances under the shared purpose \"Analyze dynamical behavior\": Analyze an equilibrium's stability; Interpret a phase portrait or trajectory.",
     "domains": [
       "mathematics"
     ],
@@ -2181,12 +2181,12 @@
   },
   {
     "id": "ola:n:939df08d-cea9-40df-9b08-07b36c7a186d",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "simulate-validate-dynamics-family",
     "label": "Simulate and validate dynamics",
-    "definition": "A capability family within differential-equations-dynamical-systems grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Differential Equations and Dynamical Systems, this family groups bounded performances under the shared purpose \"Simulate and validate dynamics\": Simulate a dynamical system; Validate a differential-equation model.",
     "domains": [
       "mathematics"
     ],
@@ -2342,12 +2342,12 @@
   },
   {
     "id": "ola:n:21aa5cde-6be6-4d0e-9e55-29cd97b6faae",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "measure-functional-analysis-family",
     "label": "Work with measure and function-space structure",
-    "definition": "A capability family within measure-functional-complex-harmonic-analysis grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Measure, Functional, Complex, and Harmonic Analysis, this family groups bounded performances under the shared purpose \"Work with measure and function-space structure\": Analyze function-space convergence; Compute a measure or Lebesgue integral in scope.",
     "domains": [
       "mathematics"
     ],
@@ -2423,12 +2423,12 @@
   },
   {
     "id": "ola:n:96b09fed-7cca-4094-ae57-e39cc68bd8c9",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "complex-analysis-family",
     "label": "Analyze complex functions",
-    "definition": "A capability family within measure-functional-complex-harmonic-analysis grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Measure, Functional, Complex, and Harmonic Analysis, this family groups bounded performances under the shared purpose \"Analyze complex functions\": Analyze complex differentiability; Evaluate a bounded contour integral.",
     "domains": [
       "mathematics"
     ],
@@ -2504,12 +2504,12 @@
   },
   {
     "id": "ola:n:bc2a8064-df39-4856-990b-b92f5b68c20e",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "harmonic-operator-analysis-family",
     "label": "Use operators and harmonic representations",
-    "definition": "A capability family within measure-functional-complex-harmonic-analysis grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Measure, Functional, Complex, and Harmonic Analysis, this family groups bounded performances under the shared purpose \"Use operators and harmonic representations\": Analyze a Fourier representation; Apply and analyze a bounded linear operator.",
     "domains": [
       "mathematics"
     ],

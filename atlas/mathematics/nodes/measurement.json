@@ -81,12 +81,12 @@
   },
   {
     "id": "ola:n:938aedfc-13c3-40da-8c64-3463b8e33bef",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "identify-represent-measurement-family",
     "label": "Identify and represent measurement",
-    "definition": "A capability family within measurable-attributes-units-scales grouping performances with a shared mathematical purpose.",
+    "definition": "Within Measurable Attributes, Units, and Scales, this family groups bounded performances under the shared purpose \"Identify and represent measurement\": Identify a measurable attribute; Read a calibrated scale.",
     "domains": [
       "mathematics"
     ],
@@ -162,12 +162,12 @@
   },
   {
     "id": "ola:n:3ccffa4b-4f4f-4e7c-a463-667a4b559900",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "choose-convert-units-family",
     "label": "Choose and convert units",
-    "definition": "A capability family within measurable-attributes-units-scales grouping performances with a shared mathematical purpose.",
+    "definition": "Within Measurable Attributes, Units, and Scales, this family groups bounded performances under the shared purpose \"Choose and convert units\": Convert compatible units; Select an appropriate unit and scale.",
     "domains": [
       "mathematics"
     ],
@@ -243,12 +243,12 @@
   },
   {
     "id": "ola:n:a62b208a-763e-4bf7-9f5b-342e292aa9e2",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "reason-about-scales-units-family",
     "label": "Reason about scales and units",
-    "definition": "A capability family within measurable-attributes-units-scales grouping performances with a shared mathematical purpose.",
+    "definition": "Within Measurable Attributes, Units, and Scales, this family groups bounded performances under the shared purpose \"Reason about scales and units\": Audit unit notation or a quantity claim; Interpret a measurement scale.",
     "domains": [
       "mathematics"
     ],
@@ -404,12 +404,12 @@
   },
   {
     "id": "ola:n:42bf2102-06ea-4228-9ded-5ffff21e5921",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "measure-basic-geometry-family",
     "label": "Measure basic geometry",
-    "definition": "A capability family within length-area-volume-angle grouping performances with a shared mathematical purpose.",
+    "definition": "Within Length, Area, Volume, and Angle, this family groups bounded performances under the shared purpose \"Measure basic geometry\": Construct a measurement from a scale drawing; Determine a length or angle.",
     "domains": [
       "mathematics"
     ],
@@ -485,12 +485,12 @@
   },
   {
     "id": "ola:n:4da10494-fec2-4aed-9bb8-67cb81cc2c36",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "calculate-area-volume-family",
     "label": "Calculate area and volume",
-    "definition": "A capability family within length-area-volume-angle grouping performances with a shared mathematical purpose.",
+    "definition": "Within Length, Area, Volume, and Angle, this family groups bounded performances under the shared purpose \"Calculate area and volume\": Determine area or surface area; Determine volume.",
     "domains": [
       "mathematics"
     ],
@@ -566,12 +566,12 @@
   },
   {
     "id": "ola:n:4d14654c-694c-40f6-a5f3-8dd0fad22bfe",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "justify-geometric-measure-family",
     "label": "Justify geometric measure",
-    "definition": "A capability family within length-area-volume-angle grouping performances with a shared mathematical purpose.",
+    "definition": "Within Length, Area, Volume, and Angle, this family groups bounded performances under the shared purpose \"Justify geometric measure\": Bound a geometric measure; Derive a geometric measure formula.",
     "domains": [
       "mathematics"
     ],
@@ -727,12 +727,12 @@
   },
   {
     "id": "ola:n:d28e65be-d531-46e4-9ec0-c53775ecdf63",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "compute-derived-quantities-family",
     "label": "Compute derived quantities",
-    "definition": "A capability family within derived-measurement grouping performances with a shared mathematical purpose.",
+    "definition": "Within Derived Measurement, this family groups bounded performances under the shared purpose \"Compute derived quantities\": Compute a rate, density, or derived value; Convert a compound unit.",
     "domains": [
       "mathematics"
     ],
@@ -808,12 +808,12 @@
   },
   {
     "id": "ola:n:32d9a721-4f30-4fd7-8486-61d60c0956b8",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "construct-interpret-derived-measures-family",
     "label": "Construct and interpret derived measures",
-    "definition": "A capability family within derived-measurement grouping performances with a shared mathematical purpose.",
+    "definition": "Within Derived Measurement, this family groups bounded performances under the shared purpose \"Construct and interpret derived measures\": Construct a derived measure; Interpret a derived measure.",
     "domains": [
       "mathematics"
     ],
@@ -889,12 +889,12 @@
   },
   {
     "id": "ola:n:21d03ebe-5921-47ed-a989-4e5d36f047ae",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "compare-audit-derived-measures-family",
     "label": "Compare and audit derived measures",
-    "definition": "A capability family within derived-measurement grouping performances with a shared mathematical purpose.",
+    "definition": "Within Derived Measurement, this family groups bounded performances under the shared purpose \"Compare and audit derived measures\": Audit a derived-measurement claim; Compare normalized quantities.",
     "domains": [
       "mathematics"
     ],
@@ -1050,12 +1050,12 @@
   },
   {
     "id": "ola:n:863c929f-c417-42e2-9119-16949d4b4b51",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "determine-check-dimensions-family",
     "label": "Determine and check dimensions",
-    "definition": "A capability family within dimensional-analysis grouping performances with a shared mathematical purpose.",
+    "definition": "Within Dimensional Analysis, this family groups bounded performances under the shared purpose \"Determine and check dimensions\": Check dimensional homogeneity; Determine a derived dimension.",
     "domains": [
       "mathematics"
     ],
@@ -1131,12 +1131,12 @@
   },
   {
     "id": "ola:n:b696d34d-54fa-4c0e-ae52-94fee324c180",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "convert-scale-dimensionally-family",
     "label": "Convert and scale dimensionally",
-    "definition": "A capability family within dimensional-analysis grouping performances with a shared mathematical purpose.",
+    "definition": "Within Dimensional Analysis, this family groups bounded performances under the shared purpose \"Convert and scale dimensionally\": Derive a scaling relation; Perform unit-factor analysis.",
     "domains": [
       "mathematics"
     ],
@@ -1212,12 +1212,12 @@
   },
   {
     "id": "ola:n:4ad93f22-43ca-4bef-9225-4d6e30d35f87",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "construct-critique-dimensionless-family",
     "label": "Construct and critique dimensionless relations",
-    "definition": "A capability family within dimensional-analysis grouping performances with a shared mathematical purpose.",
+    "definition": "Within Dimensional Analysis, this family groups bounded performances under the shared purpose \"Construct and critique dimensionless relations\": Audit a dimensional argument; Construct a dimensionless group.",
     "domains": [
       "mathematics"
     ],
@@ -1373,12 +1373,12 @@
   },
   {
     "id": "ola:n:965b1aa8-a15d-43e4-b4a6-f56d006ef0b9",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "report-interpret-precision-family",
     "label": "Report and interpret precision",
-    "definition": "A capability family within precision-tolerance-measurement-uncertainty grouping performances with a shared mathematical purpose.",
+    "definition": "Within Precision, Tolerance, and Measurement Uncertainty, this family groups bounded performances under the shared purpose \"Report and interpret precision\": Distinguish error, uncertainty, resolution, and tolerance; Report a measurement with uncertainty.",
     "domains": [
       "mathematics"
     ],
@@ -1454,12 +1454,12 @@
   },
   {
     "id": "ola:n:fc3d5081-60d3-4a05-8254-d8ffbe3ba0fa",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "combine-compare-uncertainty-family",
     "label": "Combine and compare uncertainty",
-    "definition": "A capability family within precision-tolerance-measurement-uncertainty grouping performances with a shared mathematical purpose.",
+    "definition": "Within Precision, Tolerance, and Measurement Uncertainty, this family groups bounded performances under the shared purpose \"Combine and compare uncertainty\": Compare a result with tolerance or reference; Propagate measurement uncertainty.",
     "domains": [
       "mathematics"
     ],
@@ -1535,12 +1535,12 @@
   },
   {
     "id": "ola:n:ba4bc8a3-03ec-4821-84cd-a0d3f9441de9",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "audit-measurement-quality-family",
     "label": "Audit measurement quality",
-    "definition": "A capability family within precision-tolerance-measurement-uncertainty grouping performances with a shared mathematical purpose.",
+    "definition": "Within Precision, Tolerance, and Measurement Uncertainty, this family groups bounded performances under the shared purpose \"Audit measurement quality\": Audit a measurement-uncertainty claim; Construct an uncertainty budget.",
     "domains": [
       "mathematics"
     ],

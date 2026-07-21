@@ -81,12 +81,12 @@
   },
   {
     "id": "ola:n:4fe8f246-b36a-4a47-a06d-2a4574c90e87",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "interpret-equivalence-family",
     "label": "Interpret symbolic equivalence",
-    "definition": "A capability family within equivalence-symbolic-transformation grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Equivalence and Symbolic Transformation, this family groups bounded performances under the shared purpose \"Interpret symbolic equivalence\": Determine a symbolic form's domain; Distinguish expression, equation, and identity.",
     "domains": [
       "mathematics"
     ],
@@ -162,12 +162,12 @@
   },
   {
     "id": "ola:n:546a57e5-cec1-461d-a32e-3f1bda3bb25e",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "transform-equivalent-forms-family",
     "label": "Transform equivalent forms",
-    "definition": "A capability family within equivalence-symbolic-transformation grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Equivalence and Symbolic Transformation, this family groups bounded performances under the shared purpose \"Transform equivalent forms\": Produce an equivalent symbolic form; Verify a symbolic transformation.",
     "domains": [
       "mathematics"
     ],
@@ -243,12 +243,12 @@
   },
   {
     "id": "ola:n:be13cd84-f7ca-4dab-9c80-550ace002642",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "audit-symbolic-reasoning-family",
     "label": "Audit symbolic reasoning",
-    "definition": "A capability family within equivalence-symbolic-transformation grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Equivalence and Symbolic Transformation, this family groups bounded performances under the shared purpose \"Audit symbolic reasoning\": Detect extraneous or lost solutions; Refute a false symbolic identity.",
     "domains": [
       "mathematics"
     ],
@@ -404,12 +404,12 @@
   },
   {
     "id": "ola:n:a83fea9b-03a6-416d-af6e-85644353e8da",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "interpret-evaluate-expressions-family",
     "label": "Interpret and evaluate expressions",
-    "definition": "A capability family within variables-expressions grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Variables and Expressions, this family groups bounded performances under the shared purpose \"Interpret and evaluate expressions\": Evaluate an expression by substitution; Interpret a variable's role.",
     "domains": [
       "mathematics"
     ],
@@ -485,12 +485,12 @@
   },
   {
     "id": "ola:n:8935e919-7cac-4814-913e-c74bceca3289",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "construct-transform-expressions-family",
     "label": "Construct and transform expressions",
-    "definition": "A capability family within variables-expressions grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Variables and Expressions, this family groups bounded performances under the shared purpose \"Construct and transform expressions\": Compose bounded expressions; Translate a relation into an expression.",
     "domains": [
       "mathematics"
     ],
@@ -566,12 +566,12 @@
   },
   {
     "id": "ola:n:31418f0d-96d2-402c-b07c-1f0e6380801d",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "analyze-expression-structure-family",
     "label": "Analyze expression structure",
-    "definition": "A capability family within variables-expressions grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Variables and Expressions, this family groups bounded performances under the shared purpose \"Analyze expression structure\": Compare expression definitions; Identify expression substructure.",
     "domains": [
       "mathematics"
     ],
@@ -727,12 +727,12 @@
   },
   {
     "id": "ola:n:37da4e40-66ba-4365-91e5-9aa29f9f03fa",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "solve-single-constraints-family",
     "label": "Solve single equations and inequalities",
-    "definition": "A capability family within equations-inequalities-systems grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Equations, Inequalities, and Systems, this family groups bounded performances under the shared purpose \"Solve single equations and inequalities\": Solve a bounded equation; Solve a bounded inequality.",
     "domains": [
       "mathematics"
     ],
@@ -808,12 +808,12 @@
   },
   {
     "id": "ola:n:9e083d68-ee67-4d6e-90c2-0a103e50691a",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "solve-systems-family",
     "label": "Solve simultaneous systems",
-    "definition": "A capability family within equations-inequalities-systems grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Equations, Inequalities, and Systems, this family groups bounded performances under the shared purpose \"Solve simultaneous systems\": Analyze a feasible region; Solve a bounded equation system.",
     "domains": [
       "mathematics"
     ],
@@ -889,12 +889,12 @@
   },
   {
     "id": "ola:n:37da6ef3-2dd8-4efa-be36-d205484d88b0",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "model-audit-solutions-family",
     "label": "Model and audit solution sets",
-    "definition": "A capability family within equations-inequalities-systems grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Equations, Inequalities, and Systems, this family groups bounded performances under the shared purpose \"Model and audit solution sets\": Audit a proposed solution set; Construct an equation or constraint model.",
     "domains": [
       "mathematics"
     ],
@@ -1050,12 +1050,12 @@
   },
   {
     "id": "ola:n:b9da1d6f-4b9d-45f8-a01f-24f09d290706",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "operate-transform-polynomials-family",
     "label": "Operate on and transform polynomials",
-    "definition": "A capability family within polynomial-algebra grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Polynomial Algebra, this family groups bounded performances under the shared purpose \"Operate on and transform polynomials\": Compute polynomial operations; Factor a polynomial in scope.",
     "domains": [
       "mathematics"
     ],
@@ -1131,12 +1131,12 @@
   },
   {
     "id": "ola:n:344759cc-45fe-4989-926c-6145aa802efa",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "analyze-roots-graphs-family",
     "label": "Analyze polynomial roots and graphs",
-    "definition": "A capability family within polynomial-algebra grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Polynomial Algebra, this family groups bounded performances under the shared purpose \"Analyze polynomial roots and graphs\": Analyze polynomial graph structure; Determine polynomial roots.",
     "domains": [
       "mathematics"
     ],
@@ -1212,12 +1212,12 @@
   },
   {
     "id": "ola:n:3471b6dd-aea7-408b-9178-601294b3d73f",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "justify-polynomial-claims-family",
     "label": "Justify polynomial claims",
-    "definition": "A capability family within polynomial-algebra grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Polynomial Algebra, this family groups bounded performances under the shared purpose \"Justify polynomial claims\": Apply the polynomial remainder relation; Prove a bounded polynomial identity.",
     "domains": [
       "mathematics"
     ],
@@ -1373,12 +1373,12 @@
   },
   {
     "id": "ola:n:6e0d6606-baf7-4a29-bde0-84bf48e8e873",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "evaluate-transform-exponential-log-family",
     "label": "Evaluate and transform exponential and logarithmic forms",
-    "definition": "A capability family within exponential-logarithmic-structure grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Exponential and Logarithmic Structure, this family groups bounded performances under the shared purpose \"Evaluate and transform exponential and logarithmic forms\": Evaluate an exponential or logarithmic expression; Transform exponential or logarithmic form.",
     "domains": [
       "mathematics"
     ],
@@ -1454,12 +1454,12 @@
   },
   {
     "id": "ola:n:df0cf276-63a7-4db8-b8c9-979a21f045f1",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "solve-model-growth-family",
     "label": "Solve and model multiplicative change",
-    "definition": "A capability family within exponential-logarithmic-structure grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Exponential and Logarithmic Structure, this family groups bounded performances under the shared purpose \"Solve and model multiplicative change\": Construct an exponential growth or decay model; Solve an exponential or logarithmic equation.",
     "domains": [
       "mathematics"
     ],
@@ -1535,12 +1535,12 @@
   },
   {
     "id": "ola:n:1284c24e-fbb8-4b4a-90d7-699838ca6e08",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "analyze-justify-exponential-family",
     "label": "Analyze and justify exponential structure",
-    "definition": "A capability family within exponential-logarithmic-structure grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Exponential and Logarithmic Structure, this family groups bounded performances under the shared purpose \"Analyze and justify exponential structure\": Audit logarithmic domain reasoning; Compare multiplicative growth rates.",
     "domains": [
       "mathematics"
     ],
@@ -1696,12 +1696,12 @@
   },
   {
     "id": "ola:n:37ee65cb-9958-41b5-b7cb-39b97d92d113",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "verify-compute-algebraic-structures-family",
     "label": "Verify and compute in algebraic structures",
-    "definition": "A capability family within groups-rings-fields-modules grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Groups, Rings, Fields, and Modules, this family groups bounded performances under the shared purpose \"Verify and compute in algebraic structures\": Compute in a finite algebraic structure; Verify algebraic axioms.",
     "domains": [
       "mathematics"
     ],
@@ -1777,12 +1777,12 @@
   },
   {
     "id": "ola:n:b47d3385-4040-4609-890f-1c7b674c4ced",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "analyze-maps-substructures-family",
     "label": "Analyze maps and substructures",
-    "definition": "A capability family within groups-rings-fields-modules grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Groups, Rings, Fields, and Modules, this family groups bounded performances under the shared purpose \"Analyze maps and substructures\": Analyze an algebraic homomorphism; Determine an algebraic substructure.",
     "domains": [
       "mathematics"
     ],
@@ -1858,12 +1858,12 @@
   },
   {
     "id": "ola:n:564382e9-d592-495d-880a-87de20647314",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "prove-compare-algebraic-structures-family",
     "label": "Prove and compare algebraic structures",
-    "definition": "A capability family within groups-rings-fields-modules grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Groups, Rings, Fields, and Modules, this family groups bounded performances under the shared purpose \"Prove and compare algebraic structures\": Construct an algebraic counterexample; Prove a bounded algebraic claim.",
     "domains": [
       "mathematics"
     ],
@@ -2019,12 +2019,12 @@
   },
   {
     "id": "ola:n:fa6a359b-7fe6-4549-b18b-4c4b8679f331",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "interpret-construct-orders-family",
     "label": "Interpret and construct orders",
-    "definition": "A capability family within order-lattices-general-algebra grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Order, Lattices, and General Algebra, this family groups bounded performances under the shared purpose \"Interpret and construct orders\": Construct or interpret a Hasse diagram; Verify a partial or total order.",
     "domains": [
       "mathematics"
     ],
@@ -2100,12 +2100,12 @@
   },
   {
     "id": "ola:n:cac0e01f-deb9-4e62-95dd-db9420c0c808",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "compute-lattice-structure-family",
     "label": "Compute lattice structure",
-    "definition": "A capability family within order-lattices-general-algebra grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Order, Lattices, and General Algebra, this family groups bounded performances under the shared purpose \"Compute lattice structure\": Analyze a monotone order map; Determine bounds, joins, and meets.",
     "domains": [
       "mathematics"
     ],
@@ -2181,12 +2181,12 @@
   },
   {
     "id": "ola:n:6807ddcf-92d9-4c55-8174-c6d16e1786db",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "justify-general-algebra-family",
     "label": "Justify general-algebra claims",
-    "definition": "A capability family within order-lattices-general-algebra grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Order, Lattices, and General Algebra, this family groups bounded performances under the shared purpose \"Justify general-algebra claims\": Construct an order-theoretic counterexample; Prove a bounded lattice identity.",
     "domains": [
       "mathematics"
     ],

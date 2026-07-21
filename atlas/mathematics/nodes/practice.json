@@ -81,12 +81,12 @@
   },
   {
     "id": "ola:n:ff88140c-309e-44c1-8256-9ddcd99821c3",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "interpret-construct-representations-family",
     "label": "Interpret and construct representations",
-    "definition": "A capability family within representation-translation grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Representation and Translation, this family groups bounded performances under the shared purpose \"Interpret and construct representations\": Construct a purposeful mathematical representation; Interpret a mathematical representation.",
     "domains": [
       "mathematics"
     ],
@@ -162,12 +162,12 @@
   },
   {
     "id": "ola:n:593660af-81b6-4f89-8160-b7284fa1ef3e",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "translate-compare-representations-family",
     "label": "Translate and compare representations",
-    "definition": "A capability family within representation-translation grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Representation and Translation, this family groups bounded performances under the shared purpose \"Translate and compare representations\": Compare representational affordances; Translate a mathematical representation.",
     "domains": [
       "mathematics"
     ],
@@ -243,12 +243,12 @@
   },
   {
     "id": "ola:n:8450a32a-8ffd-481d-95eb-30253c26478a",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "audit-representational-meaning-family",
     "label": "Audit representational meaning",
-    "definition": "A capability family within representation-translation grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Representation and Translation, this family groups bounded performances under the shared purpose \"Audit representational meaning\": Detect representational information loss; Justify representation equivalence.",
     "domains": [
       "mathematics"
     ],
@@ -404,12 +404,12 @@
   },
   {
     "id": "ola:n:d0ecd4a8-b10a-43d4-9bd3-48cd5f04f3c7",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "identify-represent-patterns-family",
     "label": "Identify and represent patterns",
-    "definition": "A capability family within pattern-structure grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Pattern and Structure, this family groups bounded performances under the shared purpose \"Identify and represent patterns\": Encode a pattern rule; Identify a mathematical pattern.",
     "domains": [
       "mathematics"
     ],
@@ -485,12 +485,12 @@
   },
   {
     "id": "ola:n:9b5f2822-3515-4a80-9853-15923ee4fd7e",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "extend-test-patterns-family",
     "label": "Extend and test patterns",
-    "definition": "A capability family within pattern-structure grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Pattern and Structure, this family groups bounded performances under the shared purpose \"Extend and test patterns\": Extend a pattern under a stated rule; Test a pattern conjecture.",
     "domains": [
       "mathematics"
     ],
@@ -566,12 +566,12 @@
   },
   {
     "id": "ola:n:2adacdd1-753e-4710-8c86-a16791948f72",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "explain-generalize-patterns-family",
     "label": "Explain and generalize patterns",
-    "definition": "A capability family within pattern-structure grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Pattern and Structure, this family groups bounded performances under the shared purpose \"Explain and generalize patterns\": Explain a pattern structurally; Refute an overgeneralized pattern.",
     "domains": [
       "mathematics"
     ],
@@ -727,12 +727,12 @@
   },
   {
     "id": "ola:n:afa218b7-f36b-4af1-9eac-bd30e39610c8",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "form-abstractions-family",
     "label": "Form mathematical abstractions",
-    "definition": "A capability family within abstraction-generalization grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Abstraction and Generalization, this family groups bounded performances under the shared purpose \"Form mathematical abstractions\": Define an abstract mathematical object; Identify common mathematical structure.",
     "domains": [
       "mathematics"
     ],
@@ -808,12 +808,12 @@
   },
   {
     "id": "ola:n:168418f2-682b-45d1-bc5d-540f507f4833",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "form-test-generalizations-family",
     "label": "Form and test generalizations",
-    "definition": "A capability family within abstraction-generalization grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Abstraction and Generalization, this family groups bounded performances under the shared purpose \"Form and test generalizations\": Formulate a mathematical generalization; Test generalization boundaries.",
     "domains": [
       "mathematics"
     ],
@@ -889,12 +889,12 @@
   },
   {
     "id": "ola:n:6daae6a7-2cc5-4c5a-a159-07cf49903ca6",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "justify-specialize-abstractions-family",
     "label": "Justify and specialize abstractions",
-    "definition": "A capability family within abstraction-generalization grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Abstraction and Generalization, this family groups bounded performances under the shared purpose \"Justify and specialize abstractions\": Prove a bounded generalization; Specialize an abstract result.",
     "domains": [
       "mathematics"
     ],
@@ -1050,12 +1050,12 @@
   },
   {
     "id": "ola:n:af9f8524-947e-4d58-9eaf-b41f11b76ffe",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "formulate-mathematical-problems-family",
     "label": "Formulate mathematical problems",
-    "definition": "A capability family within problem-formulation-conjecture grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Problem Formulation and Conjecture, this family groups bounded performances under the shared purpose \"Formulate mathematical problems\": Diagnose problem well-posedness; Formulate a bounded mathematical problem.",
     "domains": [
       "mathematics"
     ],
@@ -1131,12 +1131,12 @@
   },
   {
     "id": "ola:n:23436cd2-fad6-4359-a8b5-6079c6436b80",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "generate-test-conjectures-family",
     "label": "Generate and test conjectures",
-    "definition": "A capability family within problem-formulation-conjecture grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Problem Formulation and Conjecture, this family groups bounded performances under the shared purpose \"Generate and test conjectures\": Design conjecture tests; Generate a mathematical conjecture.",
     "domains": [
       "mathematics"
     ],
@@ -1212,12 +1212,12 @@
   },
   {
     "id": "ola:n:b36889c1-486d-4e7d-a3fe-005c5446439a",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "refine-prioritize-problems-family",
     "label": "Refine and prioritize mathematical problems",
-    "definition": "A capability family within problem-formulation-conjecture grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Problem Formulation and Conjecture, this family groups bounded performances under the shared purpose \"Refine and prioritize mathematical problems\": Decompose a mathematical problem; Refine a conjecture after evidence.",
     "domains": [
       "mathematics"
     ],
@@ -1373,12 +1373,12 @@
   },
   {
     "id": "ola:n:f503908b-bbb1-4f12-b616-8e91452b70b6",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "estimate-quantities-family",
     "label": "Estimate quantities",
-    "definition": "A capability family within estimation-bounding grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Estimation and Bounding, this family groups bounded performances under the shared purpose \"Estimate quantities\": Determine an order of magnitude; Produce a scale-appropriate estimate.",
     "domains": [
       "mathematics"
     ],
@@ -1454,12 +1454,12 @@
   },
   {
     "id": "ola:n:4d99dc05-be11-4414-984c-2327692f2207",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "construct-propagate-bounds-family",
     "label": "Construct and propagate bounds",
-    "definition": "A capability family within estimation-bounding grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Estimation and Bounding, this family groups bounded performances under the shared purpose \"Construct and propagate bounds\": Construct valid numerical bounds; Propagate approximation error.",
     "domains": [
       "mathematics"
     ],
@@ -1535,12 +1535,12 @@
   },
   {
     "id": "ola:n:1eaff0da-0b78-4280-bb46-ff341200bfbe",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "compare-audit-estimates-family",
     "label": "Compare and audit estimates",
-    "definition": "A capability family within estimation-bounding grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Estimation and Bounding, this family groups bounded performances under the shared purpose \"Compare and audit estimates\": Audit an estimate or bound; Compare approximation quality.",
     "domains": [
       "mathematics"
     ],
@@ -1696,12 +1696,12 @@
   },
   {
     "id": "ola:n:04718bb6-f4f9-4649-b34a-e25cc92843c0",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "formulate-analyze-models-family",
     "label": "Formulate and analyze models",
-    "definition": "A capability family within mathematical-modeling grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Mathematical Modeling, this family groups bounded performances under the shared purpose \"Formulate and analyze models\": Analyze a mathematical model; Formulate a mathematical model.",
     "domains": [
       "mathematics"
     ],
@@ -1777,12 +1777,12 @@
   },
   {
     "id": "ola:n:a914dc49-af20-442a-8a4a-ebf0e6c8ac4e",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "calibrate-validate-models-family",
     "label": "Calibrate and validate models",
-    "definition": "A capability family within mathematical-modeling grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Mathematical Modeling, this family groups bounded performances under the shared purpose \"Calibrate and validate models\": Estimate model parameters; Validate a model against evidence.",
     "domains": [
       "mathematics"
     ],
@@ -1858,12 +1858,12 @@
   },
   {
     "id": "ola:n:3c130296-f32e-46f0-bdb4-8e0b7e648111",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "evaluate-communicate-models-family",
     "label": "Evaluate and communicate models",
-    "definition": "A capability family within mathematical-modeling grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Mathematical Modeling, this family groups bounded performances under the shared purpose \"Evaluate and communicate models\": Analyze model sensitivity; Communicate model limitations.",
     "domains": [
       "mathematics"
     ],
@@ -2019,12 +2019,12 @@
   },
   {
     "id": "ola:n:a94cf2d7-0e60-4fbe-8082-d92cc59d6e51",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "detect-classify-errors-family",
     "label": "Detect and classify errors",
-    "definition": "A capability family within error-uncertainty-critique grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Error, Uncertainty, and Critique, this family groups bounded performances under the shared purpose \"Detect and classify errors\": Classify a mathematical failure mode; Locate the first material error.",
     "domains": [
       "mathematics"
     ],
@@ -2100,12 +2100,12 @@
   },
   {
     "id": "ola:n:a35c36f8-4952-496d-9bf2-4fac5c0f9276",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "quantify-check-uncertainty-family",
     "label": "Quantify and check uncertainty",
-    "definition": "A capability family within error-uncertainty-critique grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Error, Uncertainty, and Critique, this family groups bounded performances under the shared purpose \"Quantify and check uncertainty\": Bound or represent uncertainty; Verify a result by an independent method.",
     "domains": [
       "mathematics"
     ],
@@ -2181,12 +2181,12 @@
   },
   {
     "id": "ola:n:7b1a2deb-9b67-431e-9890-eaee65b04f03",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "critique-revise-claims-family",
     "label": "Critique and revise claims",
-    "definition": "A capability family within error-uncertainty-critique grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Error, Uncertainty, and Critique, this family groups bounded performances under the shared purpose \"Critique and revise claims\": Critique a mathematical claim and its evidence; Revise a solution after error.",
     "domains": [
       "mathematics"
     ],
@@ -2342,12 +2342,12 @@
   },
   {
     "id": "ola:n:99467612-1d3d-4cfc-b2fa-cd2019bebe76",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "produce-mathematical-exposition-family",
     "label": "Produce mathematical exposition",
-    "definition": "A capability family within mathematical-communication grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Mathematical Communication, this family groups bounded performances under the shared purpose \"Produce mathematical exposition\": Explain a mathematical idea for an audience; Write a checkable mathematical solution.",
     "domains": [
       "mathematics"
     ],
@@ -2423,12 +2423,12 @@
   },
   {
     "id": "ola:n:7f359369-2cbf-42c0-9935-433c874f1be5",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "integrate-interpret-communication-family",
     "label": "Integrate and interpret mathematical communication",
-    "definition": "A capability family within mathematical-communication grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Mathematical Communication, this family groups bounded performances under the shared purpose \"Integrate and interpret mathematical communication\": Construct coherent mathematical figure and text; Interpret another mathematical explanation.",
     "domains": [
       "mathematics"
     ],
@@ -2504,12 +2504,12 @@
   },
   {
     "id": "ola:n:fadf4972-ad84-4d5b-94da-c43a24b3f684",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "revise-cite-mathematics-family",
     "label": "Revise and cite mathematical work",
-    "definition": "A capability family within mathematical-communication grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Mathematical Communication, this family groups bounded performances under the shared purpose \"Revise and cite mathematical work\": Attribute mathematical sources and evidence; Revise mathematical exposition.",
     "domains": [
       "mathematics"
     ],

@@ -81,12 +81,12 @@
   },
   {
     "id": "ola:n:3f54f0e5-62f5-4564-969a-30e0e2f6ec60",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "perform-symbolic-computation-family",
     "label": "Perform exact symbolic computation",
-    "definition": "A capability family within exact-symbolic-computation grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Exact and Symbolic Computation, this family groups bounded performances under the shared purpose \"Perform exact symbolic computation\": Compute an exact algebraic object; Differentiate or integrate symbolically in scope; Simplify a symbolic expression exactly.",
     "domains": [
       "mathematics"
     ],
@@ -192,12 +192,12 @@
   },
   {
     "id": "ola:n:842af160-e4e4-4b1b-ae49-7203495de78b",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "design-audit-symbolic-algorithms-family",
     "label": "Design and audit symbolic algorithms",
-    "definition": "A capability family within exact-symbolic-computation grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Exact and Symbolic Computation, this family groups bounded performances under the shared purpose \"Design and audit symbolic algorithms\": Audit computer-algebra output; Design a terminating rewrite procedure; Verify a symbolic result.",
     "domains": [
       "mathematics"
     ],
@@ -383,12 +383,12 @@
   },
   {
     "id": "ola:n:d02de827-111e-4603-8ada-68614d4cba46",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "represent-compute-finite-precision-family",
     "label": "Represent and compute in finite precision",
-    "definition": "A capability family within numerical-representation-error grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Numerical Representation and Error, this family groups bounded performances under the shared purpose \"Represent and compute in finite precision\": Encode or decode a floating-point value; Estimate roundoff error; Perform a rounded arithmetic step.",
     "domains": [
       "mathematics"
     ],
@@ -494,12 +494,12 @@
   },
   {
     "id": "ola:n:75d10c26-d5c3-4255-9900-d7011c956424",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "design-audit-stable-computation-family",
     "label": "Design and audit stable computation",
-    "definition": "A capability family within numerical-representation-error grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Numerical Representation and Error, this family groups bounded performances under the shared purpose \"Design and audit stable computation\": Audit a numerical representation claim; Detect catastrophic cancellation; Reformulate for numerical stability.",
     "domains": [
       "mathematics"
     ],
@@ -685,12 +685,12 @@
   },
   {
     "id": "ola:n:c880971f-27cf-4c56-a521-fb5a6dbaaf2c",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "apply-numerical-methods-family",
     "label": "Apply numerical methods",
-    "definition": "A capability family within numerical-analysis-approximation grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Numerical Analysis and Approximation, this family groups bounded performances under the shared purpose \"Apply numerical methods\": Approximate a root of a nonlinear equation; Construct an interpolation or quadrature approximation; Numerically solve a differential equation.",
     "domains": [
       "mathematics"
     ],
@@ -796,12 +796,12 @@
   },
   {
     "id": "ola:n:9adb45ea-cc3c-4fa5-b46e-1fe15acf4c81",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "analyze-audit-numerical-methods-family",
     "label": "Analyze and audit numerical methods",
-    "definition": "A capability family within numerical-analysis-approximation grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Numerical Analysis and Approximation, this family groups bounded performances under the shared purpose \"Analyze and audit numerical methods\": Audit a numerical approximation; Derive or estimate numerical error order; Select a numerical method and resolution.",
     "domains": [
       "mathematics"
     ],
@@ -907,12 +907,12 @@
   },
   {
     "id": "ola:n:df6c0fa9-ee9b-475b-b110-dec5dc35cf70",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "rational-number-representation-family",
     "label": "Represent and compare rational quantities",
-    "definition": "A capability family for fraction notation, number-line magnitude, equivalence, and comparison of rational values.",
+    "definition": "Within Rational and Proportional Structure, this family groups bounded performances under the shared purpose \"Represent and compare rational quantities\": Compare nonnegative rational magnitudes; Interpret fraction notation; Locate a rational number on a number line.",
     "domains": [
       "mathematics"
     ],
@@ -928,12 +928,12 @@
   },
   {
     "id": "ola:n:b2404799-3a95-4fea-8b82-b5dd7b4ce32a",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "ratio-proportion-action-family",
     "label": "Interpret and solve proportional relations",
-    "definition": "A capability family for ratios, unit rates, equivalent ratios, proportional relationships, and multiplicative justification.",
+    "definition": "Within Rational and Proportional Structure, this family groups bounded performances under the shared purpose \"Interpret and solve proportional relations\": Construct an equivalent ratio; Determine a missing proportional value; Determine a unit rate; Identify a proportional relationship; Interpret a ratio; Justify multiplicative reasoning.",
     "domains": [
       "mathematics"
     ],

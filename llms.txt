@@ -31,6 +31,15 @@ model, assessment product, or tutoring application.
   measurable end-state contract.
 - [`docs/human-agent-access.md`](docs/human-agent-access.md) — parity rules for
   human and machine access.
+- [`docs/v1-status.md`](docs/v1-status.md) — requirement-by-requirement evidence
+  and explicit pending review counts.
+- [`releases/mathematics/0.1.0-alpha/`](releases/mathematics/0.1.0-alpha/)
+  — self-contained package with manifest, checksums, licenses, statistics, and changelog.
+- [`docs/agent-query-guide.md`](docs/agent-query-guide.md) — exact resolve,
+  traversal, expansion, filtering, and citation examples.
+- [`conformance/`](conformance/) — downstream target, curriculum-coverage, and
+  learner-gap fixtures that keep overlay state outside the map.
+- [`viewer/`](viewer/) — responsive human access generated from the same release.
 
 ## Identity and Direction
 
@@ -58,8 +67,10 @@ taxonomy positions must never be encoded in IDs.
 
 ## Machine Use
 
-Do not scrape the future visual site. Consume a pinned generated JSON release
-directly. Preserve IDs and revisions when caching.
+Do not scrape the visual site. Consume a pinned generated JSON release directly.
+Preserve IDs and revisions when caching. `tools/query-atlas` provides JSON-only
+resolve, search, path, neighbor, expansion, requirement, and statistics queries
+without third-party dependencies.
 Filter by record status and confidence explicitly; never silently treat
 `candidate` as `accepted`.
 
@@ -69,11 +80,12 @@ To change data, edit a focused array under `atlas/mathematics/`, run
 
 ## Current Development State
 
-The v0.1 constitution is ratified and the connected alpha release validates.
-Most mathematical terrain is still represented only by broad composites. The
-main work toward v1 is consistent decomposition into concepts,
-representations, knowledge, practices, and bounded observable capabilities
-across every region, followed by a mobile viewer and complete release package.
+The v0.1 constitution is ratified. The connected alpha release contains 1,210
+nodes and 2,937 relationships; all 85 territories pass the measurable breadth
+floor. The responsive viewer, pinned release package, query interface, migration
+example, and downstream conformance fixtures are implemented. Mathematical
+claims remain candidates pending qualitative scope, correctness, duplication,
+and dependency review; machine breadth is necessary but not v1 acceptance.
 
 ## Licensing
 

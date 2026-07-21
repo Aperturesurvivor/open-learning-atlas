@@ -11,3 +11,5 @@ coverage/
 tmp/
 runs/
 _imports/
+__pycache__/
+*.pyc

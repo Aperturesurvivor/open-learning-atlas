@@ -12,6 +12,8 @@ capability, beginning with mathematics.
 5. Edit canonical fragments under `atlas/mathematics/`, never generated releases.
 6. Run `tools/build-atlas`, `tools/build-atlas --check`, and
    `tools/validate-map` after changing machine-readable map data.
+7. Regenerate `releases/` and review inventory with `tools/build-release` and
+   `tools/build-review-inventory`; never hand-edit generated packages or inventories.
 
 ## Map Rules
 
@@ -25,6 +27,8 @@ capability, beginning with mathematics.
   confidence, and provenance.
 - Missing claims mean “not currently mapped,” not “does not exist.”
 - AI-authored records begin as `candidate` and cannot self-promote.
+- AI agents may not create human-review approvals or name a person as reviewer
+  without that person's explicit, attributable review.
 - Do not manufacture sources, consensus, review, or empirical support.
 - Preserve stable IDs; deprecate with redirects instead of silently deleting.
 
@@ -42,3 +46,5 @@ capability, beginning with mathematics.
 
 Follow `CONTRIBUTING.md`. A passing validator is necessary but not sufficient:
 mathematical and educational claims remain candidates until accountable review.
+Use `tools/query-atlas` for read-only traversal and `tools/run-conformance` for
+downstream examples. `tools/v1-release-gate` is the final local release gate.

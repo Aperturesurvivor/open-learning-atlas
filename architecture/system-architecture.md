@@ -30,9 +30,11 @@ The source of truth is plain, reviewable, version-controlled map data conforming
 to the constitution and schema. A future graph database, website, editor, or API
 is a projection and may be rebuilt from a pinned release.
 
-The current repository uses complete JSON map documents for the v0.1 pressure
-test. A later scale-oriented layout may store one record per source file and
-generate release snapshots, but the record semantics must remain stable.
+The editable source is split into focused arrays under `atlas/mathematics/`.
+`tools/build-atlas` deterministically compiles the connected JSON snapshot.
+`tools/build-release` then produces a self-contained checksummed package; the
+viewer and query tools consume the same snapshot rather than maintaining their
+own meanings.
 
 ## Validation Boundary
 

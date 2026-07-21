@@ -22,13 +22,35 @@ jobs:
         run: tools/validate-map
       - name: Verify reproducible atlas release
         run: tools/build-atlas --check
+      - name: Verify reproducible release package
+        run: tools/build-release --check
       - name: Report Mathematics v1 coverage
         run: tools/audit-v1
+      - name: Audit textual and review-state quality signals
+        run: tools/audit-quality
+      - name: Test agent queries and downstream conformance
+        run: tools/query-atlas stats > /dev/null && tools/run-conformance
+      - name: Validate migration semantics
+        run: tools/validate-migrations
+      - name: Verify review inventory and ledger structure
+        run: tools/build-review-inventory --check && tools/validate-reviews
+      - name: Check repository documentation links
+        run: tools/check-links
       - name: Run JSON Schema validation
         run: >-
           check-jsonschema
           --schemafile map/schema/open-learning-atlas.schema.json
           map/domains/*.json map/examples/*.json map/releases/*.json
+      - name: Validate migration JSON Schema
+        run: >-
+          check-jsonschema
+          --schemafile map/schema/open-learning-atlas-migration.schema.json
+          migrations/examples/*.json
+      - name: Validate territory review JSON Schema
+        run: >-
+          check-jsonschema
+          --schemafile review/schema/territory-review.schema.json
+          review/territory-reviews.json
   viewer:
     runs-on: ubuntu-latest
     defaults:

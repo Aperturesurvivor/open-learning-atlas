@@ -81,12 +81,12 @@
   },
   {
     "id": "ola:n:e7c5299d-b294-4e7a-ac34-dda7a13aee98",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "formulate-analyze-mechanics-family",
     "label": "Formulate and analyze mechanics",
-    "definition": "A capability family within mechanics-continuum-fluids grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Mechanics, Continua, and Fluids, this family groups bounded performances under the shared purpose \"Formulate and analyze mechanics\": Analyze mechanical scaling and dimensions; Construct a mechanical balance model; Solve a bounded mechanics problem.",
     "domains": [
       "mathematics"
     ],
@@ -192,12 +192,12 @@
   },
   {
     "id": "ola:n:7aa440ff-d0d5-4140-85cb-3652018568a0",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "validate-audit-continuum-models-family",
     "label": "Validate and audit continuum models",
-    "definition": "A capability family within mechanics-continuum-fluids grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Mechanics, Continua, and Fluids, this family groups bounded performances under the shared purpose \"Validate and audit continuum models\": Audit a mechanics or fluid claim; Interpret a mechanical field solution; Simulate a continuum or fluid model.",
     "domains": [
       "mathematics"
     ],
@@ -383,12 +383,12 @@
   },
   {
     "id": "ola:n:5cd1583b-4293-46ee-96aa-b5452129d970",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "formulate-solve-mathematical-physics-family",
     "label": "Formulate and solve mathematical-physics models",
-    "definition": "A capability family within mathematical-physics grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Mathematical Physics, this family groups bounded performances under the shared purpose \"Formulate and solve mathematical-physics models\": Apply a symmetry–conservation relation; Formulate a physical field equation; Solve a bounded spectral or boundary problem.",
     "domains": [
       "mathematics"
     ],
@@ -494,12 +494,12 @@
   },
   {
     "id": "ola:n:b4433159-3ef7-4c75-ba4c-4954ef1b6640",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "interpret-audit-physical-mathematics-family",
     "label": "Interpret and audit physical mathematics",
-    "definition": "A capability family within mathematical-physics grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Mathematical Physics, this family groups bounded performances under the shared purpose \"Interpret and audit physical mathematics\": Analyze an asymptotic or perturbative regime; Audit a mathematical-physics claim; Interpret a mathematical-physics solution.",
     "domains": [
       "mathematics"
     ],
@@ -685,12 +685,12 @@
   },
   {
     "id": "ola:n:20ee95a5-fe18-412d-b51c-2812c63e0356",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "formulate-analyze-biological-models-family",
     "label": "Formulate and analyze biological models",
-    "definition": "A capability family within biological-medical-mathematics grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Biological and Medical Mathematics, this family groups bounded performances under the shared purpose \"Formulate and analyze biological models\": Analyze biological dynamics; Construct a population or compartment model; Fit and assess biological parameters.",
     "domains": [
       "mathematics"
     ],
@@ -796,12 +796,12 @@
   },
   {
     "id": "ola:n:34a8cf07-68e1-405a-a73a-c989f3869abb",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "validate-audit-biomedical-inference-family",
     "label": "Validate and audit biomedical inference",
-    "definition": "A capability family within biological-medical-mathematics grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Biological and Medical Mathematics, this family groups bounded performances under the shared purpose \"Validate and audit biomedical inference\": Analyze a medical risk or benefit model; Audit a biological or medical mathematics claim; Design biological model validation.",
     "domains": [
       "mathematics"
     ],
@@ -987,12 +987,12 @@
   },
   {
     "id": "ola:n:74ec03d3-22e9-4865-9dc1-bc6f6f2ca6b7",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "formulate-analyze-economic-games-family",
     "label": "Formulate and analyze economic or strategic models",
-    "definition": "A capability family within economics-finance-game-theory grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Economics, Finance, and Game Theory, this family groups bounded performances under the shared purpose \"Formulate and analyze economic or strategic models\": Analyze a strategic game; Analyze market equilibrium or comparative statics; Construct an economic optimization model.",
     "domains": [
       "mathematics"
     ],
@@ -1098,12 +1098,12 @@
   },
   {
     "id": "ola:n:499932c3-5fe0-423d-9bc9-63875ced40c4",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "analyze-finance-risk-evidence-family",
     "label": "Analyze finance, risk, and evidence",
-    "definition": "A capability family within economics-finance-game-theory grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Economics, Finance, and Game Theory, this family groups bounded performances under the shared purpose \"Analyze finance, risk, and evidence\": Analyze portfolio risk and return; Audit an economic or financial claim; Value a bounded cash flow or asset.",
     "domains": [
       "mathematics"
     ],
@@ -1289,12 +1289,12 @@
   },
   {
     "id": "ola:n:59345454-9322-4196-af6a-6bf4de09e0c6",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "formulate-analyze-earth-space-models-family",
     "label": "Formulate and analyze Earth or space models",
-    "definition": "A capability family within earth-environment-space-sciences grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Earth, Environmental, and Space Sciences, this family groups bounded performances under the shared purpose \"Formulate and analyze Earth or space models\": Analyze a spatiotemporal field; Compute an orbit or trajectory in scope; Construct a geospatial balance model.",
     "domains": [
       "mathematics"
     ],
@@ -1400,12 +1400,12 @@
   },
   {
     "id": "ola:n:1f8cb02f-b19e-449e-b366-bd948caba2e0",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "forecast-validate-audit-earth-systems-family",
     "label": "Forecast, validate, and audit Earth systems",
-    "definition": "A capability family within earth-environment-space-sciences grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Earth, Environmental, and Space Sciences, this family groups bounded performances under the shared purpose \"Forecast, validate, and audit Earth systems\": Audit an Earth, environmental, or space claim; Evaluate an ensemble, scenario, or forecast; Perform bounded state estimation or data assimilation.",
     "domains": [
       "mathematics"
     ],

@@ -1,0 +1,81 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://openlearningatlas.org/schema/territory-review-0.1.json",
+  "title": "Open Learning Atlas territory review ledger",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["format_version", "map_id", "map_version", "review_scope", "entries"],
+  "properties": {
+    "format_version": { "const": "0.1" },
+    "map_id": { "type": "string", "pattern": "^ola:m:" },
+    "map_version": { "type": "string", "minLength": 1 },
+    "review_scope": { "const": "atlas-territories" },
+    "entries": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/entry" }
+    }
+  },
+  "$defs": {
+    "reviewer": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name", "role"],
+      "properties": {
+        "name": { "type": "string", "minLength": 1 },
+        "role": { "enum": ["human-reviewer", "maintainer"] },
+        "affiliation": { "type": "string" },
+        "identifier": { "type": "string" }
+      }
+    },
+    "decision": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["dimension", "status"],
+      "properties": {
+        "dimension": {
+          "enum": [
+            "scope-boundary",
+            "material-omissions",
+            "aggregation-split-quality",
+            "multi-region-membership",
+            "mathematical-correctness",
+            "capability-observability",
+            "representation-coverage",
+            "dependency-state-honesty"
+          ]
+        },
+        "status": { "enum": ["pending", "approved", "changes-requested"] },
+        "reviewer": { "$ref": "#/$defs/reviewer" },
+        "reviewed_at": { "type": "string", "format": "date" },
+        "notes": { "type": "string", "minLength": 1 },
+        "source_ids": {
+          "type": "array",
+          "items": { "type": "string", "pattern": "^ola:s:" },
+          "uniqueItems": true
+        }
+      },
+      "allOf": [
+        {
+          "if": { "properties": { "status": { "enum": ["approved", "changes-requested"] } } },
+          "then": { "required": ["reviewer", "reviewed_at", "notes"] }
+        }
+      ]
+    },
+    "entry": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["territory_id", "territory_revision", "overall_status", "decisions"],
+      "properties": {
+        "territory_id": { "type": "string", "pattern": "^ola:n:" },
+        "territory_revision": { "type": "integer", "minimum": 1 },
+        "overall_status": { "enum": ["pending", "approved", "changes-requested"] },
+        "decisions": {
+          "type": "array",
+          "minItems": 8,
+          "maxItems": 8,
+          "items": { "$ref": "#/$defs/decision" }
+        }
+      }
+    }
+  }
+}

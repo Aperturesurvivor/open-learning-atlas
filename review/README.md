@@ -1,0 +1,42 @@
+# Mathematics review ledger
+
+Machine validation can prove structure, reachability, reproducibility, and measurable coverage floors. It cannot establish that a mathematical decomposition is correct, well-scoped, non-duplicative, or educationally useful. This directory keeps that distinction inspectable.
+
+## Artifacts
+
+- `inventory/mathematics-0.1.0-alpha.json` is generated structural evidence for all 85 territories.
+- `territory-reviews.json` is the human-editable decision ledger. It begins with every dimension pending.
+- `schema/territory-review.schema.json` defines the review interchange format.
+
+Do not generate approvals, attribute an AI as the accountable reviewer, or mark an entry approved because automated checks pass.
+
+## Review dimensions
+
+Every territory requires explicit decisions for:
+
+1. scope and boundary;
+2. material omissions;
+3. aggregation and split quality;
+4. multi-region membership;
+5. mathematical correctness;
+6. capability observability;
+7. representation coverage;
+8. dependency-state honesty.
+
+An `approved` or `changes-requested` decision requires a reviewer name, date, and substantive note. Material objections should produce a map change or a contested claim rather than being erased.
+
+## Workflow
+
+1. Pin the map version and choose one territory from the generated inventory.
+2. Inspect its descendants, sources, relationships, capability statements, and coverage notes.
+3. Record one decision per dimension in `territory-reviews.json` through a pull request.
+4. Run `tools/validate-reviews` and all map checks.
+5. Re-review any territory whose identity revision or material descendants change.
+
+```sh
+tools/build-review-inventory --check
+tools/validate-reviews
+tools/validate-reviews --require-complete  # final v1 gate; intentionally fails while reviews are pending
+```
+
+The initial alpha ledger is a review queue, not review evidence.

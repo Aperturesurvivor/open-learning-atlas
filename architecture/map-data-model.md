@@ -195,14 +195,17 @@ The validator currently enforces:
 - valid conditional requirement groups;
 - lifecycle notes for deprecated nodes.
 
-Future validation should add immutable-revision checking across releases,
-schema-level migration checks, duplicate-candidate detection, and conditional
-cycle analysis. Generated releases already require one atlas root, nonempty
-record provenance, and directed reachability from that root.
+The migration schema and semantic validator now check non-destructive rename,
+deprecation, split, replacement, revision, and redirect mechanics. The quality
+audit detects duplicate labels, definitions, capability statements, and shallow
+textual placeholders. Cross-release immutable-history comparison and general
+conditional cycle analysis remain future validation work. Generated releases
+require one atlas root, nonempty record provenance, and directed reachability
+from that root.
 
 ## Release Shape
 
-A future public release should contain:
+The deterministic public-alpha package contains:
 
 ```text
 release manifest
@@ -211,10 +214,12 @@ release manifest
 ├── checksums
 ├── license manifest
 ├── prior-release pointer
-├── machine-readable diff
-├── migration mappings
+├── migration pointer or mappings
 └── human-readable changelog
 ```
+
+A machine-readable diff becomes required when a package has a prior release;
+the initial alpha correctly declares `prior_release: null`.
 
 The current repository is a public-alpha architecture. Its `0.1` format is
 experimental until the v1 release contract is satisfied; record status and map

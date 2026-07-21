@@ -1,0 +1,23 @@
+{
+  "package_format": "0.1",
+  "dataset": "map/releases/mathematics-v0.1.0-alpha.json",
+  "schema": "map/schema/open-learning-atlas.schema.json",
+  "release_date": "2026-07-21",
+  "prior_release": null,
+  "migration_documents": [],
+  "summary": "First connected public-alpha mathematics atlas with measurable breadth decomposition and a mobile-first viewer.",
+  "changes": [
+    "Established one connected mathematics root, 13 regions, and 85 territories.",
+    "Decomposed every territory past the measurable v1 breadth floor.",
+    "Replaced repeated generic capability-family definitions with 233 distinct, territory-scoped summaries of their bounded child performances.",
+    "Added typed concepts, knowledge, representations, practices, capabilities, composites, and relationship claims.",
+    "Added deterministic compilation, semantic and schema validation, query tools, downstream conformance fixtures, and a responsive viewer.",
+    "Kept all AI-assisted mathematical records and claims at candidate status pending accountable review."
+  ],
+  "known_limitations": [
+    "All mathematical records and relationships are candidates; structural validation is not expert acceptance.",
+    "Most dependency declarations remain unreviewed and the current graph contains only a pressure-test set of requires claims.",
+    "Coverage breadth is machine-audited, but qualitative scope, granularity, duplication, and correctness review remains open.",
+    "The release is an alpha format and is not Open Learning Atlas: Mathematics v1.0."
+  ]
+}

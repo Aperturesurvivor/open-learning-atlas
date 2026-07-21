@@ -1,0 +1,93 @@
+#!/usr/bin/env python3
+"""Run downstream-operation fixtures against a pinned atlas release."""
+
+from __future__ import annotations
+
+from pathlib import Path
+from typing import Any
+import argparse
+import json
+import sys
+
+from lib.atlas_query import Atlas, DEFAULT_RELEASE, QueryError
+
+
+ROOT = Path(__file__).resolve().parents[1]
+DEFAULT_FIXTURES = ROOT / "conformance" / "fixtures"
+
+
+def assert_equal(actual: Any, expected: Any, context: str) -> None:
+    if actual != expected:
+        raise QueryError(f"{context}: expected {expected!r}, got {actual!r}")
+
+
+def run_fixture(atlas: Atlas, fixture: dict[str, Any]) -> dict[str, Any]:
+    assert_equal(atlas.release["map"]["version"], fixture["release_version"], f"{fixture['id']} release")
+    operation = fixture["operation"]
+    values = fixture["input"]
+    expected = fixture["expected"]
+
+    if operation == "target-expansion":
+        records = atlas.assessable_descendants(values["target"]) if values.get("assessable_only") else atlas.descendants(values["target"])
+        identities = {record["id"] for record in records}
+        assert_equal(len(records), expected["count"], f"{fixture['id']} count")
+        missing = sorted(set(expected["contains_ids"]) - identities)
+        assert_equal(missing, [], f"{fixture['id']} contains_ids")
+        result = {"count": len(records), "record_ids": sorted(identities)}
+    elif operation == "curriculum-coverage":
+        target_ids = {node["id"] for node in atlas.assessable_descendants(values["target"])}
+        covered_ids = atlas.expanded_coverage(values["overlay_covered_ids"]) & target_ids
+        gap_ids = sorted(target_ids - covered_ids)
+        assert_equal(len(target_ids), expected["target_assessable_count"], f"{fixture['id']} target count")
+        assert_equal(len(covered_ids), expected["covered_count"], f"{fixture['id']} covered count")
+        assert_equal(gap_ids, sorted(expected["gap_ids"]), f"{fixture['id']} gaps")
+        result = {
+            "target_assessable_count": len(target_ids),
+            "covered_count": len(covered_ids),
+            "gap_ids": gap_ids,
+        }
+    elif operation == "learner-gap":
+        gap = atlas.learner_gap(values["target"], values["overlay_mastered_ids"])
+        assert_equal(gap["missing_direct_ids"], sorted(expected["missing_direct_ids"]), f"{fixture['id']} direct gaps")
+        actual_groups = [
+            {
+                "id": item["group"]["id"],
+                "satisfied": item["satisfied"],
+                "satisfied_members": item["satisfied_members"],
+            }
+            for item in gap["requirement_groups"]
+        ]
+        assert_equal(actual_groups, expected["requirement_groups"], f"{fixture['id']} requirement groups")
+        result = {"missing_direct_ids": gap["missing_direct_ids"], "requirement_groups": actual_groups}
+    else:
+        raise QueryError(f"{fixture['id']}: unknown operation {operation!r}")
+    return {"id": fixture["id"], "operation": operation, "status": "pass", "result": result}
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--release", type=Path, default=DEFAULT_RELEASE)
+    parser.add_argument("--fixtures", type=Path, default=DEFAULT_FIXTURES)
+    parser.add_argument("--pretty", action="store_true")
+    args = parser.parse_args()
+    try:
+        atlas = Atlas.load(args.release)
+        results = []
+        paths = sorted(args.fixtures.glob("*.json"))
+        if not paths:
+            raise QueryError(f"No fixtures found under {args.fixtures}")
+        for path in paths:
+            with path.open(encoding="utf-8") as handle:
+                results.append(run_fixture(atlas, json.load(handle)))
+        output = {"release": atlas.release["map"]["version"], "fixtures": results, "status": "pass"}
+        json.dump(output, sys.stdout, ensure_ascii=False, indent=2 if args.pretty else None, sort_keys=args.pretty)
+        sys.stdout.write("\n")
+        return 0
+    except (OSError, json.JSONDecodeError, QueryError) as error:
+        json.dump({"status": "fail", "error": str(error)}, sys.stderr)
+        sys.stderr.write("\n")
+        return 1
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

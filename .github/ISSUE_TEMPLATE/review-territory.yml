@@ -1,0 +1,59 @@
+name: Review a mathematics territory
+description: Record or propose accountable qualitative review of one atlas territory.
+title: "[Review]: "
+labels: [review, mathematics]
+body:
+  - type: input
+    id: territory
+    attributes:
+      label: Territory ID and label
+      placeholder: "ola:n:... — Graphs and Networks"
+    validations:
+      required: true
+  - type: input
+    id: release
+    attributes:
+      label: Pinned map version or commit
+      placeholder: "0.1.0-alpha / commit SHA"
+    validations:
+      required: true
+  - type: textarea
+    id: expertise
+    attributes:
+      label: Relevant background
+      description: Briefly identify the mathematical, educational, professional, or lived experience informing this review.
+    validations:
+      required: true
+  - type: checkboxes
+    id: dimensions
+    attributes:
+      label: Dimensions inspected
+      options:
+        - label: Scope and boundary
+        - label: Material omissions
+        - label: Aggregation and split quality
+        - label: Multi-region membership
+        - label: Mathematical correctness
+        - label: Capability observability
+        - label: Representation coverage
+        - label: Dependency-state honesty
+  - type: textarea
+    id: findings
+    attributes:
+      label: Findings and proposed decisions
+      description: Give reasoning and identify concrete records or claims. A validator pass is not sufficient evidence.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources or corroborating evidence
+  - type: checkboxes
+    id: disclosure
+    attributes:
+      label: Attribution and disclosure
+      options:
+        - label: I consent to attribution of this review under the repository contribution terms.
+          required: true
+        - label: I disclosed any material AI assistance and did not treat AI output as accountable human approval.
+          required: true

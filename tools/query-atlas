@@ -1,0 +1,108 @@
+#!/usr/bin/env python3
+"""Query a pinned Open Learning Atlas JSON release without scraping the viewer."""
+
+from __future__ import annotations
+
+from pathlib import Path
+from typing import Any
+import argparse
+import json
+import sys
+
+from lib.atlas_query import Atlas, DEFAULT_RELEASE, QueryError, compact_node
+
+
+def emit(value: Any, pretty: bool) -> None:
+    json.dump(value, sys.stdout, ensure_ascii=False, indent=2 if pretty else None, sort_keys=pretty)
+    sys.stdout.write("\n")
+
+
+def parser() -> argparse.ArgumentParser:
+    root = argparse.ArgumentParser(description=__doc__)
+    root.add_argument("--release", type=Path, default=DEFAULT_RELEASE, help="Pinned atlas release JSON")
+    root.add_argument("--pretty", action="store_true", help="Indent and sort JSON output")
+    commands = root.add_subparsers(dest="command", required=True)
+
+    commands.add_parser("stats", help="Report release statistics")
+
+    resolve = commands.add_parser("resolve", help="Resolve one exact stable ID or slug")
+    resolve.add_argument("reference")
+
+    search = commands.add_parser("search", help="Search labels, slugs, IDs, and definitions")
+    search.add_argument("query")
+    search.add_argument("--limit", type=int, default=20)
+
+    path = commands.add_parser("path", help="Find a deterministic composition path from the root")
+    path.add_argument("reference")
+
+    neighbors = commands.add_parser("neighbors", help="List incoming and outgoing typed claims")
+    neighbors.add_argument("reference")
+    neighbors.add_argument("--direction", choices=("incoming", "outgoing", "all"), default="all")
+    neighbors.add_argument("--relation")
+
+    expand = commands.add_parser("expand", help="Expand a composite target through composed_of claims")
+    expand.add_argument("reference")
+    expand.add_argument("--kinds", help="Comma-separated node kinds")
+    expand.add_argument("--assessable-only", action="store_true")
+
+    requirements = commands.add_parser("requirements", help="Show direct and grouped requirements for a target")
+    requirements.add_argument("reference")
+    return root
+
+
+def main() -> int:
+    args = parser().parse_args()
+    try:
+        atlas = Atlas.load(args.release)
+        if args.command == "stats":
+            result = atlas.statistics()
+        elif args.command == "resolve":
+            result = atlas.resolve_node(args.reference)
+        elif args.command == "search":
+            result = {
+                "query": args.query,
+                "results": [compact_node(node) for node in atlas.search(args.query, args.limit)],
+            }
+        elif args.command == "path":
+            result = {
+                "reference": args.reference,
+                "path": [compact_node(node) for node in atlas.composition_path(args.reference)],
+            }
+        elif args.command == "neighbors":
+            node = atlas.resolve_node(args.reference)
+            directions = ("incoming", "outgoing") if args.direction == "all" else (args.direction,)
+            claims = []
+            for direction in directions:
+                edges = atlas.incoming[node["id"]] if direction == "incoming" else atlas.outgoing[node["id"]]
+                for edge in edges:
+                    if args.relation and edge["relation"] != args.relation:
+                        continue
+                    other_id = edge["subject"] if direction == "incoming" else edge["object"]
+                    claims.append({"direction": direction, "edge": edge, "other": compact_node(atlas.nodes[other_id])})
+            result = {"node": compact_node(node), "claims": sorted(claims, key=lambda claim: claim["edge"]["id"])}
+        elif args.command == "expand":
+            kinds = args.kinds.split(",") if args.kinds else None
+            records = atlas.assessable_descendants(args.reference) if args.assessable_only else atlas.descendants(args.reference, kinds)
+            result = {
+                "target": compact_node(atlas.resolve_node(args.reference)),
+                "count": len(records),
+                "records": [compact_node(node) for node in records],
+            }
+        elif args.command == "requirements":
+            requirements = atlas.requirements(args.reference)
+            result = {
+                "target": compact_node(requirements["target"]),
+                "direct": requirements["direct"],
+                "groups": requirements["groups"],
+            }
+        else:
+            raise QueryError(f"Unsupported command: {args.command}")
+        emit(result, args.pretty)
+        return 0
+    except (OSError, json.JSONDecodeError, QueryError) as error:
+        emit({"error": str(error)}, pretty=False)
+        return 2
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

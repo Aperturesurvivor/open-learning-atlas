@@ -52,3 +52,12 @@ Reviews may cover:
 - schema, identity, and graph integrity.
 
 No review should silently claim dimensions it did not examine.
+
+## Territory review evidence
+
+The Mathematics v1 territory-wide review queue is stored in
+[`review/territory-reviews.json`](../review/territory-reviews.json) and governed
+by [`review/README.md`](../review/README.md). Automated inventory facts are kept
+separate from attributed decisions. A completed decision requires a human name,
+date, scope dimension, and substantive note; AI assistance must be disclosed
+and cannot serve as the accountable reviewer.

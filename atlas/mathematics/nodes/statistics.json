@@ -85,12 +85,12 @@
   },
   {
     "id": "ola:n:cdf437d0-3458-4b64-98f2-f0354067d527",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "formulate-data-study-family",
     "label": "Formulate a data study",
-    "definition": "A capability family within data-generation-study-design grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Data Generation and Study Design, this family groups bounded performances under the shared purpose \"Formulate a data study\": Formulate a statistical investigation question; Operationalize study variables.",
     "domains": [
       "mathematics"
     ],
@@ -169,12 +169,12 @@
   },
   {
     "id": "ola:n:60cc7b04-8a99-4df4-bfac-510f7045f27b",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "design-sampling-experiment-family",
     "label": "Design sampling or experiments",
-    "definition": "A capability family within data-generation-study-design grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Data Generation and Study Design, this family groups bounded performances under the shared purpose \"Design sampling or experiments\": Design a bounded sampling plan; Design a randomized comparison.",
     "domains": [
       "mathematics"
     ],
@@ -253,12 +253,12 @@
   },
   {
     "id": "ola:n:2626daa5-e4bf-41a2-a7da-5eca20b08322",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "audit-study-validity-family",
     "label": "Audit study validity",
-    "definition": "A capability family within data-generation-study-design grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Data Generation and Study Design, this family groups bounded performances under the shared purpose \"Audit study validity\": Audit study scope and ethics; Identify bias and confounding.",
     "domains": [
       "mathematics"
     ],
@@ -421,12 +421,12 @@
   },
   {
     "id": "ola:n:6491c14f-bbe8-415f-873f-bf27c4f902fe",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "construct-data-representations-family",
     "label": "Construct data representations",
-    "definition": "A capability family within data-representation-visualization grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Data Representation and Visualization, this family groups bounded performances under the shared purpose \"Construct data representations\": Construct a data table; Select a statistical graphic.",
     "domains": [
       "mathematics"
     ],
@@ -505,12 +505,12 @@
   },
   {
     "id": "ola:n:f0aa327a-9c1a-4471-a518-2fc31787840e",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "create-interpret-visualizations-family",
     "label": "Create and interpret visualizations",
-    "definition": "A capability family within data-representation-visualization grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Data Representation and Visualization, this family groups bounded performances under the shared purpose \"Create and interpret visualizations\": Create a statistical visualization; Interpret a statistical visualization.",
     "domains": [
       "mathematics"
     ],
@@ -589,12 +589,12 @@
   },
   {
     "id": "ola:n:52909bb4-e94c-4073-b634-cb0aa9cd1027",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "compare-critique-visualizations-family",
     "label": "Compare and critique visualizations",
-    "definition": "A capability family within data-representation-visualization grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Data Representation and Visualization, this family groups bounded performances under the shared purpose \"Compare and critique visualizations\": Audit a data visualization; Compare distributions visually.",
     "domains": [
       "mathematics"
     ],
@@ -757,12 +757,12 @@
   },
   {
     "id": "ola:n:88091f05-aae1-471b-ba91-13125bab14ae",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "compute-descriptive-summaries-family",
     "label": "Compute descriptive summaries",
-    "definition": "A capability family within descriptive-statistics grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Descriptive Statistics, this family groups bounded performances under the shared purpose \"Compute descriptive summaries\": Compute a variability summary; Compute center and quantile summaries.",
     "domains": [
       "mathematics"
     ],
@@ -841,12 +841,12 @@
   },
   {
     "id": "ola:n:657526ff-43db-49f8-9c7c-9882e73c80c8",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "describe-compare-distributions-family",
     "label": "Describe and compare distributions",
-    "definition": "A capability family within descriptive-statistics grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Descriptive Statistics, this family groups bounded performances under the shared purpose \"Describe and compare distributions\": Compare groups descriptively; Describe a univariate distribution.",
     "domains": [
       "mathematics"
     ],
@@ -925,12 +925,12 @@
   },
   {
     "id": "ola:n:6f77e11a-c1e1-41f7-88c1-6bac75b1b257",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "select-audit-summaries-family",
     "label": "Select and audit summaries",
-    "definition": "A capability family within descriptive-statistics grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Descriptive Statistics, this family groups bounded performances under the shared purpose \"Select and audit summaries\": Audit a descriptive statistical claim; Select an appropriate descriptive summary.",
     "domains": [
       "mathematics"
     ],
@@ -1093,12 +1093,12 @@
   },
   {
     "id": "ola:n:75346cc3-6a52-43b1-be8a-f8add63f4e58",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "describe-quantify-association-family",
     "label": "Describe and quantify association",
-    "definition": "A capability family within association-regression grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Association and Regression, this family groups bounded performances under the shared purpose \"Describe and quantify association\": Compute and interpret correlation; Describe a bivariate association.",
     "domains": [
       "mathematics"
     ],
@@ -1177,12 +1177,12 @@
   },
   {
     "id": "ola:n:09b1b923-9b88-4fee-9544-911dab161b5f",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "fit-interpret-regression-family",
     "label": "Fit and interpret regression",
-    "definition": "A capability family within association-regression grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Association and Regression, this family groups bounded performances under the shared purpose \"Fit and interpret regression\": Fit a simple regression model; Interpret a regression coefficient.",
     "domains": [
       "mathematics"
     ],
@@ -1261,12 +1261,12 @@
   },
   {
     "id": "ola:n:86c768a0-7c03-4bb2-b83e-0a8619b2b45c",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "predict-diagnose-regression-family",
     "label": "Predict and diagnose regression",
-    "definition": "A capability family within association-regression grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Association and Regression, this family groups bounded performances under the shared purpose \"Predict and diagnose regression\": Audit an association or regression claim; Make a regression prediction.",
     "domains": [
       "mathematics"
     ],
@@ -1429,12 +1429,12 @@
   },
   {
     "id": "ola:n:3cf85f0a-49c4-4a45-9067-7609072169d8",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "estimate-with-intervals-family",
     "label": "Estimate with intervals",
-    "definition": "A capability family within estimation-hypothesis-inference grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Estimation, Hypothesis, and Inference, this family groups bounded performances under the shared purpose \"Estimate with intervals\": Construct a confidence interval; Interpret a confidence interval.",
     "domains": [
       "mathematics"
     ],
@@ -1513,12 +1513,12 @@
   },
   {
     "id": "ola:n:4bf81b35-8a9e-4884-b9ce-5ed9cdcc33b6",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "conduct-interpret-tests-family",
     "label": "Conduct and interpret hypothesis tests",
-    "definition": "A capability family within estimation-hypothesis-inference grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Estimation, Hypothesis, and Inference, this family groups bounded performances under the shared purpose \"Conduct and interpret hypothesis tests\": Conduct a bounded hypothesis test; Interpret a p-value.",
     "domains": [
       "mathematics"
     ],
@@ -1597,12 +1597,12 @@
   },
   {
     "id": "ola:n:670cd6e8-db99-4d8a-8381-f7ae6e890ef7",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "analyze-audit-inference-family",
     "label": "Analyze and audit inference",
-    "definition": "A capability family within estimation-hypothesis-inference grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Estimation, Hypothesis, and Inference, this family groups bounded performances under the shared purpose \"Analyze and audit inference\": Analyze error, power, and sample size; Audit an inferential claim.",
     "domains": [
       "mathematics"
     ],
@@ -1765,12 +1765,12 @@
   },
   {
     "id": "ola:n:1eb438da-6717-4e18-a65f-323e817210cd",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "analyze-causal-structure-family",
     "label": "Analyze causal structure",
-    "definition": "A capability family within causal-multivariate-computational-statistics grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Causal, Multivariate, and Computational Statistics, this family groups bounded performances under the shared purpose \"Analyze causal structure\": Analyze confounding and adjustment; Define a causal estimand.",
     "domains": [
       "mathematics"
     ],
@@ -1849,12 +1849,12 @@
   },
   {
     "id": "ola:n:c6501363-1c95-47d6-9828-6ee14bd84aec",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "fit-evaluate-multivariate-methods-family",
     "label": "Fit and evaluate multivariate methods",
-    "definition": "A capability family within causal-multivariate-computational-statistics grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Causal, Multivariate, and Computational Statistics, this family groups bounded performances under the shared purpose \"Fit and evaluate multivariate methods\": Evaluate a statistical learning procedure; Fit and interpret a multivariate model.",
     "domains": [
       "mathematics"
     ],
@@ -1933,12 +1933,12 @@
   },
   {
     "id": "ola:n:c534c9e1-b0fa-4907-9e99-cb0948696baa",
-    "revision": 1,
+    "revision": 2,
     "kind": "composite",
     "assessable": false,
     "slug": "compute-simulate-audit-complex-analysis-family",
     "label": "Compute, simulate, and audit complex analyses",
-    "definition": "A capability family within causal-multivariate-computational-statistics grouping bounded performances with a shared mathematical purpose.",
+    "definition": "Within Causal, Multivariate, and Computational Statistics, this family groups bounded performances under the shared purpose \"Compute, simulate, and audit complex analyses\": Audit a causal or computational claim; Perform resampling or simulation inference.",
     "domains": [
       "mathematics"
     ],

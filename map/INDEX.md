@@ -8,6 +8,8 @@ learner paths.
 
 - [`schema/open-learning-atlas.schema.json`](schema/open-learning-atlas.schema.json) — v0.1
   JSON Schema for a complete map document.
+- [`schema/open-learning-atlas-migration.schema.json`](schema/open-learning-atlas-migration.schema.json)
+  — lifecycle change and redirect documents.
 - [`../architecture/map-data-model.md`](../architecture/map-data-model.md) —
   human-readable data-model guide and invariants.
 
@@ -40,4 +42,6 @@ tools/validate-map
 
 All example, domain, and generated release JSON documents must pass before
 commit. `tools/build-atlas --check` must also confirm that a release is exactly
-reproducible from canonical authoring data.
+reproducible from canonical authoring data. Pinned self-contained packages are
+published under [`../releases/`](../releases/) and verified by
+`tools/build-release --check`.

@@ -1,0 +1,59 @@
+{
+  "format_version": "0.1",
+  "id": "mathematics-non-destructive-lifecycle-example-v0.1",
+  "map_id": "ola:m:71a7897f-806f-40fa-a88d-051a92562907",
+  "from_release": "example-0.1.0",
+  "to_release": "example-0.2.0",
+  "status": "example",
+  "description": "Synthetic conformance example demonstrating a stable-identity rename and a split with redirects.",
+  "changes": [
+    {
+      "operation": "rename",
+      "identity": "ola:n:11111111-1111-4111-8111-111111111111",
+      "from_revision": 1,
+      "to_revision": 2,
+      "before": {
+        "label": "Arithmetic Expressions",
+        "slug": "arithmetic-expressions",
+        "status": "candidate"
+      },
+      "after": {
+        "label": "Numerical Expressions",
+        "slug": "numerical-expressions",
+        "status": "candidate"
+      },
+      "rationale": "The revised label clarifies scope while the mathematical identity remains unchanged."
+    },
+    {
+      "operation": "split",
+      "identity": "ola:n:22222222-2222-4222-8222-222222222222",
+      "from_revision": 2,
+      "to_revision": 3,
+      "before": {
+        "label": "Graph Properties",
+        "slug": "graph-properties",
+        "status": "candidate"
+      },
+      "after": {
+        "label": "Graph Properties (deprecated)",
+        "slug": "graph-properties",
+        "status": "deprecated"
+      },
+      "replaced_by": [
+        "ola:n:33333333-3333-4333-8333-333333333333",
+        "ola:n:44444444-4444-4444-8444-444444444444"
+      ],
+      "rationale": "Connectivity properties and degree properties have distinct meanings and downstream dependencies."
+    }
+  ],
+  "redirects": [
+    {
+      "from": "ola:n:22222222-2222-4222-8222-222222222222",
+      "to": [
+        "ola:n:33333333-3333-4333-8333-333333333333",
+        "ola:n:44444444-4444-4444-8444-444444444444"
+      ],
+      "reason": "split"
+    }
+  ]
+}

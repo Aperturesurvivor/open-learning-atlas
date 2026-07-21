@@ -21,9 +21,12 @@ No downstream impact has yet been demonstrated at institutional scale.
 ## What Exists
 
 The repository currently includes a constitution, data model, JSON Schema,
-semantic validator, 99-node mathematics macro atlas, 18-node deep reference
-slice, provenance records, and public completion contract. The interactive
-viewer and v1-depth map are under construction.
+semantic validator, deterministic compiler, 1,210-node connected mathematics
+alpha with 2,937 typed relationships, territory coverage notes, checksummed
+release package, dependency-free query interface, downstream conformance
+fixtures, and a responsive interactive viewer. All 85 current territories pass
+the measurable breadth floor. Qualitative mathematical and educational review
+needed for v1 remains open.
 
 ## Origin and Attribution
 
@@ -55,7 +58,10 @@ strict separation between shared terrain and private learner state.
 
 ## Success Evidence
 
-The current evidence is structural: validators pass and the model can represent
-typed nodes, auditable relationships, conditional alternative methods, and
-overlapping regions. Claims about improved learning, assessment accuracy, or
-institutional usefulness remain hypotheses until independently evaluated.
+The current evidence is structural and functional: validators pass; a clean
+checkout reproduces the dataset, package, and viewer; and both humans and agents
+can search, resolve, traverse, inspect, and audit typed claims. The model can
+represent conditional alternatives and downstream coverage/gap operations
+without storing a curriculum or learner. Claims about improved learning,
+assessment accuracy, or institutional usefulness remain hypotheses until
+independently evaluated.
