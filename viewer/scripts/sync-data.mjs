@@ -17,12 +17,12 @@ if (checkOnly) {
   try {
     targetBytes = await readFile(target)
   } catch {
-    console.error('Viewer data is missing. Run npm run sync-data.')
+    console.error('Viewer data is missing. Run deno task sync-data.')
     process.exit(1)
   }
 
   if (digest(sourceBytes) !== digest(targetBytes)) {
-    console.error('Viewer data differs from the canonical release. Run npm run sync-data.')
+    console.error('Viewer data differs from the canonical release. Run deno task sync-data.')
     process.exit(1)
   }
 

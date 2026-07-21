@@ -1,0 +1,15 @@
+{
+  "lock": {
+    "path": "./deno.lock",
+    "frozen": true
+  },
+  "nodeModulesDir": "auto",
+  "minimumDependencyAge": "P3D",
+  "tasks": {
+    "sync-data": "deno run --allow-read --allow-write scripts/sync-data.mjs",
+    "check-data": "deno run --allow-read scripts/sync-data.mjs --check",
+    "dev": "deno task sync-data && vite",
+    "build": "deno task sync-data && tsc -b && vite build",
+    "test": "vitest run"
+  }
+}

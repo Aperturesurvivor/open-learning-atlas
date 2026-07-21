@@ -10,25 +10,25 @@ import sys
 
 ROOT = Path(__file__).resolve().parents[1]
 COMMANDS = [
-    ["tools/build-atlas", "--check"],
-    ["tools/validate-map"],
-    ["tools/audit-v1", "--require-complete"],
-    ["tools/audit-quality"],
-    ["tools/build-release", "--check"],
-    ["tools/run-conformance"],
-    ["tools/validate-migrations"],
-    ["tools/build-review-inventory", "--check"],
-    ["tools/validate-reviews", "--require-complete"],
-    ["tools/check-links"],
-    ["npm", "test", "--prefix", "viewer"],
-    ["npm", "run", "build", "--prefix", "viewer"],
+    (["tools/build-atlas", "--check"], ROOT),
+    (["tools/validate-map"], ROOT),
+    (["tools/audit-v1", "--require-complete"], ROOT),
+    (["tools/audit-quality"], ROOT),
+    (["tools/build-release", "--check"], ROOT),
+    (["tools/run-conformance"], ROOT),
+    (["tools/validate-migrations"], ROOT),
+    (["tools/build-review-inventory", "--check"], ROOT),
+    (["tools/validate-reviews", "--require-complete"], ROOT),
+    (["tools/check-links"], ROOT),
+    (["deno", "task", "test"], ROOT / "viewer"),
+    (["deno", "task", "build"], ROOT / "viewer"),
 ]
 
 
 def main() -> int:
-    for command in COMMANDS:
+    for command, working_directory in COMMANDS:
         print(f"\n==> {' '.join(command)}", flush=True)
-        result = subprocess.run(command, cwd=ROOT, check=False)
+        result = subprocess.run(command, cwd=working_directory, check=False)
         if result.returncode:
             print(f"\nV1 GATE FAILED at: {' '.join(command)}", file=sys.stderr)
             return result.returncode

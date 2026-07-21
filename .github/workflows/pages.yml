@@ -19,18 +19,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
-      - uses: actions/setup-node@v7
+      - uses: denoland/setup-deno@v2.0.5
         with:
-          node-version: "26"
-          cache: npm
-          cache-dependency-path: viewer/package-lock.json
+          deno-version: v2.7.14
       - uses: actions/configure-pages@v6
       - name: Install viewer dependencies
         working-directory: viewer
-        run: npm ci
+        run: deno install --frozen
       - name: Test and build viewer
         working-directory: viewer
-        run: npm test && npm run build
+        run: deno task test && deno task build
       - uses: actions/upload-pages-artifact@v5
         with:
           path: viewer/dist
