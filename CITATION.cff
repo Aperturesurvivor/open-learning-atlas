@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use Open Learning Atlas, cite the pinned release and its contributors."
+title: "Open Learning Atlas: Mathematics"
+type: dataset
+authors:
+  - family-names: Wilson
+    given-names: Josiah
+version: 0.1.0-alpha
+date-released: 2026-07-21
+license: CC-BY-4.0
+repository-code: "https://github.com/Aperturesurvivor/open-learning-atlas"
+url: "https://aperturesurvivor.github.io/open-learning-atlas/"
+abstract: >-
+  An open, versioned map of mathematical concepts, knowledge, representations,
+  practices, observable capabilities, composites, and auditable relationships.
+keywords:
+  - mathematics education
+  - knowledge graph
+  - capability map
+  - open data
+  - curriculum infrastructure

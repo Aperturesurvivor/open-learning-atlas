@@ -1,0 +1,423 @@
+#!/usr/bin/env python3
+"""Validate Open Learning Atlas v0.1 map documents using only the Python standard library."""
+
+from __future__ import annotations
+
+import json
+import re
+import sys
+from collections import defaultdict
+from pathlib import Path
+from typing import Any, Iterable
+
+
+ROOT = Path(__file__).resolve().parents[1]
+
+ID_PATTERNS = {
+    "map": re.compile(r"^ola:m:[0-9a-f]{8}-[0-9a-f]{4}-[1-8][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$"),
+    "node": re.compile(r"^ola:n:[0-9a-f]{8}-[0-9a-f]{4}-[1-8][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$"),
+    "edge": re.compile(r"^ola:e:[0-9a-f]{8}-[0-9a-f]{4}-[1-8][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$"),
+    "source": re.compile(r"^ola:s:[0-9a-f]{8}-[0-9a-f]{4}-[1-8][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$"),
+    "requirement": re.compile(r"^ola:r:[0-9a-f]{8}-[0-9a-f]{4}-[1-8][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$"),
+}
+
+NODE_KINDS = {"concept", "capability", "knowledge", "representation", "practice", "composite"}
+ASSESSABLE_KINDS = {"capability", "practice"}
+STATUSES = {"candidate", "reviewed", "accepted", "contested", "deprecated"}
+CONFIDENCES = {"low", "medium", "high"}
+RELATIONS = {
+    "requires",
+    "supports",
+    "composed_of",
+    "uses_concept",
+    "uses_knowledge",
+    "uses_representation",
+    "uses_practice",
+    "represents",
+    "generalizes",
+    "special_case_of",
+    "equivalent_to",
+    "transfers_to",
+    "reinforces",
+    "commonly_confused_with",
+}
+SYMMETRIC_RELATIONS = {"equivalent_to", "reinforces", "commonly_confused_with"}
+DEPENDENCY_KINDS = {
+    "mathematical-necessity",
+    "semantic-necessity",
+    "representational-necessity",
+    "operational-necessity",
+    "empirical-learning",
+    "method-conditional",
+    "task-conditional",
+    "conventional-ordering",
+}
+CLAIM_BASES = {
+    "formal",
+    "definitional",
+    "task-analysis",
+    "empirical",
+    "expert-judgment",
+    "contributor-analysis",
+    "legacy-sequence",
+}
+
+
+class Validation:
+    def __init__(self, path: Path) -> None:
+        self.path = path
+        self.errors: list[str] = []
+        self.warnings: list[str] = []
+
+    def error(self, location: str, message: str) -> None:
+        self.errors.append(f"{location}: {message}")
+
+    def warn(self, location: str, message: str) -> None:
+        self.warnings.append(f"{location}: {message}")
+
+
+def is_nonempty(value: Any) -> bool:
+    return isinstance(value, str) and bool(value.strip())
+
+
+def check_id(validation: Validation, location: str, value: Any, kind: str) -> bool:
+    if not isinstance(value, str) or not ID_PATTERNS[kind].fullmatch(value):
+        validation.error(location, f"invalid {kind} ID: {value!r}")
+        return False
+    return True
+
+
+def check_common_record(validation: Validation, location: str, record: dict[str, Any], kind: str) -> None:
+    check_id(validation, f"{location}.id", record.get("id"), kind)
+    revision = record.get("revision")
+    if not isinstance(revision, int) or revision < 1:
+        validation.error(f"{location}.revision", "must be an integer of at least 1")
+
+
+def check_source_refs(
+    validation: Validation,
+    location: str,
+    record: dict[str, Any],
+    source_ids: set[str],
+) -> None:
+    refs = record.get("source_ids", [])
+    if not isinstance(refs, list):
+        validation.error(f"{location}.source_ids", "must be an array")
+        return
+    for ref in refs:
+        if ref not in source_ids:
+            validation.error(f"{location}.source_ids", f"unknown source ID: {ref!r}")
+
+
+def find_cycle(adjacency: dict[str, set[str]]) -> list[str] | None:
+    visiting: set[str] = set()
+    visited: set[str] = set()
+    stack: list[str] = []
+
+    def visit(node: str) -> list[str] | None:
+        if node in visiting:
+            start = stack.index(node)
+            return stack[start:] + [node]
+        if node in visited:
+            return None
+        visiting.add(node)
+        stack.append(node)
+        for dependency in sorted(adjacency.get(node, set())):
+            cycle = visit(dependency)
+            if cycle:
+                return cycle
+        stack.pop()
+        visiting.remove(node)
+        visited.add(node)
+        return None
+
+    for candidate in sorted(adjacency):
+        cycle = visit(candidate)
+        if cycle:
+            return cycle
+    return None
+
+
+def duplicate_ids(validation: Validation, records: Iterable[dict[str, Any]], label: str) -> None:
+    seen: set[str] = set()
+    for index, record in enumerate(records):
+        value = record.get("id")
+        if value in seen:
+            validation.error(f"{label}[{index}].id", f"duplicate ID: {value!r}")
+        if isinstance(value, str):
+            seen.add(value)
+
+
+def validate_document(path: Path) -> Validation:
+    validation = Validation(path)
+    try:
+        document = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError) as exc:
+        validation.error("document", str(exc))
+        return validation
+
+    if not isinstance(document, dict):
+        validation.error("document", "top-level value must be an object")
+        return validation
+    if document.get("format_version") != "0.1":
+        validation.error("format_version", "must equal '0.1'")
+
+    map_metadata = document.get("map")
+    if not isinstance(map_metadata, dict):
+        validation.error("map", "must be an object")
+    else:
+        check_id(validation, "map.id", map_metadata.get("id"), "map")
+        for key in ("slug", "title", "description", "domain", "version", "status", "license", "last_updated"):
+            if not is_nonempty(map_metadata.get(key)):
+                validation.error(f"map.{key}", "must be a non-empty string")
+        if map_metadata.get("status") not in STATUSES:
+            validation.error("map.status", f"must be one of {sorted(STATUSES)}")
+
+    sources = document.get("sources", [])
+    nodes = document.get("nodes", [])
+    edges = document.get("edges", [])
+    requirement_groups = document.get("requirement_groups", [])
+    for name, value in (
+        ("sources", sources),
+        ("nodes", nodes),
+        ("edges", edges),
+        ("requirement_groups", requirement_groups),
+    ):
+        if not isinstance(value, list):
+            validation.error(name, "must be an array")
+            return validation
+
+    duplicate_ids(validation, sources, "sources")
+    duplicate_ids(validation, nodes, "nodes")
+    duplicate_ids(validation, edges, "edges")
+    duplicate_ids(validation, requirement_groups, "requirement_groups")
+
+    source_ids: set[str] = set()
+    for index, source in enumerate(sources):
+        location = f"sources[{index}]"
+        if not isinstance(source, dict):
+            validation.error(location, "must be an object")
+            continue
+        check_common_record(validation, location, source, "source")
+        if isinstance(source.get("id"), str):
+            source_ids.add(source["id"])
+        for key in ("title", "source_type", "citation"):
+            if not is_nonempty(source.get(key)):
+                validation.error(f"{location}.{key}", "must be a non-empty string")
+
+    node_by_id: dict[str, dict[str, Any]] = {}
+    slugs: set[str] = set()
+    for index, node in enumerate(nodes):
+        location = f"nodes[{index}]"
+        if not isinstance(node, dict):
+            validation.error(location, "must be an object")
+            continue
+        check_common_record(validation, location, node, "node")
+        node_id = node.get("id")
+        if isinstance(node_id, str):
+            node_by_id[node_id] = node
+        kind = node.get("kind")
+        if kind not in NODE_KINDS:
+            validation.error(f"{location}.kind", f"must be one of {sorted(NODE_KINDS)}")
+        assessable = node.get("assessable")
+        if not isinstance(assessable, bool):
+            validation.error(f"{location}.assessable", "must be a boolean")
+        elif kind in NODE_KINDS and assessable != (kind in ASSESSABLE_KINDS):
+            validation.error(
+                f"{location}.assessable",
+                f"must be {kind in ASSESSABLE_KINDS} for node kind {kind!r}",
+            )
+        slug = node.get("slug")
+        if not is_nonempty(slug):
+            validation.error(f"{location}.slug", "must be a non-empty string")
+        elif slug in slugs:
+            validation.error(f"{location}.slug", f"duplicate slug: {slug!r}")
+        else:
+            slugs.add(slug)
+        for key in ("label", "definition"):
+            if not is_nonempty(node.get(key)):
+                validation.error(f"{location}.{key}", "must be a non-empty string")
+        if node.get("status") not in STATUSES:
+            validation.error(f"{location}.status", f"must be one of {sorted(STATUSES)}")
+        if node.get("confidence") not in CONFIDENCES:
+            validation.error(f"{location}.confidence", f"must be one of {sorted(CONFIDENCES)}")
+        if kind in {"capability", "practice"}:
+            if not is_nonempty(node.get("capability_statement")):
+                validation.error(
+                    f"{location}.capability_statement",
+                    "is required for capabilities and practices",
+                )
+            dimensions = node.get("evidence_dimensions")
+            if not isinstance(dimensions, list) or not dimensions:
+                validation.error(f"{location}.evidence_dimensions", "must be a non-empty array")
+            if node.get("dependency_review") not in {"unreviewed", "partial", "reviewed-complete"}:
+                validation.error(
+                    f"{location}.dependency_review",
+                    "must be unreviewed, partial, or reviewed-complete",
+                )
+        if node.get("status") == "deprecated" and not is_nonempty(node.get("review_notes")):
+            validation.error(f"{location}.review_notes", "is required for deprecated nodes")
+        check_source_refs(validation, location, node, source_ids)
+
+    relation_signatures: set[tuple[str, str, str, tuple[str, ...]]] = set()
+    requires: dict[str, set[str]] = defaultdict(set)
+    components: dict[str, set[str]] = defaultdict(set)
+    for index, edge in enumerate(edges):
+        location = f"edges[{index}]"
+        if not isinstance(edge, dict):
+            validation.error(location, "must be an object")
+            continue
+        check_common_record(validation, location, edge, "edge")
+        subject = edge.get("subject")
+        obj = edge.get("object")
+        relation = edge.get("relation")
+        if subject not in node_by_id:
+            validation.error(f"{location}.subject", f"unknown node ID: {subject!r}")
+        if obj not in node_by_id:
+            validation.error(f"{location}.object", f"unknown node ID: {obj!r}")
+        if subject == obj:
+            validation.error(location, "self-edges are not allowed")
+        if relation not in RELATIONS:
+            validation.error(f"{location}.relation", f"must be one of {sorted(RELATIONS)}")
+        if not is_nonempty(edge.get("rationale")):
+            validation.error(f"{location}.rationale", "must be a non-empty string")
+        claim_basis = edge.get("claim_basis")
+        if not isinstance(claim_basis, list) or not claim_basis:
+            validation.error(f"{location}.claim_basis", "must be a non-empty array")
+        elif any(item not in CLAIM_BASES for item in claim_basis):
+            validation.error(f"{location}.claim_basis", f"contains a value outside {sorted(CLAIM_BASES)}")
+        if edge.get("status") not in STATUSES:
+            validation.error(f"{location}.status", f"must be one of {sorted(STATUSES)}")
+        if edge.get("confidence") not in CONFIDENCES:
+            validation.error(f"{location}.confidence", f"must be one of {sorted(CONFIDENCES)}")
+        conditions = edge.get("conditions", [])
+        if not isinstance(conditions, list):
+            validation.error(f"{location}.conditions", "must be an array")
+            conditions = []
+        signature = (str(subject), str(relation), str(obj), tuple(sorted(map(str, conditions))))
+        if signature in relation_signatures:
+            validation.error(location, "duplicates another edge with the same conditions")
+        relation_signatures.add(signature)
+        if relation in SYMMETRIC_RELATIONS:
+            inverse = (str(obj), str(relation), str(subject), tuple(sorted(map(str, conditions))))
+            if inverse in relation_signatures:
+                validation.error(location, "duplicates the inverse of a symmetric relationship")
+        if relation == "requires":
+            if edge.get("dependency_kind") not in DEPENDENCY_KINDS:
+                validation.error(f"{location}.dependency_kind", f"must be one of {sorted(DEPENDENCY_KINDS)}")
+            if subject in node_by_id and not node_by_id[subject].get("assessable"):
+                validation.error(f"{location}.subject", "requires must originate at an assessable node")
+            if obj in node_by_id and not node_by_id[obj].get("assessable"):
+                validation.error(f"{location}.object", "requires must terminate at an assessable node")
+            if isinstance(subject, str) and isinstance(obj, str):
+                requires[subject].add(obj)
+        if relation == "composed_of":
+            if subject in node_by_id and node_by_id[subject].get("kind") != "composite":
+                validation.error(f"{location}.subject", "composed_of must originate at a composite node")
+            if isinstance(subject, str) and isinstance(obj, str):
+                components[subject].add(obj)
+        expected_object_kind = {
+            "uses_concept": "concept",
+            "uses_knowledge": "knowledge",
+            "uses_representation": "representation",
+            "uses_practice": "practice",
+        }.get(str(relation))
+        if expected_object_kind and obj in node_by_id and node_by_id[obj].get("kind") != expected_object_kind:
+            validation.error(
+                f"{location}.object",
+                f"{relation} must terminate at a {expected_object_kind} node",
+            )
+        if relation == "represents" and subject in node_by_id and node_by_id[subject].get("kind") != "representation":
+            validation.error(f"{location}.subject", "represents must originate at a representation node")
+        check_source_refs(validation, location, edge, source_ids)
+
+    for label, adjacency in (("requires", requires), ("composed_of", components)):
+        cycle = find_cycle(adjacency)
+        if cycle:
+            validation.error(label, f"cycle detected: {' -> '.join(cycle)}")
+
+    for index, group in enumerate(requirement_groups):
+        location = f"requirement_groups[{index}]"
+        if not isinstance(group, dict):
+            validation.error(location, "must be an object")
+            continue
+        check_common_record(validation, location, group, "requirement")
+        target = group.get("target")
+        members = group.get("members")
+        mode = group.get("mode")
+        if target not in node_by_id:
+            validation.error(f"{location}.target", f"unknown node ID: {target!r}")
+        elif not node_by_id[target].get("assessable"):
+            validation.error(f"{location}.target", "must reference an assessable node")
+        if mode not in {"all-of", "any-of", "at-least"}:
+            validation.error(f"{location}.mode", "must be all-of, any-of, or at-least")
+        if not isinstance(members, list) or len(members) < 2 or len(set(members)) != len(members):
+            validation.error(f"{location}.members", "must contain at least two unique node IDs")
+            members = []
+        for member in members:
+            if member not in node_by_id:
+                validation.error(f"{location}.members", f"unknown node ID: {member!r}")
+            elif not node_by_id[member].get("assessable"):
+                validation.error(f"{location}.members", f"must reference assessable nodes: {member!r}")
+        if target in members:
+            validation.error(f"{location}.members", "target may not be one of its own requirements")
+        minimum = group.get("minimum_satisfied")
+        if mode == "any-of" and minimum not in (None, 1):
+            validation.error(f"{location}.minimum_satisfied", "must be 1 or omitted for any-of")
+        if mode == "all-of" and minimum not in (None, len(members)):
+            validation.error(
+                f"{location}.minimum_satisfied",
+                "must equal the member count or be omitted for all-of",
+            )
+        if mode == "at-least" and (not isinstance(minimum, int) or minimum < 1 or minimum > len(members)):
+            validation.error(
+                f"{location}.minimum_satisfied",
+                "must be between 1 and the member count for at-least",
+            )
+        if not is_nonempty(group.get("rationale")):
+            validation.error(f"{location}.rationale", "must be a non-empty string")
+        claim_basis = group.get("claim_basis")
+        if not isinstance(claim_basis, list) or not claim_basis or any(item not in CLAIM_BASES for item in claim_basis):
+            validation.error(f"{location}.claim_basis", f"must use values from {sorted(CLAIM_BASES)}")
+        if group.get("status") not in STATUSES:
+            validation.error(f"{location}.status", f"must be one of {sorted(STATUSES)}")
+        if group.get("confidence") not in CONFIDENCES:
+            validation.error(f"{location}.confidence", f"must be one of {sorted(CONFIDENCES)}")
+        check_source_refs(validation, location, group, source_ids)
+
+    return validation
+
+
+def default_paths() -> list[Path]:
+    return sorted((ROOT / "map" / "examples").glob("*.json")) + sorted(
+        (ROOT / "map" / "domains").glob("*.json")
+    )
+
+
+def main(argv: list[str]) -> int:
+    paths = [Path(argument).resolve() for argument in argv[1:]] or default_paths()
+    if not paths:
+        print("No map documents found.", file=sys.stderr)
+        return 1
+
+    failed = False
+    for path in paths:
+        result = validate_document(path)
+        for warning in result.warnings:
+            print(f"WARNING {path}: {warning}")
+        for error in result.errors:
+            print(f"ERROR {path}: {error}")
+        if result.errors:
+            failed = True
+        else:
+            document = json.loads(path.read_text(encoding="utf-8"))
+            print(
+                f"OK {path}: {len(document.get('nodes', []))} nodes, "
+                f"{len(document.get('edges', []))} edges, "
+                f"{len(document.get('requirement_groups', []))} requirement groups"
+            )
+    return 1 if failed else 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main(sys.argv))

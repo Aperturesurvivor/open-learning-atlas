@@ -1,0 +1,41 @@
+name: Challenge a map claim
+description: Contest a definition, membership, dependency, or other relationship.
+title: "[Claim]: "
+labels: [map, review]
+body:
+  - type: input
+    id: record
+    attributes:
+      label: Record or edge ID
+      placeholder: "ola:e:..."
+    validations:
+      required: true
+  - type: textarea
+    id: concern
+    attributes:
+      label: Concern
+      description: Explain the scope, conditions, or evidence that make the claim misleading.
+    validations:
+      required: true
+  - type: textarea
+    id: alternative
+    attributes:
+      label: Proposed correction or competing claim
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence and sources
+  - type: dropdown
+    id: impact
+    attributes:
+      label: Impact
+      options:
+        - Mathematical correctness
+        - Dependency necessity
+        - Scope or granularity
+        - Representation coverage
+        - Provenance or licensing
+        - Accessibility or language
+        - Other
+    validations:
+      required: true

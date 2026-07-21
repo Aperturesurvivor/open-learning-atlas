@@ -1,0 +1,36 @@
+name: Missing or incomplete territory
+description: Propose missing mathematical terrain or an incomplete decomposition.
+title: "[Territory]: "
+labels: [map, candidate]
+body:
+  - type: input
+    id: location
+    attributes:
+      label: Current location or neighboring territory
+    validations:
+      required: true
+  - type: textarea
+    id: gap
+    attributes:
+      label: What is missing?
+      description: Define the mathematical scope without relying on a course title.
+    validations:
+      required: true
+  - type: textarea
+    id: distinction
+    attributes:
+      label: Why does it need a distinct or deeper record?
+      description: Note independent dependencies, representations, failure modes, or evidence.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources or examples
+  - type: checkboxes
+    id: boundary
+    attributes:
+      label: Base-map boundary
+      options:
+        - label: This proposal is not a curriculum, grade placement, learner record, or lesson.
+          required: true

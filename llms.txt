@@ -1,0 +1,76 @@
+# Open Learning Atlas Agent Guide
+
+Open Learning Atlas is an open, versioned coordinate system for educational
+knowledge and capability. Mathematics is the first domain. The canonical
+artifact is a typed claim graph, not a curriculum, grade sequence, learner
+model, assessment product, or tutoring application.
+
+## Agent Boot Sequence
+
+1. Read [`methodology/map-constitution.md`](methodology/map-constitution.md)
+   before changing semantics.
+2. Read [`architecture/map-data-model.md`](architecture/map-data-model.md)
+   before creating records.
+3. Validate candidate documents against
+   [`map/schema/open-learning-atlas.schema.json`](map/schema/open-learning-atlas.schema.json).
+4. Run [`tools/validate-map`](tools/validate-map) after any map edit.
+5. Treat every AI-authored node or claim as `candidate`; an agent may not
+   promote its own work.
+
+## Current Canonical Artifacts
+
+- [`map/domains/mathematics-macro-v0.1.json`](map/domains/mathematics-macro-v0.1.json)
+  — 99 nodes and 115 navigational composition claims.
+- [`map/examples/rational-proportional-v0.1.json`](map/examples/rational-proportional-v0.1.json)
+  — 18 typed nodes, 25 edge claims, and one alternative-method requirement group.
+- [`map/domains/mathematics-topology.md`](map/domains/mathematics-topology.md)
+  — human-readable macro view.
+- [`docs/v1-completion-contract.md`](docs/v1-completion-contract.md) — the
+  measurable end-state contract.
+- [`docs/human-agent-access.md`](docs/human-agent-access.md) — parity rules for
+  human and machine access.
+
+## Identity and Direction
+
+IDs use opaque UUIDs with type prefixes:
+
+- `ola:m:<uuid>` — map document;
+- `ola:n:<uuid>` — node;
+- `ola:e:<uuid>` — relationship claim;
+- `ola:r:<uuid>` — requirement group;
+- `ola:s:<uuid>` — source.
+
+Every edge reads `subject relation object`. Labels, slugs, paths, grades, and
+taxonomy positions must never be encoded in IDs.
+
+## Critical Semantics
+
+- The map uses an open-world assumption: absent means “not mapped,” not false.
+- `composed_of` expresses coverage or component membership, never learning order.
+- `requires` is reserved for scoped necessity between assessable nodes.
+- Alternative sufficient methods belong in `any-of` or `at-least` requirement
+  groups, not multiple universal prerequisites.
+- Concepts, knowledge, representations, and composites are not independently
+  assessable. Capabilities and practices are.
+- AI proposals must carry provenance, rationale, confidence, and review state.
+
+## Machine Use
+
+Do not scrape the future visual site. Consume a pinned JSON release or the
+canonical JSON documents directly. Preserve IDs and revisions when caching.
+Filter by record status and confidence explicitly; never silently treat
+`candidate` as `accepted`.
+
+## Current Development State
+
+The v0.1 constitution is ratified and the macro atlas validates. Most
+mathematical terrain is still represented only by broad composites. The main
+work toward v1 is consistent decomposition into concepts, representations,
+knowledge, practices, and bounded observable capabilities across every region,
+followed by a generated mobile viewer and versioned public releases.
+
+## Licensing
+
+Software and tooling: Apache-2.0. Atlas data and documentation: CC BY 4.0.
+External sources retain their own rights and are cited for provenance; source
+references do not import third-party content into the atlas.
