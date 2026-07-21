@@ -23,13 +23,14 @@ import {
 import {
   buildIndex,
   graphForSelection,
+  hashForEdge,
   hashForNode,
   layoutGraph,
   loadAtlas,
-  nodeIdFromHash,
   nodeTypeLabel,
   pathToRoot,
   relationLabel,
+  routeFromHash,
   searchNodes,
   structuralChildren,
 } from './atlas'
@@ -356,6 +357,9 @@ interface InspectorProps {
   node: AtlasNode
   index: AtlasIndex
   onSelect: (id: string) => void
+  selectedEdgeId?: string
+  onSelectEdge: (id: string) => void
+  onCloseEdge: () => void
   tab: 'overview' | 'relationships'
   onTab: (tab: 'overview' | 'relationships') => void
   mobile?: boolean
@@ -363,25 +367,100 @@ interface InspectorProps {
   onToggleExpanded?: () => void
 }
 
-function RelationRow({ edge, direction, index, onSelect }: { edge: AtlasEdge; direction: 'incoming' | 'outgoing'; index: AtlasIndex; onSelect: (id: string) => void }) {
+interface RelationRowProps {
+  edge: AtlasEdge
+  direction: 'incoming' | 'outgoing'
+  index: AtlasIndex
+  expanded: boolean
+  onSelect: (id: string) => void
+  onSelectEdge: (id: string) => void
+  onCloseEdge: () => void
+}
+
+function RelationRow({ edge, direction, index, expanded, onSelect, onSelectEdge, onCloseEdge }: RelationRowProps) {
   const otherId = direction === 'incoming' ? edge.subject : edge.object
   const other = index.nodes.get(otherId)
-  if (!other) return null
+  const subject = index.nodes.get(edge.subject)
+  const object = index.nodes.get(edge.object)
+  const sources = edge.source_ids.map((id) => index.sources.get(id)).filter(Boolean)
+  if (!other || !subject || !object) return null
+
+  const copyLink = async () => {
+    const url = new URL(window.location.href)
+    url.hash = hashForEdge(edge.id)
+    await navigator.clipboard.writeText(url.toString())
+  }
+
   return (
-    <button type="button" className="relation-row" onClick={() => onSelect(other.id)}>
-      <span className="relation-direction">{direction === 'incoming' ? '←' : '→'}</span>
-      <span><small>{relationLabel(edge.relation)}</small><strong>{other.label}</strong></span>
-    </button>
+    <article className={`relation-claim ${expanded ? 'expanded' : ''}`}>
+      <button
+        type="button"
+        className="relation-row"
+        aria-expanded={expanded}
+        onClick={() => expanded ? onCloseEdge() : onSelectEdge(edge.id)}
+      >
+        <span className="relation-direction">{direction === 'incoming' ? '←' : '→'}</span>
+        <span><small>{relationLabel(edge.relation)}</small><strong>{other.label}</strong></span>
+        <ChevronDown size={14} aria-hidden="true" />
+      </button>
+      {expanded && (
+        <div className="relation-detail">
+          <p className="claim-sentence">
+            <strong>{subject.label}</strong>
+            <span>{relationLabel(edge.relation)} →</span>
+            <strong>{object.label}</strong>
+          </p>
+          <section>
+            <h3>Rationale</h3>
+            <p>{edge.rationale}</p>
+          </section>
+          <section>
+            <h3>Conditions</h3>
+            {edge.conditions?.length
+              ? <ul>{edge.conditions.map((condition) => <li key={condition}>{condition}</li>)}</ul>
+              : <p>No additional conditions are stated for this claim.</p>}
+          </section>
+          {edge.scope && <section><h3>Scope</h3><p>{edge.scope}</p></section>}
+          <dl className="edge-details">
+            <div><dt>Status</dt><dd>{edge.status}</dd></div>
+            <div><dt>Confidence</dt><dd>{edge.confidence}</dd></div>
+            <div><dt>Evidence</dt><dd>{edge.evidence_strength}</dd></div>
+            {edge.dependency_kind && <div><dt>Dependency kind</dt><dd>{relationLabel(edge.dependency_kind)}</dd></div>}
+            <div><dt>Claim basis</dt><dd>{edge.claim_basis.map(relationLabel).join(', ') || 'Not stated'}</dd></div>
+            <div><dt>Revision</dt><dd>{edge.revision}</dd></div>
+            <div><dt>Stable identity</dt><dd><code>{edge.id}</code></dd></div>
+          </dl>
+          {edge.status === 'candidate' && <p className="candidate-explanation">Candidate relationship: this claim is provisional and awaits final human review.</p>}
+          {edge.review_notes && <section className="edge-review-note"><h3>Review note</h3><p>{edge.review_notes}</p></section>}
+          <section>
+            <h3>Provenance</h3>
+            <div className="edge-sources">
+              {sources.length ? sources.map((source) => source && (
+                <div key={source.id}>
+                  {source.url ? <a href={source.url} target="_blank" rel="noreferrer">{source.title}<ExternalLink size={12} /></a> : <strong>{source.title}</strong>}
+                  <p>{source.citation}</p>
+                  <code>{source.id}</code>
+                </div>
+              )) : <p>No source records are attached to this claim.</p>}
+            </div>
+          </section>
+          <div className="edge-actions">
+            <button type="button" onClick={() => onSelect(other.id)}>Open linked record</button>
+            <button type="button" onClick={copyLink}><Copy size={14} /> Copy relationship link</button>
+          </div>
+        </div>
+      )}
+    </article>
   )
 }
 
-function Inspector({ node, index, onSelect, tab, onTab, mobile, expanded, onToggleExpanded }: InspectorProps) {
+function Inspector({ node, index, onSelect, selectedEdgeId, onSelectEdge, onCloseEdge, tab, onTab, mobile, expanded, onToggleExpanded }: InspectorProps) {
   const outgoing = index.outgoing.get(node.id) ?? []
   const incoming = index.incoming.get(node.id) ?? []
   const sources = node.source_ids.map((id) => index.sources.get(id)).filter(Boolean)
   const copyLink = async () => {
     const url = new URL(window.location.href)
-    url.hash = hashForNode(node.id)
+    url.hash = selectedEdgeId ? hashForEdge(selectedEdgeId) : hashForNode(node.id)
     await navigator.clipboard.writeText(url.toString())
   }
 
@@ -403,6 +482,7 @@ function Inspector({ node, index, onSelect, tab, onTab, mobile, expanded, onTogg
               <span>{nodeTypeLabel(node)}</span>
               <span className="candidate-chip">{node.status}</span>
             </div>
+            {node.status === 'candidate' && <p className="candidate-explanation">Provisional record; awaits final human review.</p>}
           </div>
         </div>
         <div className="inspector-tabs" role="tablist">
@@ -449,20 +529,20 @@ function Inspector({ node, index, onSelect, tab, onTab, mobile, expanded, onTogg
           </div>
         ) : (
           <div className="inspector-content">
-            <p className="relationship-help">Arrows show whether the selected record is the subject or object of the canonical claim.</p>
+            <p className="relationship-help">Arrows show whether the selected record is the subject or object of the canonical claim. Expand a claim to inspect its rationale, conditions, evidence, and provenance.</p>
             <section>
               <h2>Outgoing <span>{outgoing.length}</span></h2>
-              <div className="relations-list">{outgoing.map((edge) => <RelationRow key={edge.id} edge={edge} direction="outgoing" index={index} onSelect={onSelect} />)}</div>
+              <div className="relations-list">{outgoing.map((edge) => <RelationRow key={edge.id} edge={edge} direction="outgoing" index={index} expanded={selectedEdgeId === edge.id} onSelect={onSelect} onSelectEdge={onSelectEdge} onCloseEdge={onCloseEdge} />)}</div>
             </section>
             <section>
               <h2>Incoming <span>{incoming.length}</span></h2>
-              <div className="relations-list">{incoming.map((edge) => <RelationRow key={edge.id} edge={edge} direction="incoming" index={index} onSelect={onSelect} />)}</div>
+              <div className="relations-list">{incoming.map((edge) => <RelationRow key={edge.id} edge={edge} direction="incoming" index={index} expanded={selectedEdgeId === edge.id} onSelect={onSelect} onSelectEdge={onSelectEdge} onCloseEdge={onCloseEdge} />)}</div>
             </section>
           </div>
         )}
       </div>
       <div className="inspector-actions">
-        <button type="button" onClick={copyLink}><Copy size={16} /> Copy deep link</button>
+        <button type="button" onClick={copyLink}><Copy size={16} /> {selectedEdgeId ? 'Copy relationship link' : 'Copy deep link'}</button>
         <a href={DATA_URL} target="_blank" rel="noreferrer"><Database size={16} /> Open data <ExternalLink size={13} /></a>
       </div>
     </aside>
@@ -507,6 +587,7 @@ export default function App() {
   const [release, setRelease] = useState<AtlasRelease>()
   const [error, setError] = useState<string>()
   const [selectedId, setSelectedId] = useState<string>()
+  const [selectedEdgeId, setSelectedEdgeId] = useState<string>()
   const [mobileNav, setMobileNav] = useState(false)
   const [filterOpen, setFilterOpen] = useState(false)
   const [activeKinds, setActiveKinds] = useState<Set<NodeKind>>(new Set())
@@ -517,8 +598,18 @@ export default function App() {
     loadAtlas().then((data) => {
       setRelease(data)
       const index = buildIndex(data)
-      const fromHash = nodeIdFromHash(window.location.hash)
-      setSelectedId(fromHash && index.nodes.has(fromHash) ? fromHash : index.root.id)
+      const route = routeFromHash(window.location.hash)
+      if (route?.kind === 'node' && index.nodes.has(route.id)) {
+        setSelectedId(route.id)
+      } else if (route?.kind === 'edge' && index.edges.has(route.id)) {
+        const edge = index.edges.get(route.id)!
+        setSelectedId(edge.subject)
+        setSelectedEdgeId(edge.id)
+        setInspectorTab('relationships')
+        setInspectorExpanded(true)
+      } else {
+        setSelectedId(index.root.id)
+      }
     }).catch((reason: unknown) => setError(reason instanceof Error ? reason.message : String(reason)))
   }, [])
 
@@ -526,8 +617,17 @@ export default function App() {
     if (!release) return
     const index = buildIndex(release)
     const syncHash = () => {
-      const id = nodeIdFromHash(window.location.hash)
-      if (id && index.nodes.has(id)) setSelectedId(id)
+      const route = routeFromHash(window.location.hash)
+      if (route?.kind === 'node' && index.nodes.has(route.id)) {
+        setSelectedId(route.id)
+        setSelectedEdgeId(undefined)
+      } else if (route?.kind === 'edge' && index.edges.has(route.id)) {
+        const edge = index.edges.get(route.id)!
+        setSelectedId((current) => current && (edge.subject === current || edge.object === current) ? current : edge.subject)
+        setSelectedEdgeId(edge.id)
+        setInspectorTab('relationships')
+        setInspectorExpanded(true)
+      }
     }
     window.addEventListener('hashchange', syncHash)
     return () => window.removeEventListener('hashchange', syncHash)
@@ -536,8 +636,20 @@ export default function App() {
   const index = useMemo(() => release ? buildIndex(release) : undefined, [release])
   const navigate = (id: string) => {
     setSelectedId(id)
+    setSelectedEdgeId(undefined)
     setInspectorTab('overview')
     window.location.hash = hashForNode(id)
+  }
+  const selectEdge = (id: string) => {
+    if (!index?.edges.has(id)) return
+    setSelectedEdgeId(id)
+    setInspectorTab('relationships')
+    setInspectorExpanded(true)
+    window.location.hash = hashForEdge(id)
+  }
+  const closeEdge = () => {
+    setSelectedEdgeId(undefined)
+    if (selectedId) window.location.hash = hashForNode(selectedId)
   }
 
   if (error) return <main className="load-state"><NetworkMark size={44} /><h1>The atlas could not be loaded.</h1><p>{error}</p><a href={DATA_URL}>Open the canonical data directly</a></main>
@@ -546,9 +658,13 @@ export default function App() {
   const selected = index.nodes.get(selectedId) ?? index.root
   const view = graphForSelection(selected.id, index)
   const share = async () => {
+    const selectedEdge = selectedEdgeId ? index.edges.get(selectedEdgeId) : undefined
     const url = new URL(window.location.href)
-    url.hash = hashForNode(selected.id)
-    if (navigator.share) await navigator.share({ title: `${selected.label} — Open Learning Atlas`, url: url.toString() })
+    url.hash = selectedEdge ? hashForEdge(selectedEdge.id) : hashForNode(selected.id)
+    const title = selectedEdge
+      ? `${index.nodes.get(selectedEdge.subject)?.label ?? selectedEdge.subject} ${relationLabel(selectedEdge.relation)} ${index.nodes.get(selectedEdge.object)?.label ?? selectedEdge.object} — Open Learning Atlas`
+      : `${selected.label} — Open Learning Atlas`
+    if (navigator.share) await navigator.share({ title, url: url.toString() })
     else await navigator.clipboard.writeText(url.toString())
   }
 
@@ -584,8 +700,8 @@ export default function App() {
             onOverview={() => navigate(index.root.id)}
           />
         </main>
-        <Inspector node={selected} index={index} onSelect={navigate} tab={inspectorTab} onTab={setInspectorTab} />
-        <Inspector node={selected} index={index} onSelect={navigate} tab={inspectorTab} onTab={setInspectorTab} mobile expanded={inspectorExpanded} onToggleExpanded={() => setInspectorExpanded((value) => !value)} />
+        <Inspector node={selected} index={index} onSelect={navigate} selectedEdgeId={selectedEdgeId} onSelectEdge={selectEdge} onCloseEdge={closeEdge} tab={inspectorTab} onTab={setInspectorTab} />
+        <Inspector node={selected} index={index} onSelect={navigate} selectedEdgeId={selectedEdgeId} onSelectEdge={selectEdge} onCloseEdge={closeEdge} tab={inspectorTab} onTab={setInspectorTab} mobile expanded={inspectorExpanded} onToggleExpanded={() => setInspectorExpanded((value) => !value)} />
       </div>
       <StatusBar release={release} />
       {mobileNav && (

@@ -10,7 +10,7 @@ This page maps the completion contract to inspectable evidence. It is deliberate
 | 4. Evidence and review | 22 reusable source records; every territory has coverage-source evidence; all AI-assisted records remain candidate. | Provenance complete; accountable review pending |
 | 5. Identity and evolution | Opaque identities, revisions, lifecycle fields, migration schema, redirects, and a non-destructive rename/split example validate. | Complete for alpha |
 | 6. Validation and releases | Schema, semantics, reproducible compiler, checksummed package, statistics, license manifest, changelog, and CI are present. | Alpha package complete; v1 package/tag pending |
-| 7. Human access | Public responsive atlas supports search, progressive views, filters, inspection, relationships, deep links, keyboard use, and base-map explanation. | Complete for alpha |
+| 7. Human access | Public responsive atlas supports search, progressive views, filters, keyboard use, and base-map explanation. Node and relationship IDs resolve as independent deep links; edge inspection exposes direction, rationale, conditions, basis, confidence, status, revision, provenance, and candidate-review explanation. | Complete for alpha |
 | 8. Agent and software access | `llms.txt`, pinned JSON/package, query CLI, traversal examples, migration data, and three downstream conformance fixtures are present. | Complete for alpha |
 | 9. Public project readiness | Public GitHub repository, deployed phone site, licensing, governance, contribution, security, attribution, and dossier are present. | Complete for alpha; v1 announcement pending |
 

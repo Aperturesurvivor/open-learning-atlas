@@ -10,6 +10,7 @@ export async function loadAtlas(): Promise<AtlasRelease> {
 
 export function buildIndex(release: AtlasRelease) {
   const nodes = new Map(release.nodes.map((node) => [node.id, node]))
+  const edges = new Map(release.edges.map((edge) => [edge.id, edge]))
   const sources = new Map(release.sources.map((source) => [source.id, source]))
   const outgoing = new Map<string, AtlasEdge[]>()
   const incoming = new Map<string, AtlasEdge[]>()
@@ -22,7 +23,7 @@ export function buildIndex(release: AtlasRelease) {
   const root = release.nodes.find((node) => node.subtype === 'atlas-root')
   if (!root) throw new Error('Atlas release has no root node')
 
-  return { nodes, sources, outgoing, incoming, root }
+  return { nodes, edges, sources, outgoing, incoming, root }
 }
 
 export type AtlasIndex = ReturnType<typeof buildIndex>
@@ -157,7 +158,7 @@ export function layoutGraph(view: GraphView, width = 1000, height = 720): Positi
 }
 
 export function relationLabel(relation: string) {
-  return relation.replaceAll('_', ' ')
+  return relation.replaceAll('_', ' ').replaceAll('-', ' ')
 }
 
 export function nodeTypeLabel(node: AtlasNode) {
@@ -172,7 +173,23 @@ export function hashForNode(id: string) {
   return `#/node/${encodeURIComponent(id)}`
 }
 
+export function hashForEdge(id: string) {
+  return `#/edge/${encodeURIComponent(id)}`
+}
+
+export type AtlasRoute = { kind: 'node' | 'edge'; id: string }
+
+export function routeFromHash(hash: string): AtlasRoute | undefined {
+  const match = hash.match(/^#\/(node|edge)\/(.+)$/)
+  if (!match) return undefined
+  try {
+    return { kind: match[1] as AtlasRoute['kind'], id: decodeURIComponent(match[2]) }
+  } catch {
+    return undefined
+  }
+}
+
 export function nodeIdFromHash(hash: string) {
-  const match = hash.match(/^#\/node\/(.+)$/)
-  return match ? decodeURIComponent(match[1]) : undefined
+  const route = routeFromHash(hash)
+  return route?.kind === 'node' ? route.id : undefined
 }

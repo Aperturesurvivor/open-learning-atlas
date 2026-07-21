@@ -18,8 +18,9 @@ The public experience must provide:
 - a plain-language explanation of the atlas and its limits;
 - mobile-first search and progressive zoom from region to node;
 - readable definitions before internal identifiers;
-- visible relation direction, conditions, confidence, provenance, and status;
-- permanent shareable links for records;
+- visible relation direction, rationale, conditions, claim basis, confidence,
+  provenance, review state, and stable identity;
+- permanent shareable links for node and relationship records;
 - keyboard, screen-reader, reduced-motion, and high-contrast support;
 - alternatives to color as the only carrier of meaning;
 - explanations when a claim is candidate or contested.
@@ -47,6 +48,8 @@ A release fails this contract if:
 - the visual site shows a relationship absent from released data;
 - an agent must infer record status from prose;
 - a person cannot discover the meaning or provenance of a visible edge;
+- a node or relationship deep link cannot independently resolve from its stable
+  identity;
 - stable links change when a label or hierarchy changes;
 - the latest release cannot be reconstructed from repository artifacts;
 - core use requires an account, proprietary client, or private API key.

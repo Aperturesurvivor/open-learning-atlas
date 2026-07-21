@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { buildIndex, graphForSelection, hashForNode, nodeIdFromHash, pathToRoot, searchNodes } from './atlas'
+import { buildIndex, graphForSelection, hashForEdge, hashForNode, nodeIdFromHash, pathToRoot, routeFromHash, searchNodes } from './atlas'
 import type { AtlasRelease } from './types'
 
 const release: AtlasRelease = {
@@ -37,7 +37,10 @@ describe('atlas navigation', () => {
   })
 
   it('round-trips stable identities through deep links', () => {
-    const id = 'ola:n:root'
-    expect(nodeIdFromHash(hashForNode(id))).toBe(id)
+    const nodeId = 'ola:n:root'
+    const edgeId = 'ola:e:one'
+    expect(nodeIdFromHash(hashForNode(nodeId))).toBe(nodeId)
+    expect(routeFromHash(hashForEdge(edgeId))).toEqual({ kind: 'edge', id: edgeId })
+    expect(routeFromHash('#/edge/%E0%A4%A')).toBeUndefined()
   })
 })

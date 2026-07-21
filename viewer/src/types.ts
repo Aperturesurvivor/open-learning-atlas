@@ -26,8 +26,11 @@ export interface AtlasEdge {
   subject: string
   relation: string
   object: string
+  scope?: string
+  conditions?: string[]
   rationale: string
   claim_basis: string[]
+  dependency_kind?: string
   evidence_strength: string
   status: string
   confidence: string
