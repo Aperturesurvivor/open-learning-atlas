@@ -4,7 +4,7 @@ This page maps the completion contract to inspectable evidence. It is deliberate
 
 | Contract section | Current evidence | Status |
 | --- | --- | --- |
-| 1. Mathematical coverage | One root reaches 1,212 active records; `tools/audit-v1 --require-complete` reports 87/87 active territories above the measurable floor; the 63-code MSC2020 disposition crosswalk is complete; generated review inventory reports no floor failures. | Machine-complete; 87 qualitative territory reviews pending |
+| 1. Mathematical coverage | One root reaches 1,212 active records; `tools/audit-v1 --require-complete` reports 87/87 active territories above the measurable floor; the 63-code MSC2020 disposition crosswalk is complete; generated review inventory reports no floor failures. The release-pinned AI pre-validation audit identifies four P0 decomposition problems and 28 P1 territories for early specialist review. | Machine-complete; validation required; 87 qualitative territory reviews pending |
 | 2. Capability quality | 463 capability and 56 practice records are assessable, carry observable statements and evidence dimensions, and declare dependency review; the quality audit finds no duplicate labels, definitions, capability statements, or embedded grade/course/curriculum placement. | Structurally complete; qualitative review pending |
 | 3. Relationship quality | 2,947 active and 8 deprecated stable claims carry direction, rationale, basis, status, confidence, and provenance; cycles and endpoint semantics validate; one requirement group demonstrates alternatives. | Alpha-complete; dependency graph remains deliberately sparse and mostly unreviewed |
 | 4. Evidence and review | 25 reusable source records; every active territory has field-appropriate coverage evidence beyond the whole-field MSC2020 checklist; all AI-assisted active records remain candidate. | Provenance complete; accountable review pending |
@@ -25,6 +25,10 @@ This page maps the completion contract to inspectable evidence. It is deliberate
 - Deprecated historical mathematical records: **1**
 
 These numbers are not defects hidden behind an “alpha” label. They are explicit claims about what has and has not been reviewed.
+
+The [AI pre-validation audit](../review/audits/mathematics-0.3.0-alpha-ai-prevalidation.md)
+is an adversarial problem-finding artifact, not review evidence. Its deterministic
+signals can be reproduced with `tools/audit-validation-risk --pretty`.
 
 ## Final gate
 

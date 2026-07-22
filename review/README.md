@@ -6,6 +6,9 @@ Machine validation can prove structure, reachability, reproducibility, and measu
 
 - `QUEUE.md` is a generated, mobile-readable territory picker with current
   status, direct atlas links, and preselected review-issue links.
+- `audits/mathematics-0.3.0-alpha-ai-prevalidation.md` is a release-pinned,
+  AI-generated adversarial audit. It identifies validation priorities but is
+  not approval or accountable review evidence.
 - `inventory/mathematics-0.3.0-alpha.json` is generated structural evidence for all 87 active territories.
 - `territory-reviews.json` is the human-editable decision ledger. It begins with every dimension pending.
 - `schema/territory-review.schema.json` defines the review interchange format.
@@ -41,6 +44,7 @@ to discard non-pending review evidence.
 
 ```sh
 tools/build-review-inventory --check
+tools/audit-validation-risk --pretty
 tools/validate-reviews
 tools/build-review-queue --check
 tools/test-review-validator  # isolated synthetic conformance test; never review evidence

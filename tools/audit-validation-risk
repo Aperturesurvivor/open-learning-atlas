@@ -1,0 +1,188 @@
+#!/usr/bin/env python3
+"""Report deterministic signals that require specialist atlas validation."""
+
+from __future__ import annotations
+
+import argparse
+from collections import Counter
+import json
+from pathlib import Path
+import re
+
+
+ROOT = Path(__file__).resolve().parents[1]
+DEFAULT_RELEASE = ROOT / "map" / "releases" / "mathematics-v0.3.0-alpha.json"
+GENERIC_EVIDENCE_PROFILE = (
+    "accuracy",
+    "representation",
+    "explanation",
+    "justification",
+    "variation",
+    "error-analysis",
+)
+VAGUE_BOUNDARY = re.compile(r"\b(?:bounded|in scope|appropriate)\b", re.IGNORECASE)
+BUNDLED_LABEL = re.compile(r",|\band\b", re.IGNORECASE)
+
+
+def active(records: list[dict]) -> list[dict]:
+    return [record for record in records if record.get("status") != "deprecated"]
+
+
+def finding(records: list[dict], predicate) -> dict:
+    affected = [record for record in records if predicate(record)]
+    return {
+        "count": len(affected),
+        "record_ids": sorted(record["id"] for record in affected),
+    }
+
+
+def source_distribution(document: dict, territories: list[dict]) -> dict:
+    qualifying_sources = [
+        source
+        for source in document.get("sources", [])
+        if source.get("source_type") != "contributor-analysis"
+        and source.get("title") != "Mathematics Subject Classification 2020"
+    ]
+    counts = {
+        territory["id"]: sum(
+            territory["id"] in source.get("coverage_for", [])
+            for source in qualifying_sources
+        )
+        for territory in territories
+    }
+    return {
+        "qualifying_source_definition": (
+            "All source records except contributor analysis and the whole-field "
+            "MSC2020 breadth checklist. This is a quantity signal, not a source-quality verdict."
+        ),
+        "qualifying_source_count": len(qualifying_sources),
+        "primary_mathematics_source_count": sum(
+            source.get("source_type") == "primary-mathematics"
+            for source in qualifying_sources
+        ),
+        "territories_by_qualifying_source_count": dict(
+            sorted(Counter(counts.values()).items())
+        ),
+        "territories_with_one_qualifying_source": sorted(
+            territory_id for territory_id, count in counts.items() if count == 1
+        ),
+    }
+
+
+def audit(document: dict) -> dict:
+    nodes = active(document["nodes"])
+    edges = active(document["edges"])
+    node_by_id = {node["id"]: node for node in nodes}
+    assessable = [node for node in nodes if node.get("assessable")]
+    territories = [
+        node for node in nodes if node.get("subtype") == "atlas-territory"
+    ]
+    composition_counts = Counter(
+        edge["subject"] for edge in edges if edge.get("relation") == "composed_of"
+    )
+    composition: dict[str, set[str]] = {}
+    for edge in edges:
+        if edge.get("relation") == "composed_of":
+            composition.setdefault(edge["subject"], set()).add(edge["object"])
+
+    def descendants(identity: str) -> set[str]:
+        result: set[str] = set()
+        pending = list(composition.get(identity, set()))
+        while pending:
+            descendant = pending.pop()
+            if descendant in result:
+                continue
+            result.add(descendant)
+            pending.extend(composition.get(descendant, set()) - result)
+        return result
+
+    findings = {
+        "nodes_without_explicit_scope": finding(nodes, lambda node: not node.get("scope")),
+        "nodes_without_aliases": finding(nodes, lambda node: not node.get("aliases")),
+        "edges_without_explicit_scope": finding(edges, lambda edge: not edge.get("scope")),
+        "edges_without_conditions": finding(edges, lambda edge: not edge.get("conditions")),
+        "assessable_statement_equals_definition": finding(
+            assessable,
+            lambda node: node.get("capability_statement") == node.get("definition"),
+        ),
+        "assessable_nodes_with_generic_evidence_profile": finding(
+            assessable,
+            lambda node: tuple(node.get("evidence_dimensions", [])) == GENERIC_EVIDENCE_PROFILE,
+        ),
+        "assessable_statements_with_unresolved_boundary_words": finding(
+            assessable,
+            lambda node: bool(VAGUE_BOUNDARY.search(node.get("capability_statement", ""))),
+        ),
+        "bundled_concept_labels": finding(
+            [node for node in nodes if node.get("kind") == "concept"],
+            lambda node: bool(BUNDLED_LABEL.search(node["label"])),
+        ),
+        "bundled_knowledge_labels": finding(
+            [node for node in nodes if node.get("kind") == "knowledge"],
+            lambda node: bool(BUNDLED_LABEL.search(node["label"])),
+        ),
+        "bundled_representation_labels": finding(
+            [node for node in nodes if node.get("kind") == "representation"],
+            lambda node: bool(BUNDLED_LABEL.search(node["label"])),
+        ),
+    }
+
+    relation_counts = Counter(edge["relation"] for edge in edges)
+    minimum_floor_territories = sorted(
+        (
+            {
+                "id": territory["id"],
+                "label": territory["label"],
+                "direct_composed_of_claims": composition_counts[territory["id"]],
+            }
+            for territory in territories
+            if sum(
+                node_by_id[identity].get("assessable", False)
+                for identity in descendants(territory["id"])
+            )
+            == 2
+        ),
+        key=lambda item: item["label"],
+    )
+
+    return {
+        "status": "validation-required",
+        "release": {
+            "map_id": document["map"]["id"],
+            "version": document["map"]["version"],
+        },
+        "interpretation": (
+            "These deterministic signals prioritize human review. They do not prove that an "
+            "individual record is wrong, and they do not constitute approval or review evidence."
+        ),
+        "metrics": {
+            "active_nodes": len(nodes),
+            "active_edges": len(edges),
+            "territories": len(territories),
+            "assessable_nodes": len(assessable),
+            "nodes_by_kind": dict(sorted(Counter(node["kind"] for node in nodes).items())),
+            "relations": dict(sorted(relation_counts.items())),
+            "dependency_review_states": dict(
+                sorted(Counter(node["dependency_review"] for node in assessable).items())
+            ),
+            "requirement_groups": len(document.get("requirement_groups", [])),
+            "uses_practice_claims": relation_counts.get("uses_practice", 0),
+        },
+        "source_signals": source_distribution(document, territories),
+        "minimum_capability_floor_territories": minimum_floor_territories,
+        "findings": findings,
+    }
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--release", type=Path, default=DEFAULT_RELEASE)
+    parser.add_argument("--pretty", action="store_true")
+    args = parser.parse_args()
+    document = json.loads(args.release.read_text(encoding="utf-8"))
+    print(json.dumps(audit(document), indent=2 if args.pretty else None, sort_keys=args.pretty))
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
