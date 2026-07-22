@@ -4,6 +4,8 @@
 **Audit date:** 2026-07-22<br>
 **Decision effect:** none — this document approves no territory and changes no review-ledger decision
 
+Tracking issue: [#3 — Mathematics 0.3.0-alpha validation needed](https://github.com/Aperturesurvivor/open-learning-atlas/issues/3)
+
 ## Bottom line
 
 Mathematics 0.3.0-alpha is a substantial, machine-valid breadth scaffold. It is
