@@ -1,0 +1,105 @@
+#!/usr/bin/env python3
+"""Exercise the review validator's fail-closed and complete-ledger paths."""
+
+from __future__ import annotations
+
+from copy import deepcopy
+from pathlib import Path
+from tempfile import TemporaryDirectory
+import json
+import subprocess
+import sys
+
+
+ROOT = Path(__file__).resolve().parents[1]
+REVIEWS = ROOT / "review" / "territory-reviews.json"
+VALIDATOR = ROOT / "tools" / "validate-reviews"
+
+
+def run_validator(path: Path, *, require_complete: bool = False) -> subprocess.CompletedProcess[str]:
+    command = [str(VALIDATOR), "--reviews", str(path)]
+    if require_complete:
+        command.append("--require-complete")
+    return subprocess.run(
+        command,
+        cwd=ROOT,
+        check=False,
+        capture_output=True,
+        text=True,
+    )
+
+
+def require(condition: bool, message: str) -> None:
+    if not condition:
+        raise ValueError(message)
+
+
+def write_json(path: Path, document: dict[str, object]) -> None:
+    path.write_text(json.dumps(document, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+
+def main() -> int:
+    try:
+        pending_result = run_validator(REVIEWS, require_complete=True)
+        require(pending_result.returncode != 0, "the real pending ledger unexpectedly passed the final gate")
+        require(
+            "final review gate requires every territory to be approved" in pending_result.stderr,
+            "the real pending ledger did not fail for the expected reason",
+        )
+
+        with REVIEWS.open(encoding="utf-8") as handle:
+            pending = json.load(handle)
+        synthetic = deepcopy(pending)
+        synthetic_note = (
+            "Synthetic conformance fixture exercising validator behavior; "
+            "this is not mathematical review evidence."
+        )
+        for entry in synthetic["entries"]:
+            entry["overall_status"] = "approved"
+            for decision in entry["decisions"]:
+                decision["status"] = "approved"
+                decision["reviewer"] = {
+                    "name": "Synthetic conformance fixture — not a reviewer",
+                    "role": "human-reviewer",
+                }
+                decision["reviewed_at"] = "2000-01-01"
+                decision["notes"] = synthetic_note
+
+        with TemporaryDirectory(prefix="ola-review-validator-") as temporary:
+            directory = Path(temporary)
+            approved_path = directory / "synthetic-approved-ledger.json"
+            write_json(approved_path, synthetic)
+            approved_result = run_validator(approved_path, require_complete=True)
+            require(
+                approved_result.returncode == 0,
+                "a structurally complete synthetic ledger did not pass: "
+                + (approved_result.stderr.strip() or approved_result.stdout.strip()),
+            )
+            require(
+                f"{len(synthetic['entries'])} approved" in approved_result.stdout,
+                "the complete-ledger result did not report every territory approved",
+            )
+
+            invalid = deepcopy(synthetic)
+            invalid["entries"][0]["decisions"][0]["reviewer"]["role"] = "ai-agent"
+            invalid_path = directory / "synthetic-invalid-attribution.json"
+            write_json(invalid_path, invalid)
+            invalid_result = run_validator(invalid_path, require_complete=True)
+            require(invalid_result.returncode != 0, "invalid reviewer attribution unexpectedly passed")
+            require(
+                "accountable human reviewer required" in invalid_result.stderr,
+                "invalid reviewer attribution did not fail for the expected reason",
+            )
+
+        print(
+            "OK review validator: pending evidence fails closed, a temporary complete fixture passes, "
+            "and invalid attribution is rejected"
+        )
+        return 0
+    except (OSError, json.JSONDecodeError, KeyError, TypeError, ValueError) as error:
+        print(f"ERROR {error}", file=sys.stderr)
+        return 1
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

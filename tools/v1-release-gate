@@ -24,6 +24,7 @@ COMMANDS = [
     (["tools/validate-crosswalks"], ROOT),
     (["tools/build-review-inventory", "--check"], ROOT),
     (["tools/build-review-queue", "--check"], ROOT),
+    (["tools/test-review-validator"], ROOT),
     (["tools/validate-reviews", "--require-complete"], ROOT),
     (["tools/check-links"], ROOT),
     (["deno", "task", "test"], ROOT / "viewer"),

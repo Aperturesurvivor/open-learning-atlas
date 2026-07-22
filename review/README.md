@@ -43,7 +43,11 @@ to discard non-pending review evidence.
 tools/build-review-inventory --check
 tools/validate-reviews
 tools/build-review-queue --check
+tools/test-review-validator  # isolated synthetic conformance test; never review evidence
 tools/validate-reviews --require-complete  # final v1 gate; intentionally fails while reviews are pending
 ```
 
-The initial alpha ledger is a review queue, not review evidence.
+The initial alpha ledger is a review queue, not review evidence. The synthetic
+complete ledger used by `tools/test-review-validator` exists only in a temporary
+directory and tests validator behavior; it is never published or accepted as a
+human decision.
