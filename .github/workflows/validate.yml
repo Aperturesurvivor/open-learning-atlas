@@ -34,6 +34,8 @@ jobs:
         run: tools/audit-v1
       - name: Audit textual and review-state quality signals
         run: tools/audit-quality
+      - name: Report specialist-validation risk signals
+        run: tools/audit-validation-risk > /dev/null
       - name: Audit field-appropriate territory evidence
         run: tools/audit-coverage-evidence
       - name: Test agent queries and downstream conformance
