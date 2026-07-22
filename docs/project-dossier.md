@@ -26,7 +26,9 @@ alpha with 2,955 typed relationships, territory coverage notes, checksummed
 release package, dependency-free query interface, downstream conformance
 fixtures, and a responsive interactive viewer. All 87 active territories pass
 the measurable breadth floor, and a validated crosswalk dispositions all 63
-top-level MSC2020 codes. Qualitative mathematical and educational review
+top-level MSC2020 codes. Pinned packages include checksums and migration
+history, and the public release chain enforces monotonic record revisions and
+non-destructive stable identities. Qualitative mathematical and educational review
 needed for v1 remains open.
 
 ## Origin and Attribution

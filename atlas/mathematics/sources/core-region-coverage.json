@@ -1,7 +1,7 @@
 [
   {
     "id": "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
-    "revision": 1,
+    "revision": 2,
     "title": "OpenStax Prealgebra 2e",
     "source_type": "curriculum",
     "citation": "Marecek, Lynn, MaryAnne Anthony-Smith, and Andrea Honeycutt Mathis. Prealgebra 2e. OpenStax, 2020.",
@@ -10,12 +10,13 @@
     "coverage_for": [
       "ola:n:0cab0be3-5531-474d-bc2b-d3dd90c78fa3",
       "ola:n:0e63b46b-7ec0-4641-b8bf-14017474d82a",
+      "ola:n:3a6a6a58-944c-47b0-b31b-885d043bb733",
       "ola:n:4c83ed0c-3ed7-4554-b566-b937c04e3e37",
       "ola:n:8994155f-ccce-4906-a6d5-8fba0d4bcf41",
       "ola:n:d6674c91-a2d2-41aa-bbe6-b1a1bf916042",
       "ola:n:f6e75f2e-d126-4500-bedd-aa3c3624544c"
     ],
-    "coverage_scope": "Whole numbers, integers, rational values, arithmetic operations, factors, exponents, measurement, basic algebra, and multiple representations.",
+    "coverage_scope": "Whole numbers, integers, rational values, ratios, proportions, percent, arithmetic operations, factors, exponents, measurement, basic algebra, and multiple representations.",
     "coverage_gaps": [
       "It is a course-oriented introductory text, not a complete number-theory or learning-dependency source.",
       "The source audits coverage and terminology; its hierarchy is not treated as a dependency graph."

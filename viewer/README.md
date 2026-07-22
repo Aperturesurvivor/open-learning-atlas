@@ -10,7 +10,7 @@ deno install
 deno task dev
 ```
 
-`dev` and `build` copy `../map/releases/mathematics-v0.2.0-alpha.json` into the local public directory. `deno task check-data` verifies that the copy matches the canonical release byte for byte.
+`dev` and `build` copy `../map/releases/mathematics-v0.3.0-alpha.json` into the local public directory. `deno task check-data` verifies that the copy matches the canonical release byte for byte.
 
 Checks:
 

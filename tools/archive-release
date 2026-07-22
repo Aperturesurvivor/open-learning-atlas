@@ -28,9 +28,10 @@ def main() -> int:
     buffer = io.BytesIO()
     with gzip.GzipFile(filename="", mode="wb", fileobj=buffer, mtime=0, compresslevel=9) as compressed:
         with tarfile.open(fileobj=compressed, mode="w", format=tarfile.PAX_FORMAT) as archive:
-            for path in sorted(item for item in package.iterdir() if item.is_file()):
+            for path in sorted(item for item in package.rglob("*") if item.is_file()):
                 data = path.read_bytes()
-                info = tarfile.TarInfo(name=f"{name}/{path.name}")
+                relative = path.relative_to(package).as_posix()
+                info = tarfile.TarInfo(name=f"{name}/{relative}")
                 info.size = len(data)
                 info.mode = 0o644
                 info.mtime = 0

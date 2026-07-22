@@ -2,7 +2,7 @@
   "fixture_version": "0.1",
   "id": "ola-conformance-target-expansion-001",
   "operation": "target-expansion",
-  "release_version": "0.2.0-alpha",
+  "release_version": "0.3.0-alpha",
   "input": {
     "target": "ola:n:b2404799-3a95-4fea-8b82-b5dd7b4ce32a",
     "assessable_only": true

@@ -6,7 +6,7 @@ Machine validation can prove structure, reachability, reproducibility, and measu
 
 - `QUEUE.md` is a generated, mobile-readable territory picker with current
   status, direct atlas links, and preselected review-issue links.
-- `inventory/mathematics-0.2.0-alpha.json` is generated structural evidence for all 87 active territories.
+- `inventory/mathematics-0.3.0-alpha.json` is generated structural evidence for all 87 active territories.
 - `territory-reviews.json` is the human-editable decision ledger. It begins with every dimension pending.
 - `schema/territory-review.schema.json` defines the review interchange format.
 

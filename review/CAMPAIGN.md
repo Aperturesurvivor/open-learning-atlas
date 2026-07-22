@@ -9,7 +9,7 @@ Open Learning Atlas: Mathematics has reached its machine-verifiable breadth floo
 - Pending: **87/87 territories**
 
 The generated [review queue](QUEUE.md) is the human-readable territory picker,
-the [territory inventory](inventory/mathematics-0.2.0-alpha.json) provides
+the [territory inventory](inventory/mathematics-0.3.0-alpha.json) provides
 structural evidence, and the [review ledger](territory-reviews.json) stores
 attributed decisions. Automated evidence must not be copied into the decision
 ledger as if it were human approval.
@@ -17,7 +17,7 @@ ledger as if it were human approval.
 ## How to participate
 
 1. Choose a territory from the [review queue](QUEUE.md) whose mathematics or teaching you can evaluate.
-2. Pin `mathematics-v0.2.0-alpha` or a later stated commit.
+2. Pin `mathematics-v0.3.0-alpha` or a later stated commit.
 3. Inspect the territory, descendants, capability statements, relationships, sources, and coverage gaps through the [public atlas](https://aperturesurvivor.github.io/open-learning-atlas/) and release data.
 4. Open a “Review a mathematics territory” issue or a focused pull request.
 5. State your relevant background and give explicit findings for the dimensions you actually reviewed.

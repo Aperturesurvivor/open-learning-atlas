@@ -1,0 +1,51 @@
+{
+  "counts": {
+    "edges": 2955,
+    "nodes": 1213,
+    "requirement_groups": 1,
+    "sources": 25
+  },
+  "edges_by_relation": {
+    "composed_of": 1257,
+    "represents": 4,
+    "requires": 4,
+    "supports": 3,
+    "uses_concept": 659,
+    "uses_knowledge": 502,
+    "uses_practice": 1,
+    "uses_representation": 525
+  },
+  "edges_by_status": {
+    "candidate": 2947,
+    "deprecated": 8
+  },
+  "format_version": "0.1",
+  "map": {
+    "description": "A grade-, course-, curriculum-, and provider-independent map of mathematical knowledge and observable capability.",
+    "domain": "mathematics",
+    "id": "ola:m:71a7897f-806f-40fa-a88d-051a92562907",
+    "language": "en",
+    "last_updated": "2026-07-21",
+    "license": "CC-BY-4.0",
+    "slug": "mathematics",
+    "status": "candidate",
+    "title": "Open Learning Atlas: Mathematics",
+    "version": "0.3.0-alpha"
+  },
+  "nodes_by_confidence": {
+    "high": 5,
+    "medium": 1208
+  },
+  "nodes_by_kind": {
+    "capability": 463,
+    "composite": 336,
+    "concept": 180,
+    "knowledge": 87,
+    "practice": 56,
+    "representation": 91
+  },
+  "nodes_by_status": {
+    "candidate": 1212,
+    "deprecated": 1
+  }
+}

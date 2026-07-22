@@ -15,9 +15,11 @@ learner paths.
 
 ## Mathematics
 
-- [`releases/mathematics-v0.2.0-alpha.json`](releases/mathematics-v0.2.0-alpha.json)
+- [`releases/mathematics-v0.3.0-alpha.json`](releases/mathematics-v0.3.0-alpha.json)
   — current generated, connected mathematics snapshot. Its editable source is
   [`../atlas/mathematics/`](../atlas/mathematics/).
+- [`releases/mathematics-v0.2.0-alpha.json`](releases/mathematics-v0.2.0-alpha.json)
+  — preserved advanced-analysis coverage correction.
 - [`releases/mathematics-v0.1.0-alpha.json`](releases/mathematics-v0.1.0-alpha.json)
   — preserved first public-alpha snapshot.
 - [`domains/mathematics-macro-v0.1.json`](domains/mathematics-macro-v0.1.json)

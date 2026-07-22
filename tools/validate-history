@@ -1,0 +1,132 @@
+#!/usr/bin/env python3
+"""Validate stable identity and revision invariants across pinned releases."""
+
+from __future__ import annotations
+
+from pathlib import Path
+import json
+import sys
+
+
+ROOT = Path(__file__).resolve().parents[1]
+DEFINITIONS = ROOT / "release-definitions"
+COLLECTIONS = ("nodes", "edges", "sources", "requirement_groups")
+
+
+def read(path: Path) -> dict:
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
+def release_path(version: str) -> Path:
+    return ROOT / "map" / "releases" / f"mathematics-v{version}.json"
+
+
+def main() -> int:
+    try:
+        definitions = [read(path) | {"_path": path} for path in sorted(DEFINITIONS.glob("mathematics-*.json"))]
+        if not definitions:
+            raise ValueError("no release definitions")
+        by_version: dict[str, dict] = {}
+        for definition in definitions:
+            release = read(ROOT / definition["dataset"])
+            version = release["map"]["version"]
+            if version in by_version:
+                raise ValueError(f"duplicate release definition for {version}")
+            by_version[version] = definition | {"_release": release}
+
+        errors: list[str] = []
+        roots = [version for version, definition in by_version.items() if definition["prior_release"] is None]
+        if len(roots) != 1:
+            errors.append(f"expected one release-history root; found {sorted(roots)}")
+
+        checked_pairs = 0
+        for version, definition in by_version.items():
+            current = definition["_release"]
+            prior_version = definition["prior_release"]
+            if prior_version is None:
+                for collection in COLLECTIONS:
+                    for record in current[collection]:
+                        if not isinstance(record.get("revision"), int) or record["revision"] < 1:
+                            errors.append(f"{version} {collection} {record['id']}: revision must be positive")
+                continue
+            prior_definition = by_version.get(prior_version)
+            if prior_definition is None:
+                errors.append(f"{version}: unknown prior release {prior_version}")
+                continue
+            prior = prior_definition["_release"]
+            checked_pairs += 1
+            if current["map"]["id"] != prior["map"]["id"]:
+                errors.append(f"{prior_version} -> {version}: map identity changed")
+            if current["format_version"] != prior["format_version"]:
+                errors.append(
+                    f"{prior_version} -> {version}: format change requires a dedicated format migration policy"
+                )
+
+            migration_change_ids: set[str] = set()
+            for repository_path in definition["migration_documents"]:
+                migration = read(ROOT / repository_path)
+                if migration["from_release"] != prior_version or migration["to_release"] != version:
+                    errors.append(f"{version}: direct migration has different release pins: {repository_path}")
+                migration_change_ids.update(change["identity"] for change in migration["changes"])
+
+            for collection in COLLECTIONS:
+                before_by_id = {record["id"]: record for record in prior[collection]}
+                after_by_id = {record["id"]: record for record in current[collection]}
+                removed = set(before_by_id) - set(after_by_id)
+                if removed:
+                    errors.append(
+                        f"{prior_version} -> {version} {collection}: stable identities removed: {sorted(removed)}"
+                    )
+                for identity in sorted(set(after_by_id) - set(before_by_id)):
+                    if after_by_id[identity].get("revision") != 1:
+                        errors.append(f"{version} {collection} {identity}: new identity must start at revision 1")
+                for identity in sorted(set(before_by_id) & set(after_by_id)):
+                    before = before_by_id[identity]
+                    after = after_by_id[identity]
+                    changed = before != after
+                    before_revision = before.get("revision")
+                    after_revision = after.get("revision")
+                    if changed and (
+                        not isinstance(before_revision, int)
+                        or not isinstance(after_revision, int)
+                        or after_revision <= before_revision
+                    ):
+                        errors.append(
+                            f"{prior_version} -> {version} {collection} {identity}: changed record must increase revision"
+                        )
+                    if not changed and after_revision != before_revision:
+                        errors.append(
+                            f"{prior_version} -> {version} {collection} {identity}: unchanged record changed revision"
+                        )
+                    if collection == "nodes":
+                        if before.get("status") == "deprecated" and after.get("status") != "deprecated":
+                            errors.append(f"{prior_version} -> {version} nodes {identity}: deprecated identity reactivated")
+                        lifecycle_changed = (
+                            before.get("label") != after.get("label")
+                            or before.get("slug") != after.get("slug")
+                            or (
+                                before.get("status") != "deprecated"
+                                and after.get("status") == "deprecated"
+                            )
+                        )
+                        if lifecycle_changed and identity not in migration_change_ids:
+                            errors.append(
+                                f"{prior_version} -> {version} nodes {identity}: lifecycle change missing from direct migration"
+                            )
+
+        if errors:
+            for error in errors:
+                print(f"ERROR {error}", file=sys.stderr)
+            return 1
+        print(
+            f"OK release history: {len(by_version)} releases, {checked_pairs} transitions; "
+            "stable identities retained and revisions monotonic"
+        )
+        return 0
+    except (OSError, json.JSONDecodeError, KeyError, TypeError, ValueError) as error:
+        print(f"ERROR {error}", file=sys.stderr)
+        return 1
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

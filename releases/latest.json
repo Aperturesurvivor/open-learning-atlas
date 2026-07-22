@@ -1,0 +1,25 @@
+{
+  "canonical_repository": "https://github.com/Aperturesurvivor/open-learning-atlas",
+  "dataset": {
+    "path": "map/releases/mathematics-v0.3.0-alpha.json",
+    "sha256": "91c7b194f5552d83f7ad0ec526cddbbaeddeca9aa7b83d223dbf790fe81deda3"
+  },
+  "format_version": "0.1",
+  "git_tag": "mathematics-v0.3.0-alpha",
+  "map": {
+    "id": "ola:m:71a7897f-806f-40fa-a88d-051a92562907",
+    "last_updated": "2026-07-21",
+    "status": "candidate",
+    "version": "0.3.0-alpha"
+  },
+  "package": {
+    "checksums": "releases/mathematics/0.3.0-alpha/checksums.sha256",
+    "manifest": "releases/mathematics/0.3.0-alpha/manifest.json",
+    "manifest_sha256": "bdad3baaa15312bc88409e043d203eb8feab9bc6f8854468866ce3c2e7f2178a",
+    "path": "releases/mathematics/0.3.0-alpha/"
+  },
+  "project": "Open Learning Atlas: Mathematics",
+  "public_data_url": "https://aperturesurvivor.github.io/open-learning-atlas/data/mathematics-v0.3.0-alpha.json",
+  "release_url": "https://github.com/Aperturesurvivor/open-learning-atlas/releases/tag/mathematics-v0.3.0-alpha",
+  "viewer_url": "https://aperturesurvivor.github.io/open-learning-atlas/"
+}

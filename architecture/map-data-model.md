@@ -195,13 +195,15 @@ The validator currently enforces:
 - valid conditional requirement groups;
 - lifecycle notes for deprecated nodes.
 
-The migration schema and semantic validator now check non-destructive rename,
-deprecation, split, replacement, revision, and redirect mechanics. The quality
-audit detects duplicate labels, definitions, capability statements, and shallow
-textual placeholders. Cross-release immutable-history comparison and general
-conditional cycle analysis remain future validation work. Generated releases
-require one atlas root, nonempty record provenance, and directed reachability
-from that root.
+The migration schema and semantic validator check non-destructive rename,
+deprecation, split, replacement, revision, and redirect mechanics. The release-
+history validator additionally rejects stable-identity removal, unversioned
+mutation, revision rollback, deprecated-identity reactivation, and undocumented
+node lifecycle changes across pinned releases. The quality audit detects
+duplicate labels, definitions, capability statements, and shallow textual
+placeholders. General conditional cycle analysis remains future validation
+work. Generated releases require one atlas root, nonempty record provenance,
+and directed reachability from that root.
 
 ## Release Shape
 
@@ -214,12 +216,17 @@ release manifest
 ├── checksums
 ├── license manifest
 ├── prior-release pointer
-├── migration pointer or mappings
+├── bundled migration schema and documents
+├── machine-readable diff
 └── human-readable changelog
 ```
 
-A machine-readable diff becomes required when a package has a prior release;
-the initial alpha correctly declares `prior_release: null`.
+A machine-readable diff is included for every package. Package format 0.2
+bundles directly applicable and historical migration documents rather than
+requiring an archive consumer to resolve a repository-relative path. The
+repository-level `releases/latest.json` pointer identifies the current pinned
+dataset and package with verifiable digests; consumers must still pin the
+resolved version for reproducible work.
 
 The current repository is a public-alpha architecture. Its `0.1` format is
 experimental until the v1 release contract is satisfied; record status and map

@@ -24,10 +24,18 @@ jobs:
         run: tools/build-atlas --check
       - name: Verify reproducible release package
         run: tools/build-release --check
+      - name: Verify self-contained release archive
+        run: tools/test-release-archive
+      - name: Verify current release pointer
+        run: tools/build-latest-pointer --check
+      - name: Validate release history
+        run: tools/validate-history
       - name: Report Mathematics v1 coverage
         run: tools/audit-v1
       - name: Audit textual and review-state quality signals
         run: tools/audit-quality
+      - name: Audit field-appropriate territory evidence
+        run: tools/audit-coverage-evidence
       - name: Test agent queries and downstream conformance
         run: tools/query-atlas stats > /dev/null && tools/run-conformance
       - name: Validate migration semantics

@@ -11,7 +11,7 @@ from lib.atlas_query import Atlas, DEFAULT_RELEASE
 
 
 ROOT = Path(__file__).resolve().parents[1]
-CROSSWALK = ROOT / "sources" / "crosswalks" / "msc2020-top-level-v0.2.json"
+CROSSWALK = ROOT / "sources" / "crosswalks" / "msc2020-top-level-v0.3.json"
 EXPECTED_CODES = {
     "00", "01", "03", "05", "06", "08", "11", "12", "13", "14", "15", "16",
     "17", "18", "19", "20", "22", "26", "28", "30", "31", "32", "33", "34",

@@ -5,8 +5,8 @@ import { fileURLToPath } from 'node:url'
 
 const here = dirname(fileURLToPath(import.meta.url))
 const viewerRoot = resolve(here, '..')
-const source = resolve(viewerRoot, '..', 'map', 'releases', 'mathematics-v0.2.0-alpha.json')
-const target = resolve(viewerRoot, 'public', 'data', 'mathematics-v0.2.0-alpha.json')
+const source = resolve(viewerRoot, '..', 'map', 'releases', 'mathematics-v0.3.0-alpha.json')
+const target = resolve(viewerRoot, 'public', 'data', 'mathematics-v0.3.0-alpha.json')
 const checkOnly = process.argv.includes('--check')
 
 const digest = (value) => createHash('sha256').update(value).digest('hex')

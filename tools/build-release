@@ -57,6 +57,8 @@ def record_diff(current: list[dict[str, Any]], prior: list[dict[str, Any]] | Non
 
 def build(definition_path: Path, output: Path) -> None:
     definition = json.loads(definition_path.read_text(encoding="utf-8"))
+    package_format = definition["package_format"]
+    bundle_migrations = package_format == "0.2"
     dataset_path = ROOT / definition["dataset"]
     schema_path = ROOT / definition["schema"]
     atlas = Atlas.load(dataset_path)
@@ -74,30 +76,81 @@ def build(definition_path: Path, output: Path) -> None:
     statistics = atlas.statistics()
     write_json(output / "statistics.json", statistics)
 
+    bundled_migrations: dict[str, str] = {}
+    if bundle_migrations:
+        shutil.copyfile(
+            ROOT / "map" / "schema" / "open-learning-atlas-migration.schema.json",
+            output / "migration-schema.json",
+        )
+        migration_directory = output / "migration-documents"
+        all_migration_documents = list(dict.fromkeys(
+            definition["migration_documents"]
+            + definition.get("migration_history_documents", [])
+        ))
+        if all_migration_documents:
+            migration_directory.mkdir(parents=True, exist_ok=True)
+        for repository_path in all_migration_documents:
+            source = ROOT / repository_path
+            local_path = f"migration-documents/{source.name}"
+            if local_path in bundled_migrations.values():
+                raise ValueError(f"duplicate bundled migration filename: {source.name}")
+            shutil.copyfile(source, output / local_path)
+            bundled_migrations[repository_path] = local_path
+
     license_manifest = {
         "package": "Open Learning Atlas: Mathematics",
         "release": version,
         "data_and_authored_content": {
             "license": "CC-BY-4.0",
             "legal_text": "LICENSE-data.txt",
-            "applies_to": ["atlas.json", "CHANGELOG.md", "README.md", "statistics.json", "diff.json"],
+            "applies_to": [
+                "atlas.json", "CHANGELOG.md", "README.md", "statistics.json", "diff.json",
+                *sorted(bundled_migrations.values()),
+            ],
             "attribution": f"Open Learning Atlas contributors, Open Learning Atlas: Mathematics {version}",
         },
         "schema_and_build_software": {
             "license": "Apache-2.0",
-            "applies_to": ["schema.json"],
+            "applies_to": [
+                "schema.json",
+                *(["migration-schema.json"] if bundle_migrations else []),
+            ],
             "repository_license": "https://github.com/Aperturesurvivor/open-learning-atlas/blob/main/LICENSE",
         },
         "third_party_sources": "Citations in atlas.json retain their original rights; citation does not relicense source material.",
     }
     write_json(output / "license-manifest.json", license_manifest)
 
-    migration_manifest = {
-        "from_release": definition["prior_release"],
-        "to_release": version,
-        "documents": definition["migration_documents"],
-        "note": "No prior release exists." if definition["prior_release"] is None else "Apply every listed migration document in order.",
-    }
+    if bundle_migrations:
+        direct_documents = [bundled_migrations[path] for path in definition["migration_documents"]]
+        history_documents = [
+            bundled_migrations[path]
+            for path in definition.get("migration_history_documents", [])
+        ]
+        if definition["prior_release"] is None:
+            migration_note = "No prior release exists."
+        elif direct_documents:
+            migration_note = "Apply every direct migration document in order."
+        else:
+            migration_note = "No identity migration is required from the prior release; inspect diff.json for all changes."
+        migration_manifest = {
+            "from_release": definition["prior_release"],
+            "to_release": version,
+            "schema": "migration-schema.json",
+            "documents": direct_documents,
+            "history_documents": history_documents,
+            "repository_sources": {
+                bundled_migrations[path]: path for path in sorted(bundled_migrations)
+            },
+            "note": migration_note,
+        }
+    else:
+        migration_manifest = {
+            "from_release": definition["prior_release"],
+            "to_release": version,
+            "documents": definition["migration_documents"],
+            "note": "No prior release exists." if definition["prior_release"] is None else "Apply every listed migration document in order.",
+        }
     write_json(output / "migrations.json", migration_manifest)
 
     prior_release = None
@@ -145,7 +198,18 @@ def build(definition_path: Path, output: Path) -> None:
         "- `manifest.json` — package identity and per-artifact digests.",
         "- `statistics.json` — status, confidence, kind, and relation distributions.",
         "- `checksums.sha256` — SHA-256 verification for every other package file.",
-        "- `migrations.json` — prior-release and migration pointers.",
+        (
+            "- `migrations.json` — prior-release and bundled migration information."
+            if bundle_migrations
+            else "- `migrations.json` — prior-release and migration pointers."
+        ),
+        *(
+            [
+                "- `migration-schema.json` — schema for bundled lifecycle documents.",
+                "- `migration-documents/` — directly applicable and historical identity migrations, when present.",
+            ]
+            if bundle_migrations else []
+        ),
         "- `diff.json` — added, removed, and revision/field changes from the prior release.",
         "- `license-manifest.json`, `LICENSE-data.txt`, and `NOTICE.txt` — reuse terms and attribution.",
         "- `CHANGELOG.md` — scope, changes, and known limitations.",
@@ -173,6 +237,10 @@ def build(definition_path: Path, output: Path) -> None:
         "CHANGELOG.md": "changelog",
         "README.md": "documentation",
     }
+    if bundle_migrations:
+        roles["migration-schema.json"] = "migration-schema"
+        for local_path in bundled_migrations.values():
+            roles[local_path] = "migration-document"
     artifacts = []
     for name, role in sorted(roles.items()):
         path = output / name
@@ -184,7 +252,7 @@ def build(definition_path: Path, output: Path) -> None:
             "sha256": digest(path),
         })
     manifest = {
-        "package_format": definition["package_format"],
+        "package_format": package_format,
         "release": atlas.release["map"],
         "format_version": atlas.release["format_version"],
         "release_date": definition["release_date"],
@@ -194,8 +262,14 @@ def build(definition_path: Path, output: Path) -> None:
     }
     write_json(output / "manifest.json", manifest)
 
-    checksum_files = sorted(path for path in output.iterdir() if path.is_file() and path.name != "checksums.sha256")
-    checksum_text = "".join(f"{digest(path)}  {path.name}\n" for path in checksum_files)
+    checksum_files = sorted(
+        path for path in output.rglob("*")
+        if path.is_file() and path.name != "checksums.sha256"
+    )
+    checksum_text = "".join(
+        f"{digest(path)}  {path.relative_to(output).as_posix()}\n"
+        for path in checksum_files
+    )
     (output / "checksums.sha256").write_text(checksum_text, encoding="utf-8")
 
 

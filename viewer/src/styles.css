@@ -182,8 +182,10 @@ button:focus-visible, a:focus-visible, input:focus-visible, [tabindex]:focus-vis
 .edge-actions button { min-height: 32px; display: flex; align-items: center; justify-content: center; gap: 4px; border: 1px solid #b6c8e9; border-radius: 4px; background: #fff; color: #2458ac; cursor: pointer; font-size: 9px; }
 .edge-actions button:hover { background: #edf3ff; }
 .inspector-actions { display: grid; grid-template-columns: 1fr 1fr; gap: 7px; border-top: 1px solid var(--line); padding: 10px 12px; background: #fff; }
+.inspector-actions.reviewable { grid-template-columns: repeat(3, minmax(0, 1fr)); }
 .inspector-actions button, .inspector-actions a { min-height: 36px; display: flex; align-items: center; justify-content: center; gap: 6px; border: 1px solid #a9c2fa; border-radius: 5px; background: #fff; color: #1555ca; text-decoration: none; cursor: pointer; font-size: 11px; }
 .inspector-actions a { color: #4c5a6d; border-color: var(--line-strong); }
+.inspector-actions a.review-action { color: #1555ca; border-color: #a9c2fa; }
 .inspector-actions button:hover, .inspector-actions a:hover { background: #f4f7fb; }
 
 .status-bar { display: flex; align-items: center; gap: 20px; min-width: 0; padding: 0 16px; border-top: 1px solid var(--line); background: #fff; color: #5b687a; font-size: 10px; position: relative; z-index: 45; }

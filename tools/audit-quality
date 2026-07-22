@@ -7,9 +7,34 @@ from collections import Counter, defaultdict
 from pathlib import Path
 import argparse
 import json
+import re
 import sys
 
 from lib.atlas_query import Atlas, DEFAULT_RELEASE
+
+
+PLACEMENT_PATTERN = re.compile(
+    r"\b(?:grade(?:s| level| band)?|school year|semester|course sequence|"
+    r"lesson plan|curriculum|provider-specific|institution-specific|learning project)\b",
+    re.IGNORECASE,
+)
+
+
+def embedded_placement(nodes: list[dict]) -> list[dict]:
+    findings = []
+    for node in nodes:
+        for field in ("label", "definition", "scope", "capability_statement"):
+            value = node.get(field)
+            if not isinstance(value, str):
+                continue
+            match = PLACEMENT_PATTERN.search(value)
+            if match:
+                findings.append({
+                    "record_id": node["id"],
+                    "field": field,
+                    "matched_phrase": match.group(0),
+                })
+    return findings
 
 
 def duplicates(nodes: list[dict], field: str, normalize=False) -> list[dict]:
@@ -43,6 +68,7 @@ def main() -> int:
             "short_capability_statements": [node["id"] for node in assessable if len(node["capability_statement"].strip()) < 80],
             "missing_evidence_dimensions": [node["id"] for node in assessable if not node.get("evidence_dimensions")],
             "generic_family_definitions": [node["id"] for node in nodes if node["definition"].startswith("A capability family within ")],
+            "embedded_instructional_placement": embedded_placement(nodes),
         }
         metrics = {
             "nodes": len(nodes),

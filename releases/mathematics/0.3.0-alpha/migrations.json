@@ -1,0 +1,13 @@
+{
+  "documents": [],
+  "from_release": "0.2.0-alpha",
+  "history_documents": [
+    "migration-documents/0.1.0-alpha-to-0.2.0-alpha.json"
+  ],
+  "note": "No identity migration is required from the prior release; inspect diff.json for all changes.",
+  "repository_sources": {
+    "migration-documents/0.1.0-alpha-to-0.2.0-alpha.json": "migrations/mathematics/0.1.0-alpha-to-0.2.0-alpha.json"
+  },
+  "schema": "migration-schema.json",
+  "to_release": "0.3.0-alpha"
+}

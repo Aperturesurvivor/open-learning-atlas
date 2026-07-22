@@ -32,9 +32,12 @@ is a projection and may be rebuilt from a pinned release.
 
 The editable source is split into focused arrays under `atlas/mathematics/`.
 `tools/build-atlas` deterministically compiles the connected JSON snapshot.
-`tools/build-release` then produces a self-contained checksummed package; the
-viewer and query tools consume the same snapshot rather than maintaining their
-own meanings.
+`tools/build-release` then produces a self-contained checksummed package,
+including migration history in package format 0.2. `tools/validate-history`
+checks stable identity and revision invariants across the public release chain,
+while `releases/latest.json` provides a digest-bearing current-release pointer.
+The viewer and query tools consume the same snapshot rather than maintaining
+their own meanings.
 
 ## Validation Boundary
 

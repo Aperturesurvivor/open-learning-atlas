@@ -30,6 +30,7 @@ import {
   nodeTypeLabel,
   pathToRoot,
   relationLabel,
+  reviewIssueUrl,
   routeFromHash,
   searchNodes,
   structuralChildren,
@@ -38,7 +39,7 @@ import type { AtlasIndex } from './atlas'
 import type { AtlasEdge, AtlasNode, AtlasRelease, GraphView, NodeKind, PositionedNode } from './types'
 
 const REPOSITORY = 'https://github.com/Aperturesurvivor/open-learning-atlas'
-const DATA_URL = `${import.meta.env.BASE_URL}data/mathematics-v0.2.0-alpha.json`
+const DATA_URL = `${import.meta.env.BASE_URL}data/mathematics-v0.3.0-alpha.json`
 const nodeKinds: NodeKind[] = ['capability', 'concept', 'knowledge', 'representation', 'practice', 'composite']
 
 const kindColors: Record<NodeKind, string> = {
@@ -463,6 +464,9 @@ function Inspector({ node, index, onSelect, selectedEdgeId, onSelectEdge, onClos
     url.hash = selectedEdgeId ? hashForEdge(selectedEdgeId) : hashForNode(node.id)
     await navigator.clipboard.writeText(url.toString())
   }
+  const reviewUrl = node.subtype === 'atlas-territory' && !selectedEdgeId
+    ? reviewIssueUrl(node, index.release.map.version)
+    : undefined
 
   return (
     <aside className={`inspector ${mobile ? 'inspector-mobile' : ''} ${expanded ? 'expanded' : ''}`} aria-label={`Inspector for ${node.label}`}>
@@ -541,8 +545,9 @@ function Inspector({ node, index, onSelect, selectedEdgeId, onSelectEdge, onClos
           </div>
         )}
       </div>
-      <div className="inspector-actions">
+      <div className={`inspector-actions ${reviewUrl ? 'reviewable' : ''}`}>
         <button type="button" onClick={copyLink}><Copy size={16} /> {selectedEdgeId ? 'Copy relationship link' : 'Copy deep link'}</button>
+        {reviewUrl && <a className="review-action" href={reviewUrl} target="_blank" rel="noreferrer"><Check size={16} /> Start review <ExternalLink size={12} /></a>}
         <a href={DATA_URL} target="_blank" rel="noreferrer"><Database size={16} /> Open data <ExternalLink size={13} /></a>
       </div>
     </aside>

@@ -1,6 +1,7 @@
 import type { AtlasEdge, AtlasNode, AtlasRelease, GraphView, PositionedNode } from './types'
 
-export const releaseDataPath = 'data/mathematics-v0.2.0-alpha.json'
+export const releaseDataPath = 'data/mathematics-v0.3.0-alpha.json'
+const repositoryUrl = 'https://github.com/Aperturesurvivor/open-learning-atlas'
 
 export async function loadAtlas(): Promise<AtlasRelease> {
   const response = await fetch(`${import.meta.env.BASE_URL}${releaseDataPath}`)
@@ -23,7 +24,7 @@ export function buildIndex(release: AtlasRelease) {
   const root = release.nodes.find((node) => node.subtype === 'atlas-root')
   if (!root) throw new Error('Atlas release has no root node')
 
-  return { nodes, edges, sources, outgoing, incoming, root }
+  return { release, nodes, edges, sources, outgoing, incoming, root }
 }
 
 export type AtlasIndex = ReturnType<typeof buildIndex>
@@ -192,4 +193,14 @@ export function routeFromHash(hash: string): AtlasRoute | undefined {
 export function nodeIdFromHash(hash: string) {
   const route = routeFromHash(hash)
   return route?.kind === 'node' ? route.id : undefined
+}
+
+export function reviewIssueUrl(node: AtlasNode, version: string) {
+  const query = new URLSearchParams({
+    template: 'review-territory.yml',
+    title: `[Review]: ${node.label}`,
+    territory: `${node.id} — ${node.label}`,
+    release: version,
+  })
+  return `${repositoryUrl}/issues/new?${query}`
 }

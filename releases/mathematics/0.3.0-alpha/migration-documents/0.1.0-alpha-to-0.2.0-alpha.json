@@ -1,0 +1,51 @@
+{
+  "format_version": "0.1",
+  "id": "mathematics-0.1.0-alpha-to-0.2.0-alpha",
+  "map_id": "ola:m:71a7897f-806f-40fa-a88d-051a92562907",
+  "from_release": "0.1.0-alpha",
+  "to_release": "0.2.0-alpha",
+  "status": "candidate",
+  "description": "Splits one acknowledged over-aggregated advanced-analysis territory while preserving its historical identity.",
+  "changes": [
+    {
+      "operation": "split",
+      "identity": "ola:n:921ce5ef-565c-4e34-abbc-3a569226e533",
+      "from_revision": 1,
+      "to_revision": 2,
+      "before": {
+        "label": "Measure, Functional, Complex, and Harmonic Analysis",
+        "slug": "measure-functional-complex-harmonic-analysis",
+        "status": "candidate"
+      },
+      "after": {
+        "label": "Measure, Functional, Complex, and Harmonic Analysis",
+        "slug": "measure-functional-complex-harmonic-analysis",
+        "status": "deprecated"
+      },
+      "replaced_by": [
+        "ola:n:552eff8f-c77c-405c-bc1a-322ce217dc7b",
+        "ola:n:2789e8ed-9858-47b9-83d8-59c15a0180cc",
+        "ola:n:dd589d45-354d-4075-9de1-5b9b95dbb644"
+      ],
+      "rationale": "Measure and functional analysis, complex analysis, and harmonic and operator analysis have distinct organizing objects, representations, and observable capability families. Keeping them in one territory obscured review scope and created an acknowledged granularity inconsistency.",
+      "source_ids": [
+        "ola:s:9694700b-a8aa-43a8-ae5b-eff223f0097a",
+        "ola:s:a90ff663-4b01-4140-9a78-b9751666e72a",
+        "ola:s:b0873062-b819-49c9-a7d1-a3db4423e06f",
+        "ola:s:d09d1f76-f8e4-4e41-8971-29c6608c219f",
+        "ola:s:179d86cc-3dd3-4ea2-b6fc-eec4304caad8"
+      ]
+    }
+  ],
+  "redirects": [
+    {
+      "from": "ola:n:921ce5ef-565c-4e34-abbc-3a569226e533",
+      "to": [
+        "ola:n:552eff8f-c77c-405c-bc1a-322ce217dc7b",
+        "ola:n:2789e8ed-9858-47b9-83d8-59c15a0180cc",
+        "ola:n:dd589d45-354d-4075-9de1-5b9b95dbb644"
+      ],
+      "reason": "split"
+    }
+  ]
+}

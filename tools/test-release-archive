@@ -1,0 +1,93 @@
+#!/usr/bin/env python3
+"""Build and verify the current deterministic release archive as a consumer would."""
+
+from __future__ import annotations
+
+from hashlib import sha256
+from pathlib import Path
+from tempfile import TemporaryDirectory
+import json
+import subprocess
+import sys
+import tarfile
+
+from lib.atlas_query import Atlas, DEFAULT_RELEASE
+
+
+ROOT = Path(__file__).resolve().parents[1]
+
+
+def digest(path: Path) -> str:
+    return sha256(path.read_bytes()).hexdigest()
+
+
+def main() -> int:
+    try:
+        version = Atlas.load(DEFAULT_RELEASE).release["map"]["version"]
+        name = f"open-learning-atlas-mathematics-{version}"
+        result = subprocess.run(
+            [ROOT / "tools" / "archive-release", version],
+            cwd=ROOT,
+            check=False,
+            capture_output=True,
+            text=True,
+        )
+        if result.returncode:
+            raise ValueError(result.stderr.strip() or result.stdout.strip())
+        archive = ROOT / "dist" / "releases" / f"{name}.tar.gz"
+        archive_checksum = archive.with_suffix(archive.suffix + ".sha256")
+        expected_archive_digest = archive_checksum.read_text(encoding="utf-8").split()[0]
+        if digest(archive) != expected_archive_digest:
+            raise ValueError("archive digest does not match its sidecar")
+
+        with TemporaryDirectory(prefix="ola-archive-") as temporary:
+            destination = Path(temporary)
+            with tarfile.open(archive, "r:gz") as bundle:
+                bundle.extractall(destination, filter="data")
+            extracted = destination / name
+            package = ROOT / "releases" / "mathematics" / version
+            packaged_files = {
+                path.relative_to(package).as_posix(): digest(path)
+                for path in package.rglob("*") if path.is_file()
+            }
+            extracted_files = {
+                path.relative_to(extracted).as_posix(): digest(path)
+                for path in extracted.rglob("*") if path.is_file()
+            }
+            if packaged_files != extracted_files:
+                missing = sorted(set(packaged_files) - set(extracted_files))
+                extra = sorted(set(extracted_files) - set(packaged_files))
+                changed = sorted(
+                    path for path in set(packaged_files) & set(extracted_files)
+                    if packaged_files[path] != extracted_files[path]
+                )
+                raise ValueError(
+                    f"archive differs from package; missing={missing}, extra={extra}, changed={changed}"
+                )
+
+            for line in (extracted / "checksums.sha256").read_text(encoding="utf-8").splitlines():
+                expected, relative = line.split("  ", 1)
+                artifact = extracted / relative
+                if not artifact.is_file() or digest(artifact) != expected:
+                    raise ValueError(f"package checksum failed: {relative}")
+            migrations = json.loads((extracted / "migrations.json").read_text(encoding="utf-8"))
+            for relative in [
+                *([migrations["schema"]] if "schema" in migrations else []),
+                *migrations.get("documents", []),
+                *migrations.get("history_documents", []),
+            ]:
+                if not (extracted / relative).is_file():
+                    raise ValueError(f"migration artifact does not resolve inside archive: {relative}")
+
+        print(
+            f"OK Mathematics {version}: deterministic archive matches package, "
+            "checksums, and self-contained migration references"
+        )
+        return 0
+    except (OSError, json.JSONDecodeError, KeyError, TypeError, ValueError, tarfile.TarError) as error:
+        print(f"ERROR {error}", file=sys.stderr)
+        return 1
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

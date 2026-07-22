@@ -1,0 +1,85 @@
+#!/usr/bin/env python3
+"""Build the machine-readable pointer to the current pinned mathematics release."""
+
+from __future__ import annotations
+
+from hashlib import sha256
+from pathlib import Path
+import argparse
+import json
+import sys
+
+from lib.atlas_query import Atlas, DEFAULT_RELEASE
+
+
+ROOT = Path(__file__).resolve().parents[1]
+TARGET = ROOT / "releases" / "latest.json"
+
+
+def digest(path: Path) -> str:
+    return sha256(path.read_bytes()).hexdigest()
+
+
+def encoded(value: dict) -> bytes:
+    return (json.dumps(value, ensure_ascii=False, indent=2, sort_keys=True) + "\n").encode()
+
+
+def build(release_path: Path) -> dict:
+    atlas = Atlas.load(release_path)
+    version = atlas.release["map"]["version"]
+    package = ROOT / "releases" / "mathematics" / version
+    manifest = package / "manifest.json"
+    checksums = package / "checksums.sha256"
+    if not manifest.exists() or not checksums.exists():
+        raise ValueError(f"release package is missing for {version}")
+    tag = f"mathematics-v{version}"
+    return {
+        "format_version": "0.1",
+        "project": "Open Learning Atlas: Mathematics",
+        "map": {
+            "id": atlas.release["map"]["id"],
+            "version": version,
+            "status": atlas.release["map"]["status"],
+            "last_updated": atlas.release["map"]["last_updated"],
+        },
+        "dataset": {
+            "path": release_path.relative_to(ROOT).as_posix(),
+            "sha256": digest(release_path),
+        },
+        "package": {
+            "path": package.relative_to(ROOT).as_posix() + "/",
+            "manifest": manifest.relative_to(ROOT).as_posix(),
+            "manifest_sha256": digest(manifest),
+            "checksums": checksums.relative_to(ROOT).as_posix(),
+        },
+        "git_tag": tag,
+        "canonical_repository": "https://github.com/Aperturesurvivor/open-learning-atlas",
+        "release_url": f"https://github.com/Aperturesurvivor/open-learning-atlas/releases/tag/{tag}",
+        "viewer_url": "https://aperturesurvivor.github.io/open-learning-atlas/",
+        "public_data_url": f"https://aperturesurvivor.github.io/open-learning-atlas/data/mathematics-v{version}.json",
+    }
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--release", type=Path, default=DEFAULT_RELEASE)
+    parser.add_argument("--check", action="store_true")
+    args = parser.parse_args()
+    try:
+        content = encoded(build(args.release.resolve()))
+        if args.check:
+            if not TARGET.exists() or TARGET.read_bytes() != content:
+                print(f"ERROR latest-release pointer is missing or stale: {TARGET}", file=sys.stderr)
+                return 1
+            print(f"OK {TARGET}: points to {args.release.resolve().name}")
+            return 0
+        TARGET.write_bytes(content)
+        print(f"Built {TARGET}")
+        return 0
+    except (OSError, json.JSONDecodeError, KeyError, TypeError, ValueError) as error:
+        print(f"ERROR {error}", file=sys.stderr)
+        return 1
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

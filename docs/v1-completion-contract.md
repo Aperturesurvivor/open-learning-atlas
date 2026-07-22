@@ -6,7 +6,7 @@ declared merely because the repository, macro topology, or viewer exists.
 
 ## 1. Mathematical Coverage
 
-- All 13 macro regions and all 85 current territories are reviewed for scope,
+- All 13 macro regions and all 87 active territories are reviewed for scope,
   omissions, misleading aggregation, and multi-region membership.
 - Every territory is decomposed into at least five meaningful child records.
 - Every territory reaches at least two bounded capability or practice nodes;

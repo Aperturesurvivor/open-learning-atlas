@@ -10,7 +10,7 @@ import json
 
 
 ROOT = Path(__file__).resolve().parents[2]
-DEFAULT_RELEASE = ROOT / "map" / "releases" / "mathematics-v0.2.0-alpha.json"
+DEFAULT_RELEASE = ROOT / "map" / "releases" / "mathematics-v0.3.0-alpha.json"
 
 
 class QueryError(ValueError):

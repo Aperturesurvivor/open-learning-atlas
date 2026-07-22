@@ -1,0 +1,35 @@
+{
+  "edges": {
+    "added_ids": [],
+    "modified": [],
+    "removed_ids": []
+  },
+  "from_release": "0.2.0-alpha",
+  "nodes": {
+    "added_ids": [],
+    "modified": [],
+    "removed_ids": []
+  },
+  "requirement_groups": {
+    "added_ids": [],
+    "modified": [],
+    "removed_ids": []
+  },
+  "sources": {
+    "added_ids": [],
+    "modified": [
+      {
+        "changed_fields": [
+          "coverage_for",
+          "coverage_scope",
+          "revision"
+        ],
+        "from_revision": 1,
+        "id": "ola:s:f5c5a37a-4cb4-462d-bb30-2b084bef2a68",
+        "to_revision": 2
+      }
+    ],
+    "removed_ids": []
+  },
+  "to_release": "0.3.0-alpha"
+}

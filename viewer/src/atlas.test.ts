@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { buildIndex, graphForSelection, hashForEdge, hashForNode, nodeIdFromHash, pathToRoot, routeFromHash, searchNodes, structuralChildren, structuralParents } from './atlas'
+import { buildIndex, graphForSelection, hashForEdge, hashForNode, nodeIdFromHash, pathToRoot, reviewIssueUrl, routeFromHash, searchNodes, structuralChildren, structuralParents } from './atlas'
 import type { AtlasRelease } from './types'
 
 const release: AtlasRelease = {
@@ -51,5 +51,13 @@ describe('atlas navigation', () => {
     expect(nodeIdFromHash(hashForNode(nodeId))).toBe(nodeId)
     expect(routeFromHash(hashForEdge(edgeId))).toEqual({ kind: 'edge', id: edgeId })
     expect(routeFromHash('#/edge/%E0%A4%A')).toBeUndefined()
+  })
+
+  it('creates a release-pinned attributed-review link for a territory', () => {
+    const url = new URL(reviewIssueUrl(release.nodes[2], '0.3.0-alpha'))
+    expect(url.pathname).toBe('/Aperturesurvivor/open-learning-atlas/issues/new')
+    expect(url.searchParams.get('template')).toBe('review-territory.yml')
+    expect(url.searchParams.get('territory')).toContain('ola:n:territory')
+    expect(url.searchParams.get('release')).toBe('0.3.0-alpha')
   })
 })

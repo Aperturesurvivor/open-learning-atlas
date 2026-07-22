@@ -39,7 +39,7 @@ method-only regions.
 ## Machine-readable disposition audit
 
 The companion
-[`crosswalks/msc2020-top-level-v0.2.json`](crosswalks/msc2020-top-level-v0.2.json)
+[`crosswalks/msc2020-top-level-v0.3.json`](crosswalks/msc2020-top-level-v0.3.json)
 accounts for every one of the 63 two-digit class codes. Each code is marked as
 covered, represented through a downstream mathematical application interface,
 or excluded as nonterrain, with explicit active OLA territory IDs and an
@@ -49,6 +49,12 @@ pinning, target identity, active status, and exclusion policy.
 This is a breadth audit, not an equivalence claim: one literature class may
 cross several educational territories, and one territory may answer several
 classes.
+
+MSC2020 alone is not accepted as field-appropriate evidence for an individual
+territory. `tools/audit-coverage-evidence` requires every active territory to
+have an additional URL-resolvable curriculum, standard, primary-mathematics, or
+other focused coverage source with an explicit scope and gaps. This prevents a
+whole-field classification from creating a false appearance of local evidence.
 
 ## What Was Not Imported
 

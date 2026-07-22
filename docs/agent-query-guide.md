@@ -7,13 +7,18 @@ The visual atlas is optional. Complete read access is available through pinned J
 Do not silently read a moving branch when reproducibility matters. Use a tagged package or record both the map version and commit SHA. The current alpha package lives at:
 
 ```text
-releases/mathematics/0.2.0-alpha/
+releases/mathematics/0.3.0-alpha/
 ```
 
 Stable tagged downloads are published at the
-[Mathematics 0.2.0-alpha GitHub release](https://github.com/Aperturesurvivor/open-learning-atlas/releases/tag/mathematics-v0.2.0-alpha).
+[Mathematics 0.3.0-alpha GitHub release](https://github.com/Aperturesurvivor/open-learning-atlas/releases/tag/mathematics-v0.3.0-alpha).
 For raw-file access pinned to that tag, replace `main` with
-`mathematics-v0.2.0-alpha` in GitHub URLs.
+`mathematics-v0.3.0-alpha` in GitHub URLs.
+
+Consumers that deliberately follow the current release can resolve
+[`releases/latest.json`](../releases/latest.json), verify its dataset and
+manifest digests, and then pin the returned version or tag. Reproducible work
+should not continue following the pointer silently after resolution.
 
 Verify it from inside that directory:
 
@@ -80,7 +85,7 @@ A machine-resolvable citation should include at least:
 ```json
 {
   "project": "Open Learning Atlas: Mathematics",
-  "map_version": "0.2.0-alpha",
+  "map_version": "0.3.0-alpha",
   "record_id": "ola:n:6554260b-2e0c-41ac-b9b9-cdaa7109cffa",
   "record_revision": 1,
   "status": "candidate"

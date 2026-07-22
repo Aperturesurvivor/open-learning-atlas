@@ -5,7 +5,7 @@
 [Explore the mathematics atlas](https://aperturesurvivor.github.io/open-learning-atlas/)
 on desktop or phone.
 
-[Download the checksummed Mathematics 0.2.0-alpha package](https://github.com/Aperturesurvivor/open-learning-atlas/releases/tag/mathematics-v0.2.0-alpha).
+[Download the checksummed Mathematics 0.3.0-alpha package](https://github.com/Aperturesurvivor/open-learning-atlas/releases/tag/mathematics-v0.3.0-alpha).
 
 Open Learning Atlas is public semantic infrastructure for describing what can
 be known or done, how those things relate, and which relationship claims are
@@ -53,7 +53,8 @@ Start with [`llms.txt`](llms.txt), then inspect:
   for the structural contract;
 - [`architecture/map-data-model.md`](architecture/map-data-model.md) for record
   semantics and invariants;
-- [`map/releases/mathematics-v0.2.0-alpha.json`](map/releases/mathematics-v0.2.0-alpha.json)
+- [`releases/latest.json`](releases/latest.json) for the machine-readable current-release pointer;
+- [`map/releases/mathematics-v0.3.0-alpha.json`](map/releases/mathematics-v0.3.0-alpha.json)
   for the current complete graph snapshot;
 - [`tools/validate-map`](tools/validate-map) for executable semantic checks.
 
@@ -98,7 +99,11 @@ tools/query-atlas --pretty stats
 tools/run-conformance
 tools/validate-migrations
 tools/validate-crosswalks
+tools/audit-coverage-evidence
 tools/build-release --check
+tools/test-release-archive
+tools/build-latest-pointer --check
+tools/validate-history
 tools/build-review-inventory --check
 tools/validate-reviews
 tools/build-review-queue --check

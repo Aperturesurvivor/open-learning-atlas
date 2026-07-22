@@ -1,0 +1,626 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://aperturesurvivor.github.io/open-learning-atlas/schema/v0.1/open-learning-atlas.schema.json",
+  "title": "Open Learning Atlas map document",
+  "description": "Schema for a versioned educational base-map dataset.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "format_version",
+    "map",
+    "nodes",
+    "edges"
+  ],
+  "properties": {
+    "format_version": {
+      "const": "0.1"
+    },
+    "map": {
+      "$ref": "#/$defs/mapMetadata"
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/source"
+      }
+    },
+    "nodes": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/node"
+      }
+    },
+    "edges": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/edge"
+      }
+    },
+    "requirement_groups": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/requirementGroup"
+      }
+    }
+  },
+  "$defs": {
+    "status": {
+      "enum": [
+        "candidate",
+        "reviewed",
+        "accepted",
+        "contested",
+        "deprecated"
+      ]
+    },
+    "confidence": {
+      "enum": [
+        "low",
+        "medium",
+        "high"
+      ]
+    },
+    "recordId": {
+      "type": "string",
+      "pattern": "^ola:[nemrs]:[0-9a-f]{8}-[0-9a-f]{4}-[1-8][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$"
+    },
+    "nodeId": {
+      "type": "string",
+      "pattern": "^ola:n:[0-9a-f]{8}-[0-9a-f]{4}-[1-8][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$"
+    },
+    "edgeId": {
+      "type": "string",
+      "pattern": "^ola:e:[0-9a-f]{8}-[0-9a-f]{4}-[1-8][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$"
+    },
+    "sourceId": {
+      "type": "string",
+      "pattern": "^ola:s:[0-9a-f]{8}-[0-9a-f]{4}-[1-8][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$"
+    },
+    "requirementId": {
+      "type": "string",
+      "pattern": "^ola:r:[0-9a-f]{8}-[0-9a-f]{4}-[1-8][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$"
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:[.-][a-z0-9]+)*$"
+    },
+    "nonEmptyString": {
+      "type": "string",
+      "minLength": 1
+    },
+    "stringList": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/nonEmptyString"
+      },
+      "uniqueItems": true
+    },
+    "mapMetadata": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "slug",
+        "title",
+        "description",
+        "domain",
+        "version",
+        "status",
+        "license",
+        "last_updated"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^ola:m:[0-9a-f]{8}-[0-9a-f]{4}-[1-8][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$"
+        },
+        "slug": {
+          "$ref": "#/$defs/slug"
+        },
+        "title": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "description": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "domain": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "version": {
+          "type": "string",
+          "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+(?:-[0-9A-Za-z.-]+)?$"
+        },
+        "status": {
+          "$ref": "#/$defs/status"
+        },
+        "license": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "language": {
+          "type": "string",
+          "default": "en"
+        },
+        "last_updated": {
+          "type": "string",
+          "format": "date"
+        }
+      }
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "revision",
+        "title",
+        "source_type",
+        "citation"
+      ],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/sourceId"
+        },
+        "revision": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "title": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "source_type": {
+          "enum": [
+            "primary-mathematics",
+            "research",
+            "standard",
+            "curriculum",
+            "expert-review",
+            "contributor-analysis",
+            "other"
+          ]
+        },
+        "citation": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "accessed_at": {
+          "type": "string",
+          "format": "date"
+        },
+        "notes": {
+          "type": "string"
+        },
+        "coverage_for": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {
+            "$ref": "#/$defs/nodeId"
+          }
+        },
+        "coverage_scope": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "coverage_gaps": {
+          "$ref": "#/$defs/stringList"
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "required": ["coverage_for"]
+          },
+          "then": {
+            "required": ["coverage_scope", "coverage_gaps"]
+          }
+        }
+      ]
+    },
+    "node": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "revision",
+        "kind",
+        "assessable",
+        "slug",
+        "label",
+        "definition",
+        "status",
+        "confidence"
+      ],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/nodeId"
+        },
+        "revision": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "kind": {
+          "enum": [
+            "concept",
+            "capability",
+            "knowledge",
+            "representation",
+            "practice",
+            "composite"
+          ]
+        },
+        "subtype": {
+          "$ref": "#/$defs/slug"
+        },
+        "assessable": {
+          "type": "boolean"
+        },
+        "slug": {
+          "$ref": "#/$defs/slug"
+        },
+        "label": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "definition": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "capability_statement": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "aliases": {
+          "$ref": "#/$defs/stringList"
+        },
+        "domains": {
+          "$ref": "#/$defs/stringList"
+        },
+        "scope": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "includes": {
+              "$ref": "#/$defs/stringList"
+            },
+            "excludes": {
+              "$ref": "#/$defs/stringList"
+            },
+            "conditions": {
+              "$ref": "#/$defs/stringList"
+            }
+          }
+        },
+        "evidence_dimensions": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {
+            "enum": [
+              "accuracy",
+              "independence",
+              "representation",
+              "explanation",
+              "justification",
+              "fluency",
+              "retention",
+              "variation",
+              "transfer",
+              "error-analysis"
+            ]
+          }
+        },
+        "dependency_review": {
+          "enum": [
+            "unreviewed",
+            "partial",
+            "reviewed-complete"
+          ]
+        },
+        "status": {
+          "$ref": "#/$defs/status"
+        },
+        "confidence": {
+          "$ref": "#/$defs/confidence"
+        },
+        "source_ids": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/sourceId"
+          },
+          "uniqueItems": true
+        },
+        "review_notes": {
+          "type": "string"
+        },
+        "replaced_by": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/nodeId"
+          },
+          "uniqueItems": true
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "kind": {
+                "enum": [
+                  "capability",
+                  "practice"
+                ]
+              }
+            },
+            "required": [
+              "kind"
+            ]
+          },
+          "then": {
+            "required": [
+              "capability_statement",
+              "evidence_dimensions",
+              "dependency_review"
+            ],
+            "properties": {
+              "assessable": {
+                "const": true
+              }
+            }
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "kind": {
+                "enum": [
+                  "concept",
+                  "knowledge",
+                  "representation",
+                  "composite"
+                ]
+              }
+            },
+            "required": [
+              "kind"
+            ]
+          },
+          "then": {
+            "properties": {
+              "assessable": {
+                "const": false
+              }
+            }
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "status": {
+                "const": "deprecated"
+              }
+            },
+            "required": [
+              "status"
+            ]
+          },
+          "then": {
+            "required": [
+              "review_notes"
+            ]
+          }
+        }
+      ]
+    },
+    "edge": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "revision",
+        "subject",
+        "relation",
+        "object",
+        "claim_basis",
+        "rationale",
+        "status",
+        "confidence"
+      ],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/edgeId"
+        },
+        "revision": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "subject": {
+          "$ref": "#/$defs/nodeId"
+        },
+        "relation": {
+          "enum": [
+            "requires",
+            "supports",
+            "composed_of",
+            "uses_concept",
+            "uses_knowledge",
+            "uses_representation",
+            "uses_practice",
+            "represents",
+            "generalizes",
+            "special_case_of",
+            "equivalent_to",
+            "transfers_to",
+            "reinforces",
+            "commonly_confused_with"
+          ]
+        },
+        "object": {
+          "$ref": "#/$defs/nodeId"
+        },
+        "scope": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "conditions": {
+          "$ref": "#/$defs/stringList"
+        },
+        "rationale": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "claim_basis": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {
+            "enum": [
+              "formal",
+              "definitional",
+              "task-analysis",
+              "empirical",
+              "expert-judgment",
+              "contributor-analysis",
+              "legacy-sequence"
+            ]
+          }
+        },
+        "dependency_kind": {
+          "enum": [
+            "mathematical-necessity",
+            "semantic-necessity",
+            "representational-necessity",
+            "operational-necessity",
+            "empirical-learning",
+            "method-conditional",
+            "task-conditional",
+            "conventional-ordering"
+          ]
+        },
+        "evidence_strength": {
+          "enum": [
+            "unsupported",
+            "reasoned",
+            "source-backed",
+            "empirical",
+            "replicated"
+          ]
+        },
+        "status": {
+          "$ref": "#/$defs/status"
+        },
+        "confidence": {
+          "$ref": "#/$defs/confidence"
+        },
+        "source_ids": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/sourceId"
+          },
+          "uniqueItems": true
+        },
+        "review_notes": {
+          "type": "string"
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "relation": {
+                "const": "requires"
+              }
+            },
+            "required": [
+              "relation"
+            ]
+          },
+          "then": {
+            "required": [
+              "dependency_kind"
+            ]
+          }
+        }
+      ]
+    },
+    "requirementGroup": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "revision",
+        "target",
+        "mode",
+        "members",
+        "rationale",
+        "claim_basis",
+        "status",
+        "confidence"
+      ],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/requirementId"
+        },
+        "revision": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "target": {
+          "$ref": "#/$defs/nodeId"
+        },
+        "mode": {
+          "enum": [
+            "all-of",
+            "any-of",
+            "at-least"
+          ]
+        },
+        "members": {
+          "type": "array",
+          "minItems": 2,
+          "uniqueItems": true,
+          "items": {
+            "$ref": "#/$defs/nodeId"
+          }
+        },
+        "minimum_satisfied": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "conditions": {
+          "$ref": "#/$defs/stringList"
+        },
+        "rationale": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "claim_basis": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {
+            "enum": [
+              "formal",
+              "definitional",
+              "task-analysis",
+              "empirical",
+              "expert-judgment",
+              "contributor-analysis",
+              "legacy-sequence"
+            ]
+          }
+        },
+        "status": {
+          "$ref": "#/$defs/status"
+        },
+        "confidence": {
+          "$ref": "#/$defs/confidence"
+        },
+        "source_ids": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/sourceId"
+          },
+          "uniqueItems": true
+        },
+        "review_notes": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}
