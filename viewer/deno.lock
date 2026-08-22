@@ -6,6 +6,8 @@
     "npm:@types/react@19.2.17": "19.2.17",
     "npm:@vitejs/plugin-react@6.0.3": "6.0.3_vite@8.1.5__@types+node@26.1.1_@types+node@26.1.1",
     "npm:lucide-react@1.25.0": "1.25.0_react@19.2.7",
+    "npm:nanoid@3.3.18": "3.3.18",
+    "npm:postcss@8.5.23": "8.5.23",
     "npm:react-dom@19.2.7": "19.2.7_react@19.2.7",
     "npm:react@19.2.7": "19.2.7",
     "npm:typescript@7.0.2": "7.0.2",
@@ -458,8 +460,8 @@
         "@jridgewell/sourcemap-codec"
       ]
     },
-    "nanoid@3.3.16": {
-      "integrity": "sha512-bzlKTyNJ7+LdGIIwy8ijFpIqEQIvafahV7eYykJ8Cvh42EdJeODoJ6gUJXpQJvej1BddH8OqTXZNE/KfbWAu8Q==",
+    "nanoid@3.3.18": {
+      "integrity": "sha512-DTg4MJbGMWkfi6VZFdNt2/caMbQy4Ou+Op/hJQvGEWcnVfoA1QA+xzRKAzw9jD6+GVOOeYr/mIcuDSdug6F6+w==",
       "bin": true
     },
     "obug@2.1.4": {
@@ -474,8 +476,8 @@
     "picomatch@4.0.5": {
       "integrity": "sha512-RvwwcruNjI1ncT5xRakeyS9Lf8lcItv34KD+aif+VH9kduAyfYBipGh12274xtenIPZ119/R9BdTBa8gAwSh0A=="
     },
-    "postcss@8.5.19": {
-      "integrity": "sha512-Mz8SaolMd8nB+G13WkORcxQKHZ/NE4xXevtkJHVuG+guo9/wYKlIMTKAqGdEmYOXR2ijPjTYNHssizdaVSUNdQ==",
+    "postcss@8.5.23": {
+      "integrity": "sha512-g50586zr4bZmwFiTlflMu8E0bDTb5I5gertgwAKmsdUlTQIhZtunzUlD1WSzwcVWPoAVpsrA6vlfCD7oXvRwgg==",
       "dependencies": [
         "nanoid",
         "picocolors",
@@ -645,6 +647,8 @@
         "npm:@types/react@19.2.17",
         "npm:@vitejs/plugin-react@6.0.3",
         "npm:lucide-react@1.25.0",
+        "npm:nanoid@3.3.18",
+        "npm:postcss@8.5.23",
         "npm:react-dom@19.2.7",
         "npm:react@19.2.7",
         "npm:typescript@7.0.2",
