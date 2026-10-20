@@ -1,0 +1,15 @@
+{
+  "lock": {
+    "path": "./deno.lock",
+    "frozen": true
+  },
+  "nodeModulesDir": "auto",
+  "minimumDependencyAge": "P3D",
+  "tasks": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "tsc -b && vite build",
+    "test": "vitest run",
+    "sync-atlas": "deno run --allow-read --allow-write scripts/sync-atlas.ts"
+  }
+}
+
