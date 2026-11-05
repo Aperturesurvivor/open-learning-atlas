@@ -1,5 +1,9 @@
 # Scope: adaptive worksheet demonstration
 
+## Status and working arrangement
+
+Active. Josiah intends to work on this project with Codex. Other agents: do not work on or implement this project unless Josiah specifically asks you to.
+
 ## Goal
 
 Demonstrate how Open Learning Atlas could support teachers, including special education teachers, in creating and adapting math worksheets for an individual student. This is a downstream prototype using the Atlas, not a change to the Atlas's canonical purpose.
